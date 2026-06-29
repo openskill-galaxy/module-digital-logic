@@ -1,0 +1,422 @@
+[
+  {
+    "id": "exam-1",
+    "slug": "数制与编码测试1",
+    "title": "数制与编码测试 1",
+    "summary": "覆盖数制与编码核心知识点的模拟测试。",
+    "difficulty": "easy",
+    "questionIds": [
+      "dl-q-000341",
+      "dl-q-000221",
+      "dl-q-000481",
+      "dl-q-000081",
+      "dl-q-000321",
+      "dl-q-000301",
+      "dl-q-000361",
+      "dl-q-000181",
+      "dl-q-000281",
+      "dl-q-000001"
+    ],
+    "timeLimitMinutes": 10,
+    "passingScore": 60
+  },
+  {
+    "id": "exam-2",
+    "slug": "逻辑代数基础测试2",
+    "title": "逻辑代数基础测试 1",
+    "summary": "覆盖逻辑代数基础核心知识点的模拟测试。",
+    "difficulty": "easy",
+    "questionIds": [
+      "dl-q-000242",
+      "dl-q-000002",
+      "dl-q-000222",
+      "dl-q-000442",
+      "dl-q-000142",
+      "dl-q-000042",
+      "dl-q-000122",
+      "dl-q-000282",
+      "dl-q-000362",
+      "dl-q-000462"
+    ],
+    "timeLimitMinutes": 10,
+    "passingScore": 60
+  },
+  {
+    "id": "exam-3",
+    "slug": "逻辑门电路测试3",
+    "title": "逻辑门电路测试 1",
+    "summary": "覆盖逻辑门电路核心知识点的模拟测试。",
+    "difficulty": "easy",
+    "questionIds": [
+      "dl-q-000363",
+      "dl-q-000183",
+      "dl-q-000323",
+      "dl-q-000263",
+      "dl-q-000383",
+      "dl-q-000203",
+      "dl-q-000123",
+      "dl-q-000243",
+      "dl-q-000083",
+      "dl-q-000443"
+    ],
+    "timeLimitMinutes": 10,
+    "passingScore": 60
+  },
+  {
+    "id": "exam-4",
+    "slug": "组合逻辑电路测试4",
+    "title": "组合逻辑电路测试 1",
+    "summary": "覆盖组合逻辑电路核心知识点的模拟测试。",
+    "difficulty": "medium",
+    "questionIds": [
+      "dl-q-000244",
+      "dl-q-000204",
+      "dl-q-000264",
+      "dl-q-000284",
+      "dl-q-000484",
+      "dl-q-000084",
+      "dl-q-000324",
+      "dl-q-000144",
+      "dl-q-000224",
+      "dl-q-000164"
+    ],
+    "timeLimitMinutes": 10,
+    "passingScore": 60
+  },
+  {
+    "id": "exam-5",
+    "slug": "编码器测试5",
+    "title": "编码器测试 1",
+    "summary": "覆盖编码器核心知识点的模拟测试。",
+    "difficulty": "medium",
+    "questionIds": [
+      "dl-q-000385",
+      "dl-q-000425",
+      "dl-q-000345",
+      "dl-q-000105",
+      "dl-q-000485",
+      "dl-q-000165",
+      "dl-q-000245",
+      "dl-q-000045",
+      "dl-q-000465",
+      "dl-q-000085"
+    ],
+    "timeLimitMinutes": 10,
+    "passingScore": 60
+  },
+  {
+    "id": "exam-6",
+    "slug": "译码器测试6",
+    "title": "译码器测试 1",
+    "summary": "覆盖译码器核心知识点的模拟测试。",
+    "difficulty": "medium",
+    "questionIds": [
+      "dl-q-000306",
+      "dl-q-000426",
+      "dl-q-000226",
+      "dl-q-000206",
+      "dl-q-000186",
+      "dl-q-000486",
+      "dl-q-000346",
+      "dl-q-000366",
+      "dl-q-000286",
+      "dl-q-000046"
+    ],
+    "timeLimitMinutes": 15,
+    "passingScore": 60
+  },
+  {
+    "id": "exam-7",
+    "slug": "数据选择器测试7",
+    "title": "数据选择器测试 1",
+    "summary": "覆盖数据选择器核心知识点的模拟测试。",
+    "difficulty": "medium",
+    "questionIds": [
+      "dl-q-000167",
+      "dl-q-000147",
+      "dl-q-000087",
+      "dl-q-000247",
+      "dl-q-000207",
+      "dl-q-000427",
+      "dl-q-000327",
+      "dl-q-000187",
+      "dl-q-000047",
+      "dl-q-000287"
+    ],
+    "timeLimitMinutes": 15,
+    "passingScore": 60
+  },
+  {
+    "id": "exam-8",
+    "slug": "加法器测试8",
+    "title": "加法器测试 1",
+    "summary": "覆盖加法器核心知识点的模拟测试。",
+    "difficulty": "medium",
+    "questionIds": [
+      "dl-q-000288",
+      "dl-q-000308",
+      "dl-q-000228",
+      "dl-q-000008",
+      "dl-q-000448",
+      "dl-q-000148",
+      "dl-q-000388",
+      "dl-q-000108",
+      "dl-q-000088",
+      "dl-q-000168"
+    ],
+    "timeLimitMinutes": 15,
+    "passingScore": 60
+  },
+  {
+    "id": "exam-9",
+    "slug": "比较器测试9",
+    "title": "比较器测试 1",
+    "summary": "覆盖比较器核心知识点的模拟测试。",
+    "difficulty": "medium",
+    "questionIds": [
+      "dl-q-000389",
+      "dl-q-000029",
+      "dl-q-000409",
+      "dl-q-000369",
+      "dl-q-000129",
+      "dl-q-000309",
+      "dl-q-000429",
+      "dl-q-000269",
+      "dl-q-000329",
+      "dl-q-000089"
+    ],
+    "timeLimitMinutes": 15,
+    "passingScore": 60
+  },
+  {
+    "id": "exam-10",
+    "slug": "触发器测试10",
+    "title": "触发器测试 1",
+    "summary": "覆盖触发器核心知识点的模拟测试。",
+    "difficulty": "medium",
+    "questionIds": [
+      "dl-q-000110",
+      "dl-q-000250",
+      "dl-q-000350",
+      "dl-q-000230",
+      "dl-q-000150",
+      "dl-q-000030",
+      "dl-q-000410",
+      "dl-q-000370",
+      "dl-q-000050",
+      "dl-q-000390"
+    ],
+    "timeLimitMinutes": 15,
+    "passingScore": 60
+  },
+  {
+    "id": "exam-11",
+    "slug": "计数器测试11",
+    "title": "计数器测试 1",
+    "summary": "覆盖计数器核心知识点的模拟测试。",
+    "difficulty": "medium",
+    "questionIds": [
+      "dl-q-000291",
+      "dl-q-000031",
+      "dl-q-000011",
+      "dl-q-000131",
+      "dl-q-000231",
+      "dl-q-000091",
+      "dl-q-000351",
+      "dl-q-000191",
+      "dl-q-000251",
+      "dl-q-000371"
+    ],
+    "timeLimitMinutes": 20,
+    "passingScore": 60
+  },
+  {
+    "id": "exam-12",
+    "slug": "寄存器测试12",
+    "title": "寄存器测试 1",
+    "summary": "覆盖寄存器核心知识点的模拟测试。",
+    "difficulty": "medium",
+    "questionIds": [
+      "dl-q-000232",
+      "dl-q-000492",
+      "dl-q-000052",
+      "dl-q-000292",
+      "dl-q-000372",
+      "dl-q-000172",
+      "dl-q-000112",
+      "dl-q-000092",
+      "dl-q-000392",
+      "dl-q-000032"
+    ],
+    "timeLimitMinutes": 20,
+    "passingScore": 60
+  },
+  {
+    "id": "exam-13",
+    "slug": "时序逻辑电路测试13",
+    "title": "时序逻辑电路测试 1",
+    "summary": "覆盖时序逻辑电路核心知识点的模拟测试。",
+    "difficulty": "hard",
+    "questionIds": [
+      "dl-q-000173",
+      "dl-q-000373",
+      "dl-q-000413",
+      "dl-q-000233",
+      "dl-q-000293",
+      "dl-q-000053",
+      "dl-q-000153",
+      "dl-q-000133",
+      "dl-q-000453",
+      "dl-q-000433"
+    ],
+    "timeLimitMinutes": 20,
+    "passingScore": 60
+  },
+  {
+    "id": "exam-14",
+    "slug": "脉冲波形测试14",
+    "title": "脉冲波形测试 1",
+    "summary": "覆盖脉冲波形核心知识点的模拟测试。",
+    "difficulty": "medium",
+    "questionIds": [
+      "dl-q-000194",
+      "dl-q-000334",
+      "dl-q-000434",
+      "dl-q-000394",
+      "dl-q-000134",
+      "dl-q-000094",
+      "dl-q-000034",
+      "dl-q-000154",
+      "dl-q-000014",
+      "dl-q-000174"
+    ],
+    "timeLimitMinutes": 20,
+    "passingScore": 60
+  },
+  {
+    "id": "exam-15",
+    "slug": "存储器基础测试15",
+    "title": "存储器基础测试 1",
+    "summary": "覆盖存储器基础核心知识点的模拟测试。",
+    "difficulty": "medium",
+    "questionIds": [
+      "dl-q-000155",
+      "dl-q-000395",
+      "dl-q-000455",
+      "dl-q-000235",
+      "dl-q-000175",
+      "dl-q-000355",
+      "dl-q-000335",
+      "dl-q-000255",
+      "dl-q-000135",
+      "dl-q-000095"
+    ],
+    "timeLimitMinutes": 20,
+    "passingScore": 60
+  },
+  {
+    "id": "exam-16",
+    "slug": "可编程逻辑器件测试16",
+    "title": "可编程逻辑器件测试 1",
+    "summary": "覆盖可编程逻辑器件核心知识点的模拟测试。",
+    "difficulty": "hard",
+    "questionIds": [
+      "dl-q-000296",
+      "dl-q-000336",
+      "dl-q-000496",
+      "dl-q-000416",
+      "dl-q-000476",
+      "dl-q-000196",
+      "dl-q-000276",
+      "dl-q-000396",
+      "dl-q-000136",
+      "dl-q-000256"
+    ],
+    "timeLimitMinutes": 25,
+    "passingScore": 60
+  },
+  {
+    "id": "exam-17",
+    "slug": "quartus入门测试17",
+    "title": "Quartus入门测试 1",
+    "summary": "覆盖Quartus入门核心知识点的模拟测试。",
+    "difficulty": "easy",
+    "questionIds": [
+      "dl-q-000377",
+      "dl-q-000357",
+      "dl-q-000437",
+      "dl-q-000497",
+      "dl-q-000097",
+      "dl-q-000277",
+      "dl-q-000417",
+      "dl-q-000197",
+      "dl-q-000117",
+      "dl-q-000017"
+    ],
+    "timeLimitMinutes": 25,
+    "passingScore": 60
+  },
+  {
+    "id": "exam-18",
+    "slug": "bdf原理图设计测试18",
+    "title": "BDF原理图设计测试 1",
+    "summary": "覆盖BDF原理图设计核心知识点的模拟测试。",
+    "difficulty": "medium",
+    "questionIds": [
+      "dl-q-000058",
+      "dl-q-000018",
+      "dl-q-000318",
+      "dl-q-000498",
+      "dl-q-000478",
+      "dl-q-000438",
+      "dl-q-000418",
+      "dl-q-000078",
+      "dl-q-000298",
+      "dl-q-000118"
+    ],
+    "timeLimitMinutes": 25,
+    "passingScore": 60
+  },
+  {
+    "id": "exam-19",
+    "slug": "verilog基础测试19",
+    "title": "Verilog基础测试 1",
+    "summary": "覆盖Verilog基础核心知识点的模拟测试。",
+    "difficulty": "medium",
+    "questionIds": [
+      "dl-q-000039",
+      "dl-q-000419",
+      "dl-q-000259",
+      "dl-q-000479",
+      "dl-q-000499",
+      "dl-q-000399",
+      "dl-q-000119",
+      "dl-q-000299",
+      "dl-q-000319",
+      "dl-q-000019"
+    ],
+    "timeLimitMinutes": 25,
+    "passingScore": 60
+  },
+  {
+    "id": "exam-20",
+    "slug": "步进电机模拟电梯课程设计测试20",
+    "title": "步进电机模拟电梯课程设计测试 1",
+    "summary": "覆盖步进电机模拟电梯课程设计核心知识点的模拟测试。",
+    "difficulty": "hard",
+    "questionIds": [
+      "dl-q-000480",
+      "dl-q-000380",
+      "dl-q-000360",
+      "dl-q-000180",
+      "dl-q-000400",
+      "dl-q-000280",
+      "dl-q-000080",
+      "dl-q-000120",
+      "dl-q-000060",
+      "dl-q-000140"
+    ],
+    "timeLimitMinutes": 25,
+    "passingScore": 60
+  }
+]

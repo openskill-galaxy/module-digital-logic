@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "case-1",
+    "slug": "电梯项目目标与需求",
+    "title": "电梯项目目标与需求",
+    "summary": "步进电机模拟电梯控制系统课程设计——电梯项目目标与需求。",
+    "difficulty": "hard",
+    "tags": [
+      "数制与编码",
+      "数制"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于步进电机模拟电梯控制系统课程设计。\n\n### 需求\n\n- 理解问题要求\n- 设计解决方案\n- 验证设计正确性",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计电路/方案\n3. 实现并验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 从需求出发，确定输入输出\n2. 列出真值表或状态图\n3. 化简逻辑表达式\n4. 画出电路图\n5. 仿真验证",
+    "knowledgePoints": [
+      "kp-1",
+      "kp-2",
+      "kp-3"
+    ],
+    "estimatedMinutes": 58
+  },
+  {
+    "id": "case-2",
+    "slug": "输入输出定义",
+    "title": "输入输出定义",
+    "summary": "步进电机模拟电梯控制系统课程设计——输入输出定义。",
+    "difficulty": "hard",
+    "tags": [
+      "逻辑代数基础",
+      "逻辑表达式"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于步进电机模拟电梯控制系统课程设计。\n\n### 需求\n\n- 理解问题要求\n- 设计解决方案\n- 验证设计正确性",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计电路/方案\n3. 实现并验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 从需求出发，确定输入输出\n2. 列出真值表或状态图\n3. 化简逻辑表达式\n4. 画出电路图\n5. 仿真验证",
+    "knowledgePoints": [
+      "kp-17",
+      "kp-18",
+      "kp-19"
+    ],
+    "estimatedMinutes": 35
+  },
+  {
+    "id": "case-3",
+    "slug": "层站请求逻辑",
+    "title": "层站请求逻辑",
+    "summary": "步进电机模拟电梯控制系统课程设计——层站请求逻辑。",
+    "difficulty": "hard",
+    "tags": [
+      "逻辑门电路",
+      "非门"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于步进电机模拟电梯控制系统课程设计。\n\n### 需求\n\n- 理解问题要求\n- 设计解决方案\n- 验证设计正确性",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计电路/方案\n3. 实现并验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 从需求出发，确定输入输出\n2. 列出真值表或状态图\n3. 化简逻辑表达式\n4. 画出电路图\n5. 仿真验证",
+    "knowledgePoints": [
+      "kp-33",
+      "kp-34",
+      "kp-35"
+    ],
+    "estimatedMinutes": 39
+  },
+  {
+    "id": "case-4",
+    "slug": "电梯状态定义",
+    "title": "电梯状态定义",
+    "summary": "步进电机模拟电梯控制系统课程设计——电梯状态定义。",
+    "difficulty": "hard",
+    "tags": [
+      "组合逻辑电路",
+      "组合逻辑"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于步进电机模拟电梯控制系统课程设计。\n\n### 需求\n\n- 理解问题要求\n- 设计解决方案\n- 验证设计正确性",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计电路/方案\n3. 实现并验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 从需求出发，确定输入输出\n2. 列出真值表或状态图\n3. 化简逻辑表达式\n4. 画出电路图\n5. 仿真验证",
+    "knowledgePoints": [
+      "kp-49",
+      "kp-50",
+      "kp-51"
+    ],
+    "estimatedMinutes": 31
+  },
+  {
+    "id": "case-5",
+    "slug": "方向控制逻辑",
+    "title": "方向控制逻辑",
+    "summary": "步进电机模拟电梯控制系统课程设计——方向控制逻辑。",
+    "difficulty": "hard",
+    "tags": [
+      "编码器",
+      "编码器"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于步进电机模拟电梯控制系统课程设计。\n\n### 需求\n\n- 理解问题要求\n- 设计解决方案\n- 验证设计正确性",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计电路/方案\n3. 实现并验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 从需求出发，确定输入输出\n2. 列出真值表或状态图\n3. 化简逻辑表达式\n4. 画出电路图\n5. 仿真验证",
+    "knowledgePoints": [
+      "kp-65",
+      "kp-66",
+      "kp-67"
+    ],
+    "estimatedMinutes": 35
+  },
+  {
+    "id": "case-6",
+    "slug": "到站判断逻辑",
+    "title": "到站判断逻辑",
+    "summary": "步进电机模拟电梯控制系统课程设计——到站判断逻辑。",
+    "difficulty": "hard",
+    "tags": [
+      "译码器",
+      "译码器"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于步进电机模拟电梯控制系统课程设计。\n\n### 需求\n\n- 理解问题要求\n- 设计解决方案\n- 验证设计正确性",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计电路/方案\n3. 实现并验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 从需求出发，确定输入输出\n2. 列出真值表或状态图\n3. 化简逻辑表达式\n4. 画出电路图\n5. 仿真验证",
+    "knowledgePoints": [
+      "kp-81",
+      "kp-82",
+      "kp-83"
+    ],
+    "estimatedMinutes": 37
+  },
+  {
+    "id": "case-7",
+    "slug": "开关门信号",
+    "title": "开关门信号",
+    "summary": "步进电机模拟电梯控制系统课程设计——开关门信号。",
+    "difficulty": "hard",
+    "tags": [
+      "数据选择器",
+      "74LS151"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于步进电机模拟电梯控制系统课程设计。\n\n### 需求\n\n- 理解问题要求\n- 设计解决方案\n- 验证设计正确性",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计电路/方案\n3. 实现并验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 从需求出发，确定输入输出\n2. 列出真值表或状态图\n3. 化简逻辑表达式\n4. 画出电路图\n5. 仿真验证",
+    "knowledgePoints": [
+      "kp-97",
+      "kp-98",
+      "kp-99"
+    ],
+    "estimatedMinutes": 30
+  },
+  {
+    "id": "case-8",
+    "slug": "步进电机相序",
+    "title": "步进电机相序",
+    "summary": "步进电机模拟电梯控制系统课程设计——步进电机相序。",
+    "difficulty": "hard",
+    "tags": [
+      "加法器",
+      "74LS283"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于步进电机模拟电梯控制系统课程设计。\n\n### 需求\n\n- 理解问题要求\n- 设计解决方案\n- 验证设计正确性",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计电路/方案\n3. 实现并验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 从需求出发，确定输入输出\n2. 列出真值表或状态图\n3. 化简逻辑表达式\n4. 画出电路图\n5. 仿真验证",
+    "knowledgePoints": [
+      "kp-113",
+      "kp-114",
+      "kp-115"
+    ],
+    "estimatedMinutes": 59
+  },
+  {
+    "id": "case-9",
+    "slug": "bdf设计思路",
+    "title": "BDF设计思路",
+    "summary": "步进电机模拟电梯控制系统课程设计——BDF设计思路。",
+    "difficulty": "hard",
+    "tags": [
+      "比较器",
+      "74LS85"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于步进电机模拟电梯控制系统课程设计。\n\n### 需求\n\n- 理解问题要求\n- 设计解决方案\n- 验证设计正确性",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计电路/方案\n3. 实现并验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 从需求出发，确定输入输出\n2. 列出真值表或状态图\n3. 化简逻辑表达式\n4. 画出电路图\n5. 仿真验证",
+    "knowledgePoints": [
+      "kp-129",
+      "kp-130",
+      "kp-131"
+    ],
+    "estimatedMinutes": 47
+  },
+  {
+    "id": "case-10",
+    "slug": "lpm_counter分频",
+    "title": "LPM_COUNTER分频",
+    "summary": "步进电机模拟电梯控制系统课程设计——LPM_COUNTER分频。",
+    "difficulty": "hard",
+    "tags": [
+      "触发器",
+      "T触发器"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于步进电机模拟电梯控制系统课程设计。\n\n### 需求\n\n- 理解问题要求\n- 设计解决方案\n- 验证设计正确性",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计电路/方案\n3. 实现并验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 从需求出发，确定输入输出\n2. 列出真值表或状态图\n3. 化简逻辑表达式\n4. 画出电路图\n5. 仿真验证",
+    "knowledgePoints": [
+      "kp-145",
+      "kp-146",
+      "kp-147"
+    ],
+    "estimatedMinutes": 41
+  },
+  {
+    "id": "case-11",
+    "slug": "触发器状态保持",
+    "title": "触发器状态保持",
+    "summary": "步进电机模拟电梯控制系统课程设计——触发器状态保持。",
+    "difficulty": "hard",
+    "tags": [
+      "计数器",
+      "74LS161"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于步进电机模拟电梯控制系统课程设计。\n\n### 需求\n\n- 理解问题要求\n- 设计解决方案\n- 验证设计正确性",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计电路/方案\n3. 实现并验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 从需求出发，确定输入输出\n2. 列出真值表或状态图\n3. 化简逻辑表达式\n4. 画出电路图\n5. 仿真验证",
+    "knowledgePoints": [
+      "kp-161",
+      "kp-162",
+      "kp-163"
+    ],
+    "estimatedMinutes": 47
+  },
+  {
+    "id": "case-12",
+    "slug": "译码器输出",
+    "title": "译码器输出",
+    "summary": "步进电机模拟电梯控制系统课程设计——译码器输出。",
+    "difficulty": "hard",
+    "tags": [
+      "寄存器",
+      "74LS175"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于步进电机模拟电梯控制系统课程设计。\n\n### 需求\n\n- 理解问题要求\n- 设计解决方案\n- 验证设计正确性",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计电路/方案\n3. 实现并验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 从需求出发，确定输入输出\n2. 列出真值表或状态图\n3. 化简逻辑表达式\n4. 画出电路图\n5. 仿真验证",
+    "knowledgePoints": [
+      "kp-177",
+      "kp-178",
+      "kp-179"
+    ],
+    "estimatedMinutes": 56
+  },
+  {
+    "id": "case-13",
+    "slug": "数码管显示",
+    "title": "数码管显示",
+    "summary": "步进电机模拟电梯控制系统课程设计——数码管显示。",
+    "difficulty": "hard",
+    "tags": [
+      "时序逻辑电路",
+      "时序逻辑"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于步进电机模拟电梯控制系统课程设计。\n\n### 需求\n\n- 理解问题要求\n- 设计解决方案\n- 验证设计正确性",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计电路/方案\n3. 实现并验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 从需求出发，确定输入输出\n2. 列出真值表或状态图\n3. 化简逻辑表达式\n4. 画出电路图\n5. 仿真验证",
+    "knowledgePoints": [
+      "kp-193",
+      "kp-194",
+      "kp-195"
+    ],
+    "estimatedMinutes": 35
+  },
+  {
+    "id": "case-14",
+    "slug": "led状态显示",
+    "title": "LED状态显示",
+    "summary": "步进电机模拟电梯控制系统课程设计——LED状态显示。",
+    "difficulty": "hard",
+    "tags": [
+      "脉冲波形",
+      "施密特"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于步进电机模拟电梯控制系统课程设计。\n\n### 需求\n\n- 理解问题要求\n- 设计解决方案\n- 验证设计正确性",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计电路/方案\n3. 实现并验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 从需求出发，确定输入输出\n2. 列出真值表或状态图\n3. 化简逻辑表达式\n4. 画出电路图\n5. 仿真验证",
+    "knowledgePoints": [
+      "kp-209",
+      "kp-210",
+      "kp-211"
+    ],
+    "estimatedMinutes": 59
+  },
+  {
+    "id": "case-15",
+    "slug": "quartus编译",
+    "title": "Quartus编译",
+    "summary": "步进电机模拟电梯控制系统课程设计——Quartus编译。",
+    "difficulty": "hard",
+    "tags": [
+      "存储器基础",
+      "ROM"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于步进电机模拟电梯控制系统课程设计。\n\n### 需求\n\n- 理解问题要求\n- 设计解决方案\n- 验证设计正确性",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计电路/方案\n3. 实现并验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 从需求出发，确定输入输出\n2. 列出真值表或状态图\n3. 化简逻辑表达式\n4. 画出电路图\n5. 仿真验证",
+    "knowledgePoints": [
+      "kp-225",
+      "kp-226",
+      "kp-227"
+    ],
+    "estimatedMinutes": 42
+  },
+  {
+    "id": "case-16",
+    "slug": "引脚绑定",
+    "title": "引脚绑定",
+    "summary": "步进电机模拟电梯控制系统课程设计——引脚绑定。",
+    "difficulty": "hard",
+    "tags": [
+      "可编程逻辑器件",
+      "CPLD"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于步进电机模拟电梯控制系统课程设计。\n\n### 需求\n\n- 理解问题要求\n- 设计解决方案\n- 验证设计正确性",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计电路/方案\n3. 实现并验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 从需求出发，确定输入输出\n2. 列出真值表或状态图\n3. 化简逻辑表达式\n4. 画出电路图\n5. 仿真验证",
+    "knowledgePoints": [
+      "kp-241",
+      "kp-242",
+      "kp-243"
+    ],
+    "estimatedMinutes": 48
+  },
+  {
+    "id": "case-17",
+    "slug": "50mhz时钟",
+    "title": "50MHz时钟",
+    "summary": "步进电机模拟电梯控制系统课程设计——50MHz时钟。",
+    "difficulty": "hard",
+    "tags": [
+      "Quartus入门",
+      "引脚"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于步进电机模拟电梯控制系统课程设计。\n\n### 需求\n\n- 理解问题要求\n- 设计解决方案\n- 验证设计正确性",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计电路/方案\n3. 实现并验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 从需求出发，确定输入输出\n2. 列出真值表或状态图\n3. 化简逻辑表达式\n4. 画出电路图\n5. 仿真验证",
+    "knowledgePoints": [
+      "kp-257",
+      "kp-258",
+      "kp-259"
+    ],
+    "estimatedMinutes": 31
+  },
+  {
+    "id": "case-18",
+    "slug": "sdc约束",
+    "title": "SDC约束",
+    "summary": "步进电机模拟电梯控制系统课程设计——SDC约束。",
+    "difficulty": "hard",
+    "tags": [
+      "BDF原理图设计",
+      "符号编辑"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于步进电机模拟电梯控制系统课程设计。\n\n### 需求\n\n- 理解问题要求\n- 设计解决方案\n- 验证设计正确性",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计电路/方案\n3. 实现并验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 从需求出发，确定输入输出\n2. 列出真值表或状态图\n3. 化简逻辑表达式\n4. 画出电路图\n5. 仿真验证",
+    "knowledgePoints": [
+      "kp-273",
+      "kp-274",
+      "kp-275"
+    ],
+    "estimatedMinutes": 59
+  },
+  {
+    "id": "case-19",
+    "slug": "仿真验证",
+    "title": "仿真验证",
+    "summary": "步进电机模拟电梯控制系统课程设计——仿真验证。",
+    "difficulty": "hard",
+    "tags": [
+      "Verilog基础",
+      "Verilog"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于步进电机模拟电梯控制系统课程设计。\n\n### 需求\n\n- 理解问题要求\n- 设计解决方案\n- 验证设计正确性",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计电路/方案\n3. 实现并验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 从需求出发，确定输入输出\n2. 列出真值表或状态图\n3. 化简逻辑表达式\n4. 画出电路图\n5. 仿真验证",
+    "knowledgePoints": [
+      "kp-289",
+      "kp-290",
+      "kp-291"
+    ],
+    "estimatedMinutes": 56
+  },
+  {
+    "id": "case-20",
+    "slug": "下载验证",
+    "title": "下载验证",
+    "summary": "步进电机模拟电梯控制系统课程设计——下载验证。",
+    "difficulty": "hard",
+    "tags": [
+      "步进电机模拟电梯课程设计",
+      "SDC约束"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于步进电机模拟电梯控制系统课程设计。\n\n### 需求\n\n- 理解问题要求\n- 设计解决方案\n- 验证设计正确性",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计电路/方案\n3. 实现并验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 从需求出发，确定输入输出\n2. 列出真值表或状态图\n3. 化简逻辑表达式\n4. 画出电路图\n5. 仿真验证",
+    "knowledgePoints": [
+      "kp-305",
+      "kp-306",
+      "kp-307"
+    ],
+    "estimatedMinutes": 56
+  },
+  {
+    "id": "case-21",
+    "slug": "实验报告",
+    "title": "实验报告",
+    "summary": "步进电机模拟电梯控制系统课程设计——实验报告。",
+    "difficulty": "hard",
+    "tags": [
+      "数制与编码",
+      "格雷码"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于步进电机模拟电梯控制系统课程设计。\n\n### 需求\n\n- 理解问题要求\n- 设计解决方案\n- 验证设计正确性",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计电路/方案\n3. 实现并验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 从需求出发，确定输入输出\n2. 列出真值表或状态图\n3. 化简逻辑表达式\n4. 画出电路图\n5. 仿真验证",
+    "knowledgePoints": [
+      "kp-1",
+      "kp-2",
+      "kp-3"
+    ],
+    "estimatedMinutes": 58
+  },
+  {
+    "id": "case-22",
+    "slug": "逻辑代数基础案例-摩根定律应用",
+    "title": "逻辑代数基础案例：摩根定律应用",
+    "summary": "运用逻辑代数基础中摩根定律知识解决实际问题的案例。",
+    "difficulty": "easy",
+    "tags": [
+      "逻辑代数基础",
+      "摩根定律"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例涉及逻辑代数基础中的摩根定律。\n\n### 需求\n\n- 理解问题要求\n- 设计解决方案\n- 验证设计正确性",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计电路/方案\n3. 实现并验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 从需求出发，确定输入输出\n2. 列出真值表或状态图\n3. 化简逻辑表达式\n4. 画出电路图\n5. 仿真验证",
+    "knowledgePoints": [
+      "kp-17",
+      "kp-18",
+      "kp-19"
+    ],
+    "estimatedMinutes": 31
+  },
+  {
+    "id": "case-23",
+    "slug": "逻辑门电路案例-非门应用",
+    "title": "逻辑门电路案例：非门应用",
+    "summary": "运用逻辑门电路中非门知识解决实际问题的案例。",
+    "difficulty": "easy",
+    "tags": [
+      "逻辑门电路",
+      "非门"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例涉及逻辑门电路中的非门。\n\n### 需求\n\n- 理解问题要求\n- 设计解决方案\n- 验证设计正确性",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计电路/方案\n3. 实现并验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 从需求出发，确定输入输出\n2. 列出真值表或状态图\n3. 化简逻辑表达式\n4. 画出电路图\n5. 仿真验证",
+    "knowledgePoints": [
+      "kp-33",
+      "kp-34",
+      "kp-35"
+    ],
+    "estimatedMinutes": 52
+  },
+  {
+    "id": "case-24",
+    "slug": "组合逻辑电路案例-消去法应用",
+    "title": "组合逻辑电路案例：消去法应用",
+    "summary": "运用组合逻辑电路中消去法知识解决实际问题的案例。",
+    "difficulty": "medium",
+    "tags": [
+      "组合逻辑电路",
+      "消去法"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例涉及组合逻辑电路中的消去法。\n\n### 需求\n\n- 理解问题要求\n- 设计解决方案\n- 验证设计正确性",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计电路/方案\n3. 实现并验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 从需求出发，确定输入输出\n2. 列出真值表或状态图\n3. 化简逻辑表达式\n4. 画出电路图\n5. 仿真验证",
+    "knowledgePoints": [
+      "kp-49",
+      "kp-50",
+      "kp-51"
+    ],
+    "estimatedMinutes": 35
+  },
+  {
+    "id": "case-25",
+    "slug": "编码器案例-编码器应用",
+    "title": "编码器案例：编码器应用",
+    "summary": "运用编码器中编码器知识解决实际问题的案例。",
+    "difficulty": "medium",
+    "tags": [
+      "编码器",
+      "编码器"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例涉及编码器中的编码器。\n\n### 需求\n\n- 理解问题要求\n- 设计解决方案\n- 验证设计正确性",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计电路/方案\n3. 实现并验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 从需求出发，确定输入输出\n2. 列出真值表或状态图\n3. 化简逻辑表达式\n4. 画出电路图\n5. 仿真验证",
+    "knowledgePoints": [
+      "kp-65",
+      "kp-66",
+      "kp-67"
+    ],
+    "estimatedMinutes": 38
+  },
+  {
+    "id": "case-26",
+    "slug": "译码器案例-译码器应用",
+    "title": "译码器案例：译码器应用",
+    "summary": "运用译码器中译码器知识解决实际问题的案例。",
+    "difficulty": "medium",
+    "tags": [
+      "译码器",
+      "译码器"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例涉及译码器中的译码器。\n\n### 需求\n\n- 理解问题要求\n- 设计解决方案\n- 验证设计正确性",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计电路/方案\n3. 实现并验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 从需求出发，确定输入输出\n2. 列出真值表或状态图\n3. 化简逻辑表达式\n4. 画出电路图\n5. 仿真验证",
+    "knowledgePoints": [
+      "kp-81",
+      "kp-82",
+      "kp-83"
+    ],
+    "estimatedMinutes": 45
+  },
+  {
+    "id": "case-27",
+    "slug": "数据选择器案例-74ls151应用",
+    "title": "数据选择器案例：74LS151应用",
+    "summary": "运用数据选择器中74LS151知识解决实际问题的案例。",
+    "difficulty": "medium",
+    "tags": [
+      "数据选择器",
+      "74LS151"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例涉及数据选择器中的74LS151。\n\n### 需求\n\n- 理解问题要求\n- 设计解决方案\n- 验证设计正确性",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计电路/方案\n3. 实现并验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 从需求出发，确定输入输出\n2. 列出真值表或状态图\n3. 化简逻辑表达式\n4. 画出电路图\n5. 仿真验证",
+    "knowledgePoints": [
+      "kp-97",
+      "kp-98",
+      "kp-99"
+    ],
+    "estimatedMinutes": 45
+  },
+  {
+    "id": "case-28",
+    "slug": "加法器案例-74ls283应用",
+    "title": "加法器案例：74LS283应用",
+    "summary": "运用加法器中74LS283知识解决实际问题的案例。",
+    "difficulty": "medium",
+    "tags": [
+      "加法器",
+      "74LS283"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例涉及加法器中的74LS283。\n\n### 需求\n\n- 理解问题要求\n- 设计解决方案\n- 验证设计正确性",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计电路/方案\n3. 实现并验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 从需求出发，确定输入输出\n2. 列出真值表或状态图\n3. 化简逻辑表达式\n4. 画出电路图\n5. 仿真验证",
+    "knowledgePoints": [
+      "kp-113",
+      "kp-114",
+      "kp-115"
+    ],
+    "estimatedMinutes": 45
+  },
+  {
+    "id": "case-29",
+    "slug": "比较器案例-数值比较应用",
+    "title": "比较器案例：数值比较应用",
+    "summary": "运用比较器中数值比较知识解决实际问题的案例。",
+    "difficulty": "medium",
+    "tags": [
+      "比较器",
+      "数值比较"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例涉及比较器中的数值比较。\n\n### 需求\n\n- 理解问题要求\n- 设计解决方案\n- 验证设计正确性",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计电路/方案\n3. 实现并验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 从需求出发，确定输入输出\n2. 列出真值表或状态图\n3. 化简逻辑表达式\n4. 画出电路图\n5. 仿真验证",
+    "knowledgePoints": [
+      "kp-129",
+      "kp-130",
+      "kp-131"
+    ],
+    "estimatedMinutes": 54
+  },
+  {
+    "id": "case-30",
+    "slug": "触发器案例-电平触发应用",
+    "title": "触发器案例：电平触发应用",
+    "summary": "运用触发器中电平触发知识解决实际问题的案例。",
+    "difficulty": "medium",
+    "tags": [
+      "触发器",
+      "电平触发"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例涉及触发器中的电平触发。\n\n### 需求\n\n- 理解问题要求\n- 设计解决方案\n- 验证设计正确性",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计电路/方案\n3. 实现并验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 从需求出发，确定输入输出\n2. 列出真值表或状态图\n3. 化简逻辑表达式\n4. 画出电路图\n5. 仿真验证",
+    "knowledgePoints": [
+      "kp-145",
+      "kp-146",
+      "kp-147"
+    ],
+    "estimatedMinutes": 32
+  },
+  {
+    "id": "case-31",
+    "slug": "计数器案例-计数器应用",
+    "title": "计数器案例：计数器应用",
+    "summary": "运用计数器中计数器知识解决实际问题的案例。",
+    "difficulty": "medium",
+    "tags": [
+      "计数器",
+      "计数器"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例涉及计数器中的计数器。\n\n### 需求\n\n- 理解问题要求\n- 设计解决方案\n- 验证设计正确性",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计电路/方案\n3. 实现并验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 从需求出发，确定输入输出\n2. 列出真值表或状态图\n3. 化简逻辑表达式\n4. 画出电路图\n5. 仿真验证",
+    "knowledgePoints": [
+      "kp-161",
+      "kp-162",
+      "kp-163"
+    ],
+    "estimatedMinutes": 50
+  },
+  {
+    "id": "case-32",
+    "slug": "寄存器案例-74ls175应用",
+    "title": "寄存器案例：74LS175应用",
+    "summary": "运用寄存器中74LS175知识解决实际问题的案例。",
+    "difficulty": "medium",
+    "tags": [
+      "寄存器",
+      "74LS175"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例涉及寄存器中的74LS175。\n\n### 需求\n\n- 理解问题要求\n- 设计解决方案\n- 验证设计正确性",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计电路/方案\n3. 实现并验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 从需求出发，确定输入输出\n2. 列出真值表或状态图\n3. 化简逻辑表达式\n4. 画出电路图\n5. 仿真验证",
+    "knowledgePoints": [
+      "kp-177",
+      "kp-178",
+      "kp-179"
+    ],
+    "estimatedMinutes": 34
+  },
+  {
+    "id": "case-33",
+    "slug": "时序逻辑电路案例-米利型应用",
+    "title": "时序逻辑电路案例：米利型应用",
+    "summary": "运用时序逻辑电路中米利型知识解决实际问题的案例。",
+    "difficulty": "hard",
+    "tags": [
+      "时序逻辑电路",
+      "米利型"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例涉及时序逻辑电路中的米利型。\n\n### 需求\n\n- 理解问题要求\n- 设计解决方案\n- 验证设计正确性",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计电路/方案\n3. 实现并验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 从需求出发，确定输入输出\n2. 列出真值表或状态图\n3. 化简逻辑表达式\n4. 画出电路图\n5. 仿真验证",
+    "knowledgePoints": [
+      "kp-193",
+      "kp-194",
+      "kp-195"
+    ],
+    "estimatedMinutes": 32
+  },
+  {
+    "id": "case-34",
+    "slug": "脉冲波形案例-施密特应用",
+    "title": "脉冲波形案例：施密特应用",
+    "summary": "运用脉冲波形中施密特知识解决实际问题的案例。",
+    "difficulty": "medium",
+    "tags": [
+      "脉冲波形",
+      "施密特"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例涉及脉冲波形中的施密特。\n\n### 需求\n\n- 理解问题要求\n- 设计解决方案\n- 验证设计正确性",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计电路/方案\n3. 实现并验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 从需求出发，确定输入输出\n2. 列出真值表或状态图\n3. 化简逻辑表达式\n4. 画出电路图\n5. 仿真验证",
+    "knowledgePoints": [
+      "kp-209",
+      "kp-210",
+      "kp-211"
+    ],
+    "estimatedMinutes": 47
+  },
+  {
+    "id": "case-35",
+    "slug": "存储器基础案例-flash应用",
+    "title": "存储器基础案例：Flash应用",
+    "summary": "运用存储器基础中Flash知识解决实际问题的案例。",
+    "difficulty": "medium",
+    "tags": [
+      "存储器基础",
+      "Flash"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例涉及存储器基础中的Flash。\n\n### 需求\n\n- 理解问题要求\n- 设计解决方案\n- 验证设计正确性",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计电路/方案\n3. 实现并验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 从需求出发，确定输入输出\n2. 列出真值表或状态图\n3. 化简逻辑表达式\n4. 画出电路图\n5. 仿真验证",
+    "knowledgePoints": [
+      "kp-225",
+      "kp-226",
+      "kp-227"
+    ],
+    "estimatedMinutes": 52
+  },
+  {
+    "id": "case-36",
+    "slug": "可编程逻辑器件案例-lut应用",
+    "title": "可编程逻辑器件案例：LUT应用",
+    "summary": "运用可编程逻辑器件中LUT知识解决实际问题的案例。",
+    "difficulty": "hard",
+    "tags": [
+      "可编程逻辑器件",
+      "LUT"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例涉及可编程逻辑器件中的LUT。\n\n### 需求\n\n- 理解问题要求\n- 设计解决方案\n- 验证设计正确性",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计电路/方案\n3. 实现并验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 从需求出发，确定输入输出\n2. 列出真值表或状态图\n3. 化简逻辑表达式\n4. 画出电路图\n5. 仿真验证",
+    "knowledgePoints": [
+      "kp-241",
+      "kp-242",
+      "kp-243"
+    ],
+    "estimatedMinutes": 36
+  },
+  {
+    "id": "case-37",
+    "slug": "quartus入门案例-quartus应用",
+    "title": "Quartus入门案例：Quartus应用",
+    "summary": "运用Quartus入门中Quartus知识解决实际问题的案例。",
+    "difficulty": "easy",
+    "tags": [
+      "Quartus入门",
+      "Quartus"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例涉及Quartus入门中的Quartus。\n\n### 需求\n\n- 理解问题要求\n- 设计解决方案\n- 验证设计正确性",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计电路/方案\n3. 实现并验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 从需求出发，确定输入输出\n2. 列出真值表或状态图\n3. 化简逻辑表达式\n4. 画出电路图\n5. 仿真验证",
+    "knowledgePoints": [
+      "kp-257",
+      "kp-258",
+      "kp-259"
+    ],
+    "estimatedMinutes": 48
+  },
+  {
+    "id": "case-38",
+    "slug": "bdf原理图设计案例-符号编辑应用",
+    "title": "BDF原理图设计案例：符号编辑应用",
+    "summary": "运用BDF原理图设计中符号编辑知识解决实际问题的案例。",
+    "difficulty": "medium",
+    "tags": [
+      "BDF原理图设计",
+      "符号编辑"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例涉及BDF原理图设计中的符号编辑。\n\n### 需求\n\n- 理解问题要求\n- 设计解决方案\n- 验证设计正确性",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计电路/方案\n3. 实现并验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 从需求出发，确定输入输出\n2. 列出真值表或状态图\n3. 化简逻辑表达式\n4. 画出电路图\n5. 仿真验证",
+    "knowledgePoints": [
+      "kp-273",
+      "kp-274",
+      "kp-275"
+    ],
+    "estimatedMinutes": 59
+  },
+  {
+    "id": "case-39",
+    "slug": "verilog基础案例-always应用",
+    "title": "Verilog基础案例：always应用",
+    "summary": "运用Verilog基础中always知识解决实际问题的案例。",
+    "difficulty": "medium",
+    "tags": [
+      "Verilog基础",
+      "always"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例涉及Verilog基础中的always。\n\n### 需求\n\n- 理解问题要求\n- 设计解决方案\n- 验证设计正确性",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计电路/方案\n3. 实现并验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 从需求出发，确定输入输出\n2. 列出真值表或状态图\n3. 化简逻辑表达式\n4. 画出电路图\n5. 仿真验证",
+    "knowledgePoints": [
+      "kp-289",
+      "kp-290",
+      "kp-291"
+    ],
+    "estimatedMinutes": 39
+  },
+  {
+    "id": "case-40",
+    "slug": "步进电机模拟电梯课程设计案例-sdc约束应用",
+    "title": "步进电机模拟电梯课程设计案例：SDC约束应用",
+    "summary": "运用步进电机模拟电梯课程设计中SDC约束知识解决实际问题的案例。",
+    "difficulty": "hard",
+    "tags": [
+      "步进电机模拟电梯课程设计",
+      "SDC约束"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例涉及步进电机模拟电梯课程设计中的SDC约束。\n\n### 需求\n\n- 理解问题要求\n- 设计解决方案\n- 验证设计正确性",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计电路/方案\n3. 实现并验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 从需求出发，确定输入输出\n2. 列出真值表或状态图\n3. 化简逻辑表达式\n4. 画出电路图\n5. 仿真验证",
+    "knowledgePoints": [
+      "kp-305",
+      "kp-306",
+      "kp-307"
+    ],
+    "estimatedMinutes": 41
+  },
+  {
+    "id": "case-41",
+    "slug": "数制与编码案例-bcd应用",
+    "title": "数制与编码案例：BCD应用",
+    "summary": "运用数制与编码中BCD知识解决实际问题的案例。",
+    "difficulty": "easy",
+    "tags": [
+      "数制与编码",
+      "BCD"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例涉及数制与编码中的BCD。\n\n### 需求\n\n- 理解问题要求\n- 设计解决方案\n- 验证设计正确性",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计电路/方案\n3. 实现并验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 从需求出发，确定输入输出\n2. 列出真值表或状态图\n3. 化简逻辑表达式\n4. 画出电路图\n5. 仿真验证",
+    "knowledgePoints": [
+      "kp-1",
+      "kp-2",
+      "kp-3"
+    ],
+    "estimatedMinutes": 55
+  },
+  {
+    "id": "case-42",
+    "slug": "逻辑代数基础案例-最大项应用",
+    "title": "逻辑代数基础案例：最大项应用",
+    "summary": "运用逻辑代数基础中最大项知识解决实际问题的案例。",
+    "difficulty": "easy",
+    "tags": [
+      "逻辑代数基础",
+      "最大项"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例涉及逻辑代数基础中的最大项。\n\n### 需求\n\n- 理解问题要求\n- 设计解决方案\n- 验证设计正确性",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计电路/方案\n3. 实现并验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 从需求出发，确定输入输出\n2. 列出真值表或状态图\n3. 化简逻辑表达式\n4. 画出电路图\n5. 仿真验证",
+    "knowledgePoints": [
+      "kp-17",
+      "kp-18",
+      "kp-19"
+    ],
+    "estimatedMinutes": 47
+  },
+  {
+    "id": "case-43",
+    "slug": "逻辑门电路案例-非门应用",
+    "title": "逻辑门电路案例：非门应用",
+    "summary": "运用逻辑门电路中非门知识解决实际问题的案例。",
+    "difficulty": "easy",
+    "tags": [
+      "逻辑门电路",
+      "非门"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例涉及逻辑门电路中的非门。\n\n### 需求\n\n- 理解问题要求\n- 设计解决方案\n- 验证设计正确性",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计电路/方案\n3. 实现并验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 从需求出发，确定输入输出\n2. 列出真值表或状态图\n3. 化简逻辑表达式\n4. 画出电路图\n5. 仿真验证",
+    "knowledgePoints": [
+      "kp-33",
+      "kp-34",
+      "kp-35"
+    ],
+    "estimatedMinutes": 57
+  },
+  {
+    "id": "case-44",
+    "slug": "组合逻辑电路案例-竞争冒险应用",
+    "title": "组合逻辑电路案例：竞争冒险应用",
+    "summary": "运用组合逻辑电路中竞争冒险知识解决实际问题的案例。",
+    "difficulty": "medium",
+    "tags": [
+      "组合逻辑电路",
+      "竞争冒险"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例涉及组合逻辑电路中的竞争冒险。\n\n### 需求\n\n- 理解问题要求\n- 设计解决方案\n- 验证设计正确性",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计电路/方案\n3. 实现并验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 从需求出发，确定输入输出\n2. 列出真值表或状态图\n3. 化简逻辑表达式\n4. 画出电路图\n5. 仿真验证",
+    "knowledgePoints": [
+      "kp-49",
+      "kp-50",
+      "kp-51"
+    ],
+    "estimatedMinutes": 39
+  },
+  {
+    "id": "case-45",
+    "slug": "编码器案例-编码器应用",
+    "title": "编码器案例：编码器应用",
+    "summary": "运用编码器中编码器知识解决实际问题的案例。",
+    "difficulty": "medium",
+    "tags": [
+      "编码器",
+      "编码器"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例涉及编码器中的编码器。\n\n### 需求\n\n- 理解问题要求\n- 设计解决方案\n- 验证设计正确性",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计电路/方案\n3. 实现并验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 从需求出发，确定输入输出\n2. 列出真值表或状态图\n3. 化简逻辑表达式\n4. 画出电路图\n5. 仿真验证",
+    "knowledgePoints": [
+      "kp-65",
+      "kp-66",
+      "kp-67"
+    ],
+    "estimatedMinutes": 33
+  },
+  {
+    "id": "case-46",
+    "slug": "译码器案例-译码器应用",
+    "title": "译码器案例：译码器应用",
+    "summary": "运用译码器中译码器知识解决实际问题的案例。",
+    "difficulty": "medium",
+    "tags": [
+      "译码器",
+      "译码器"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例涉及译码器中的译码器。\n\n### 需求\n\n- 理解问题要求\n- 设计解决方案\n- 验证设计正确性",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计电路/方案\n3. 实现并验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 从需求出发，确定输入输出\n2. 列出真值表或状态图\n3. 化简逻辑表达式\n4. 画出电路图\n5. 仿真验证",
+    "knowledgePoints": [
+      "kp-81",
+      "kp-82",
+      "kp-83"
+    ],
+    "estimatedMinutes": 42
+  },
+  {
+    "id": "case-47",
+    "slug": "数据选择器案例-74ls151应用",
+    "title": "数据选择器案例：74LS151应用",
+    "summary": "运用数据选择器中74LS151知识解决实际问题的案例。",
+    "difficulty": "medium",
+    "tags": [
+      "数据选择器",
+      "74LS151"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例涉及数据选择器中的74LS151。\n\n### 需求\n\n- 理解问题要求\n- 设计解决方案\n- 验证设计正确性",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计电路/方案\n3. 实现并验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 从需求出发，确定输入输出\n2. 列出真值表或状态图\n3. 化简逻辑表达式\n4. 画出电路图\n5. 仿真验证",
+    "knowledgePoints": [
+      "kp-97",
+      "kp-98",
+      "kp-99"
+    ],
+    "estimatedMinutes": 35
+  },
+  {
+    "id": "case-48",
+    "slug": "加法器案例-74ls283应用",
+    "title": "加法器案例：74LS283应用",
+    "summary": "运用加法器中74LS283知识解决实际问题的案例。",
+    "difficulty": "medium",
+    "tags": [
+      "加法器",
+      "74LS283"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例涉及加法器中的74LS283。\n\n### 需求\n\n- 理解问题要求\n- 设计解决方案\n- 验证设计正确性",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计电路/方案\n3. 实现并验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 从需求出发，确定输入输出\n2. 列出真值表或状态图\n3. 化简逻辑表达式\n4. 画出电路图\n5. 仿真验证",
+    "knowledgePoints": [
+      "kp-113",
+      "kp-114",
+      "kp-115"
+    ],
+    "estimatedMinutes": 55
+  },
+  {
+    "id": "case-49",
+    "slug": "比较器案例-比较器应用",
+    "title": "比较器案例：比较器应用",
+    "summary": "运用比较器中比较器知识解决实际问题的案例。",
+    "difficulty": "medium",
+    "tags": [
+      "比较器",
+      "比较器"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例涉及比较器中的比较器。\n\n### 需求\n\n- 理解问题要求\n- 设计解决方案\n- 验证设计正确性",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计电路/方案\n3. 实现并验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 从需求出发，确定输入输出\n2. 列出真值表或状态图\n3. 化简逻辑表达式\n4. 画出电路图\n5. 仿真验证",
+    "knowledgePoints": [
+      "kp-129",
+      "kp-130",
+      "kp-131"
+    ],
+    "estimatedMinutes": 58
+  },
+  {
+    "id": "case-50",
+    "slug": "触发器案例-jk触发器应用",
+    "title": "触发器案例：JK触发器应用",
+    "summary": "运用触发器中JK触发器知识解决实际问题的案例。",
+    "difficulty": "medium",
+    "tags": [
+      "触发器",
+      "JK触发器"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例涉及触发器中的JK触发器。\n\n### 需求\n\n- 理解问题要求\n- 设计解决方案\n- 验证设计正确性",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计电路/方案\n3. 实现并验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 从需求出发，确定输入输出\n2. 列出真值表或状态图\n3. 化简逻辑表达式\n4. 画出电路图\n5. 仿真验证",
+    "knowledgePoints": [
+      "kp-145",
+      "kp-146",
+      "kp-147"
+    ],
+    "estimatedMinutes": 49
+  }
+]

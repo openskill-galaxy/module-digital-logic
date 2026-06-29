@@ -1,0 +1,1354 @@
+[
+  {
+    "id": "g-1",
+    "term": "二进制",
+    "definition": "只使用0和1的计数体制",
+    "aliases": [
+      "Binary"
+    ]
+  },
+  {
+    "id": "g-2",
+    "term": "八进制",
+    "definition": "以8为基数的计数体制",
+    "aliases": [
+      "Octal"
+    ]
+  },
+  {
+    "id": "g-3",
+    "term": "十六进制",
+    "definition": "以16为基数的计数体制，用A-F表示10-15",
+    "aliases": [
+      "Hexadecimal"
+    ]
+  },
+  {
+    "id": "g-4",
+    "term": "BCD码",
+    "definition": "用4位二进制表示1位十进制的编码",
+    "aliases": [
+      "BCD"
+    ]
+  },
+  {
+    "id": "g-5",
+    "term": "格雷码",
+    "definition": "相邻两数只有1位不同的编码",
+    "aliases": [
+      "Gray Code"
+    ]
+  },
+  {
+    "id": "g-6",
+    "term": "与运算",
+    "definition": "全1出1的逻辑运算",
+    "aliases": [
+      "AND"
+    ]
+  },
+  {
+    "id": "g-7",
+    "term": "或运算",
+    "definition": "有1出1的逻辑运算",
+    "aliases": [
+      "OR"
+    ]
+  },
+  {
+    "id": "g-8",
+    "term": "非运算",
+    "definition": "取反的逻辑运算",
+    "aliases": [
+      "NOT"
+    ]
+  },
+  {
+    "id": "g-9",
+    "term": "与非门",
+    "definition": "与运算后取反",
+    "aliases": [
+      "NAND"
+    ]
+  },
+  {
+    "id": "g-10",
+    "term": "或非门",
+    "definition": "或运算后取反",
+    "aliases": [
+      "NOR"
+    ]
+  },
+  {
+    "id": "g-11",
+    "term": "异或门",
+    "definition": "相同出0不同出1",
+    "aliases": [
+      "XOR"
+    ]
+  },
+  {
+    "id": "g-12",
+    "term": "同或门",
+    "definition": "相同出1不同出0",
+    "aliases": [
+      "XNOR"
+    ]
+  },
+  {
+    "id": "g-13",
+    "term": "OC门",
+    "definition": "集电极开路门，可线与",
+    "aliases": [
+      "Open Collector"
+    ]
+  },
+  {
+    "id": "g-14",
+    "term": "三态门",
+    "definition": "输出有高阻态的门",
+    "aliases": [
+      "Three-state gate"
+    ]
+  },
+  {
+    "id": "g-15",
+    "term": "CMOS",
+    "definition": "互补金属氧化物半导体",
+    "aliases": [
+      "CMOS"
+    ]
+  },
+  {
+    "id": "g-16",
+    "term": "TTL",
+    "definition": "晶体管-晶体管逻辑",
+    "aliases": [
+      "Transistor-Transistor Logic"
+    ]
+  },
+  {
+    "id": "g-17",
+    "term": "卡诺图",
+    "definition": "化简逻辑函数的图解法",
+    "aliases": [
+      "Karnaugh Map"
+    ]
+  },
+  {
+    "id": "g-18",
+    "term": "摩根定律",
+    "definition": "与或取反互换定律",
+    "aliases": [
+      "De Morgan's Law"
+    ]
+  },
+  {
+    "id": "g-19",
+    "term": "最小项",
+    "definition": "所有变量均出现的与项",
+    "aliases": [
+      "Minterm"
+    ]
+  },
+  {
+    "id": "g-20",
+    "term": "最大项",
+    "definition": "所有变量均出现的或项",
+    "aliases": [
+      "Maxterm"
+    ]
+  },
+  {
+    "id": "g-21",
+    "term": "竞争冒险",
+    "definition": "组合电路中因延迟引起的瞬态错误",
+    "aliases": [
+      "Race hazard"
+    ]
+  },
+  {
+    "id": "g-22",
+    "term": "编码器",
+    "definition": "将输入信号编为二进制码",
+    "aliases": [
+      "Encoder"
+    ]
+  },
+  {
+    "id": "g-23",
+    "term": "优先编码器",
+    "definition": "允许多输入同时有效，按优先级编码",
+    "aliases": [
+      "Priority Encoder"
+    ]
+  },
+  {
+    "id": "g-24",
+    "term": "译码器",
+    "definition": "将二进制码翻译为对应输出",
+    "aliases": [
+      "Decoder"
+    ]
+  },
+  {
+    "id": "g-25",
+    "term": "七段译码器",
+    "definition": "将BCD码译为七段显示信号",
+    "aliases": [
+      "7-segment decoder"
+    ]
+  },
+  {
+    "id": "g-26",
+    "term": "数据选择器",
+    "definition": "从多路输入中选择一路输出",
+    "aliases": [
+      "Multiplexer/MUX"
+    ]
+  },
+  {
+    "id": "g-27",
+    "term": "半加器",
+    "definition": "不考虑进位输入的1位加法器",
+    "aliases": [
+      "Half Adder"
+    ]
+  },
+  {
+    "id": "g-28",
+    "term": "全加器",
+    "definition": "考虑进位输入的1位加法器",
+    "aliases": [
+      "Full Adder"
+    ]
+  },
+  {
+    "id": "g-29",
+    "term": "超前进位",
+    "definition": "并行产生进位以提高加法速度",
+    "aliases": [
+      "Carry Look-ahead"
+    ]
+  },
+  {
+    "id": "g-30",
+    "term": "数值比较器",
+    "definition": "比较两个数大小的组合电路",
+    "aliases": [
+      "Comparator"
+    ]
+  },
+  {
+    "id": "g-31",
+    "term": "RS触发器",
+    "definition": "具有置位和复位功能的触发器",
+    "aliases": [
+      "RS Flip-flop"
+    ]
+  },
+  {
+    "id": "g-32",
+    "term": "JK触发器",
+    "definition": "功能最完善的触发器",
+    "aliases": [
+      "JK Flip-flop"
+    ]
+  },
+  {
+    "id": "g-33",
+    "term": "D触发器",
+    "definition": "边沿触发的数据触发器",
+    "aliases": [
+      "D Flip-flop"
+    ]
+  },
+  {
+    "id": "g-34",
+    "term": "T触发器",
+    "definition": "翻转触发器",
+    "aliases": [
+      "T Flip-flop"
+    ]
+  },
+  {
+    "id": "g-35",
+    "term": "边沿触发",
+    "definition": "在时钟边沿动作的触发方式",
+    "aliases": [
+      "Edge-triggered"
+    ]
+  },
+  {
+    "id": "g-36",
+    "term": "电平触发",
+    "definition": "在时钟电平期间动作的触发方式",
+    "aliases": [
+      "Level-triggered"
+    ]
+  },
+  {
+    "id": "g-37",
+    "term": "计数器",
+    "definition": "对时钟脉冲计数的时序电路",
+    "aliases": [
+      "Counter"
+    ]
+  },
+  {
+    "id": "g-38",
+    "term": "同步计数器",
+    "definition": "所有触发器共用同一时钟",
+    "aliases": [
+      "Synchronous Counter"
+    ]
+  },
+  {
+    "id": "g-39",
+    "term": "异步计数器",
+    "definition": "触发器时钟不统一",
+    "aliases": [
+      "Asynchronous Counter"
+    ]
+  },
+  {
+    "id": "g-40",
+    "term": "寄存器",
+    "definition": "存储一组二进制信息的时序电路",
+    "aliases": [
+      "Register"
+    ]
+  },
+  {
+    "id": "g-41",
+    "term": "移位寄存器",
+    "definition": "具有移位功能的寄存器",
+    "aliases": [
+      "Shift Register"
+    ]
+  },
+  {
+    "id": "g-42",
+    "term": "状态机",
+    "definition": "有限状态自动机",
+    "aliases": [
+      "FSM"
+    ]
+  },
+  {
+    "id": "g-43",
+    "term": "米利型",
+    "definition": "输出依赖输入和状态的FSM",
+    "aliases": [
+      "Mealy"
+    ]
+  },
+  {
+    "id": "g-44",
+    "term": "摩尔型",
+    "definition": "输出仅依赖状态的FSM",
+    "aliases": [
+      "Moore"
+    ]
+  },
+  {
+    "id": "g-45",
+    "term": "状态图",
+    "definition": "用有向图表示状态转换",
+    "aliases": [
+      "State Diagram"
+    ]
+  },
+  {
+    "id": "g-46",
+    "term": "状态表",
+    "definition": "用表格表示状态转换",
+    "aliases": [
+      "State Table"
+    ]
+  },
+  {
+    "id": "g-47",
+    "term": "多谐振荡器",
+    "definition": "无稳态的自激振荡电路",
+    "aliases": [
+      "Astable multivibrator"
+    ]
+  },
+  {
+    "id": "g-48",
+    "term": "单稳态触发器",
+    "definition": "有一个稳态和一个暂稳态",
+    "aliases": [
+      "Monostable multivibrator"
+    ]
+  },
+  {
+    "id": "g-49",
+    "term": "施密特触发器",
+    "definition": "具有回差特性的整形电路",
+    "aliases": [
+      "Schmitt trigger"
+    ]
+  },
+  {
+    "id": "g-50",
+    "term": "555定时器",
+    "definition": "通用定时集成电路",
+    "aliases": [
+      "555 Timer"
+    ]
+  },
+  {
+    "id": "g-51",
+    "term": "ROM",
+    "definition": "只读存储器",
+    "aliases": [
+      "Read Only Memory"
+    ]
+  },
+  {
+    "id": "g-52",
+    "term": "RAM",
+    "definition": "随机存取存储器",
+    "aliases": [
+      "Random Access Memory"
+    ]
+  },
+  {
+    "id": "g-53",
+    "term": "SRAM",
+    "definition": "静态RAM",
+    "aliases": [
+      "Static RAM"
+    ]
+  },
+  {
+    "id": "g-54",
+    "term": "DRAM",
+    "definition": "动态RAM",
+    "aliases": [
+      "Dynamic RAM"
+    ]
+  },
+  {
+    "id": "g-55",
+    "term": "EPROM",
+    "definition": "可擦除可编程ROM",
+    "aliases": [
+      "Erasable Programmable ROM"
+    ]
+  },
+  {
+    "id": "g-56",
+    "term": "EEPROM",
+    "definition": "电可擦除可编程ROM",
+    "aliases": [
+      "Electrically Erasable Programmable ROM"
+    ]
+  },
+  {
+    "id": "g-57",
+    "term": "Flash",
+    "definition": "闪存，电可擦除非易失存储",
+    "aliases": [
+      "Flash Memory"
+    ]
+  },
+  {
+    "id": "g-58",
+    "term": "PLD",
+    "definition": "可编程逻辑器件",
+    "aliases": [
+      "Programmable Logic Device"
+    ]
+  },
+  {
+    "id": "g-59",
+    "term": "PAL",
+    "definition": "可编程阵列逻辑",
+    "aliases": [
+      "Programmable Array Logic"
+    ]
+  },
+  {
+    "id": "g-60",
+    "term": "GAL",
+    "definition": "通用阵列逻辑",
+    "aliases": [
+      "Generic Array Logic"
+    ]
+  },
+  {
+    "id": "g-61",
+    "term": "CPLD",
+    "definition": "复杂可编程逻辑器件",
+    "aliases": [
+      "Complex PLD"
+    ]
+  },
+  {
+    "id": "g-62",
+    "term": "FPGA",
+    "definition": "现场可编程门阵列",
+    "aliases": [
+      "Field Programmable Gate Array"
+    ]
+  },
+  {
+    "id": "g-63",
+    "term": "LUT",
+    "definition": "查找表",
+    "aliases": [
+      "Look-Up Table"
+    ]
+  },
+  {
+    "id": "g-64",
+    "term": "Quartus",
+    "definition": "Altera/Intel FPGA开发工具",
+    "aliases": [
+      "Quartus Prime"
+    ]
+  },
+  {
+    "id": "g-65",
+    "term": "BDF",
+    "definition": "Block Diagram File，原理图文件",
+    "aliases": [
+      "Block Diagram File"
+    ]
+  },
+  {
+    "id": "g-66",
+    "term": "LPM",
+    "definition": "库参数化模块",
+    "aliases": [
+      "Library of Parameterized Modules"
+    ]
+  },
+  {
+    "id": "g-67",
+    "term": "Verilog",
+    "definition": "硬件描述语言",
+    "aliases": [
+      "Verilog HDL"
+    ]
+  },
+  {
+    "id": "g-68",
+    "term": "RTL",
+    "definition": "寄存器传输级",
+    "aliases": [
+      "Register Transfer Level"
+    ]
+  },
+  {
+    "id": "g-69",
+    "term": "综合",
+    "definition": "将HDL转换为门级网表",
+    "aliases": [
+      "Synthesis"
+    ]
+  },
+  {
+    "id": "g-70",
+    "term": "布局布线",
+    "definition": "将网表映射到FPGA物理资源",
+    "aliases": [
+      "Place and Route"
+    ]
+  },
+  {
+    "id": "g-71",
+    "term": "时序约束",
+    "definition": "定义时钟和延迟约束",
+    "aliases": [
+      "Timing Constraints"
+    ]
+  },
+  {
+    "id": "g-72",
+    "term": "SDC",
+    "definition": "Synopsys设计约束文件格式",
+    "aliases": [
+      "Synopsys Design Constraints"
+    ]
+  },
+  {
+    "id": "g-73",
+    "term": "步进电机",
+    "definition": "按步进角转动的电机",
+    "aliases": [
+      "Stepper Motor"
+    ]
+  },
+  {
+    "id": "g-74",
+    "term": "分频",
+    "definition": "将高频时钟降为低频",
+    "aliases": [
+      "Frequency Division"
+    ]
+  },
+  {
+    "id": "g-75",
+    "term": "数码管",
+    "definition": "七段LED数字显示器",
+    "aliases": [
+      "7-segment Display"
+    ]
+  },
+  {
+    "id": "g-76",
+    "term": "消抖",
+    "definition": "消除机械开关抖动",
+    "aliases": [
+      "Debounce"
+    ]
+  },
+  {
+    "id": "g-77",
+    "term": "总线",
+    "definition": "一组并行信号线",
+    "aliases": [
+      "Bus"
+    ]
+  },
+  {
+    "id": "g-78",
+    "term": "扇入",
+    "definition": "门电路输入端数",
+    "aliases": [
+      "Fan-in"
+    ]
+  },
+  {
+    "id": "g-79",
+    "term": "扇出",
+    "definition": "门电路输出驱动能力",
+    "aliases": [
+      "Fan-out"
+    ]
+  },
+  {
+    "id": "g-80",
+    "term": "传输延迟",
+    "definition": "信号从输入到输出的延迟",
+    "aliases": [
+      "Propagation Delay"
+    ]
+  },
+  {
+    "id": "g-81",
+    "term": "建立时间",
+    "definition": "时钟边沿前数据必须稳定的时间",
+    "aliases": [
+      "Setup Time"
+    ]
+  },
+  {
+    "id": "g-82",
+    "term": "保持时间",
+    "definition": "时钟边沿后数据必须稳定的时间",
+    "aliases": [
+      "Hold Time"
+    ]
+  },
+  {
+    "id": "g-83",
+    "term": "时钟频率",
+    "definition": "时钟信号每秒周期数",
+    "aliases": [
+      "Clock Frequency"
+    ]
+  },
+  {
+    "id": "g-84",
+    "term": "占空比",
+    "definition": "高电平时间占周期比例",
+    "aliases": [
+      "Duty Cycle"
+    ]
+  },
+  {
+    "id": "g-85",
+    "term": "上拉电阻",
+    "definition": "将信号线拉至高电平的电阻",
+    "aliases": [
+      "Pull-up Resistor"
+    ]
+  },
+  {
+    "id": "g-86",
+    "term": "下拉电阻",
+    "definition": "将信号线拉至低电平的电阻",
+    "aliases": [
+      "Pull-down Resistor"
+    ]
+  },
+  {
+    "id": "g-87",
+    "term": "线与",
+    "definition": "OC门输出直接相连实现与功能",
+    "aliases": [
+      "Wired AND"
+    ]
+  },
+  {
+    "id": "g-88",
+    "term": "使能",
+    "definition": "控制电路是否工作的信号",
+    "aliases": [
+      "Enable"
+    ]
+  },
+  {
+    "id": "g-89",
+    "term": "级联",
+    "definition": "多片芯片串联扩展位数",
+    "aliases": [
+      "Cascade"
+    ]
+  },
+  {
+    "id": "g-90",
+    "term": "并行",
+    "definition": "多位同时处理",
+    "aliases": [
+      "Parallel"
+    ]
+  },
+  {
+    "id": "g-91",
+    "term": "串行",
+    "definition": "逐位顺序处理",
+    "aliases": [
+      "Serial"
+    ]
+  },
+  {
+    "id": "g-92",
+    "term": "补码",
+    "definition": "用于表示负数的二进制编码",
+    "aliases": [
+      "Two's Complement"
+    ]
+  },
+  {
+    "id": "g-93",
+    "term": "原码",
+    "definition": "符号位+绝对值的二进制表示",
+    "aliases": [
+      "Sign-Magnitude"
+    ]
+  },
+  {
+    "id": "g-94",
+    "term": "反码",
+    "definition": "正数不变，负数按位取反",
+    "aliases": [
+      "One's Complement"
+    ]
+  },
+  {
+    "id": "g-95",
+    "term": "溢出",
+    "definition": "运算结果超出表示范围",
+    "aliases": [
+      "Overflow"
+    ]
+  },
+  {
+    "id": "g-96",
+    "term": "复位",
+    "definition": "将电路恢复到初始状态",
+    "aliases": [
+      "Reset"
+    ]
+  },
+  {
+    "id": "g-97",
+    "term": "置位",
+    "definition": "将触发器置为1",
+    "aliases": [
+      "Set"
+    ]
+  },
+  {
+    "id": "g-98",
+    "term": "异步复位",
+    "definition": "不依赖时钟的复位",
+    "aliases": [
+      "Asynchronous Reset"
+    ]
+  },
+  {
+    "id": "g-99",
+    "term": "同步复位",
+    "definition": "在时钟有效边沿才生效的复位",
+    "aliases": [
+      "Synchronous Reset"
+    ]
+  },
+  {
+    "id": "g-100",
+    "term": "毛刺",
+    "definition": "由于延迟差引起的窄脉冲",
+    "aliases": [
+      "Glitch"
+    ]
+  },
+  {
+    "id": "g-101",
+    "term": "临界竞争",
+    "definition": "可能导致错误输出的竞争",
+    "aliases": [
+      "Critical Race"
+    ]
+  },
+  {
+    "id": "g-102",
+    "term": "锁存器",
+    "definition": "电平触发的存储元件",
+    "aliases": [
+      "Latch"
+    ]
+  },
+  {
+    "id": "g-103",
+    "term": "寄存器传输",
+    "definition": "数据在寄存器间传送",
+    "aliases": [
+      "Register Transfer"
+    ]
+  },
+  {
+    "id": "g-104",
+    "term": "测试向量",
+    "definition": "用于验证电路功能的输入输出序列",
+    "aliases": [
+      "Test Vector"
+    ]
+  },
+  {
+    "id": "g-105",
+    "term": "功能仿真",
+    "definition": "不考虑延迟的逻辑验证",
+    "aliases": [
+      "Functional Simulation"
+    ]
+  },
+  {
+    "id": "g-106",
+    "term": "时序仿真",
+    "definition": "考虑延迟的仿真",
+    "aliases": [
+      "Timing Simulation"
+    ]
+  },
+  {
+    "id": "g-107",
+    "term": "门级",
+    "definition": "用逻辑门描述电路",
+    "aliases": [
+      "Gate Level"
+    ]
+  },
+  {
+    "id": "g-108",
+    "term": "行为级",
+    "definition": "用算法描述电路功能",
+    "aliases": [
+      "Behavioral Level"
+    ]
+  },
+  {
+    "id": "g-109",
+    "term": "结构级",
+    "definition": "用模块实例描述电路",
+    "aliases": [
+      "Structural Level"
+    ]
+  },
+  {
+    "id": "g-110",
+    "term": "模块",
+    "definition": "Verilog的基本设计单元",
+    "aliases": [
+      "Module"
+    ]
+  },
+  {
+    "id": "g-111",
+    "term": "端口",
+    "definition": "模块与外部的接口",
+    "aliases": [
+      "Port"
+    ]
+  },
+  {
+    "id": "g-112",
+    "term": "always块",
+    "definition": "Verilog中描述时序或组合逻辑的块",
+    "aliases": [
+      "always block"
+    ]
+  },
+  {
+    "id": "g-113",
+    "term": "assign语句",
+    "definition": "Verilog中描述连续赋值的语句",
+    "aliases": [
+      "assign statement"
+    ]
+  },
+  {
+    "id": "g-114",
+    "term": "case语句",
+    "definition": "Verilog中多分支选择语句",
+    "aliases": [
+      "case statement"
+    ]
+  },
+  {
+    "id": "g-115",
+    "term": "阻塞赋值",
+    "definition": "顺序执行的赋值（=）",
+    "aliases": [
+      "Blocking Assignment"
+    ]
+  },
+  {
+    "id": "g-116",
+    "term": "非阻塞赋值",
+    "definition": "并行执行的赋值（<=）",
+    "aliases": [
+      "Non-blocking Assignment"
+    ]
+  },
+  {
+    "id": "g-117",
+    "term": "引脚绑定",
+    "definition": "将逻辑端口映射到FPGA物理引脚",
+    "aliases": [
+      "Pin Assignment"
+    ]
+  },
+  {
+    "id": "g-118",
+    "term": "JTAG",
+    "definition": "联合测试行动组，用于下载和调试",
+    "aliases": [
+      "Joint Test Action Group"
+    ]
+  },
+  {
+    "id": "g-119",
+    "term": "比特流",
+    "definition": "FPGA配置的二进制数据",
+    "aliases": [
+      "Bitstream"
+    ]
+  },
+  {
+    "id": "g-120",
+    "term": "SOF",
+    "definition": "SRAM Object File，FPGA配置文件",
+    "aliases": [
+      "SOF"
+    ]
+  },
+  {
+    "id": "g-121",
+    "term": "POF",
+    "definition": "Programmer Object File，EPROM配置文件",
+    "aliases": [
+      "POF"
+    ]
+  },
+  {
+    "id": "g-122",
+    "term": "时钟网络",
+    "definition": "FPGA中专用时钟布线资源",
+    "aliases": [
+      "Clock Network"
+    ]
+  },
+  {
+    "id": "g-123",
+    "term": "PLL",
+    "definition": "锁相环，时钟频率合成",
+    "aliases": [
+      "Phase Locked Loop"
+    ]
+  },
+  {
+    "id": "g-124",
+    "term": "全局缓冲",
+    "definition": "将信号分配到全局网络",
+    "aliases": [
+      "Global Buffer"
+    ]
+  },
+  {
+    "id": "g-125",
+    "term": "嵌入式存储器",
+    "definition": "FPGA片内存储块",
+    "aliases": [
+      "Embedded Memory"
+    ]
+  },
+  {
+    "id": "g-126",
+    "term": "嵌入式乘法器",
+    "definition": "FPGA片内硬件乘法器",
+    "aliases": [
+      "Embedded Multiplier"
+    ]
+  },
+  {
+    "id": "g-127",
+    "term": "I/O单元",
+    "definition": "FPGA输入输出接口单元",
+    "aliases": [
+      "I/O Element"
+    ]
+  },
+  {
+    "id": "g-128",
+    "term": "逻辑单元",
+    "definition": "FPGA基本逻辑块",
+    "aliases": [
+      "Logic Element"
+    ]
+  },
+  {
+    "id": "g-129",
+    "term": "进位链",
+    "definition": "FPGA中用于快速加法的专用路径",
+    "aliases": [
+      "Carry Chain"
+    ]
+  },
+  {
+    "id": "g-130",
+    "term": "互连资源",
+    "definition": "FPGA中连接逻辑单元的布线",
+    "aliases": [
+      "Interconnect"
+    ]
+  },
+  {
+    "id": "g-131",
+    "term": "片选",
+    "definition": "选择芯片工作的信号",
+    "aliases": [
+      "Chip Select"
+    ]
+  },
+  {
+    "id": "g-132",
+    "term": "读写控制",
+    "definition": "存储器的读/写选择信号",
+    "aliases": [
+      "Read/Write Control"
+    ]
+  },
+  {
+    "id": "g-133",
+    "term": "地址线",
+    "definition": "指定存储单元的输入线",
+    "aliases": [
+      "Address Line"
+    ]
+  },
+  {
+    "id": "g-134",
+    "term": "数据线",
+    "definition": "传输数据的输入输出线",
+    "aliases": [
+      "Data Line"
+    ]
+  },
+  {
+    "id": "g-135",
+    "term": "字长",
+    "definition": "存储器一次读写的位数",
+    "aliases": [
+      "Word Length"
+    ]
+  },
+  {
+    "id": "g-136",
+    "term": "存储容量",
+    "definition": "存储器能存的总位数",
+    "aliases": [
+      "Storage Capacity"
+    ]
+  },
+  {
+    "id": "g-137",
+    "term": "刷新",
+    "definition": "DRAM电容定期重写",
+    "aliases": [
+      "Refresh"
+    ]
+  },
+  {
+    "id": "g-138",
+    "term": "行列地址",
+    "definition": "DRAM分两次送地址",
+    "aliases": [
+      "Row/Column Address"
+    ]
+  },
+  {
+    "id": "g-139",
+    "term": "页模式",
+    "definition": "DRAM连续读同一行",
+    "aliases": [
+      "Page Mode"
+    ]
+  },
+  {
+    "id": "g-140",
+    "term": "查找表",
+    "definition": "FPGA中实现组合逻辑的存储表",
+    "aliases": [
+      "Look-Up Table"
+    ]
+  },
+  {
+    "id": "g-141",
+    "term": "进位选择",
+    "definition": "超前进位的改进方法",
+    "aliases": [
+      "Carry Select"
+    ]
+  },
+  {
+    "id": "g-142",
+    "term": "条件选择",
+    "definition": "根据条件选择不同数据源",
+    "aliases": [
+      "Conditional Selection"
+    ]
+  },
+  {
+    "id": "g-143",
+    "term": "状态编码",
+    "definition": "用二进制码表示状态",
+    "aliases": [
+      "State Encoding"
+    ]
+  },
+  {
+    "id": "g-144",
+    "term": "独热编码",
+    "definition": "每个状态只有1位为1",
+    "aliases": [
+      "One-hot Encoding"
+    ]
+  },
+  {
+    "id": "g-145",
+    "term": "二进制编码",
+    "definition": "用最少位数编码状态",
+    "aliases": [
+      "Binary Encoding"
+    ]
+  },
+  {
+    "id": "g-146",
+    "term": "格雷编码",
+    "definition": "相邻状态只差1位",
+    "aliases": [
+      "Gray Encoding"
+    ]
+  },
+  {
+    "id": "g-147",
+    "term": "流水线",
+    "definition": "将组合逻辑分多级提高吞吐",
+    "aliases": [
+      "Pipeline"
+    ]
+  },
+  {
+    "id": "g-148",
+    "term": "握手",
+    "definition": "通信双方协调数据传输",
+    "aliases": [
+      "Handshake"
+    ]
+  },
+  {
+    "id": "g-149",
+    "term": "协议",
+    "definition": "通信规则的约定",
+    "aliases": [
+      "Protocol"
+    ]
+  },
+  {
+    "id": "g-150",
+    "term": "波特率",
+    "definition": "串行通信每秒位数",
+    "aliases": [
+      "Baud Rate"
+    ]
+  },
+  {
+    "id": "g-151",
+    "term": "并行加载",
+    "definition": "计数器同时置入所有位",
+    "aliases": [
+      "Parallel Load"
+    ]
+  },
+  {
+    "id": "g-152",
+    "term": "环形计数器",
+    "definition": "只有一个1循环移位的计数器",
+    "aliases": [
+      "Ring Counter"
+    ]
+  },
+  {
+    "id": "g-153",
+    "term": "扭环形计数器",
+    "definition": "从反相端反馈的移位计数器",
+    "aliases": [
+      "Johnson Counter"
+    ]
+  },
+  {
+    "id": "g-154",
+    "term": "线性反馈移位寄存器",
+    "definition": "用于伪随机序列的移位寄存器",
+    "aliases": [
+      "LFSR"
+    ]
+  },
+  {
+    "id": "g-155",
+    "term": "优先级",
+    "definition": "中断或编码的先后顺序",
+    "aliases": [
+      "Priority"
+    ]
+  },
+  {
+    "id": "g-156",
+    "term": "中断",
+    "definition": "暂停当前程序转去处理事件",
+    "aliases": [
+      "Interrupt"
+    ]
+  },
+  {
+    "id": "g-157",
+    "term": "轮询",
+    "definition": "周期性检查状态",
+    "aliases": [
+      "Polling"
+    ]
+  },
+  {
+    "id": "g-158",
+    "term": "看门狗",
+    "definition": "超时复位的定时器",
+    "aliases": [
+      "Watchdog Timer"
+    ]
+  },
+  {
+    "id": "g-159",
+    "term": "电梯控制",
+    "definition": "控制电梯运行的逻辑系统",
+    "aliases": [
+      "Elevator Control"
+    ]
+  },
+  {
+    "id": "g-160",
+    "term": "楼层检测",
+    "definition": "检测电梯当前所在楼层",
+    "aliases": [
+      "Floor Detection"
+    ]
+  },
+  {
+    "id": "g-161",
+    "term": "方向控制",
+    "definition": "控制电梯上行或下行",
+    "aliases": [
+      "Direction Control"
+    ]
+  },
+  {
+    "id": "g-162",
+    "term": "开关门控制",
+    "definition": "控制电梯门的打开和关闭",
+    "aliases": [
+      "Door Control"
+    ]
+  },
+  {
+    "id": "g-163",
+    "term": "步进电机相序",
+    "definition": "步进电机各相的通电顺序",
+    "aliases": [
+      "Stepper Phase Sequence"
+    ]
+  },
+  {
+    "id": "g-164",
+    "term": "分频器",
+    "definition": "将高频时钟降为低频的电路",
+    "aliases": [
+      "Frequency Divider"
+    ]
+  },
+  {
+    "id": "g-165",
+    "term": "数码管译码",
+    "definition": "将BCD转为七段显示信号",
+    "aliases": [
+      "Display Decoding"
+    ]
+  },
+  {
+    "id": "g-166",
+    "term": "LED指示",
+    "definition": "用LED显示状态信息",
+    "aliases": [
+      "LED Indicator"
+    ]
+  },
+  {
+    "id": "g-167",
+    "term": "仿真波形",
+    "definition": "仿真输出的信号时序图",
+    "aliases": [
+      "Simulation Waveform"
+    ]
+  },
+  {
+    "id": "g-168",
+    "term": "下载验证",
+    "definition": "将设计下载到FPGA板验证",
+    "aliases": [
+      "Download Verification"
+    ]
+  },
+  {
+    "id": "g-169",
+    "term": "实验报告",
+    "definition": "记录实验过程和结果的文档",
+    "aliases": [
+      "Lab Report"
+    ]
+  }
+]

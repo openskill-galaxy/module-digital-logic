@@ -1,0 +1,26 @@
+{
+  "id": "mod-digital-logic",
+  "slug": "module-digital-logic",
+  "title": "数字逻辑电路",
+  "subtitle": "数字电子技术基础 · 组合时序逻辑 · FPGA · Quartus · 课程设计",
+  "description": "面向学习《数字电子技术基础》、数字逻辑电路、组合逻辑电路、时序逻辑电路、FPGA入门、Quartus、BDF原理图设计与课程设计的学生。覆盖数制编码、逻辑代数、逻辑门、编码器/译码器/数据选择器/加法器/比较器、触发器、计数器、寄存器、时序逻辑、脉冲波形、存储器、可编程逻辑器件、Verilog基础及步进电机模拟电梯课程设计。",
+  "version": "1.0.0",
+  "license": "MIT",
+  "authors": [
+    "OpenSkill Community"
+  ],
+  "tags": [
+    "数字逻辑",
+    "数字电路",
+    "FPGA",
+    "Quartus",
+    "Verilog",
+    "课程设计"
+  ],
+  "estimatedHours": 120,
+  "difficulty": "medium",
+  "updatedAt": "2026-06-29",
+  "coverEmoji": "🔌",
+  "repoUrl": "https://github.com/openskill-galaxy/module-digital-logic",
+  "portalUrl": "https://openskill-galaxy.github.io/"
+}

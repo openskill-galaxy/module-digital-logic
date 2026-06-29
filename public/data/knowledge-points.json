@@ -1,0 +1,5763 @@
+[
+  {
+    "id": "kp-1",
+    "slug": "数制",
+    "title": "数制",
+    "summary": "数制与编码中的数制，是理解和应用该章节内容的基础。",
+    "courseId": "course-1",
+    "tags": [
+      "数制",
+      "数制与编码"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 数制\n\n数制与编码中关于数制的核心概念与要点。\n\n### 定义\n\n数制是数制与编码的基本组成部分。\n\n### 要点\n\n1. 理解数制的定义\n2. 掌握数制的计算方法\n3. 能在电路中识别和应用数制",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-2",
+    "slug": "编码",
+    "title": "编码",
+    "summary": "数制与编码中的编码，是理解和应用该章节内容的基础。",
+    "courseId": "course-1",
+    "tags": [
+      "编码",
+      "数制与编码"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 编码\n\n数制与编码中关于编码的核心概念与要点。\n\n### 定义\n\n编码是数制与编码的基本组成部分。\n\n### 要点\n\n1. 理解编码的定义\n2. 掌握编码的计算方法\n3. 能在电路中识别和应用编码",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-22",
+      "g-23",
+      "g-143"
+    ]
+  },
+  {
+    "id": "kp-3",
+    "slug": "二进制",
+    "title": "二进制",
+    "summary": "数制与编码中的二进制，是理解和应用该章节内容的基础。",
+    "courseId": "course-1",
+    "tags": [
+      "二进制",
+      "数制与编码"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 二进制\n\n数制与编码中关于二进制的核心概念与要点。\n\n### 定义\n\n二进制是数制与编码的基本组成部分。\n\n### 要点\n\n1. 理解二进制的定义\n2. 掌握二进制的计算方法\n3. 能在电路中识别和应用二进制",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-1",
+      "g-145"
+    ]
+  },
+  {
+    "id": "kp-4",
+    "slug": "八进制",
+    "title": "八进制",
+    "summary": "数制与编码中的八进制，是理解和应用该章节内容的基础。",
+    "courseId": "course-1",
+    "tags": [
+      "八进制",
+      "数制与编码"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 八进制\n\n数制与编码中关于八进制的核心概念与要点。\n\n### 定义\n\n八进制是数制与编码的基本组成部分。\n\n### 要点\n\n1. 理解八进制的定义\n2. 掌握八进制的计算方法\n3. 能在电路中识别和应用八进制",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-2"
+    ]
+  },
+  {
+    "id": "kp-5",
+    "slug": "十六进制",
+    "title": "十六进制",
+    "summary": "数制与编码中的十六进制，是理解和应用该章节内容的基础。",
+    "courseId": "course-1",
+    "tags": [
+      "十六进制",
+      "数制与编码"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 十六进制\n\n数制与编码中关于十六进制的核心概念与要点。\n\n### 定义\n\n十六进制是数制与编码的基本组成部分。\n\n### 要点\n\n1. 理解十六进制的定义\n2. 掌握十六进制的计算方法\n3. 能在电路中识别和应用十六进制",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-3"
+    ]
+  },
+  {
+    "id": "kp-6",
+    "slug": "bcd",
+    "title": "BCD",
+    "summary": "数制与编码中的BCD，是理解和应用该章节内容的基础。",
+    "courseId": "course-1",
+    "tags": [
+      "BCD",
+      "数制与编码"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## BCD\n\n数制与编码中关于BCD的核心概念与要点。\n\n### 定义\n\nBCD是数制与编码的基本组成部分。\n\n### 要点\n\n1. 理解BCD的定义\n2. 掌握BCD的计算方法\n3. 能在电路中识别和应用BCD",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-4"
+    ]
+  },
+  {
+    "id": "kp-7",
+    "slug": "格雷码",
+    "title": "格雷码",
+    "summary": "数制与编码中的格雷码，是理解和应用该章节内容的基础。",
+    "courseId": "course-1",
+    "tags": [
+      "格雷码",
+      "数制与编码"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 格雷码\n\n数制与编码中关于格雷码的核心概念与要点。\n\n### 定义\n\n格雷码是数制与编码的基本组成部分。\n\n### 要点\n\n1. 理解格雷码的定义\n2. 掌握格雷码的计算方法\n3. 能在电路中识别和应用格雷码",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-5"
+    ]
+  },
+  {
+    "id": "kp-8",
+    "slug": "数制与编码知识点8",
+    "title": "数制与编码知识点8",
+    "summary": "数制与编码中的数制与编码知识点8，是理解和应用该章节内容的基础。",
+    "courseId": "course-1",
+    "tags": [
+      "数制",
+      "数制与编码"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 数制与编码知识点8\n\n数制与编码中关于数制与编码知识点8的核心概念与要点。\n\n### 定义\n\n数制与编码知识点8是数制与编码的基本组成部分。\n\n### 要点\n\n1. 理解数制与编码知识点8的定义\n2. 掌握数制与编码知识点8的计算方法\n3. 能在电路中识别和应用数制与编码知识点8",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-9",
+    "slug": "数制与编码知识点9",
+    "title": "数制与编码知识点9",
+    "summary": "数制与编码中的数制与编码知识点9，是理解和应用该章节内容的基础。",
+    "courseId": "course-1",
+    "tags": [
+      "编码",
+      "数制与编码"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 数制与编码知识点9\n\n数制与编码中关于数制与编码知识点9的核心概念与要点。\n\n### 定义\n\n数制与编码知识点9是数制与编码的基本组成部分。\n\n### 要点\n\n1. 理解数制与编码知识点9的定义\n2. 掌握数制与编码知识点9的计算方法\n3. 能在电路中识别和应用数制与编码知识点9",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-10",
+    "slug": "数制与编码知识点10",
+    "title": "数制与编码知识点10",
+    "summary": "数制与编码中的数制与编码知识点10，是理解和应用该章节内容的基础。",
+    "courseId": "course-1",
+    "tags": [
+      "二进制",
+      "数制与编码"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 数制与编码知识点10\n\n数制与编码中关于数制与编码知识点10的核心概念与要点。\n\n### 定义\n\n数制与编码知识点10是数制与编码的基本组成部分。\n\n### 要点\n\n1. 理解数制与编码知识点10的定义\n2. 掌握数制与编码知识点10的计算方法\n3. 能在电路中识别和应用数制与编码知识点10",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-11",
+    "slug": "数制与编码知识点11",
+    "title": "数制与编码知识点11",
+    "summary": "数制与编码中的数制与编码知识点11，是理解和应用该章节内容的基础。",
+    "courseId": "course-1",
+    "tags": [
+      "八进制",
+      "数制与编码"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 数制与编码知识点11\n\n数制与编码中关于数制与编码知识点11的核心概念与要点。\n\n### 定义\n\n数制与编码知识点11是数制与编码的基本组成部分。\n\n### 要点\n\n1. 理解数制与编码知识点11的定义\n2. 掌握数制与编码知识点11的计算方法\n3. 能在电路中识别和应用数制与编码知识点11",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-12",
+    "slug": "数制与编码知识点12",
+    "title": "数制与编码知识点12",
+    "summary": "数制与编码中的数制与编码知识点12，是理解和应用该章节内容的基础。",
+    "courseId": "course-1",
+    "tags": [
+      "十六进制",
+      "数制与编码"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 数制与编码知识点12\n\n数制与编码中关于数制与编码知识点12的核心概念与要点。\n\n### 定义\n\n数制与编码知识点12是数制与编码的基本组成部分。\n\n### 要点\n\n1. 理解数制与编码知识点12的定义\n2. 掌握数制与编码知识点12的计算方法\n3. 能在电路中识别和应用数制与编码知识点12",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-13",
+    "slug": "数制与编码知识点13",
+    "title": "数制与编码知识点13",
+    "summary": "数制与编码中的数制与编码知识点13，是理解和应用该章节内容的基础。",
+    "courseId": "course-1",
+    "tags": [
+      "BCD",
+      "数制与编码"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 数制与编码知识点13\n\n数制与编码中关于数制与编码知识点13的核心概念与要点。\n\n### 定义\n\n数制与编码知识点13是数制与编码的基本组成部分。\n\n### 要点\n\n1. 理解数制与编码知识点13的定义\n2. 掌握数制与编码知识点13的计算方法\n3. 能在电路中识别和应用数制与编码知识点13",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-14",
+    "slug": "数制与编码知识点14",
+    "title": "数制与编码知识点14",
+    "summary": "数制与编码中的数制与编码知识点14，是理解和应用该章节内容的基础。",
+    "courseId": "course-1",
+    "tags": [
+      "格雷码",
+      "数制与编码"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 数制与编码知识点14\n\n数制与编码中关于数制与编码知识点14的核心概念与要点。\n\n### 定义\n\n数制与编码知识点14是数制与编码的基本组成部分。\n\n### 要点\n\n1. 理解数制与编码知识点14的定义\n2. 掌握数制与编码知识点14的计算方法\n3. 能在电路中识别和应用数制与编码知识点14",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-15",
+    "slug": "数制与编码知识点15",
+    "title": "数制与编码知识点15",
+    "summary": "数制与编码中的数制与编码知识点15，是理解和应用该章节内容的基础。",
+    "courseId": "course-1",
+    "tags": [
+      "数制",
+      "数制与编码"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 数制与编码知识点15\n\n数制与编码中关于数制与编码知识点15的核心概念与要点。\n\n### 定义\n\n数制与编码知识点15是数制与编码的基本组成部分。\n\n### 要点\n\n1. 理解数制与编码知识点15的定义\n2. 掌握数制与编码知识点15的计算方法\n3. 能在电路中识别和应用数制与编码知识点15",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-16",
+    "slug": "数制与编码知识点16",
+    "title": "数制与编码知识点16",
+    "summary": "数制与编码中的数制与编码知识点16，是理解和应用该章节内容的基础。",
+    "courseId": "course-1",
+    "tags": [
+      "编码",
+      "数制与编码"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 数制与编码知识点16\n\n数制与编码中关于数制与编码知识点16的核心概念与要点。\n\n### 定义\n\n数制与编码知识点16是数制与编码的基本组成部分。\n\n### 要点\n\n1. 理解数制与编码知识点16的定义\n2. 掌握数制与编码知识点16的计算方法\n3. 能在电路中识别和应用数制与编码知识点16",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-17",
+    "slug": "与或非",
+    "title": "与或非",
+    "summary": "逻辑代数基础中的与或非，是理解和应用该章节内容的基础。",
+    "courseId": "course-2",
+    "tags": [
+      "与或非",
+      "逻辑代数基础"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 与或非\n\n逻辑代数基础中关于与或非的核心概念与要点。\n\n### 定义\n\n与或非是逻辑代数基础的基本组成部分。\n\n### 要点\n\n1. 理解与或非的定义\n2. 掌握与或非的计算方法\n3. 能在电路中识别和应用与或非",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-18",
+    "slug": "逻辑表达式",
+    "title": "逻辑表达式",
+    "summary": "逻辑代数基础中的逻辑表达式，是理解和应用该章节内容的基础。",
+    "courseId": "course-2",
+    "tags": [
+      "逻辑表达式",
+      "逻辑代数基础"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 逻辑表达式\n\n逻辑代数基础中关于逻辑表达式的核心概念与要点。\n\n### 定义\n\n逻辑表达式是逻辑代数基础的基本组成部分。\n\n### 要点\n\n1. 理解逻辑表达式的定义\n2. 掌握逻辑表达式的计算方法\n3. 能在电路中识别和应用逻辑表达式",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-19",
+    "slug": "卡诺图",
+    "title": "卡诺图",
+    "summary": "逻辑代数基础中的卡诺图，是理解和应用该章节内容的基础。",
+    "courseId": "course-2",
+    "tags": [
+      "卡诺图",
+      "逻辑代数基础"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 卡诺图\n\n逻辑代数基础中关于卡诺图的核心概念与要点。\n\n### 定义\n\n卡诺图是逻辑代数基础的基本组成部分。\n\n### 要点\n\n1. 理解卡诺图的定义\n2. 掌握卡诺图的计算方法\n3. 能在电路中识别和应用卡诺图",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-17"
+    ]
+  },
+  {
+    "id": "kp-20",
+    "slug": "摩根定律",
+    "title": "摩根定律",
+    "summary": "逻辑代数基础中的摩根定律，是理解和应用该章节内容的基础。",
+    "courseId": "course-2",
+    "tags": [
+      "摩根定律",
+      "逻辑代数基础"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 摩根定律\n\n逻辑代数基础中关于摩根定律的核心概念与要点。\n\n### 定义\n\n摩根定律是逻辑代数基础的基本组成部分。\n\n### 要点\n\n1. 理解摩根定律的定义\n2. 掌握摩根定律的计算方法\n3. 能在电路中识别和应用摩根定律",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-18"
+    ]
+  },
+  {
+    "id": "kp-21",
+    "slug": "最小项",
+    "title": "最小项",
+    "summary": "逻辑代数基础中的最小项，是理解和应用该章节内容的基础。",
+    "courseId": "course-2",
+    "tags": [
+      "最小项",
+      "逻辑代数基础"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 最小项\n\n逻辑代数基础中关于最小项的核心概念与要点。\n\n### 定义\n\n最小项是逻辑代数基础的基本组成部分。\n\n### 要点\n\n1. 理解最小项的定义\n2. 掌握最小项的计算方法\n3. 能在电路中识别和应用最小项",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-19"
+    ]
+  },
+  {
+    "id": "kp-22",
+    "slug": "最大项",
+    "title": "最大项",
+    "summary": "逻辑代数基础中的最大项，是理解和应用该章节内容的基础。",
+    "courseId": "course-2",
+    "tags": [
+      "最大项",
+      "逻辑代数基础"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 最大项\n\n逻辑代数基础中关于最大项的核心概念与要点。\n\n### 定义\n\n最大项是逻辑代数基础的基本组成部分。\n\n### 要点\n\n1. 理解最大项的定义\n2. 掌握最大项的计算方法\n3. 能在电路中识别和应用最大项",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-20"
+    ]
+  },
+  {
+    "id": "kp-23",
+    "slug": "逻辑代数基础知识点7",
+    "title": "逻辑代数基础知识点7",
+    "summary": "逻辑代数基础中的逻辑代数基础知识点7，是理解和应用该章节内容的基础。",
+    "courseId": "course-2",
+    "tags": [
+      "与或非",
+      "逻辑代数基础"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 逻辑代数基础知识点7\n\n逻辑代数基础中关于逻辑代数基础知识点7的核心概念与要点。\n\n### 定义\n\n逻辑代数基础知识点7是逻辑代数基础的基本组成部分。\n\n### 要点\n\n1. 理解逻辑代数基础知识点7的定义\n2. 掌握逻辑代数基础知识点7的计算方法\n3. 能在电路中识别和应用逻辑代数基础知识点7",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-24",
+    "slug": "逻辑代数基础知识点8",
+    "title": "逻辑代数基础知识点8",
+    "summary": "逻辑代数基础中的逻辑代数基础知识点8，是理解和应用该章节内容的基础。",
+    "courseId": "course-2",
+    "tags": [
+      "逻辑表达式",
+      "逻辑代数基础"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 逻辑代数基础知识点8\n\n逻辑代数基础中关于逻辑代数基础知识点8的核心概念与要点。\n\n### 定义\n\n逻辑代数基础知识点8是逻辑代数基础的基本组成部分。\n\n### 要点\n\n1. 理解逻辑代数基础知识点8的定义\n2. 掌握逻辑代数基础知识点8的计算方法\n3. 能在电路中识别和应用逻辑代数基础知识点8",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-25",
+    "slug": "逻辑代数基础知识点9",
+    "title": "逻辑代数基础知识点9",
+    "summary": "逻辑代数基础中的逻辑代数基础知识点9，是理解和应用该章节内容的基础。",
+    "courseId": "course-2",
+    "tags": [
+      "卡诺图",
+      "逻辑代数基础"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 逻辑代数基础知识点9\n\n逻辑代数基础中关于逻辑代数基础知识点9的核心概念与要点。\n\n### 定义\n\n逻辑代数基础知识点9是逻辑代数基础的基本组成部分。\n\n### 要点\n\n1. 理解逻辑代数基础知识点9的定义\n2. 掌握逻辑代数基础知识点9的计算方法\n3. 能在电路中识别和应用逻辑代数基础知识点9",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-26",
+    "slug": "逻辑代数基础知识点10",
+    "title": "逻辑代数基础知识点10",
+    "summary": "逻辑代数基础中的逻辑代数基础知识点10，是理解和应用该章节内容的基础。",
+    "courseId": "course-2",
+    "tags": [
+      "摩根定律",
+      "逻辑代数基础"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 逻辑代数基础知识点10\n\n逻辑代数基础中关于逻辑代数基础知识点10的核心概念与要点。\n\n### 定义\n\n逻辑代数基础知识点10是逻辑代数基础的基本组成部分。\n\n### 要点\n\n1. 理解逻辑代数基础知识点10的定义\n2. 掌握逻辑代数基础知识点10的计算方法\n3. 能在电路中识别和应用逻辑代数基础知识点10",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-27",
+    "slug": "逻辑代数基础知识点11",
+    "title": "逻辑代数基础知识点11",
+    "summary": "逻辑代数基础中的逻辑代数基础知识点11，是理解和应用该章节内容的基础。",
+    "courseId": "course-2",
+    "tags": [
+      "最小项",
+      "逻辑代数基础"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 逻辑代数基础知识点11\n\n逻辑代数基础中关于逻辑代数基础知识点11的核心概念与要点。\n\n### 定义\n\n逻辑代数基础知识点11是逻辑代数基础的基本组成部分。\n\n### 要点\n\n1. 理解逻辑代数基础知识点11的定义\n2. 掌握逻辑代数基础知识点11的计算方法\n3. 能在电路中识别和应用逻辑代数基础知识点11",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-28",
+    "slug": "逻辑代数基础知识点12",
+    "title": "逻辑代数基础知识点12",
+    "summary": "逻辑代数基础中的逻辑代数基础知识点12，是理解和应用该章节内容的基础。",
+    "courseId": "course-2",
+    "tags": [
+      "最大项",
+      "逻辑代数基础"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 逻辑代数基础知识点12\n\n逻辑代数基础中关于逻辑代数基础知识点12的核心概念与要点。\n\n### 定义\n\n逻辑代数基础知识点12是逻辑代数基础的基本组成部分。\n\n### 要点\n\n1. 理解逻辑代数基础知识点12的定义\n2. 掌握逻辑代数基础知识点12的计算方法\n3. 能在电路中识别和应用逻辑代数基础知识点12",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-29",
+    "slug": "逻辑代数基础知识点13",
+    "title": "逻辑代数基础知识点13",
+    "summary": "逻辑代数基础中的逻辑代数基础知识点13，是理解和应用该章节内容的基础。",
+    "courseId": "course-2",
+    "tags": [
+      "与或非",
+      "逻辑代数基础"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 逻辑代数基础知识点13\n\n逻辑代数基础中关于逻辑代数基础知识点13的核心概念与要点。\n\n### 定义\n\n逻辑代数基础知识点13是逻辑代数基础的基本组成部分。\n\n### 要点\n\n1. 理解逻辑代数基础知识点13的定义\n2. 掌握逻辑代数基础知识点13的计算方法\n3. 能在电路中识别和应用逻辑代数基础知识点13",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-30",
+    "slug": "逻辑代数基础知识点14",
+    "title": "逻辑代数基础知识点14",
+    "summary": "逻辑代数基础中的逻辑代数基础知识点14，是理解和应用该章节内容的基础。",
+    "courseId": "course-2",
+    "tags": [
+      "逻辑表达式",
+      "逻辑代数基础"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 逻辑代数基础知识点14\n\n逻辑代数基础中关于逻辑代数基础知识点14的核心概念与要点。\n\n### 定义\n\n逻辑代数基础知识点14是逻辑代数基础的基本组成部分。\n\n### 要点\n\n1. 理解逻辑代数基础知识点14的定义\n2. 掌握逻辑代数基础知识点14的计算方法\n3. 能在电路中识别和应用逻辑代数基础知识点14",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-31",
+    "slug": "逻辑代数基础知识点15",
+    "title": "逻辑代数基础知识点15",
+    "summary": "逻辑代数基础中的逻辑代数基础知识点15，是理解和应用该章节内容的基础。",
+    "courseId": "course-2",
+    "tags": [
+      "卡诺图",
+      "逻辑代数基础"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 逻辑代数基础知识点15\n\n逻辑代数基础中关于逻辑代数基础知识点15的核心概念与要点。\n\n### 定义\n\n逻辑代数基础知识点15是逻辑代数基础的基本组成部分。\n\n### 要点\n\n1. 理解逻辑代数基础知识点15的定义\n2. 掌握逻辑代数基础知识点15的计算方法\n3. 能在电路中识别和应用逻辑代数基础知识点15",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-32",
+    "slug": "逻辑代数基础知识点16",
+    "title": "逻辑代数基础知识点16",
+    "summary": "逻辑代数基础中的逻辑代数基础知识点16，是理解和应用该章节内容的基础。",
+    "courseId": "course-2",
+    "tags": [
+      "摩根定律",
+      "逻辑代数基础"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 逻辑代数基础知识点16\n\n逻辑代数基础中关于逻辑代数基础知识点16的核心概念与要点。\n\n### 定义\n\n逻辑代数基础知识点16是逻辑代数基础的基本组成部分。\n\n### 要点\n\n1. 理解逻辑代数基础知识点16的定义\n2. 掌握逻辑代数基础知识点16的计算方法\n3. 能在电路中识别和应用逻辑代数基础知识点16",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-33",
+    "slug": "与门",
+    "title": "与门",
+    "summary": "逻辑门电路中的与门，是理解和应用该章节内容的基础。",
+    "courseId": "course-3",
+    "tags": [
+      "与门",
+      "逻辑门电路"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 与门\n\n逻辑门电路中关于与门的核心概念与要点。\n\n### 定义\n\n与门是逻辑门电路的基本组成部分。\n\n### 要点\n\n1. 理解与门的定义\n2. 掌握与门的计算方法\n3. 能在电路中识别和应用与门",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-34",
+    "slug": "或门",
+    "title": "或门",
+    "summary": "逻辑门电路中的或门，是理解和应用该章节内容的基础。",
+    "courseId": "course-3",
+    "tags": [
+      "或门",
+      "逻辑门电路"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 或门\n\n逻辑门电路中关于或门的核心概念与要点。\n\n### 定义\n\n或门是逻辑门电路的基本组成部分。\n\n### 要点\n\n1. 理解或门的定义\n2. 掌握或门的计算方法\n3. 能在电路中识别和应用或门",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-11",
+      "g-12"
+    ]
+  },
+  {
+    "id": "kp-35",
+    "slug": "非门",
+    "title": "非门",
+    "summary": "逻辑门电路中的非门，是理解和应用该章节内容的基础。",
+    "courseId": "course-3",
+    "tags": [
+      "非门",
+      "逻辑门电路"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 非门\n\n逻辑门电路中关于非门的核心概念与要点。\n\n### 定义\n\n非门是逻辑门电路的基本组成部分。\n\n### 要点\n\n1. 理解非门的定义\n2. 掌握非门的计算方法\n3. 能在电路中识别和应用非门",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-9",
+      "g-10"
+    ]
+  },
+  {
+    "id": "kp-36",
+    "slug": "与非门",
+    "title": "与非门",
+    "summary": "逻辑门电路中的与非门，是理解和应用该章节内容的基础。",
+    "courseId": "course-3",
+    "tags": [
+      "与非门",
+      "逻辑门电路"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 与非门\n\n逻辑门电路中关于与非门的核心概念与要点。\n\n### 定义\n\n与非门是逻辑门电路的基本组成部分。\n\n### 要点\n\n1. 理解与非门的定义\n2. 掌握与非门的计算方法\n3. 能在电路中识别和应用与非门",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-9"
+    ]
+  },
+  {
+    "id": "kp-37",
+    "slug": "或非门",
+    "title": "或非门",
+    "summary": "逻辑门电路中的或非门，是理解和应用该章节内容的基础。",
+    "courseId": "course-3",
+    "tags": [
+      "或非门",
+      "逻辑门电路"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 或非门\n\n逻辑门电路中关于或非门的核心概念与要点。\n\n### 定义\n\n或非门是逻辑门电路的基本组成部分。\n\n### 要点\n\n1. 理解或非门的定义\n2. 掌握或非门的计算方法\n3. 能在电路中识别和应用或非门",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-10"
+    ]
+  },
+  {
+    "id": "kp-38",
+    "slug": "异或门",
+    "title": "异或门",
+    "summary": "逻辑门电路中的异或门，是理解和应用该章节内容的基础。",
+    "courseId": "course-3",
+    "tags": [
+      "异或门",
+      "逻辑门电路"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 异或门\n\n逻辑门电路中关于异或门的核心概念与要点。\n\n### 定义\n\n异或门是逻辑门电路的基本组成部分。\n\n### 要点\n\n1. 理解异或门的定义\n2. 掌握异或门的计算方法\n3. 能在电路中识别和应用异或门",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-11"
+    ]
+  },
+  {
+    "id": "kp-39",
+    "slug": "oc门",
+    "title": "OC门",
+    "summary": "逻辑门电路中的OC门，是理解和应用该章节内容的基础。",
+    "courseId": "course-3",
+    "tags": [
+      "OC门",
+      "逻辑门电路"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## OC门\n\n逻辑门电路中关于OC门的核心概念与要点。\n\n### 定义\n\nOC门是逻辑门电路的基本组成部分。\n\n### 要点\n\n1. 理解OC门的定义\n2. 掌握OC门的计算方法\n3. 能在电路中识别和应用OC门",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-13"
+    ]
+  },
+  {
+    "id": "kp-40",
+    "slug": "三态门",
+    "title": "三态门",
+    "summary": "逻辑门电路中的三态门，是理解和应用该章节内容的基础。",
+    "courseId": "course-3",
+    "tags": [
+      "三态门",
+      "逻辑门电路"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 三态门\n\n逻辑门电路中关于三态门的核心概念与要点。\n\n### 定义\n\n三态门是逻辑门电路的基本组成部分。\n\n### 要点\n\n1. 理解三态门的定义\n2. 掌握三态门的计算方法\n3. 能在电路中识别和应用三态门",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-14"
+    ]
+  },
+  {
+    "id": "kp-41",
+    "slug": "cmos",
+    "title": "CMOS",
+    "summary": "逻辑门电路中的CMOS，是理解和应用该章节内容的基础。",
+    "courseId": "course-3",
+    "tags": [
+      "CMOS",
+      "逻辑门电路"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## CMOS\n\n逻辑门电路中关于CMOS的核心概念与要点。\n\n### 定义\n\nCMOS是逻辑门电路的基本组成部分。\n\n### 要点\n\n1. 理解CMOS的定义\n2. 掌握CMOS的计算方法\n3. 能在电路中识别和应用CMOS",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-15"
+    ]
+  },
+  {
+    "id": "kp-42",
+    "slug": "ttl",
+    "title": "TTL",
+    "summary": "逻辑门电路中的TTL，是理解和应用该章节内容的基础。",
+    "courseId": "course-3",
+    "tags": [
+      "TTL",
+      "逻辑门电路"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## TTL\n\n逻辑门电路中关于TTL的核心概念与要点。\n\n### 定义\n\nTTL是逻辑门电路的基本组成部分。\n\n### 要点\n\n1. 理解TTL的定义\n2. 掌握TTL的计算方法\n3. 能在电路中识别和应用TTL",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-16"
+    ]
+  },
+  {
+    "id": "kp-43",
+    "slug": "逻辑门电路知识点11",
+    "title": "逻辑门电路知识点11",
+    "summary": "逻辑门电路中的逻辑门电路知识点11，是理解和应用该章节内容的基础。",
+    "courseId": "course-3",
+    "tags": [
+      "与门",
+      "逻辑门电路"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 逻辑门电路知识点11\n\n逻辑门电路中关于逻辑门电路知识点11的核心概念与要点。\n\n### 定义\n\n逻辑门电路知识点11是逻辑门电路的基本组成部分。\n\n### 要点\n\n1. 理解逻辑门电路知识点11的定义\n2. 掌握逻辑门电路知识点11的计算方法\n3. 能在电路中识别和应用逻辑门电路知识点11",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-44",
+    "slug": "逻辑门电路知识点12",
+    "title": "逻辑门电路知识点12",
+    "summary": "逻辑门电路中的逻辑门电路知识点12，是理解和应用该章节内容的基础。",
+    "courseId": "course-3",
+    "tags": [
+      "或门",
+      "逻辑门电路"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 逻辑门电路知识点12\n\n逻辑门电路中关于逻辑门电路知识点12的核心概念与要点。\n\n### 定义\n\n逻辑门电路知识点12是逻辑门电路的基本组成部分。\n\n### 要点\n\n1. 理解逻辑门电路知识点12的定义\n2. 掌握逻辑门电路知识点12的计算方法\n3. 能在电路中识别和应用逻辑门电路知识点12",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-45",
+    "slug": "逻辑门电路知识点13",
+    "title": "逻辑门电路知识点13",
+    "summary": "逻辑门电路中的逻辑门电路知识点13，是理解和应用该章节内容的基础。",
+    "courseId": "course-3",
+    "tags": [
+      "非门",
+      "逻辑门电路"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 逻辑门电路知识点13\n\n逻辑门电路中关于逻辑门电路知识点13的核心概念与要点。\n\n### 定义\n\n逻辑门电路知识点13是逻辑门电路的基本组成部分。\n\n### 要点\n\n1. 理解逻辑门电路知识点13的定义\n2. 掌握逻辑门电路知识点13的计算方法\n3. 能在电路中识别和应用逻辑门电路知识点13",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-46",
+    "slug": "逻辑门电路知识点14",
+    "title": "逻辑门电路知识点14",
+    "summary": "逻辑门电路中的逻辑门电路知识点14，是理解和应用该章节内容的基础。",
+    "courseId": "course-3",
+    "tags": [
+      "与非门",
+      "逻辑门电路"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 逻辑门电路知识点14\n\n逻辑门电路中关于逻辑门电路知识点14的核心概念与要点。\n\n### 定义\n\n逻辑门电路知识点14是逻辑门电路的基本组成部分。\n\n### 要点\n\n1. 理解逻辑门电路知识点14的定义\n2. 掌握逻辑门电路知识点14的计算方法\n3. 能在电路中识别和应用逻辑门电路知识点14",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-47",
+    "slug": "逻辑门电路知识点15",
+    "title": "逻辑门电路知识点15",
+    "summary": "逻辑门电路中的逻辑门电路知识点15，是理解和应用该章节内容的基础。",
+    "courseId": "course-3",
+    "tags": [
+      "或非门",
+      "逻辑门电路"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 逻辑门电路知识点15\n\n逻辑门电路中关于逻辑门电路知识点15的核心概念与要点。\n\n### 定义\n\n逻辑门电路知识点15是逻辑门电路的基本组成部分。\n\n### 要点\n\n1. 理解逻辑门电路知识点15的定义\n2. 掌握逻辑门电路知识点15的计算方法\n3. 能在电路中识别和应用逻辑门电路知识点15",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-48",
+    "slug": "逻辑门电路知识点16",
+    "title": "逻辑门电路知识点16",
+    "summary": "逻辑门电路中的逻辑门电路知识点16，是理解和应用该章节内容的基础。",
+    "courseId": "course-3",
+    "tags": [
+      "异或门",
+      "逻辑门电路"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 逻辑门电路知识点16\n\n逻辑门电路中关于逻辑门电路知识点16的核心概念与要点。\n\n### 定义\n\n逻辑门电路知识点16是逻辑门电路的基本组成部分。\n\n### 要点\n\n1. 理解逻辑门电路知识点16的定义\n2. 掌握逻辑门电路知识点16的计算方法\n3. 能在电路中识别和应用逻辑门电路知识点16",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-49",
+    "slug": "组合逻辑",
+    "title": "组合逻辑",
+    "summary": "组合逻辑电路中的组合逻辑，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "组合逻辑",
+      "组合逻辑电路"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 组合逻辑\n\n组合逻辑电路中关于组合逻辑的核心概念与要点。\n\n### 定义\n\n组合逻辑是组合逻辑电路的基本组成部分。\n\n### 要点\n\n1. 理解组合逻辑的定义\n2. 掌握组合逻辑的计算方法\n3. 能在电路中识别和应用组合逻辑",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-50",
+    "slug": "竞争冒险",
+    "title": "竞争冒险",
+    "summary": "组合逻辑电路中的竞争冒险，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "竞争冒险",
+      "组合逻辑电路"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 竞争冒险\n\n组合逻辑电路中关于竞争冒险的核心概念与要点。\n\n### 定义\n\n竞争冒险是组合逻辑电路的基本组成部分。\n\n### 要点\n\n1. 理解竞争冒险的定义\n2. 掌握竞争冒险的计算方法\n3. 能在电路中识别和应用竞争冒险",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-21"
+    ]
+  },
+  {
+    "id": "kp-51",
+    "slug": "消去法",
+    "title": "消去法",
+    "summary": "组合逻辑电路中的消去法，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "消去法",
+      "组合逻辑电路"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 消去法\n\n组合逻辑电路中关于消去法的核心概念与要点。\n\n### 定义\n\n消去法是组合逻辑电路的基本组成部分。\n\n### 要点\n\n1. 理解消去法的定义\n2. 掌握消去法的计算方法\n3. 能在电路中识别和应用消去法",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-52",
+    "slug": "组合逻辑电路知识点4",
+    "title": "组合逻辑电路知识点4",
+    "summary": "组合逻辑电路中的组合逻辑电路知识点4，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "组合逻辑",
+      "组合逻辑电路"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 组合逻辑电路知识点4\n\n组合逻辑电路中关于组合逻辑电路知识点4的核心概念与要点。\n\n### 定义\n\n组合逻辑电路知识点4是组合逻辑电路的基本组成部分。\n\n### 要点\n\n1. 理解组合逻辑电路知识点4的定义\n2. 掌握组合逻辑电路知识点4的计算方法\n3. 能在电路中识别和应用组合逻辑电路知识点4",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-53",
+    "slug": "组合逻辑电路知识点5",
+    "title": "组合逻辑电路知识点5",
+    "summary": "组合逻辑电路中的组合逻辑电路知识点5，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "竞争冒险",
+      "组合逻辑电路"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 组合逻辑电路知识点5\n\n组合逻辑电路中关于组合逻辑电路知识点5的核心概念与要点。\n\n### 定义\n\n组合逻辑电路知识点5是组合逻辑电路的基本组成部分。\n\n### 要点\n\n1. 理解组合逻辑电路知识点5的定义\n2. 掌握组合逻辑电路知识点5的计算方法\n3. 能在电路中识别和应用组合逻辑电路知识点5",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-54",
+    "slug": "组合逻辑电路知识点6",
+    "title": "组合逻辑电路知识点6",
+    "summary": "组合逻辑电路中的组合逻辑电路知识点6，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "消去法",
+      "组合逻辑电路"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 组合逻辑电路知识点6\n\n组合逻辑电路中关于组合逻辑电路知识点6的核心概念与要点。\n\n### 定义\n\n组合逻辑电路知识点6是组合逻辑电路的基本组成部分。\n\n### 要点\n\n1. 理解组合逻辑电路知识点6的定义\n2. 掌握组合逻辑电路知识点6的计算方法\n3. 能在电路中识别和应用组合逻辑电路知识点6",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-55",
+    "slug": "组合逻辑电路知识点7",
+    "title": "组合逻辑电路知识点7",
+    "summary": "组合逻辑电路中的组合逻辑电路知识点7，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "组合逻辑",
+      "组合逻辑电路"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 组合逻辑电路知识点7\n\n组合逻辑电路中关于组合逻辑电路知识点7的核心概念与要点。\n\n### 定义\n\n组合逻辑电路知识点7是组合逻辑电路的基本组成部分。\n\n### 要点\n\n1. 理解组合逻辑电路知识点7的定义\n2. 掌握组合逻辑电路知识点7的计算方法\n3. 能在电路中识别和应用组合逻辑电路知识点7",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-56",
+    "slug": "组合逻辑电路知识点8",
+    "title": "组合逻辑电路知识点8",
+    "summary": "组合逻辑电路中的组合逻辑电路知识点8，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "竞争冒险",
+      "组合逻辑电路"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 组合逻辑电路知识点8\n\n组合逻辑电路中关于组合逻辑电路知识点8的核心概念与要点。\n\n### 定义\n\n组合逻辑电路知识点8是组合逻辑电路的基本组成部分。\n\n### 要点\n\n1. 理解组合逻辑电路知识点8的定义\n2. 掌握组合逻辑电路知识点8的计算方法\n3. 能在电路中识别和应用组合逻辑电路知识点8",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-57",
+    "slug": "组合逻辑电路知识点9",
+    "title": "组合逻辑电路知识点9",
+    "summary": "组合逻辑电路中的组合逻辑电路知识点9，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "消去法",
+      "组合逻辑电路"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 组合逻辑电路知识点9\n\n组合逻辑电路中关于组合逻辑电路知识点9的核心概念与要点。\n\n### 定义\n\n组合逻辑电路知识点9是组合逻辑电路的基本组成部分。\n\n### 要点\n\n1. 理解组合逻辑电路知识点9的定义\n2. 掌握组合逻辑电路知识点9的计算方法\n3. 能在电路中识别和应用组合逻辑电路知识点9",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-58",
+    "slug": "组合逻辑电路知识点10",
+    "title": "组合逻辑电路知识点10",
+    "summary": "组合逻辑电路中的组合逻辑电路知识点10，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "组合逻辑",
+      "组合逻辑电路"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 组合逻辑电路知识点10\n\n组合逻辑电路中关于组合逻辑电路知识点10的核心概念与要点。\n\n### 定义\n\n组合逻辑电路知识点10是组合逻辑电路的基本组成部分。\n\n### 要点\n\n1. 理解组合逻辑电路知识点10的定义\n2. 掌握组合逻辑电路知识点10的计算方法\n3. 能在电路中识别和应用组合逻辑电路知识点10",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-59",
+    "slug": "组合逻辑电路知识点11",
+    "title": "组合逻辑电路知识点11",
+    "summary": "组合逻辑电路中的组合逻辑电路知识点11，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "竞争冒险",
+      "组合逻辑电路"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 组合逻辑电路知识点11\n\n组合逻辑电路中关于组合逻辑电路知识点11的核心概念与要点。\n\n### 定义\n\n组合逻辑电路知识点11是组合逻辑电路的基本组成部分。\n\n### 要点\n\n1. 理解组合逻辑电路知识点11的定义\n2. 掌握组合逻辑电路知识点11的计算方法\n3. 能在电路中识别和应用组合逻辑电路知识点11",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-60",
+    "slug": "组合逻辑电路知识点12",
+    "title": "组合逻辑电路知识点12",
+    "summary": "组合逻辑电路中的组合逻辑电路知识点12，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "消去法",
+      "组合逻辑电路"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 组合逻辑电路知识点12\n\n组合逻辑电路中关于组合逻辑电路知识点12的核心概念与要点。\n\n### 定义\n\n组合逻辑电路知识点12是组合逻辑电路的基本组成部分。\n\n### 要点\n\n1. 理解组合逻辑电路知识点12的定义\n2. 掌握组合逻辑电路知识点12的计算方法\n3. 能在电路中识别和应用组合逻辑电路知识点12",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-61",
+    "slug": "组合逻辑电路知识点13",
+    "title": "组合逻辑电路知识点13",
+    "summary": "组合逻辑电路中的组合逻辑电路知识点13，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "组合逻辑",
+      "组合逻辑电路"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 组合逻辑电路知识点13\n\n组合逻辑电路中关于组合逻辑电路知识点13的核心概念与要点。\n\n### 定义\n\n组合逻辑电路知识点13是组合逻辑电路的基本组成部分。\n\n### 要点\n\n1. 理解组合逻辑电路知识点13的定义\n2. 掌握组合逻辑电路知识点13的计算方法\n3. 能在电路中识别和应用组合逻辑电路知识点13",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-62",
+    "slug": "组合逻辑电路知识点14",
+    "title": "组合逻辑电路知识点14",
+    "summary": "组合逻辑电路中的组合逻辑电路知识点14，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "竞争冒险",
+      "组合逻辑电路"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 组合逻辑电路知识点14\n\n组合逻辑电路中关于组合逻辑电路知识点14的核心概念与要点。\n\n### 定义\n\n组合逻辑电路知识点14是组合逻辑电路的基本组成部分。\n\n### 要点\n\n1. 理解组合逻辑电路知识点14的定义\n2. 掌握组合逻辑电路知识点14的计算方法\n3. 能在电路中识别和应用组合逻辑电路知识点14",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-63",
+    "slug": "组合逻辑电路知识点15",
+    "title": "组合逻辑电路知识点15",
+    "summary": "组合逻辑电路中的组合逻辑电路知识点15，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "消去法",
+      "组合逻辑电路"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 组合逻辑电路知识点15\n\n组合逻辑电路中关于组合逻辑电路知识点15的核心概念与要点。\n\n### 定义\n\n组合逻辑电路知识点15是组合逻辑电路的基本组成部分。\n\n### 要点\n\n1. 理解组合逻辑电路知识点15的定义\n2. 掌握组合逻辑电路知识点15的计算方法\n3. 能在电路中识别和应用组合逻辑电路知识点15",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-64",
+    "slug": "组合逻辑电路知识点16",
+    "title": "组合逻辑电路知识点16",
+    "summary": "组合逻辑电路中的组合逻辑电路知识点16，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "组合逻辑",
+      "组合逻辑电路"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 组合逻辑电路知识点16\n\n组合逻辑电路中关于组合逻辑电路知识点16的核心概念与要点。\n\n### 定义\n\n组合逻辑电路知识点16是组合逻辑电路的基本组成部分。\n\n### 要点\n\n1. 理解组合逻辑电路知识点16的定义\n2. 掌握组合逻辑电路知识点16的计算方法\n3. 能在电路中识别和应用组合逻辑电路知识点16",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-65",
+    "slug": "编码器",
+    "title": "编码器",
+    "summary": "编码器中的编码器，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "编码器",
+      "编码器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 编码器\n\n编码器中关于编码器的核心概念与要点。\n\n### 定义\n\n编码器是编码器的基本组成部分。\n\n### 要点\n\n1. 理解编码器的定义\n2. 掌握编码器的计算方法\n3. 能在电路中识别和应用编码器",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-22",
+      "g-23"
+    ]
+  },
+  {
+    "id": "kp-66",
+    "slug": "优先编码器",
+    "title": "优先编码器",
+    "summary": "编码器中的优先编码器，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "优先编码器",
+      "编码器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 优先编码器\n\n编码器中关于优先编码器的核心概念与要点。\n\n### 定义\n\n优先编码器是编码器的基本组成部分。\n\n### 要点\n\n1. 理解优先编码器的定义\n2. 掌握优先编码器的计算方法\n3. 能在电路中识别和应用优先编码器",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-22",
+      "g-23"
+    ]
+  },
+  {
+    "id": "kp-67",
+    "slug": "8421编码",
+    "title": "8421编码",
+    "summary": "编码器中的8421编码，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "8421编码",
+      "编码器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 8421编码\n\n编码器中关于8421编码的核心概念与要点。\n\n### 定义\n\n8421编码是编码器的基本组成部分。\n\n### 要点\n\n1. 理解8421编码的定义\n2. 掌握8421编码的计算方法\n3. 能在电路中识别和应用8421编码",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-68",
+    "slug": "74ls148",
+    "title": "74LS148",
+    "summary": "编码器中的74LS148，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "74LS148",
+      "编码器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 74LS148\n\n编码器中关于74LS148的核心概念与要点。\n\n### 定义\n\n74LS148是编码器的基本组成部分。\n\n### 要点\n\n1. 理解74LS148的定义\n2. 掌握74LS148的计算方法\n3. 能在电路中识别和应用74LS148",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-69",
+    "slug": "编码器知识点5",
+    "title": "编码器知识点5",
+    "summary": "编码器中的编码器知识点5，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "编码器",
+      "编码器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 编码器知识点5\n\n编码器中关于编码器知识点5的核心概念与要点。\n\n### 定义\n\n编码器知识点5是编码器的基本组成部分。\n\n### 要点\n\n1. 理解编码器知识点5的定义\n2. 掌握编码器知识点5的计算方法\n3. 能在电路中识别和应用编码器知识点5",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-22"
+    ]
+  },
+  {
+    "id": "kp-70",
+    "slug": "编码器知识点6",
+    "title": "编码器知识点6",
+    "summary": "编码器中的编码器知识点6，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "优先编码器",
+      "编码器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 编码器知识点6\n\n编码器中关于编码器知识点6的核心概念与要点。\n\n### 定义\n\n编码器知识点6是编码器的基本组成部分。\n\n### 要点\n\n1. 理解编码器知识点6的定义\n2. 掌握编码器知识点6的计算方法\n3. 能在电路中识别和应用编码器知识点6",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-22"
+    ]
+  },
+  {
+    "id": "kp-71",
+    "slug": "编码器知识点7",
+    "title": "编码器知识点7",
+    "summary": "编码器中的编码器知识点7，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "8421编码",
+      "编码器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 编码器知识点7\n\n编码器中关于编码器知识点7的核心概念与要点。\n\n### 定义\n\n编码器知识点7是编码器的基本组成部分。\n\n### 要点\n\n1. 理解编码器知识点7的定义\n2. 掌握编码器知识点7的计算方法\n3. 能在电路中识别和应用编码器知识点7",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-22"
+    ]
+  },
+  {
+    "id": "kp-72",
+    "slug": "编码器知识点8",
+    "title": "编码器知识点8",
+    "summary": "编码器中的编码器知识点8，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "74LS148",
+      "编码器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 编码器知识点8\n\n编码器中关于编码器知识点8的核心概念与要点。\n\n### 定义\n\n编码器知识点8是编码器的基本组成部分。\n\n### 要点\n\n1. 理解编码器知识点8的定义\n2. 掌握编码器知识点8的计算方法\n3. 能在电路中识别和应用编码器知识点8",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-22"
+    ]
+  },
+  {
+    "id": "kp-73",
+    "slug": "编码器知识点9",
+    "title": "编码器知识点9",
+    "summary": "编码器中的编码器知识点9，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "编码器",
+      "编码器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 编码器知识点9\n\n编码器中关于编码器知识点9的核心概念与要点。\n\n### 定义\n\n编码器知识点9是编码器的基本组成部分。\n\n### 要点\n\n1. 理解编码器知识点9的定义\n2. 掌握编码器知识点9的计算方法\n3. 能在电路中识别和应用编码器知识点9",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-22"
+    ]
+  },
+  {
+    "id": "kp-74",
+    "slug": "编码器知识点10",
+    "title": "编码器知识点10",
+    "summary": "编码器中的编码器知识点10，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "优先编码器",
+      "编码器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 编码器知识点10\n\n编码器中关于编码器知识点10的核心概念与要点。\n\n### 定义\n\n编码器知识点10是编码器的基本组成部分。\n\n### 要点\n\n1. 理解编码器知识点10的定义\n2. 掌握编码器知识点10的计算方法\n3. 能在电路中识别和应用编码器知识点10",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-22"
+    ]
+  },
+  {
+    "id": "kp-75",
+    "slug": "编码器知识点11",
+    "title": "编码器知识点11",
+    "summary": "编码器中的编码器知识点11，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "8421编码",
+      "编码器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 编码器知识点11\n\n编码器中关于编码器知识点11的核心概念与要点。\n\n### 定义\n\n编码器知识点11是编码器的基本组成部分。\n\n### 要点\n\n1. 理解编码器知识点11的定义\n2. 掌握编码器知识点11的计算方法\n3. 能在电路中识别和应用编码器知识点11",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-22"
+    ]
+  },
+  {
+    "id": "kp-76",
+    "slug": "编码器知识点12",
+    "title": "编码器知识点12",
+    "summary": "编码器中的编码器知识点12，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "74LS148",
+      "编码器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 编码器知识点12\n\n编码器中关于编码器知识点12的核心概念与要点。\n\n### 定义\n\n编码器知识点12是编码器的基本组成部分。\n\n### 要点\n\n1. 理解编码器知识点12的定义\n2. 掌握编码器知识点12的计算方法\n3. 能在电路中识别和应用编码器知识点12",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-22"
+    ]
+  },
+  {
+    "id": "kp-77",
+    "slug": "编码器知识点13",
+    "title": "编码器知识点13",
+    "summary": "编码器中的编码器知识点13，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "编码器",
+      "编码器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 编码器知识点13\n\n编码器中关于编码器知识点13的核心概念与要点。\n\n### 定义\n\n编码器知识点13是编码器的基本组成部分。\n\n### 要点\n\n1. 理解编码器知识点13的定义\n2. 掌握编码器知识点13的计算方法\n3. 能在电路中识别和应用编码器知识点13",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-22"
+    ]
+  },
+  {
+    "id": "kp-78",
+    "slug": "编码器知识点14",
+    "title": "编码器知识点14",
+    "summary": "编码器中的编码器知识点14，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "优先编码器",
+      "编码器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 编码器知识点14\n\n编码器中关于编码器知识点14的核心概念与要点。\n\n### 定义\n\n编码器知识点14是编码器的基本组成部分。\n\n### 要点\n\n1. 理解编码器知识点14的定义\n2. 掌握编码器知识点14的计算方法\n3. 能在电路中识别和应用编码器知识点14",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-22"
+    ]
+  },
+  {
+    "id": "kp-79",
+    "slug": "编码器知识点15",
+    "title": "编码器知识点15",
+    "summary": "编码器中的编码器知识点15，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "8421编码",
+      "编码器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 编码器知识点15\n\n编码器中关于编码器知识点15的核心概念与要点。\n\n### 定义\n\n编码器知识点15是编码器的基本组成部分。\n\n### 要点\n\n1. 理解编码器知识点15的定义\n2. 掌握编码器知识点15的计算方法\n3. 能在电路中识别和应用编码器知识点15",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-22"
+    ]
+  },
+  {
+    "id": "kp-80",
+    "slug": "编码器知识点16",
+    "title": "编码器知识点16",
+    "summary": "编码器中的编码器知识点16，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "74LS148",
+      "编码器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 编码器知识点16\n\n编码器中关于编码器知识点16的核心概念与要点。\n\n### 定义\n\n编码器知识点16是编码器的基本组成部分。\n\n### 要点\n\n1. 理解编码器知识点16的定义\n2. 掌握编码器知识点16的计算方法\n3. 能在电路中识别和应用编码器知识点16",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-22"
+    ]
+  },
+  {
+    "id": "kp-81",
+    "slug": "译码器",
+    "title": "译码器",
+    "summary": "译码器中的译码器，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "译码器",
+      "译码器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 译码器\n\n译码器中关于译码器的核心概念与要点。\n\n### 定义\n\n译码器是译码器的基本组成部分。\n\n### 要点\n\n1. 理解译码器的定义\n2. 掌握译码器的计算方法\n3. 能在电路中识别和应用译码器",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-24",
+      "g-25"
+    ]
+  },
+  {
+    "id": "kp-82",
+    "slug": "3-8译码器",
+    "title": "3-8译码器",
+    "summary": "译码器中的3-8译码器，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "3-8译码器",
+      "译码器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 3-8译码器\n\n译码器中关于3-8译码器的核心概念与要点。\n\n### 定义\n\n3-8译码器是译码器的基本组成部分。\n\n### 要点\n\n1. 理解3-8译码器的定义\n2. 掌握3-8译码器的计算方法\n3. 能在电路中识别和应用3-8译码器",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-24"
+    ]
+  },
+  {
+    "id": "kp-83",
+    "slug": "七段译码器",
+    "title": "七段译码器",
+    "summary": "译码器中的七段译码器，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "七段译码器",
+      "译码器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 七段译码器\n\n译码器中关于七段译码器的核心概念与要点。\n\n### 定义\n\n七段译码器是译码器的基本组成部分。\n\n### 要点\n\n1. 理解七段译码器的定义\n2. 掌握七段译码器的计算方法\n3. 能在电路中识别和应用七段译码器",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-24",
+      "g-25"
+    ]
+  },
+  {
+    "id": "kp-84",
+    "slug": "74ls138",
+    "title": "74LS138",
+    "summary": "译码器中的74LS138，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "74LS138",
+      "译码器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 74LS138\n\n译码器中关于74LS138的核心概念与要点。\n\n### 定义\n\n74LS138是译码器的基本组成部分。\n\n### 要点\n\n1. 理解74LS138的定义\n2. 掌握74LS138的计算方法\n3. 能在电路中识别和应用74LS138",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-85",
+    "slug": "74ls48",
+    "title": "74LS48",
+    "summary": "译码器中的74LS48，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "74LS48",
+      "译码器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 74LS48\n\n译码器中关于74LS48的核心概念与要点。\n\n### 定义\n\n74LS48是译码器的基本组成部分。\n\n### 要点\n\n1. 理解74LS48的定义\n2. 掌握74LS48的计算方法\n3. 能在电路中识别和应用74LS48",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-86",
+    "slug": "译码器知识点6",
+    "title": "译码器知识点6",
+    "summary": "译码器中的译码器知识点6，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "译码器",
+      "译码器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 译码器知识点6\n\n译码器中关于译码器知识点6的核心概念与要点。\n\n### 定义\n\n译码器知识点6是译码器的基本组成部分。\n\n### 要点\n\n1. 理解译码器知识点6的定义\n2. 掌握译码器知识点6的计算方法\n3. 能在电路中识别和应用译码器知识点6",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-24"
+    ]
+  },
+  {
+    "id": "kp-87",
+    "slug": "译码器知识点7",
+    "title": "译码器知识点7",
+    "summary": "译码器中的译码器知识点7，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "3-8译码器",
+      "译码器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 译码器知识点7\n\n译码器中关于译码器知识点7的核心概念与要点。\n\n### 定义\n\n译码器知识点7是译码器的基本组成部分。\n\n### 要点\n\n1. 理解译码器知识点7的定义\n2. 掌握译码器知识点7的计算方法\n3. 能在电路中识别和应用译码器知识点7",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-24"
+    ]
+  },
+  {
+    "id": "kp-88",
+    "slug": "译码器知识点8",
+    "title": "译码器知识点8",
+    "summary": "译码器中的译码器知识点8，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "七段译码器",
+      "译码器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 译码器知识点8\n\n译码器中关于译码器知识点8的核心概念与要点。\n\n### 定义\n\n译码器知识点8是译码器的基本组成部分。\n\n### 要点\n\n1. 理解译码器知识点8的定义\n2. 掌握译码器知识点8的计算方法\n3. 能在电路中识别和应用译码器知识点8",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-24"
+    ]
+  },
+  {
+    "id": "kp-89",
+    "slug": "译码器知识点9",
+    "title": "译码器知识点9",
+    "summary": "译码器中的译码器知识点9，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "74LS138",
+      "译码器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 译码器知识点9\n\n译码器中关于译码器知识点9的核心概念与要点。\n\n### 定义\n\n译码器知识点9是译码器的基本组成部分。\n\n### 要点\n\n1. 理解译码器知识点9的定义\n2. 掌握译码器知识点9的计算方法\n3. 能在电路中识别和应用译码器知识点9",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-24"
+    ]
+  },
+  {
+    "id": "kp-90",
+    "slug": "译码器知识点10",
+    "title": "译码器知识点10",
+    "summary": "译码器中的译码器知识点10，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "74LS48",
+      "译码器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 译码器知识点10\n\n译码器中关于译码器知识点10的核心概念与要点。\n\n### 定义\n\n译码器知识点10是译码器的基本组成部分。\n\n### 要点\n\n1. 理解译码器知识点10的定义\n2. 掌握译码器知识点10的计算方法\n3. 能在电路中识别和应用译码器知识点10",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-24"
+    ]
+  },
+  {
+    "id": "kp-91",
+    "slug": "译码器知识点11",
+    "title": "译码器知识点11",
+    "summary": "译码器中的译码器知识点11，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "译码器",
+      "译码器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 译码器知识点11\n\n译码器中关于译码器知识点11的核心概念与要点。\n\n### 定义\n\n译码器知识点11是译码器的基本组成部分。\n\n### 要点\n\n1. 理解译码器知识点11的定义\n2. 掌握译码器知识点11的计算方法\n3. 能在电路中识别和应用译码器知识点11",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-24"
+    ]
+  },
+  {
+    "id": "kp-92",
+    "slug": "译码器知识点12",
+    "title": "译码器知识点12",
+    "summary": "译码器中的译码器知识点12，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "3-8译码器",
+      "译码器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 译码器知识点12\n\n译码器中关于译码器知识点12的核心概念与要点。\n\n### 定义\n\n译码器知识点12是译码器的基本组成部分。\n\n### 要点\n\n1. 理解译码器知识点12的定义\n2. 掌握译码器知识点12的计算方法\n3. 能在电路中识别和应用译码器知识点12",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-24"
+    ]
+  },
+  {
+    "id": "kp-93",
+    "slug": "译码器知识点13",
+    "title": "译码器知识点13",
+    "summary": "译码器中的译码器知识点13，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "七段译码器",
+      "译码器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 译码器知识点13\n\n译码器中关于译码器知识点13的核心概念与要点。\n\n### 定义\n\n译码器知识点13是译码器的基本组成部分。\n\n### 要点\n\n1. 理解译码器知识点13的定义\n2. 掌握译码器知识点13的计算方法\n3. 能在电路中识别和应用译码器知识点13",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-24"
+    ]
+  },
+  {
+    "id": "kp-94",
+    "slug": "译码器知识点14",
+    "title": "译码器知识点14",
+    "summary": "译码器中的译码器知识点14，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "74LS138",
+      "译码器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 译码器知识点14\n\n译码器中关于译码器知识点14的核心概念与要点。\n\n### 定义\n\n译码器知识点14是译码器的基本组成部分。\n\n### 要点\n\n1. 理解译码器知识点14的定义\n2. 掌握译码器知识点14的计算方法\n3. 能在电路中识别和应用译码器知识点14",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-24"
+    ]
+  },
+  {
+    "id": "kp-95",
+    "slug": "译码器知识点15",
+    "title": "译码器知识点15",
+    "summary": "译码器中的译码器知识点15，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "74LS48",
+      "译码器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 译码器知识点15\n\n译码器中关于译码器知识点15的核心概念与要点。\n\n### 定义\n\n译码器知识点15是译码器的基本组成部分。\n\n### 要点\n\n1. 理解译码器知识点15的定义\n2. 掌握译码器知识点15的计算方法\n3. 能在电路中识别和应用译码器知识点15",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-24"
+    ]
+  },
+  {
+    "id": "kp-96",
+    "slug": "译码器知识点16",
+    "title": "译码器知识点16",
+    "summary": "译码器中的译码器知识点16，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "译码器",
+      "译码器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 译码器知识点16\n\n译码器中关于译码器知识点16的核心概念与要点。\n\n### 定义\n\n译码器知识点16是译码器的基本组成部分。\n\n### 要点\n\n1. 理解译码器知识点16的定义\n2. 掌握译码器知识点16的计算方法\n3. 能在电路中识别和应用译码器知识点16",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-24"
+    ]
+  },
+  {
+    "id": "kp-97",
+    "slug": "数据选择器",
+    "title": "数据选择器",
+    "summary": "数据选择器中的数据选择器，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "数据选择器",
+      "数据选择器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 数据选择器\n\n数据选择器中关于数据选择器的核心概念与要点。\n\n### 定义\n\n数据选择器是数据选择器的基本组成部分。\n\n### 要点\n\n1. 理解数据选择器的定义\n2. 掌握数据选择器的计算方法\n3. 能在电路中识别和应用数据选择器",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-26"
+    ]
+  },
+  {
+    "id": "kp-98",
+    "slug": "多路选择器",
+    "title": "多路选择器",
+    "summary": "数据选择器中的多路选择器，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "多路选择器",
+      "数据选择器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 多路选择器\n\n数据选择器中关于多路选择器的核心概念与要点。\n\n### 定义\n\n多路选择器是数据选择器的基本组成部分。\n\n### 要点\n\n1. 理解多路选择器的定义\n2. 掌握多路选择器的计算方法\n3. 能在电路中识别和应用多路选择器",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-99",
+    "slug": "74ls151",
+    "title": "74LS151",
+    "summary": "数据选择器中的74LS151，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "74LS151",
+      "数据选择器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 74LS151\n\n数据选择器中关于74LS151的核心概念与要点。\n\n### 定义\n\n74LS151是数据选择器的基本组成部分。\n\n### 要点\n\n1. 理解74LS151的定义\n2. 掌握74LS151的计算方法\n3. 能在电路中识别和应用74LS151",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-100",
+    "slug": "74ls153",
+    "title": "74LS153",
+    "summary": "数据选择器中的74LS153，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "74LS153",
+      "数据选择器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 74LS153\n\n数据选择器中关于74LS153的核心概念与要点。\n\n### 定义\n\n74LS153是数据选择器的基本组成部分。\n\n### 要点\n\n1. 理解74LS153的定义\n2. 掌握74LS153的计算方法\n3. 能在电路中识别和应用74LS153",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-101",
+    "slug": "数据选择器知识点5",
+    "title": "数据选择器知识点5",
+    "summary": "数据选择器中的数据选择器知识点5，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "数据选择器",
+      "数据选择器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 数据选择器知识点5\n\n数据选择器中关于数据选择器知识点5的核心概念与要点。\n\n### 定义\n\n数据选择器知识点5是数据选择器的基本组成部分。\n\n### 要点\n\n1. 理解数据选择器知识点5的定义\n2. 掌握数据选择器知识点5的计算方法\n3. 能在电路中识别和应用数据选择器知识点5",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-26"
+    ]
+  },
+  {
+    "id": "kp-102",
+    "slug": "数据选择器知识点6",
+    "title": "数据选择器知识点6",
+    "summary": "数据选择器中的数据选择器知识点6，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "多路选择器",
+      "数据选择器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 数据选择器知识点6\n\n数据选择器中关于数据选择器知识点6的核心概念与要点。\n\n### 定义\n\n数据选择器知识点6是数据选择器的基本组成部分。\n\n### 要点\n\n1. 理解数据选择器知识点6的定义\n2. 掌握数据选择器知识点6的计算方法\n3. 能在电路中识别和应用数据选择器知识点6",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-26"
+    ]
+  },
+  {
+    "id": "kp-103",
+    "slug": "数据选择器知识点7",
+    "title": "数据选择器知识点7",
+    "summary": "数据选择器中的数据选择器知识点7，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "74LS151",
+      "数据选择器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 数据选择器知识点7\n\n数据选择器中关于数据选择器知识点7的核心概念与要点。\n\n### 定义\n\n数据选择器知识点7是数据选择器的基本组成部分。\n\n### 要点\n\n1. 理解数据选择器知识点7的定义\n2. 掌握数据选择器知识点7的计算方法\n3. 能在电路中识别和应用数据选择器知识点7",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-26"
+    ]
+  },
+  {
+    "id": "kp-104",
+    "slug": "数据选择器知识点8",
+    "title": "数据选择器知识点8",
+    "summary": "数据选择器中的数据选择器知识点8，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "74LS153",
+      "数据选择器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 数据选择器知识点8\n\n数据选择器中关于数据选择器知识点8的核心概念与要点。\n\n### 定义\n\n数据选择器知识点8是数据选择器的基本组成部分。\n\n### 要点\n\n1. 理解数据选择器知识点8的定义\n2. 掌握数据选择器知识点8的计算方法\n3. 能在电路中识别和应用数据选择器知识点8",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-26"
+    ]
+  },
+  {
+    "id": "kp-105",
+    "slug": "数据选择器知识点9",
+    "title": "数据选择器知识点9",
+    "summary": "数据选择器中的数据选择器知识点9，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "数据选择器",
+      "数据选择器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 数据选择器知识点9\n\n数据选择器中关于数据选择器知识点9的核心概念与要点。\n\n### 定义\n\n数据选择器知识点9是数据选择器的基本组成部分。\n\n### 要点\n\n1. 理解数据选择器知识点9的定义\n2. 掌握数据选择器知识点9的计算方法\n3. 能在电路中识别和应用数据选择器知识点9",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-26"
+    ]
+  },
+  {
+    "id": "kp-106",
+    "slug": "数据选择器知识点10",
+    "title": "数据选择器知识点10",
+    "summary": "数据选择器中的数据选择器知识点10，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "多路选择器",
+      "数据选择器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 数据选择器知识点10\n\n数据选择器中关于数据选择器知识点10的核心概念与要点。\n\n### 定义\n\n数据选择器知识点10是数据选择器的基本组成部分。\n\n### 要点\n\n1. 理解数据选择器知识点10的定义\n2. 掌握数据选择器知识点10的计算方法\n3. 能在电路中识别和应用数据选择器知识点10",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-26"
+    ]
+  },
+  {
+    "id": "kp-107",
+    "slug": "数据选择器知识点11",
+    "title": "数据选择器知识点11",
+    "summary": "数据选择器中的数据选择器知识点11，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "74LS151",
+      "数据选择器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 数据选择器知识点11\n\n数据选择器中关于数据选择器知识点11的核心概念与要点。\n\n### 定义\n\n数据选择器知识点11是数据选择器的基本组成部分。\n\n### 要点\n\n1. 理解数据选择器知识点11的定义\n2. 掌握数据选择器知识点11的计算方法\n3. 能在电路中识别和应用数据选择器知识点11",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-26"
+    ]
+  },
+  {
+    "id": "kp-108",
+    "slug": "数据选择器知识点12",
+    "title": "数据选择器知识点12",
+    "summary": "数据选择器中的数据选择器知识点12，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "74LS153",
+      "数据选择器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 数据选择器知识点12\n\n数据选择器中关于数据选择器知识点12的核心概念与要点。\n\n### 定义\n\n数据选择器知识点12是数据选择器的基本组成部分。\n\n### 要点\n\n1. 理解数据选择器知识点12的定义\n2. 掌握数据选择器知识点12的计算方法\n3. 能在电路中识别和应用数据选择器知识点12",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-26"
+    ]
+  },
+  {
+    "id": "kp-109",
+    "slug": "数据选择器知识点13",
+    "title": "数据选择器知识点13",
+    "summary": "数据选择器中的数据选择器知识点13，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "数据选择器",
+      "数据选择器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 数据选择器知识点13\n\n数据选择器中关于数据选择器知识点13的核心概念与要点。\n\n### 定义\n\n数据选择器知识点13是数据选择器的基本组成部分。\n\n### 要点\n\n1. 理解数据选择器知识点13的定义\n2. 掌握数据选择器知识点13的计算方法\n3. 能在电路中识别和应用数据选择器知识点13",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-26"
+    ]
+  },
+  {
+    "id": "kp-110",
+    "slug": "数据选择器知识点14",
+    "title": "数据选择器知识点14",
+    "summary": "数据选择器中的数据选择器知识点14，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "多路选择器",
+      "数据选择器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 数据选择器知识点14\n\n数据选择器中关于数据选择器知识点14的核心概念与要点。\n\n### 定义\n\n数据选择器知识点14是数据选择器的基本组成部分。\n\n### 要点\n\n1. 理解数据选择器知识点14的定义\n2. 掌握数据选择器知识点14的计算方法\n3. 能在电路中识别和应用数据选择器知识点14",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-26"
+    ]
+  },
+  {
+    "id": "kp-111",
+    "slug": "数据选择器知识点15",
+    "title": "数据选择器知识点15",
+    "summary": "数据选择器中的数据选择器知识点15，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "74LS151",
+      "数据选择器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 数据选择器知识点15\n\n数据选择器中关于数据选择器知识点15的核心概念与要点。\n\n### 定义\n\n数据选择器知识点15是数据选择器的基本组成部分。\n\n### 要点\n\n1. 理解数据选择器知识点15的定义\n2. 掌握数据选择器知识点15的计算方法\n3. 能在电路中识别和应用数据选择器知识点15",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-26"
+    ]
+  },
+  {
+    "id": "kp-112",
+    "slug": "数据选择器知识点16",
+    "title": "数据选择器知识点16",
+    "summary": "数据选择器中的数据选择器知识点16，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "74LS153",
+      "数据选择器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 数据选择器知识点16\n\n数据选择器中关于数据选择器知识点16的核心概念与要点。\n\n### 定义\n\n数据选择器知识点16是数据选择器的基本组成部分。\n\n### 要点\n\n1. 理解数据选择器知识点16的定义\n2. 掌握数据选择器知识点16的计算方法\n3. 能在电路中识别和应用数据选择器知识点16",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-26"
+    ]
+  },
+  {
+    "id": "kp-113",
+    "slug": "半加器",
+    "title": "半加器",
+    "summary": "加法器中的半加器，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "半加器",
+      "加法器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 半加器\n\n加法器中关于半加器的核心概念与要点。\n\n### 定义\n\n半加器是加法器的基本组成部分。\n\n### 要点\n\n1. 理解半加器的定义\n2. 掌握半加器的计算方法\n3. 能在电路中识别和应用半加器",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-27"
+    ]
+  },
+  {
+    "id": "kp-114",
+    "slug": "全加器",
+    "title": "全加器",
+    "summary": "加法器中的全加器，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "全加器",
+      "加法器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 全加器\n\n加法器中关于全加器的核心概念与要点。\n\n### 定义\n\n全加器是加法器的基本组成部分。\n\n### 要点\n\n1. 理解全加器的定义\n2. 掌握全加器的计算方法\n3. 能在电路中识别和应用全加器",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-28"
+    ]
+  },
+  {
+    "id": "kp-115",
+    "slug": "超前进位",
+    "title": "超前进位",
+    "summary": "加法器中的超前进位，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "超前进位",
+      "加法器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 超前进位\n\n加法器中关于超前进位的核心概念与要点。\n\n### 定义\n\n超前进位是加法器的基本组成部分。\n\n### 要点\n\n1. 理解超前进位的定义\n2. 掌握超前进位的计算方法\n3. 能在电路中识别和应用超前进位",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-29"
+    ]
+  },
+  {
+    "id": "kp-116",
+    "slug": "74ls283",
+    "title": "74LS283",
+    "summary": "加法器中的74LS283，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "74LS283",
+      "加法器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 74LS283\n\n加法器中关于74LS283的核心概念与要点。\n\n### 定义\n\n74LS283是加法器的基本组成部分。\n\n### 要点\n\n1. 理解74LS283的定义\n2. 掌握74LS283的计算方法\n3. 能在电路中识别和应用74LS283",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-117",
+    "slug": "加法器知识点5",
+    "title": "加法器知识点5",
+    "summary": "加法器中的加法器知识点5，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "半加器",
+      "加法器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 加法器知识点5\n\n加法器中关于加法器知识点5的核心概念与要点。\n\n### 定义\n\n加法器知识点5是加法器的基本组成部分。\n\n### 要点\n\n1. 理解加法器知识点5的定义\n2. 掌握加法器知识点5的计算方法\n3. 能在电路中识别和应用加法器知识点5",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-118",
+    "slug": "加法器知识点6",
+    "title": "加法器知识点6",
+    "summary": "加法器中的加法器知识点6，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "全加器",
+      "加法器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 加法器知识点6\n\n加法器中关于加法器知识点6的核心概念与要点。\n\n### 定义\n\n加法器知识点6是加法器的基本组成部分。\n\n### 要点\n\n1. 理解加法器知识点6的定义\n2. 掌握加法器知识点6的计算方法\n3. 能在电路中识别和应用加法器知识点6",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-119",
+    "slug": "加法器知识点7",
+    "title": "加法器知识点7",
+    "summary": "加法器中的加法器知识点7，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "超前进位",
+      "加法器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 加法器知识点7\n\n加法器中关于加法器知识点7的核心概念与要点。\n\n### 定义\n\n加法器知识点7是加法器的基本组成部分。\n\n### 要点\n\n1. 理解加法器知识点7的定义\n2. 掌握加法器知识点7的计算方法\n3. 能在电路中识别和应用加法器知识点7",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-120",
+    "slug": "加法器知识点8",
+    "title": "加法器知识点8",
+    "summary": "加法器中的加法器知识点8，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "74LS283",
+      "加法器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 加法器知识点8\n\n加法器中关于加法器知识点8的核心概念与要点。\n\n### 定义\n\n加法器知识点8是加法器的基本组成部分。\n\n### 要点\n\n1. 理解加法器知识点8的定义\n2. 掌握加法器知识点8的计算方法\n3. 能在电路中识别和应用加法器知识点8",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-121",
+    "slug": "加法器知识点9",
+    "title": "加法器知识点9",
+    "summary": "加法器中的加法器知识点9，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "半加器",
+      "加法器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 加法器知识点9\n\n加法器中关于加法器知识点9的核心概念与要点。\n\n### 定义\n\n加法器知识点9是加法器的基本组成部分。\n\n### 要点\n\n1. 理解加法器知识点9的定义\n2. 掌握加法器知识点9的计算方法\n3. 能在电路中识别和应用加法器知识点9",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-122",
+    "slug": "加法器知识点10",
+    "title": "加法器知识点10",
+    "summary": "加法器中的加法器知识点10，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "全加器",
+      "加法器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 加法器知识点10\n\n加法器中关于加法器知识点10的核心概念与要点。\n\n### 定义\n\n加法器知识点10是加法器的基本组成部分。\n\n### 要点\n\n1. 理解加法器知识点10的定义\n2. 掌握加法器知识点10的计算方法\n3. 能在电路中识别和应用加法器知识点10",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-123",
+    "slug": "加法器知识点11",
+    "title": "加法器知识点11",
+    "summary": "加法器中的加法器知识点11，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "超前进位",
+      "加法器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 加法器知识点11\n\n加法器中关于加法器知识点11的核心概念与要点。\n\n### 定义\n\n加法器知识点11是加法器的基本组成部分。\n\n### 要点\n\n1. 理解加法器知识点11的定义\n2. 掌握加法器知识点11的计算方法\n3. 能在电路中识别和应用加法器知识点11",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-124",
+    "slug": "加法器知识点12",
+    "title": "加法器知识点12",
+    "summary": "加法器中的加法器知识点12，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "74LS283",
+      "加法器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 加法器知识点12\n\n加法器中关于加法器知识点12的核心概念与要点。\n\n### 定义\n\n加法器知识点12是加法器的基本组成部分。\n\n### 要点\n\n1. 理解加法器知识点12的定义\n2. 掌握加法器知识点12的计算方法\n3. 能在电路中识别和应用加法器知识点12",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-125",
+    "slug": "加法器知识点13",
+    "title": "加法器知识点13",
+    "summary": "加法器中的加法器知识点13，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "半加器",
+      "加法器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 加法器知识点13\n\n加法器中关于加法器知识点13的核心概念与要点。\n\n### 定义\n\n加法器知识点13是加法器的基本组成部分。\n\n### 要点\n\n1. 理解加法器知识点13的定义\n2. 掌握加法器知识点13的计算方法\n3. 能在电路中识别和应用加法器知识点13",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-126",
+    "slug": "加法器知识点14",
+    "title": "加法器知识点14",
+    "summary": "加法器中的加法器知识点14，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "全加器",
+      "加法器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 加法器知识点14\n\n加法器中关于加法器知识点14的核心概念与要点。\n\n### 定义\n\n加法器知识点14是加法器的基本组成部分。\n\n### 要点\n\n1. 理解加法器知识点14的定义\n2. 掌握加法器知识点14的计算方法\n3. 能在电路中识别和应用加法器知识点14",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-127",
+    "slug": "加法器知识点15",
+    "title": "加法器知识点15",
+    "summary": "加法器中的加法器知识点15，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "超前进位",
+      "加法器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 加法器知识点15\n\n加法器中关于加法器知识点15的核心概念与要点。\n\n### 定义\n\n加法器知识点15是加法器的基本组成部分。\n\n### 要点\n\n1. 理解加法器知识点15的定义\n2. 掌握加法器知识点15的计算方法\n3. 能在电路中识别和应用加法器知识点15",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-128",
+    "slug": "加法器知识点16",
+    "title": "加法器知识点16",
+    "summary": "加法器中的加法器知识点16，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "74LS283",
+      "加法器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 加法器知识点16\n\n加法器中关于加法器知识点16的核心概念与要点。\n\n### 定义\n\n加法器知识点16是加法器的基本组成部分。\n\n### 要点\n\n1. 理解加法器知识点16的定义\n2. 掌握加法器知识点16的计算方法\n3. 能在电路中识别和应用加法器知识点16",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-129",
+    "slug": "比较器",
+    "title": "比较器",
+    "summary": "比较器中的比较器，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "比较器",
+      "比较器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 比较器\n\n比较器中关于比较器的核心概念与要点。\n\n### 定义\n\n比较器是比较器的基本组成部分。\n\n### 要点\n\n1. 理解比较器的定义\n2. 掌握比较器的计算方法\n3. 能在电路中识别和应用比较器",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-30"
+    ]
+  },
+  {
+    "id": "kp-130",
+    "slug": "数值比较",
+    "title": "数值比较",
+    "summary": "比较器中的数值比较，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "数值比较",
+      "比较器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 数值比较\n\n比较器中关于数值比较的核心概念与要点。\n\n### 定义\n\n数值比较是比较器的基本组成部分。\n\n### 要点\n\n1. 理解数值比较的定义\n2. 掌握数值比较的计算方法\n3. 能在电路中识别和应用数值比较",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-30"
+    ]
+  },
+  {
+    "id": "kp-131",
+    "slug": "74ls85",
+    "title": "74LS85",
+    "summary": "比较器中的74LS85，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "74LS85",
+      "比较器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 74LS85\n\n比较器中关于74LS85的核心概念与要点。\n\n### 定义\n\n74LS85是比较器的基本组成部分。\n\n### 要点\n\n1. 理解74LS85的定义\n2. 掌握74LS85的计算方法\n3. 能在电路中识别和应用74LS85",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-132",
+    "slug": "比较器知识点4",
+    "title": "比较器知识点4",
+    "summary": "比较器中的比较器知识点4，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "比较器",
+      "比较器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 比较器知识点4\n\n比较器中关于比较器知识点4的核心概念与要点。\n\n### 定义\n\n比较器知识点4是比较器的基本组成部分。\n\n### 要点\n\n1. 理解比较器知识点4的定义\n2. 掌握比较器知识点4的计算方法\n3. 能在电路中识别和应用比较器知识点4",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-133",
+    "slug": "比较器知识点5",
+    "title": "比较器知识点5",
+    "summary": "比较器中的比较器知识点5，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "数值比较",
+      "比较器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 比较器知识点5\n\n比较器中关于比较器知识点5的核心概念与要点。\n\n### 定义\n\n比较器知识点5是比较器的基本组成部分。\n\n### 要点\n\n1. 理解比较器知识点5的定义\n2. 掌握比较器知识点5的计算方法\n3. 能在电路中识别和应用比较器知识点5",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-134",
+    "slug": "比较器知识点6",
+    "title": "比较器知识点6",
+    "summary": "比较器中的比较器知识点6，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "74LS85",
+      "比较器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 比较器知识点6\n\n比较器中关于比较器知识点6的核心概念与要点。\n\n### 定义\n\n比较器知识点6是比较器的基本组成部分。\n\n### 要点\n\n1. 理解比较器知识点6的定义\n2. 掌握比较器知识点6的计算方法\n3. 能在电路中识别和应用比较器知识点6",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-135",
+    "slug": "比较器知识点7",
+    "title": "比较器知识点7",
+    "summary": "比较器中的比较器知识点7，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "比较器",
+      "比较器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 比较器知识点7\n\n比较器中关于比较器知识点7的核心概念与要点。\n\n### 定义\n\n比较器知识点7是比较器的基本组成部分。\n\n### 要点\n\n1. 理解比较器知识点7的定义\n2. 掌握比较器知识点7的计算方法\n3. 能在电路中识别和应用比较器知识点7",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-136",
+    "slug": "比较器知识点8",
+    "title": "比较器知识点8",
+    "summary": "比较器中的比较器知识点8，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "数值比较",
+      "比较器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 比较器知识点8\n\n比较器中关于比较器知识点8的核心概念与要点。\n\n### 定义\n\n比较器知识点8是比较器的基本组成部分。\n\n### 要点\n\n1. 理解比较器知识点8的定义\n2. 掌握比较器知识点8的计算方法\n3. 能在电路中识别和应用比较器知识点8",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-137",
+    "slug": "比较器知识点9",
+    "title": "比较器知识点9",
+    "summary": "比较器中的比较器知识点9，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "74LS85",
+      "比较器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 比较器知识点9\n\n比较器中关于比较器知识点9的核心概念与要点。\n\n### 定义\n\n比较器知识点9是比较器的基本组成部分。\n\n### 要点\n\n1. 理解比较器知识点9的定义\n2. 掌握比较器知识点9的计算方法\n3. 能在电路中识别和应用比较器知识点9",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-138",
+    "slug": "比较器知识点10",
+    "title": "比较器知识点10",
+    "summary": "比较器中的比较器知识点10，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "比较器",
+      "比较器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 比较器知识点10\n\n比较器中关于比较器知识点10的核心概念与要点。\n\n### 定义\n\n比较器知识点10是比较器的基本组成部分。\n\n### 要点\n\n1. 理解比较器知识点10的定义\n2. 掌握比较器知识点10的计算方法\n3. 能在电路中识别和应用比较器知识点10",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-139",
+    "slug": "比较器知识点11",
+    "title": "比较器知识点11",
+    "summary": "比较器中的比较器知识点11，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "数值比较",
+      "比较器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 比较器知识点11\n\n比较器中关于比较器知识点11的核心概念与要点。\n\n### 定义\n\n比较器知识点11是比较器的基本组成部分。\n\n### 要点\n\n1. 理解比较器知识点11的定义\n2. 掌握比较器知识点11的计算方法\n3. 能在电路中识别和应用比较器知识点11",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-140",
+    "slug": "比较器知识点12",
+    "title": "比较器知识点12",
+    "summary": "比较器中的比较器知识点12，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "74LS85",
+      "比较器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 比较器知识点12\n\n比较器中关于比较器知识点12的核心概念与要点。\n\n### 定义\n\n比较器知识点12是比较器的基本组成部分。\n\n### 要点\n\n1. 理解比较器知识点12的定义\n2. 掌握比较器知识点12的计算方法\n3. 能在电路中识别和应用比较器知识点12",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-141",
+    "slug": "比较器知识点13",
+    "title": "比较器知识点13",
+    "summary": "比较器中的比较器知识点13，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "比较器",
+      "比较器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 比较器知识点13\n\n比较器中关于比较器知识点13的核心概念与要点。\n\n### 定义\n\n比较器知识点13是比较器的基本组成部分。\n\n### 要点\n\n1. 理解比较器知识点13的定义\n2. 掌握比较器知识点13的计算方法\n3. 能在电路中识别和应用比较器知识点13",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-142",
+    "slug": "比较器知识点14",
+    "title": "比较器知识点14",
+    "summary": "比较器中的比较器知识点14，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "数值比较",
+      "比较器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 比较器知识点14\n\n比较器中关于比较器知识点14的核心概念与要点。\n\n### 定义\n\n比较器知识点14是比较器的基本组成部分。\n\n### 要点\n\n1. 理解比较器知识点14的定义\n2. 掌握比较器知识点14的计算方法\n3. 能在电路中识别和应用比较器知识点14",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-143",
+    "slug": "比较器知识点15",
+    "title": "比较器知识点15",
+    "summary": "比较器中的比较器知识点15，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "74LS85",
+      "比较器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 比较器知识点15\n\n比较器中关于比较器知识点15的核心概念与要点。\n\n### 定义\n\n比较器知识点15是比较器的基本组成部分。\n\n### 要点\n\n1. 理解比较器知识点15的定义\n2. 掌握比较器知识点15的计算方法\n3. 能在电路中识别和应用比较器知识点15",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-144",
+    "slug": "比较器知识点16",
+    "title": "比较器知识点16",
+    "summary": "比较器中的比较器知识点16，是理解和应用该章节内容的基础。",
+    "courseId": "course-4",
+    "tags": [
+      "比较器",
+      "比较器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 比较器知识点16\n\n比较器中关于比较器知识点16的核心概念与要点。\n\n### 定义\n\n比较器知识点16是比较器的基本组成部分。\n\n### 要点\n\n1. 理解比较器知识点16的定义\n2. 掌握比较器知识点16的计算方法\n3. 能在电路中识别和应用比较器知识点16",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-145",
+    "slug": "rs触发器",
+    "title": "RS触发器",
+    "summary": "触发器中的RS触发器，是理解和应用该章节内容的基础。",
+    "courseId": "course-5",
+    "tags": [
+      "RS触发器",
+      "触发器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## RS触发器\n\n触发器中关于RS触发器的核心概念与要点。\n\n### 定义\n\nRS触发器是触发器的基本组成部分。\n\n### 要点\n\n1. 理解RS触发器的定义\n2. 掌握RS触发器的计算方法\n3. 能在电路中识别和应用RS触发器",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-31"
+    ]
+  },
+  {
+    "id": "kp-146",
+    "slug": "jk触发器",
+    "title": "JK触发器",
+    "summary": "触发器中的JK触发器，是理解和应用该章节内容的基础。",
+    "courseId": "course-5",
+    "tags": [
+      "JK触发器",
+      "触发器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## JK触发器\n\n触发器中关于JK触发器的核心概念与要点。\n\n### 定义\n\nJK触发器是触发器的基本组成部分。\n\n### 要点\n\n1. 理解JK触发器的定义\n2. 掌握JK触发器的计算方法\n3. 能在电路中识别和应用JK触发器",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-32"
+    ]
+  },
+  {
+    "id": "kp-147",
+    "slug": "d触发器",
+    "title": "D触发器",
+    "summary": "触发器中的D触发器，是理解和应用该章节内容的基础。",
+    "courseId": "course-5",
+    "tags": [
+      "D触发器",
+      "触发器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## D触发器\n\n触发器中关于D触发器的核心概念与要点。\n\n### 定义\n\nD触发器是触发器的基本组成部分。\n\n### 要点\n\n1. 理解D触发器的定义\n2. 掌握D触发器的计算方法\n3. 能在电路中识别和应用D触发器",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-33"
+    ]
+  },
+  {
+    "id": "kp-148",
+    "slug": "t触发器",
+    "title": "T触发器",
+    "summary": "触发器中的T触发器，是理解和应用该章节内容的基础。",
+    "courseId": "course-5",
+    "tags": [
+      "T触发器",
+      "触发器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## T触发器\n\n触发器中关于T触发器的核心概念与要点。\n\n### 定义\n\nT触发器是触发器的基本组成部分。\n\n### 要点\n\n1. 理解T触发器的定义\n2. 掌握T触发器的计算方法\n3. 能在电路中识别和应用T触发器",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-34"
+    ]
+  },
+  {
+    "id": "kp-149",
+    "slug": "边沿触发",
+    "title": "边沿触发",
+    "summary": "触发器中的边沿触发，是理解和应用该章节内容的基础。",
+    "courseId": "course-5",
+    "tags": [
+      "边沿触发",
+      "触发器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 边沿触发\n\n触发器中关于边沿触发的核心概念与要点。\n\n### 定义\n\n边沿触发是触发器的基本组成部分。\n\n### 要点\n\n1. 理解边沿触发的定义\n2. 掌握边沿触发的计算方法\n3. 能在电路中识别和应用边沿触发",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-35"
+    ]
+  },
+  {
+    "id": "kp-150",
+    "slug": "电平触发",
+    "title": "电平触发",
+    "summary": "触发器中的电平触发，是理解和应用该章节内容的基础。",
+    "courseId": "course-5",
+    "tags": [
+      "电平触发",
+      "触发器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 电平触发\n\n触发器中关于电平触发的核心概念与要点。\n\n### 定义\n\n电平触发是触发器的基本组成部分。\n\n### 要点\n\n1. 理解电平触发的定义\n2. 掌握电平触发的计算方法\n3. 能在电路中识别和应用电平触发",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-36"
+    ]
+  },
+  {
+    "id": "kp-151",
+    "slug": "触发器知识点7",
+    "title": "触发器知识点7",
+    "summary": "触发器中的触发器知识点7，是理解和应用该章节内容的基础。",
+    "courseId": "course-5",
+    "tags": [
+      "RS触发器",
+      "触发器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 触发器知识点7\n\n触发器中关于触发器知识点7的核心概念与要点。\n\n### 定义\n\n触发器知识点7是触发器的基本组成部分。\n\n### 要点\n\n1. 理解触发器知识点7的定义\n2. 掌握触发器知识点7的计算方法\n3. 能在电路中识别和应用触发器知识点7",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-152",
+    "slug": "触发器知识点8",
+    "title": "触发器知识点8",
+    "summary": "触发器中的触发器知识点8，是理解和应用该章节内容的基础。",
+    "courseId": "course-5",
+    "tags": [
+      "JK触发器",
+      "触发器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 触发器知识点8\n\n触发器中关于触发器知识点8的核心概念与要点。\n\n### 定义\n\n触发器知识点8是触发器的基本组成部分。\n\n### 要点\n\n1. 理解触发器知识点8的定义\n2. 掌握触发器知识点8的计算方法\n3. 能在电路中识别和应用触发器知识点8",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-153",
+    "slug": "触发器知识点9",
+    "title": "触发器知识点9",
+    "summary": "触发器中的触发器知识点9，是理解和应用该章节内容的基础。",
+    "courseId": "course-5",
+    "tags": [
+      "D触发器",
+      "触发器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 触发器知识点9\n\n触发器中关于触发器知识点9的核心概念与要点。\n\n### 定义\n\n触发器知识点9是触发器的基本组成部分。\n\n### 要点\n\n1. 理解触发器知识点9的定义\n2. 掌握触发器知识点9的计算方法\n3. 能在电路中识别和应用触发器知识点9",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-154",
+    "slug": "触发器知识点10",
+    "title": "触发器知识点10",
+    "summary": "触发器中的触发器知识点10，是理解和应用该章节内容的基础。",
+    "courseId": "course-5",
+    "tags": [
+      "T触发器",
+      "触发器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 触发器知识点10\n\n触发器中关于触发器知识点10的核心概念与要点。\n\n### 定义\n\n触发器知识点10是触发器的基本组成部分。\n\n### 要点\n\n1. 理解触发器知识点10的定义\n2. 掌握触发器知识点10的计算方法\n3. 能在电路中识别和应用触发器知识点10",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-155",
+    "slug": "触发器知识点11",
+    "title": "触发器知识点11",
+    "summary": "触发器中的触发器知识点11，是理解和应用该章节内容的基础。",
+    "courseId": "course-5",
+    "tags": [
+      "边沿触发",
+      "触发器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 触发器知识点11\n\n触发器中关于触发器知识点11的核心概念与要点。\n\n### 定义\n\n触发器知识点11是触发器的基本组成部分。\n\n### 要点\n\n1. 理解触发器知识点11的定义\n2. 掌握触发器知识点11的计算方法\n3. 能在电路中识别和应用触发器知识点11",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-156",
+    "slug": "触发器知识点12",
+    "title": "触发器知识点12",
+    "summary": "触发器中的触发器知识点12，是理解和应用该章节内容的基础。",
+    "courseId": "course-5",
+    "tags": [
+      "电平触发",
+      "触发器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 触发器知识点12\n\n触发器中关于触发器知识点12的核心概念与要点。\n\n### 定义\n\n触发器知识点12是触发器的基本组成部分。\n\n### 要点\n\n1. 理解触发器知识点12的定义\n2. 掌握触发器知识点12的计算方法\n3. 能在电路中识别和应用触发器知识点12",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-157",
+    "slug": "触发器知识点13",
+    "title": "触发器知识点13",
+    "summary": "触发器中的触发器知识点13，是理解和应用该章节内容的基础。",
+    "courseId": "course-5",
+    "tags": [
+      "RS触发器",
+      "触发器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 触发器知识点13\n\n触发器中关于触发器知识点13的核心概念与要点。\n\n### 定义\n\n触发器知识点13是触发器的基本组成部分。\n\n### 要点\n\n1. 理解触发器知识点13的定义\n2. 掌握触发器知识点13的计算方法\n3. 能在电路中识别和应用触发器知识点13",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-158",
+    "slug": "触发器知识点14",
+    "title": "触发器知识点14",
+    "summary": "触发器中的触发器知识点14，是理解和应用该章节内容的基础。",
+    "courseId": "course-5",
+    "tags": [
+      "JK触发器",
+      "触发器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 触发器知识点14\n\n触发器中关于触发器知识点14的核心概念与要点。\n\n### 定义\n\n触发器知识点14是触发器的基本组成部分。\n\n### 要点\n\n1. 理解触发器知识点14的定义\n2. 掌握触发器知识点14的计算方法\n3. 能在电路中识别和应用触发器知识点14",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-159",
+    "slug": "触发器知识点15",
+    "title": "触发器知识点15",
+    "summary": "触发器中的触发器知识点15，是理解和应用该章节内容的基础。",
+    "courseId": "course-5",
+    "tags": [
+      "D触发器",
+      "触发器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 触发器知识点15\n\n触发器中关于触发器知识点15的核心概念与要点。\n\n### 定义\n\n触发器知识点15是触发器的基本组成部分。\n\n### 要点\n\n1. 理解触发器知识点15的定义\n2. 掌握触发器知识点15的计算方法\n3. 能在电路中识别和应用触发器知识点15",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-160",
+    "slug": "触发器知识点16",
+    "title": "触发器知识点16",
+    "summary": "触发器中的触发器知识点16，是理解和应用该章节内容的基础。",
+    "courseId": "course-5",
+    "tags": [
+      "T触发器",
+      "触发器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 触发器知识点16\n\n触发器中关于触发器知识点16的核心概念与要点。\n\n### 定义\n\n触发器知识点16是触发器的基本组成部分。\n\n### 要点\n\n1. 理解触发器知识点16的定义\n2. 掌握触发器知识点16的计算方法\n3. 能在电路中识别和应用触发器知识点16",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-161",
+    "slug": "计数器",
+    "title": "计数器",
+    "summary": "计数器中的计数器，是理解和应用该章节内容的基础。",
+    "courseId": "course-5",
+    "tags": [
+      "计数器",
+      "计数器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 计数器\n\n计数器中关于计数器的核心概念与要点。\n\n### 定义\n\n计数器是计数器的基本组成部分。\n\n### 要点\n\n1. 理解计数器的定义\n2. 掌握计数器的计算方法\n3. 能在电路中识别和应用计数器",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-37",
+      "g-38",
+      "g-39"
+    ]
+  },
+  {
+    "id": "kp-162",
+    "slug": "同步计数",
+    "title": "同步计数",
+    "summary": "计数器中的同步计数，是理解和应用该章节内容的基础。",
+    "courseId": "course-5",
+    "tags": [
+      "同步计数",
+      "计数器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 同步计数\n\n计数器中关于同步计数的核心概念与要点。\n\n### 定义\n\n同步计数是计数器的基本组成部分。\n\n### 要点\n\n1. 理解同步计数的定义\n2. 掌握同步计数的计算方法\n3. 能在电路中识别和应用同步计数",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-38"
+    ]
+  },
+  {
+    "id": "kp-163",
+    "slug": "异步计数",
+    "title": "异步计数",
+    "summary": "计数器中的异步计数，是理解和应用该章节内容的基础。",
+    "courseId": "course-5",
+    "tags": [
+      "异步计数",
+      "计数器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 异步计数\n\n计数器中关于异步计数的核心概念与要点。\n\n### 定义\n\n异步计数是计数器的基本组成部分。\n\n### 要点\n\n1. 理解异步计数的定义\n2. 掌握异步计数的计算方法\n3. 能在电路中识别和应用异步计数",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-39"
+    ]
+  },
+  {
+    "id": "kp-164",
+    "slug": "进制计数",
+    "title": "进制计数",
+    "summary": "计数器中的进制计数，是理解和应用该章节内容的基础。",
+    "courseId": "course-5",
+    "tags": [
+      "进制计数",
+      "计数器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 进制计数\n\n计数器中关于进制计数的核心概念与要点。\n\n### 定义\n\n进制计数是计数器的基本组成部分。\n\n### 要点\n\n1. 理解进制计数的定义\n2. 掌握进制计数的计算方法\n3. 能在电路中识别和应用进制计数",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-165",
+    "slug": "74ls161",
+    "title": "74LS161",
+    "summary": "计数器中的74LS161，是理解和应用该章节内容的基础。",
+    "courseId": "course-5",
+    "tags": [
+      "74LS161",
+      "计数器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 74LS161\n\n计数器中关于74LS161的核心概念与要点。\n\n### 定义\n\n74LS161是计数器的基本组成部分。\n\n### 要点\n\n1. 理解74LS161的定义\n2. 掌握74LS161的计算方法\n3. 能在电路中识别和应用74LS161",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-166",
+    "slug": "74ls160",
+    "title": "74LS160",
+    "summary": "计数器中的74LS160，是理解和应用该章节内容的基础。",
+    "courseId": "course-5",
+    "tags": [
+      "74LS160",
+      "计数器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 74LS160\n\n计数器中关于74LS160的核心概念与要点。\n\n### 定义\n\n74LS160是计数器的基本组成部分。\n\n### 要点\n\n1. 理解74LS160的定义\n2. 掌握74LS160的计算方法\n3. 能在电路中识别和应用74LS160",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-167",
+    "slug": "计数器知识点7",
+    "title": "计数器知识点7",
+    "summary": "计数器中的计数器知识点7，是理解和应用该章节内容的基础。",
+    "courseId": "course-5",
+    "tags": [
+      "计数器",
+      "计数器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 计数器知识点7\n\n计数器中关于计数器知识点7的核心概念与要点。\n\n### 定义\n\n计数器知识点7是计数器的基本组成部分。\n\n### 要点\n\n1. 理解计数器知识点7的定义\n2. 掌握计数器知识点7的计算方法\n3. 能在电路中识别和应用计数器知识点7",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-37"
+    ]
+  },
+  {
+    "id": "kp-168",
+    "slug": "计数器知识点8",
+    "title": "计数器知识点8",
+    "summary": "计数器中的计数器知识点8，是理解和应用该章节内容的基础。",
+    "courseId": "course-5",
+    "tags": [
+      "同步计数",
+      "计数器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 计数器知识点8\n\n计数器中关于计数器知识点8的核心概念与要点。\n\n### 定义\n\n计数器知识点8是计数器的基本组成部分。\n\n### 要点\n\n1. 理解计数器知识点8的定义\n2. 掌握计数器知识点8的计算方法\n3. 能在电路中识别和应用计数器知识点8",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-37"
+    ]
+  },
+  {
+    "id": "kp-169",
+    "slug": "计数器知识点9",
+    "title": "计数器知识点9",
+    "summary": "计数器中的计数器知识点9，是理解和应用该章节内容的基础。",
+    "courseId": "course-5",
+    "tags": [
+      "异步计数",
+      "计数器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 计数器知识点9\n\n计数器中关于计数器知识点9的核心概念与要点。\n\n### 定义\n\n计数器知识点9是计数器的基本组成部分。\n\n### 要点\n\n1. 理解计数器知识点9的定义\n2. 掌握计数器知识点9的计算方法\n3. 能在电路中识别和应用计数器知识点9",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-37"
+    ]
+  },
+  {
+    "id": "kp-170",
+    "slug": "计数器知识点10",
+    "title": "计数器知识点10",
+    "summary": "计数器中的计数器知识点10，是理解和应用该章节内容的基础。",
+    "courseId": "course-5",
+    "tags": [
+      "进制计数",
+      "计数器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 计数器知识点10\n\n计数器中关于计数器知识点10的核心概念与要点。\n\n### 定义\n\n计数器知识点10是计数器的基本组成部分。\n\n### 要点\n\n1. 理解计数器知识点10的定义\n2. 掌握计数器知识点10的计算方法\n3. 能在电路中识别和应用计数器知识点10",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-37"
+    ]
+  },
+  {
+    "id": "kp-171",
+    "slug": "计数器知识点11",
+    "title": "计数器知识点11",
+    "summary": "计数器中的计数器知识点11，是理解和应用该章节内容的基础。",
+    "courseId": "course-5",
+    "tags": [
+      "74LS161",
+      "计数器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 计数器知识点11\n\n计数器中关于计数器知识点11的核心概念与要点。\n\n### 定义\n\n计数器知识点11是计数器的基本组成部分。\n\n### 要点\n\n1. 理解计数器知识点11的定义\n2. 掌握计数器知识点11的计算方法\n3. 能在电路中识别和应用计数器知识点11",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-37"
+    ]
+  },
+  {
+    "id": "kp-172",
+    "slug": "计数器知识点12",
+    "title": "计数器知识点12",
+    "summary": "计数器中的计数器知识点12，是理解和应用该章节内容的基础。",
+    "courseId": "course-5",
+    "tags": [
+      "74LS160",
+      "计数器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 计数器知识点12\n\n计数器中关于计数器知识点12的核心概念与要点。\n\n### 定义\n\n计数器知识点12是计数器的基本组成部分。\n\n### 要点\n\n1. 理解计数器知识点12的定义\n2. 掌握计数器知识点12的计算方法\n3. 能在电路中识别和应用计数器知识点12",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-37"
+    ]
+  },
+  {
+    "id": "kp-173",
+    "slug": "计数器知识点13",
+    "title": "计数器知识点13",
+    "summary": "计数器中的计数器知识点13，是理解和应用该章节内容的基础。",
+    "courseId": "course-5",
+    "tags": [
+      "计数器",
+      "计数器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 计数器知识点13\n\n计数器中关于计数器知识点13的核心概念与要点。\n\n### 定义\n\n计数器知识点13是计数器的基本组成部分。\n\n### 要点\n\n1. 理解计数器知识点13的定义\n2. 掌握计数器知识点13的计算方法\n3. 能在电路中识别和应用计数器知识点13",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-37"
+    ]
+  },
+  {
+    "id": "kp-174",
+    "slug": "计数器知识点14",
+    "title": "计数器知识点14",
+    "summary": "计数器中的计数器知识点14，是理解和应用该章节内容的基础。",
+    "courseId": "course-5",
+    "tags": [
+      "同步计数",
+      "计数器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 计数器知识点14\n\n计数器中关于计数器知识点14的核心概念与要点。\n\n### 定义\n\n计数器知识点14是计数器的基本组成部分。\n\n### 要点\n\n1. 理解计数器知识点14的定义\n2. 掌握计数器知识点14的计算方法\n3. 能在电路中识别和应用计数器知识点14",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-37"
+    ]
+  },
+  {
+    "id": "kp-175",
+    "slug": "计数器知识点15",
+    "title": "计数器知识点15",
+    "summary": "计数器中的计数器知识点15，是理解和应用该章节内容的基础。",
+    "courseId": "course-5",
+    "tags": [
+      "异步计数",
+      "计数器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 计数器知识点15\n\n计数器中关于计数器知识点15的核心概念与要点。\n\n### 定义\n\n计数器知识点15是计数器的基本组成部分。\n\n### 要点\n\n1. 理解计数器知识点15的定义\n2. 掌握计数器知识点15的计算方法\n3. 能在电路中识别和应用计数器知识点15",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-37"
+    ]
+  },
+  {
+    "id": "kp-176",
+    "slug": "计数器知识点16",
+    "title": "计数器知识点16",
+    "summary": "计数器中的计数器知识点16，是理解和应用该章节内容的基础。",
+    "courseId": "course-5",
+    "tags": [
+      "进制计数",
+      "计数器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 计数器知识点16\n\n计数器中关于计数器知识点16的核心概念与要点。\n\n### 定义\n\n计数器知识点16是计数器的基本组成部分。\n\n### 要点\n\n1. 理解计数器知识点16的定义\n2. 掌握计数器知识点16的计算方法\n3. 能在电路中识别和应用计数器知识点16",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-37"
+    ]
+  },
+  {
+    "id": "kp-177",
+    "slug": "寄存器",
+    "title": "寄存器",
+    "summary": "寄存器中的寄存器，是理解和应用该章节内容的基础。",
+    "courseId": "course-6",
+    "tags": [
+      "寄存器",
+      "寄存器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 寄存器\n\n寄存器中关于寄存器的核心概念与要点。\n\n### 定义\n\n寄存器是寄存器的基本组成部分。\n\n### 要点\n\n1. 理解寄存器的定义\n2. 掌握寄存器的计算方法\n3. 能在电路中识别和应用寄存器",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-40",
+      "g-41",
+      "g-103"
+    ]
+  },
+  {
+    "id": "kp-178",
+    "slug": "移位寄存器",
+    "title": "移位寄存器",
+    "summary": "寄存器中的移位寄存器，是理解和应用该章节内容的基础。",
+    "courseId": "course-6",
+    "tags": [
+      "移位寄存器",
+      "寄存器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 移位寄存器\n\n寄存器中关于移位寄存器的核心概念与要点。\n\n### 定义\n\n移位寄存器是寄存器的基本组成部分。\n\n### 要点\n\n1. 理解移位寄存器的定义\n2. 掌握移位寄存器的计算方法\n3. 能在电路中识别和应用移位寄存器",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-40",
+      "g-41",
+      "g-154"
+    ]
+  },
+  {
+    "id": "kp-179",
+    "slug": "74ls194",
+    "title": "74LS194",
+    "summary": "寄存器中的74LS194，是理解和应用该章节内容的基础。",
+    "courseId": "course-6",
+    "tags": [
+      "74LS194",
+      "寄存器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 74LS194\n\n寄存器中关于74LS194的核心概念与要点。\n\n### 定义\n\n74LS194是寄存器的基本组成部分。\n\n### 要点\n\n1. 理解74LS194的定义\n2. 掌握74LS194的计算方法\n3. 能在电路中识别和应用74LS194",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-180",
+    "slug": "74ls175",
+    "title": "74LS175",
+    "summary": "寄存器中的74LS175，是理解和应用该章节内容的基础。",
+    "courseId": "course-6",
+    "tags": [
+      "74LS175",
+      "寄存器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 74LS175\n\n寄存器中关于74LS175的核心概念与要点。\n\n### 定义\n\n74LS175是寄存器的基本组成部分。\n\n### 要点\n\n1. 理解74LS175的定义\n2. 掌握74LS175的计算方法\n3. 能在电路中识别和应用74LS175",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-181",
+    "slug": "寄存器知识点5",
+    "title": "寄存器知识点5",
+    "summary": "寄存器中的寄存器知识点5，是理解和应用该章节内容的基础。",
+    "courseId": "course-6",
+    "tags": [
+      "寄存器",
+      "寄存器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 寄存器知识点5\n\n寄存器中关于寄存器知识点5的核心概念与要点。\n\n### 定义\n\n寄存器知识点5是寄存器的基本组成部分。\n\n### 要点\n\n1. 理解寄存器知识点5的定义\n2. 掌握寄存器知识点5的计算方法\n3. 能在电路中识别和应用寄存器知识点5",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-40"
+    ]
+  },
+  {
+    "id": "kp-182",
+    "slug": "寄存器知识点6",
+    "title": "寄存器知识点6",
+    "summary": "寄存器中的寄存器知识点6，是理解和应用该章节内容的基础。",
+    "courseId": "course-6",
+    "tags": [
+      "移位寄存器",
+      "寄存器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 寄存器知识点6\n\n寄存器中关于寄存器知识点6的核心概念与要点。\n\n### 定义\n\n寄存器知识点6是寄存器的基本组成部分。\n\n### 要点\n\n1. 理解寄存器知识点6的定义\n2. 掌握寄存器知识点6的计算方法\n3. 能在电路中识别和应用寄存器知识点6",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-40"
+    ]
+  },
+  {
+    "id": "kp-183",
+    "slug": "寄存器知识点7",
+    "title": "寄存器知识点7",
+    "summary": "寄存器中的寄存器知识点7，是理解和应用该章节内容的基础。",
+    "courseId": "course-6",
+    "tags": [
+      "74LS194",
+      "寄存器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 寄存器知识点7\n\n寄存器中关于寄存器知识点7的核心概念与要点。\n\n### 定义\n\n寄存器知识点7是寄存器的基本组成部分。\n\n### 要点\n\n1. 理解寄存器知识点7的定义\n2. 掌握寄存器知识点7的计算方法\n3. 能在电路中识别和应用寄存器知识点7",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-40"
+    ]
+  },
+  {
+    "id": "kp-184",
+    "slug": "寄存器知识点8",
+    "title": "寄存器知识点8",
+    "summary": "寄存器中的寄存器知识点8，是理解和应用该章节内容的基础。",
+    "courseId": "course-6",
+    "tags": [
+      "74LS175",
+      "寄存器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 寄存器知识点8\n\n寄存器中关于寄存器知识点8的核心概念与要点。\n\n### 定义\n\n寄存器知识点8是寄存器的基本组成部分。\n\n### 要点\n\n1. 理解寄存器知识点8的定义\n2. 掌握寄存器知识点8的计算方法\n3. 能在电路中识别和应用寄存器知识点8",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-40"
+    ]
+  },
+  {
+    "id": "kp-185",
+    "slug": "寄存器知识点9",
+    "title": "寄存器知识点9",
+    "summary": "寄存器中的寄存器知识点9，是理解和应用该章节内容的基础。",
+    "courseId": "course-6",
+    "tags": [
+      "寄存器",
+      "寄存器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 寄存器知识点9\n\n寄存器中关于寄存器知识点9的核心概念与要点。\n\n### 定义\n\n寄存器知识点9是寄存器的基本组成部分。\n\n### 要点\n\n1. 理解寄存器知识点9的定义\n2. 掌握寄存器知识点9的计算方法\n3. 能在电路中识别和应用寄存器知识点9",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-40"
+    ]
+  },
+  {
+    "id": "kp-186",
+    "slug": "寄存器知识点10",
+    "title": "寄存器知识点10",
+    "summary": "寄存器中的寄存器知识点10，是理解和应用该章节内容的基础。",
+    "courseId": "course-6",
+    "tags": [
+      "移位寄存器",
+      "寄存器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 寄存器知识点10\n\n寄存器中关于寄存器知识点10的核心概念与要点。\n\n### 定义\n\n寄存器知识点10是寄存器的基本组成部分。\n\n### 要点\n\n1. 理解寄存器知识点10的定义\n2. 掌握寄存器知识点10的计算方法\n3. 能在电路中识别和应用寄存器知识点10",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-40"
+    ]
+  },
+  {
+    "id": "kp-187",
+    "slug": "寄存器知识点11",
+    "title": "寄存器知识点11",
+    "summary": "寄存器中的寄存器知识点11，是理解和应用该章节内容的基础。",
+    "courseId": "course-6",
+    "tags": [
+      "74LS194",
+      "寄存器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 寄存器知识点11\n\n寄存器中关于寄存器知识点11的核心概念与要点。\n\n### 定义\n\n寄存器知识点11是寄存器的基本组成部分。\n\n### 要点\n\n1. 理解寄存器知识点11的定义\n2. 掌握寄存器知识点11的计算方法\n3. 能在电路中识别和应用寄存器知识点11",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-40"
+    ]
+  },
+  {
+    "id": "kp-188",
+    "slug": "寄存器知识点12",
+    "title": "寄存器知识点12",
+    "summary": "寄存器中的寄存器知识点12，是理解和应用该章节内容的基础。",
+    "courseId": "course-6",
+    "tags": [
+      "74LS175",
+      "寄存器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 寄存器知识点12\n\n寄存器中关于寄存器知识点12的核心概念与要点。\n\n### 定义\n\n寄存器知识点12是寄存器的基本组成部分。\n\n### 要点\n\n1. 理解寄存器知识点12的定义\n2. 掌握寄存器知识点12的计算方法\n3. 能在电路中识别和应用寄存器知识点12",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-40"
+    ]
+  },
+  {
+    "id": "kp-189",
+    "slug": "寄存器知识点13",
+    "title": "寄存器知识点13",
+    "summary": "寄存器中的寄存器知识点13，是理解和应用该章节内容的基础。",
+    "courseId": "course-6",
+    "tags": [
+      "寄存器",
+      "寄存器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 寄存器知识点13\n\n寄存器中关于寄存器知识点13的核心概念与要点。\n\n### 定义\n\n寄存器知识点13是寄存器的基本组成部分。\n\n### 要点\n\n1. 理解寄存器知识点13的定义\n2. 掌握寄存器知识点13的计算方法\n3. 能在电路中识别和应用寄存器知识点13",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-40"
+    ]
+  },
+  {
+    "id": "kp-190",
+    "slug": "寄存器知识点14",
+    "title": "寄存器知识点14",
+    "summary": "寄存器中的寄存器知识点14，是理解和应用该章节内容的基础。",
+    "courseId": "course-6",
+    "tags": [
+      "移位寄存器",
+      "寄存器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 寄存器知识点14\n\n寄存器中关于寄存器知识点14的核心概念与要点。\n\n### 定义\n\n寄存器知识点14是寄存器的基本组成部分。\n\n### 要点\n\n1. 理解寄存器知识点14的定义\n2. 掌握寄存器知识点14的计算方法\n3. 能在电路中识别和应用寄存器知识点14",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-40"
+    ]
+  },
+  {
+    "id": "kp-191",
+    "slug": "寄存器知识点15",
+    "title": "寄存器知识点15",
+    "summary": "寄存器中的寄存器知识点15，是理解和应用该章节内容的基础。",
+    "courseId": "course-6",
+    "tags": [
+      "74LS194",
+      "寄存器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 寄存器知识点15\n\n寄存器中关于寄存器知识点15的核心概念与要点。\n\n### 定义\n\n寄存器知识点15是寄存器的基本组成部分。\n\n### 要点\n\n1. 理解寄存器知识点15的定义\n2. 掌握寄存器知识点15的计算方法\n3. 能在电路中识别和应用寄存器知识点15",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-40"
+    ]
+  },
+  {
+    "id": "kp-192",
+    "slug": "寄存器知识点16",
+    "title": "寄存器知识点16",
+    "summary": "寄存器中的寄存器知识点16，是理解和应用该章节内容的基础。",
+    "courseId": "course-6",
+    "tags": [
+      "74LS175",
+      "寄存器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 寄存器知识点16\n\n寄存器中关于寄存器知识点16的核心概念与要点。\n\n### 定义\n\n寄存器知识点16是寄存器的基本组成部分。\n\n### 要点\n\n1. 理解寄存器知识点16的定义\n2. 掌握寄存器知识点16的计算方法\n3. 能在电路中识别和应用寄存器知识点16",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-40"
+    ]
+  },
+  {
+    "id": "kp-193",
+    "slug": "时序逻辑",
+    "title": "时序逻辑",
+    "summary": "时序逻辑电路中的时序逻辑，是理解和应用该章节内容的基础。",
+    "courseId": "course-6",
+    "tags": [
+      "时序逻辑",
+      "时序逻辑电路"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 时序逻辑\n\n时序逻辑电路中关于时序逻辑的核心概念与要点。\n\n### 定义\n\n时序逻辑是时序逻辑电路的基本组成部分。\n\n### 要点\n\n1. 理解时序逻辑的定义\n2. 掌握时序逻辑的计算方法\n3. 能在电路中识别和应用时序逻辑",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-194",
+    "slug": "状态机",
+    "title": "状态机",
+    "summary": "时序逻辑电路中的状态机，是理解和应用该章节内容的基础。",
+    "courseId": "course-6",
+    "tags": [
+      "状态机",
+      "时序逻辑电路"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 状态机\n\n时序逻辑电路中关于状态机的核心概念与要点。\n\n### 定义\n\n状态机是时序逻辑电路的基本组成部分。\n\n### 要点\n\n1. 理解状态机的定义\n2. 掌握状态机的计算方法\n3. 能在电路中识别和应用状态机",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-42"
+    ]
+  },
+  {
+    "id": "kp-195",
+    "slug": "米利型",
+    "title": "米利型",
+    "summary": "时序逻辑电路中的米利型，是理解和应用该章节内容的基础。",
+    "courseId": "course-6",
+    "tags": [
+      "米利型",
+      "时序逻辑电路"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 米利型\n\n时序逻辑电路中关于米利型的核心概念与要点。\n\n### 定义\n\n米利型是时序逻辑电路的基本组成部分。\n\n### 要点\n\n1. 理解米利型的定义\n2. 掌握米利型的计算方法\n3. 能在电路中识别和应用米利型",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-43"
+    ]
+  },
+  {
+    "id": "kp-196",
+    "slug": "摩尔型",
+    "title": "摩尔型",
+    "summary": "时序逻辑电路中的摩尔型，是理解和应用该章节内容的基础。",
+    "courseId": "course-6",
+    "tags": [
+      "摩尔型",
+      "时序逻辑电路"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 摩尔型\n\n时序逻辑电路中关于摩尔型的核心概念与要点。\n\n### 定义\n\n摩尔型是时序逻辑电路的基本组成部分。\n\n### 要点\n\n1. 理解摩尔型的定义\n2. 掌握摩尔型的计算方法\n3. 能在电路中识别和应用摩尔型",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-44"
+    ]
+  },
+  {
+    "id": "kp-197",
+    "slug": "状态图",
+    "title": "状态图",
+    "summary": "时序逻辑电路中的状态图，是理解和应用该章节内容的基础。",
+    "courseId": "course-6",
+    "tags": [
+      "状态图",
+      "时序逻辑电路"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 状态图\n\n时序逻辑电路中关于状态图的核心概念与要点。\n\n### 定义\n\n状态图是时序逻辑电路的基本组成部分。\n\n### 要点\n\n1. 理解状态图的定义\n2. 掌握状态图的计算方法\n3. 能在电路中识别和应用状态图",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-45"
+    ]
+  },
+  {
+    "id": "kp-198",
+    "slug": "状态表",
+    "title": "状态表",
+    "summary": "时序逻辑电路中的状态表，是理解和应用该章节内容的基础。",
+    "courseId": "course-6",
+    "tags": [
+      "状态表",
+      "时序逻辑电路"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 状态表\n\n时序逻辑电路中关于状态表的核心概念与要点。\n\n### 定义\n\n状态表是时序逻辑电路的基本组成部分。\n\n### 要点\n\n1. 理解状态表的定义\n2. 掌握状态表的计算方法\n3. 能在电路中识别和应用状态表",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-46"
+    ]
+  },
+  {
+    "id": "kp-199",
+    "slug": "时序逻辑电路知识点7",
+    "title": "时序逻辑电路知识点7",
+    "summary": "时序逻辑电路中的时序逻辑电路知识点7，是理解和应用该章节内容的基础。",
+    "courseId": "course-6",
+    "tags": [
+      "时序逻辑",
+      "时序逻辑电路"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 时序逻辑电路知识点7\n\n时序逻辑电路中关于时序逻辑电路知识点7的核心概念与要点。\n\n### 定义\n\n时序逻辑电路知识点7是时序逻辑电路的基本组成部分。\n\n### 要点\n\n1. 理解时序逻辑电路知识点7的定义\n2. 掌握时序逻辑电路知识点7的计算方法\n3. 能在电路中识别和应用时序逻辑电路知识点7",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-200",
+    "slug": "时序逻辑电路知识点8",
+    "title": "时序逻辑电路知识点8",
+    "summary": "时序逻辑电路中的时序逻辑电路知识点8，是理解和应用该章节内容的基础。",
+    "courseId": "course-6",
+    "tags": [
+      "状态机",
+      "时序逻辑电路"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 时序逻辑电路知识点8\n\n时序逻辑电路中关于时序逻辑电路知识点8的核心概念与要点。\n\n### 定义\n\n时序逻辑电路知识点8是时序逻辑电路的基本组成部分。\n\n### 要点\n\n1. 理解时序逻辑电路知识点8的定义\n2. 掌握时序逻辑电路知识点8的计算方法\n3. 能在电路中识别和应用时序逻辑电路知识点8",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-201",
+    "slug": "时序逻辑电路知识点9",
+    "title": "时序逻辑电路知识点9",
+    "summary": "时序逻辑电路中的时序逻辑电路知识点9，是理解和应用该章节内容的基础。",
+    "courseId": "course-6",
+    "tags": [
+      "米利型",
+      "时序逻辑电路"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 时序逻辑电路知识点9\n\n时序逻辑电路中关于时序逻辑电路知识点9的核心概念与要点。\n\n### 定义\n\n时序逻辑电路知识点9是时序逻辑电路的基本组成部分。\n\n### 要点\n\n1. 理解时序逻辑电路知识点9的定义\n2. 掌握时序逻辑电路知识点9的计算方法\n3. 能在电路中识别和应用时序逻辑电路知识点9",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-202",
+    "slug": "时序逻辑电路知识点10",
+    "title": "时序逻辑电路知识点10",
+    "summary": "时序逻辑电路中的时序逻辑电路知识点10，是理解和应用该章节内容的基础。",
+    "courseId": "course-6",
+    "tags": [
+      "摩尔型",
+      "时序逻辑电路"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 时序逻辑电路知识点10\n\n时序逻辑电路中关于时序逻辑电路知识点10的核心概念与要点。\n\n### 定义\n\n时序逻辑电路知识点10是时序逻辑电路的基本组成部分。\n\n### 要点\n\n1. 理解时序逻辑电路知识点10的定义\n2. 掌握时序逻辑电路知识点10的计算方法\n3. 能在电路中识别和应用时序逻辑电路知识点10",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-203",
+    "slug": "时序逻辑电路知识点11",
+    "title": "时序逻辑电路知识点11",
+    "summary": "时序逻辑电路中的时序逻辑电路知识点11，是理解和应用该章节内容的基础。",
+    "courseId": "course-6",
+    "tags": [
+      "状态图",
+      "时序逻辑电路"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 时序逻辑电路知识点11\n\n时序逻辑电路中关于时序逻辑电路知识点11的核心概念与要点。\n\n### 定义\n\n时序逻辑电路知识点11是时序逻辑电路的基本组成部分。\n\n### 要点\n\n1. 理解时序逻辑电路知识点11的定义\n2. 掌握时序逻辑电路知识点11的计算方法\n3. 能在电路中识别和应用时序逻辑电路知识点11",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-204",
+    "slug": "时序逻辑电路知识点12",
+    "title": "时序逻辑电路知识点12",
+    "summary": "时序逻辑电路中的时序逻辑电路知识点12，是理解和应用该章节内容的基础。",
+    "courseId": "course-6",
+    "tags": [
+      "状态表",
+      "时序逻辑电路"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 时序逻辑电路知识点12\n\n时序逻辑电路中关于时序逻辑电路知识点12的核心概念与要点。\n\n### 定义\n\n时序逻辑电路知识点12是时序逻辑电路的基本组成部分。\n\n### 要点\n\n1. 理解时序逻辑电路知识点12的定义\n2. 掌握时序逻辑电路知识点12的计算方法\n3. 能在电路中识别和应用时序逻辑电路知识点12",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-205",
+    "slug": "时序逻辑电路知识点13",
+    "title": "时序逻辑电路知识点13",
+    "summary": "时序逻辑电路中的时序逻辑电路知识点13，是理解和应用该章节内容的基础。",
+    "courseId": "course-6",
+    "tags": [
+      "时序逻辑",
+      "时序逻辑电路"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 时序逻辑电路知识点13\n\n时序逻辑电路中关于时序逻辑电路知识点13的核心概念与要点。\n\n### 定义\n\n时序逻辑电路知识点13是时序逻辑电路的基本组成部分。\n\n### 要点\n\n1. 理解时序逻辑电路知识点13的定义\n2. 掌握时序逻辑电路知识点13的计算方法\n3. 能在电路中识别和应用时序逻辑电路知识点13",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-206",
+    "slug": "时序逻辑电路知识点14",
+    "title": "时序逻辑电路知识点14",
+    "summary": "时序逻辑电路中的时序逻辑电路知识点14，是理解和应用该章节内容的基础。",
+    "courseId": "course-6",
+    "tags": [
+      "状态机",
+      "时序逻辑电路"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 时序逻辑电路知识点14\n\n时序逻辑电路中关于时序逻辑电路知识点14的核心概念与要点。\n\n### 定义\n\n时序逻辑电路知识点14是时序逻辑电路的基本组成部分。\n\n### 要点\n\n1. 理解时序逻辑电路知识点14的定义\n2. 掌握时序逻辑电路知识点14的计算方法\n3. 能在电路中识别和应用时序逻辑电路知识点14",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-207",
+    "slug": "时序逻辑电路知识点15",
+    "title": "时序逻辑电路知识点15",
+    "summary": "时序逻辑电路中的时序逻辑电路知识点15，是理解和应用该章节内容的基础。",
+    "courseId": "course-6",
+    "tags": [
+      "米利型",
+      "时序逻辑电路"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 时序逻辑电路知识点15\n\n时序逻辑电路中关于时序逻辑电路知识点15的核心概念与要点。\n\n### 定义\n\n时序逻辑电路知识点15是时序逻辑电路的基本组成部分。\n\n### 要点\n\n1. 理解时序逻辑电路知识点15的定义\n2. 掌握时序逻辑电路知识点15的计算方法\n3. 能在电路中识别和应用时序逻辑电路知识点15",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-208",
+    "slug": "时序逻辑电路知识点16",
+    "title": "时序逻辑电路知识点16",
+    "summary": "时序逻辑电路中的时序逻辑电路知识点16，是理解和应用该章节内容的基础。",
+    "courseId": "course-6",
+    "tags": [
+      "摩尔型",
+      "时序逻辑电路"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 时序逻辑电路知识点16\n\n时序逻辑电路中关于时序逻辑电路知识点16的核心概念与要点。\n\n### 定义\n\n时序逻辑电路知识点16是时序逻辑电路的基本组成部分。\n\n### 要点\n\n1. 理解时序逻辑电路知识点16的定义\n2. 掌握时序逻辑电路知识点16的计算方法\n3. 能在电路中识别和应用时序逻辑电路知识点16",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-209",
+    "slug": "脉冲",
+    "title": "脉冲",
+    "summary": "脉冲波形中的脉冲，是理解和应用该章节内容的基础。",
+    "courseId": "course-7",
+    "tags": [
+      "脉冲",
+      "脉冲波形"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 脉冲\n\n脉冲波形中关于脉冲的核心概念与要点。\n\n### 定义\n\n脉冲是脉冲波形的基本组成部分。\n\n### 要点\n\n1. 理解脉冲的定义\n2. 掌握脉冲的计算方法\n3. 能在电路中识别和应用脉冲",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-210",
+    "slug": "多谐振荡器",
+    "title": "多谐振荡器",
+    "summary": "脉冲波形中的多谐振荡器，是理解和应用该章节内容的基础。",
+    "courseId": "course-7",
+    "tags": [
+      "多谐振荡器",
+      "脉冲波形"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 多谐振荡器\n\n脉冲波形中关于多谐振荡器的核心概念与要点。\n\n### 定义\n\n多谐振荡器是脉冲波形的基本组成部分。\n\n### 要点\n\n1. 理解多谐振荡器的定义\n2. 掌握多谐振荡器的计算方法\n3. 能在电路中识别和应用多谐振荡器",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-47"
+    ]
+  },
+  {
+    "id": "kp-211",
+    "slug": "单稳态",
+    "title": "单稳态",
+    "summary": "脉冲波形中的单稳态，是理解和应用该章节内容的基础。",
+    "courseId": "course-7",
+    "tags": [
+      "单稳态",
+      "脉冲波形"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 单稳态\n\n脉冲波形中关于单稳态的核心概念与要点。\n\n### 定义\n\n单稳态是脉冲波形的基本组成部分。\n\n### 要点\n\n1. 理解单稳态的定义\n2. 掌握单稳态的计算方法\n3. 能在电路中识别和应用单稳态",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-48"
+    ]
+  },
+  {
+    "id": "kp-212",
+    "slug": "施密特",
+    "title": "施密特",
+    "summary": "脉冲波形中的施密特，是理解和应用该章节内容的基础。",
+    "courseId": "course-7",
+    "tags": [
+      "施密特",
+      "脉冲波形"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 施密特\n\n脉冲波形中关于施密特的核心概念与要点。\n\n### 定义\n\n施密特是脉冲波形的基本组成部分。\n\n### 要点\n\n1. 理解施密特的定义\n2. 掌握施密特的计算方法\n3. 能在电路中识别和应用施密特",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-49"
+    ]
+  },
+  {
+    "id": "kp-213",
+    "slug": "555定时器",
+    "title": "555定时器",
+    "summary": "脉冲波形中的555定时器，是理解和应用该章节内容的基础。",
+    "courseId": "course-7",
+    "tags": [
+      "555定时器",
+      "脉冲波形"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 555定时器\n\n脉冲波形中关于555定时器的核心概念与要点。\n\n### 定义\n\n555定时器是脉冲波形的基本组成部分。\n\n### 要点\n\n1. 理解555定时器的定义\n2. 掌握555定时器的计算方法\n3. 能在电路中识别和应用555定时器",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-50"
+    ]
+  },
+  {
+    "id": "kp-214",
+    "slug": "脉冲波形知识点6",
+    "title": "脉冲波形知识点6",
+    "summary": "脉冲波形中的脉冲波形知识点6，是理解和应用该章节内容的基础。",
+    "courseId": "course-7",
+    "tags": [
+      "脉冲",
+      "脉冲波形"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 脉冲波形知识点6\n\n脉冲波形中关于脉冲波形知识点6的核心概念与要点。\n\n### 定义\n\n脉冲波形知识点6是脉冲波形的基本组成部分。\n\n### 要点\n\n1. 理解脉冲波形知识点6的定义\n2. 掌握脉冲波形知识点6的计算方法\n3. 能在电路中识别和应用脉冲波形知识点6",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-215",
+    "slug": "脉冲波形知识点7",
+    "title": "脉冲波形知识点7",
+    "summary": "脉冲波形中的脉冲波形知识点7，是理解和应用该章节内容的基础。",
+    "courseId": "course-7",
+    "tags": [
+      "多谐振荡器",
+      "脉冲波形"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 脉冲波形知识点7\n\n脉冲波形中关于脉冲波形知识点7的核心概念与要点。\n\n### 定义\n\n脉冲波形知识点7是脉冲波形的基本组成部分。\n\n### 要点\n\n1. 理解脉冲波形知识点7的定义\n2. 掌握脉冲波形知识点7的计算方法\n3. 能在电路中识别和应用脉冲波形知识点7",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-216",
+    "slug": "脉冲波形知识点8",
+    "title": "脉冲波形知识点8",
+    "summary": "脉冲波形中的脉冲波形知识点8，是理解和应用该章节内容的基础。",
+    "courseId": "course-7",
+    "tags": [
+      "单稳态",
+      "脉冲波形"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 脉冲波形知识点8\n\n脉冲波形中关于脉冲波形知识点8的核心概念与要点。\n\n### 定义\n\n脉冲波形知识点8是脉冲波形的基本组成部分。\n\n### 要点\n\n1. 理解脉冲波形知识点8的定义\n2. 掌握脉冲波形知识点8的计算方法\n3. 能在电路中识别和应用脉冲波形知识点8",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-217",
+    "slug": "脉冲波形知识点9",
+    "title": "脉冲波形知识点9",
+    "summary": "脉冲波形中的脉冲波形知识点9，是理解和应用该章节内容的基础。",
+    "courseId": "course-7",
+    "tags": [
+      "施密特",
+      "脉冲波形"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 脉冲波形知识点9\n\n脉冲波形中关于脉冲波形知识点9的核心概念与要点。\n\n### 定义\n\n脉冲波形知识点9是脉冲波形的基本组成部分。\n\n### 要点\n\n1. 理解脉冲波形知识点9的定义\n2. 掌握脉冲波形知识点9的计算方法\n3. 能在电路中识别和应用脉冲波形知识点9",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-218",
+    "slug": "脉冲波形知识点10",
+    "title": "脉冲波形知识点10",
+    "summary": "脉冲波形中的脉冲波形知识点10，是理解和应用该章节内容的基础。",
+    "courseId": "course-7",
+    "tags": [
+      "555定时器",
+      "脉冲波形"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 脉冲波形知识点10\n\n脉冲波形中关于脉冲波形知识点10的核心概念与要点。\n\n### 定义\n\n脉冲波形知识点10是脉冲波形的基本组成部分。\n\n### 要点\n\n1. 理解脉冲波形知识点10的定义\n2. 掌握脉冲波形知识点10的计算方法\n3. 能在电路中识别和应用脉冲波形知识点10",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-219",
+    "slug": "脉冲波形知识点11",
+    "title": "脉冲波形知识点11",
+    "summary": "脉冲波形中的脉冲波形知识点11，是理解和应用该章节内容的基础。",
+    "courseId": "course-7",
+    "tags": [
+      "脉冲",
+      "脉冲波形"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 脉冲波形知识点11\n\n脉冲波形中关于脉冲波形知识点11的核心概念与要点。\n\n### 定义\n\n脉冲波形知识点11是脉冲波形的基本组成部分。\n\n### 要点\n\n1. 理解脉冲波形知识点11的定义\n2. 掌握脉冲波形知识点11的计算方法\n3. 能在电路中识别和应用脉冲波形知识点11",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-220",
+    "slug": "脉冲波形知识点12",
+    "title": "脉冲波形知识点12",
+    "summary": "脉冲波形中的脉冲波形知识点12，是理解和应用该章节内容的基础。",
+    "courseId": "course-7",
+    "tags": [
+      "多谐振荡器",
+      "脉冲波形"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 脉冲波形知识点12\n\n脉冲波形中关于脉冲波形知识点12的核心概念与要点。\n\n### 定义\n\n脉冲波形知识点12是脉冲波形的基本组成部分。\n\n### 要点\n\n1. 理解脉冲波形知识点12的定义\n2. 掌握脉冲波形知识点12的计算方法\n3. 能在电路中识别和应用脉冲波形知识点12",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-221",
+    "slug": "脉冲波形知识点13",
+    "title": "脉冲波形知识点13",
+    "summary": "脉冲波形中的脉冲波形知识点13，是理解和应用该章节内容的基础。",
+    "courseId": "course-7",
+    "tags": [
+      "单稳态",
+      "脉冲波形"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 脉冲波形知识点13\n\n脉冲波形中关于脉冲波形知识点13的核心概念与要点。\n\n### 定义\n\n脉冲波形知识点13是脉冲波形的基本组成部分。\n\n### 要点\n\n1. 理解脉冲波形知识点13的定义\n2. 掌握脉冲波形知识点13的计算方法\n3. 能在电路中识别和应用脉冲波形知识点13",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-222",
+    "slug": "脉冲波形知识点14",
+    "title": "脉冲波形知识点14",
+    "summary": "脉冲波形中的脉冲波形知识点14，是理解和应用该章节内容的基础。",
+    "courseId": "course-7",
+    "tags": [
+      "施密特",
+      "脉冲波形"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 脉冲波形知识点14\n\n脉冲波形中关于脉冲波形知识点14的核心概念与要点。\n\n### 定义\n\n脉冲波形知识点14是脉冲波形的基本组成部分。\n\n### 要点\n\n1. 理解脉冲波形知识点14的定义\n2. 掌握脉冲波形知识点14的计算方法\n3. 能在电路中识别和应用脉冲波形知识点14",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-223",
+    "slug": "脉冲波形知识点15",
+    "title": "脉冲波形知识点15",
+    "summary": "脉冲波形中的脉冲波形知识点15，是理解和应用该章节内容的基础。",
+    "courseId": "course-7",
+    "tags": [
+      "555定时器",
+      "脉冲波形"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 脉冲波形知识点15\n\n脉冲波形中关于脉冲波形知识点15的核心概念与要点。\n\n### 定义\n\n脉冲波形知识点15是脉冲波形的基本组成部分。\n\n### 要点\n\n1. 理解脉冲波形知识点15的定义\n2. 掌握脉冲波形知识点15的计算方法\n3. 能在电路中识别和应用脉冲波形知识点15",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-224",
+    "slug": "脉冲波形知识点16",
+    "title": "脉冲波形知识点16",
+    "summary": "脉冲波形中的脉冲波形知识点16，是理解和应用该章节内容的基础。",
+    "courseId": "course-7",
+    "tags": [
+      "脉冲",
+      "脉冲波形"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 脉冲波形知识点16\n\n脉冲波形中关于脉冲波形知识点16的核心概念与要点。\n\n### 定义\n\n脉冲波形知识点16是脉冲波形的基本组成部分。\n\n### 要点\n\n1. 理解脉冲波形知识点16的定义\n2. 掌握脉冲波形知识点16的计算方法\n3. 能在电路中识别和应用脉冲波形知识点16",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-225",
+    "slug": "rom",
+    "title": "ROM",
+    "summary": "存储器基础中的ROM，是理解和应用该章节内容的基础。",
+    "courseId": "course-7",
+    "tags": [
+      "ROM",
+      "存储器基础"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## ROM\n\n存储器基础中关于ROM的核心概念与要点。\n\n### 定义\n\nROM是存储器基础的基本组成部分。\n\n### 要点\n\n1. 理解ROM的定义\n2. 掌握ROM的计算方法\n3. 能在电路中识别和应用ROM",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-51",
+      "g-55",
+      "g-56"
+    ]
+  },
+  {
+    "id": "kp-226",
+    "slug": "ram",
+    "title": "RAM",
+    "summary": "存储器基础中的RAM，是理解和应用该章节内容的基础。",
+    "courseId": "course-7",
+    "tags": [
+      "RAM",
+      "存储器基础"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## RAM\n\n存储器基础中关于RAM的核心概念与要点。\n\n### 定义\n\nRAM是存储器基础的基本组成部分。\n\n### 要点\n\n1. 理解RAM的定义\n2. 掌握RAM的计算方法\n3. 能在电路中识别和应用RAM",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-52",
+      "g-53",
+      "g-54"
+    ]
+  },
+  {
+    "id": "kp-227",
+    "slug": "sram",
+    "title": "SRAM",
+    "summary": "存储器基础中的SRAM，是理解和应用该章节内容的基础。",
+    "courseId": "course-7",
+    "tags": [
+      "SRAM",
+      "存储器基础"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## SRAM\n\n存储器基础中关于SRAM的核心概念与要点。\n\n### 定义\n\nSRAM是存储器基础的基本组成部分。\n\n### 要点\n\n1. 理解SRAM的定义\n2. 掌握SRAM的计算方法\n3. 能在电路中识别和应用SRAM",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-52",
+      "g-53"
+    ]
+  },
+  {
+    "id": "kp-228",
+    "slug": "dram",
+    "title": "DRAM",
+    "summary": "存储器基础中的DRAM，是理解和应用该章节内容的基础。",
+    "courseId": "course-7",
+    "tags": [
+      "DRAM",
+      "存储器基础"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## DRAM\n\n存储器基础中关于DRAM的核心概念与要点。\n\n### 定义\n\nDRAM是存储器基础的基本组成部分。\n\n### 要点\n\n1. 理解DRAM的定义\n2. 掌握DRAM的计算方法\n3. 能在电路中识别和应用DRAM",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-52",
+      "g-54"
+    ]
+  },
+  {
+    "id": "kp-229",
+    "slug": "eprom",
+    "title": "EPROM",
+    "summary": "存储器基础中的EPROM，是理解和应用该章节内容的基础。",
+    "courseId": "course-7",
+    "tags": [
+      "EPROM",
+      "存储器基础"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## EPROM\n\n存储器基础中关于EPROM的核心概念与要点。\n\n### 定义\n\nEPROM是存储器基础的基本组成部分。\n\n### 要点\n\n1. 理解EPROM的定义\n2. 掌握EPROM的计算方法\n3. 能在电路中识别和应用EPROM",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-51",
+      "g-55",
+      "g-56"
+    ]
+  },
+  {
+    "id": "kp-230",
+    "slug": "eeprom",
+    "title": "EEPROM",
+    "summary": "存储器基础中的EEPROM，是理解和应用该章节内容的基础。",
+    "courseId": "course-7",
+    "tags": [
+      "EEPROM",
+      "存储器基础"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## EEPROM\n\n存储器基础中关于EEPROM的核心概念与要点。\n\n### 定义\n\nEEPROM是存储器基础的基本组成部分。\n\n### 要点\n\n1. 理解EEPROM的定义\n2. 掌握EEPROM的计算方法\n3. 能在电路中识别和应用EEPROM",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-51",
+      "g-55",
+      "g-56"
+    ]
+  },
+  {
+    "id": "kp-231",
+    "slug": "flash",
+    "title": "Flash",
+    "summary": "存储器基础中的Flash，是理解和应用该章节内容的基础。",
+    "courseId": "course-7",
+    "tags": [
+      "Flash",
+      "存储器基础"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## Flash\n\n存储器基础中关于Flash的核心概念与要点。\n\n### 定义\n\nFlash是存储器基础的基本组成部分。\n\n### 要点\n\n1. 理解Flash的定义\n2. 掌握Flash的计算方法\n3. 能在电路中识别和应用Flash",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-57"
+    ]
+  },
+  {
+    "id": "kp-232",
+    "slug": "存储器基础知识点8",
+    "title": "存储器基础知识点8",
+    "summary": "存储器基础中的存储器基础知识点8，是理解和应用该章节内容的基础。",
+    "courseId": "course-7",
+    "tags": [
+      "ROM",
+      "存储器基础"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 存储器基础知识点8\n\n存储器基础中关于存储器基础知识点8的核心概念与要点。\n\n### 定义\n\n存储器基础知识点8是存储器基础的基本组成部分。\n\n### 要点\n\n1. 理解存储器基础知识点8的定义\n2. 掌握存储器基础知识点8的计算方法\n3. 能在电路中识别和应用存储器基础知识点8",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-233",
+    "slug": "存储器基础知识点9",
+    "title": "存储器基础知识点9",
+    "summary": "存储器基础中的存储器基础知识点9，是理解和应用该章节内容的基础。",
+    "courseId": "course-7",
+    "tags": [
+      "RAM",
+      "存储器基础"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 存储器基础知识点9\n\n存储器基础中关于存储器基础知识点9的核心概念与要点。\n\n### 定义\n\n存储器基础知识点9是存储器基础的基本组成部分。\n\n### 要点\n\n1. 理解存储器基础知识点9的定义\n2. 掌握存储器基础知识点9的计算方法\n3. 能在电路中识别和应用存储器基础知识点9",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-234",
+    "slug": "存储器基础知识点10",
+    "title": "存储器基础知识点10",
+    "summary": "存储器基础中的存储器基础知识点10，是理解和应用该章节内容的基础。",
+    "courseId": "course-7",
+    "tags": [
+      "SRAM",
+      "存储器基础"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 存储器基础知识点10\n\n存储器基础中关于存储器基础知识点10的核心概念与要点。\n\n### 定义\n\n存储器基础知识点10是存储器基础的基本组成部分。\n\n### 要点\n\n1. 理解存储器基础知识点10的定义\n2. 掌握存储器基础知识点10的计算方法\n3. 能在电路中识别和应用存储器基础知识点10",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-235",
+    "slug": "存储器基础知识点11",
+    "title": "存储器基础知识点11",
+    "summary": "存储器基础中的存储器基础知识点11，是理解和应用该章节内容的基础。",
+    "courseId": "course-7",
+    "tags": [
+      "DRAM",
+      "存储器基础"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 存储器基础知识点11\n\n存储器基础中关于存储器基础知识点11的核心概念与要点。\n\n### 定义\n\n存储器基础知识点11是存储器基础的基本组成部分。\n\n### 要点\n\n1. 理解存储器基础知识点11的定义\n2. 掌握存储器基础知识点11的计算方法\n3. 能在电路中识别和应用存储器基础知识点11",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-236",
+    "slug": "存储器基础知识点12",
+    "title": "存储器基础知识点12",
+    "summary": "存储器基础中的存储器基础知识点12，是理解和应用该章节内容的基础。",
+    "courseId": "course-7",
+    "tags": [
+      "EPROM",
+      "存储器基础"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 存储器基础知识点12\n\n存储器基础中关于存储器基础知识点12的核心概念与要点。\n\n### 定义\n\n存储器基础知识点12是存储器基础的基本组成部分。\n\n### 要点\n\n1. 理解存储器基础知识点12的定义\n2. 掌握存储器基础知识点12的计算方法\n3. 能在电路中识别和应用存储器基础知识点12",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-237",
+    "slug": "存储器基础知识点13",
+    "title": "存储器基础知识点13",
+    "summary": "存储器基础中的存储器基础知识点13，是理解和应用该章节内容的基础。",
+    "courseId": "course-7",
+    "tags": [
+      "EEPROM",
+      "存储器基础"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 存储器基础知识点13\n\n存储器基础中关于存储器基础知识点13的核心概念与要点。\n\n### 定义\n\n存储器基础知识点13是存储器基础的基本组成部分。\n\n### 要点\n\n1. 理解存储器基础知识点13的定义\n2. 掌握存储器基础知识点13的计算方法\n3. 能在电路中识别和应用存储器基础知识点13",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-238",
+    "slug": "存储器基础知识点14",
+    "title": "存储器基础知识点14",
+    "summary": "存储器基础中的存储器基础知识点14，是理解和应用该章节内容的基础。",
+    "courseId": "course-7",
+    "tags": [
+      "Flash",
+      "存储器基础"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 存储器基础知识点14\n\n存储器基础中关于存储器基础知识点14的核心概念与要点。\n\n### 定义\n\n存储器基础知识点14是存储器基础的基本组成部分。\n\n### 要点\n\n1. 理解存储器基础知识点14的定义\n2. 掌握存储器基础知识点14的计算方法\n3. 能在电路中识别和应用存储器基础知识点14",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-239",
+    "slug": "存储器基础知识点15",
+    "title": "存储器基础知识点15",
+    "summary": "存储器基础中的存储器基础知识点15，是理解和应用该章节内容的基础。",
+    "courseId": "course-7",
+    "tags": [
+      "ROM",
+      "存储器基础"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 存储器基础知识点15\n\n存储器基础中关于存储器基础知识点15的核心概念与要点。\n\n### 定义\n\n存储器基础知识点15是存储器基础的基本组成部分。\n\n### 要点\n\n1. 理解存储器基础知识点15的定义\n2. 掌握存储器基础知识点15的计算方法\n3. 能在电路中识别和应用存储器基础知识点15",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-240",
+    "slug": "存储器基础知识点16",
+    "title": "存储器基础知识点16",
+    "summary": "存储器基础中的存储器基础知识点16，是理解和应用该章节内容的基础。",
+    "courseId": "course-7",
+    "tags": [
+      "RAM",
+      "存储器基础"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 存储器基础知识点16\n\n存储器基础中关于存储器基础知识点16的核心概念与要点。\n\n### 定义\n\n存储器基础知识点16是存储器基础的基本组成部分。\n\n### 要点\n\n1. 理解存储器基础知识点16的定义\n2. 掌握存储器基础知识点16的计算方法\n3. 能在电路中识别和应用存储器基础知识点16",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-241",
+    "slug": "pld",
+    "title": "PLD",
+    "summary": "可编程逻辑器件中的PLD，是理解和应用该章节内容的基础。",
+    "courseId": "course-8",
+    "tags": [
+      "PLD",
+      "可编程逻辑器件"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## PLD\n\n可编程逻辑器件中关于PLD的核心概念与要点。\n\n### 定义\n\nPLD是可编程逻辑器件的基本组成部分。\n\n### 要点\n\n1. 理解PLD的定义\n2. 掌握PLD的计算方法\n3. 能在电路中识别和应用PLD",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-58",
+      "g-61"
+    ]
+  },
+  {
+    "id": "kp-242",
+    "slug": "pal",
+    "title": "PAL",
+    "summary": "可编程逻辑器件中的PAL，是理解和应用该章节内容的基础。",
+    "courseId": "course-8",
+    "tags": [
+      "PAL",
+      "可编程逻辑器件"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## PAL\n\n可编程逻辑器件中关于PAL的核心概念与要点。\n\n### 定义\n\nPAL是可编程逻辑器件的基本组成部分。\n\n### 要点\n\n1. 理解PAL的定义\n2. 掌握PAL的计算方法\n3. 能在电路中识别和应用PAL",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-59"
+    ]
+  },
+  {
+    "id": "kp-243",
+    "slug": "gal",
+    "title": "GAL",
+    "summary": "可编程逻辑器件中的GAL，是理解和应用该章节内容的基础。",
+    "courseId": "course-8",
+    "tags": [
+      "GAL",
+      "可编程逻辑器件"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## GAL\n\n可编程逻辑器件中关于GAL的核心概念与要点。\n\n### 定义\n\nGAL是可编程逻辑器件的基本组成部分。\n\n### 要点\n\n1. 理解GAL的定义\n2. 掌握GAL的计算方法\n3. 能在电路中识别和应用GAL",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-60"
+    ]
+  },
+  {
+    "id": "kp-244",
+    "slug": "cpld",
+    "title": "CPLD",
+    "summary": "可编程逻辑器件中的CPLD，是理解和应用该章节内容的基础。",
+    "courseId": "course-8",
+    "tags": [
+      "CPLD",
+      "可编程逻辑器件"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## CPLD\n\n可编程逻辑器件中关于CPLD的核心概念与要点。\n\n### 定义\n\nCPLD是可编程逻辑器件的基本组成部分。\n\n### 要点\n\n1. 理解CPLD的定义\n2. 掌握CPLD的计算方法\n3. 能在电路中识别和应用CPLD",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-58",
+      "g-61"
+    ]
+  },
+  {
+    "id": "kp-245",
+    "slug": "fpga",
+    "title": "FPGA",
+    "summary": "可编程逻辑器件中的FPGA，是理解和应用该章节内容的基础。",
+    "courseId": "course-8",
+    "tags": [
+      "FPGA",
+      "可编程逻辑器件"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## FPGA\n\n可编程逻辑器件中关于FPGA的核心概念与要点。\n\n### 定义\n\nFPGA是可编程逻辑器件的基本组成部分。\n\n### 要点\n\n1. 理解FPGA的定义\n2. 掌握FPGA的计算方法\n3. 能在电路中识别和应用FPGA",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-62"
+    ]
+  },
+  {
+    "id": "kp-246",
+    "slug": "lut",
+    "title": "LUT",
+    "summary": "可编程逻辑器件中的LUT，是理解和应用该章节内容的基础。",
+    "courseId": "course-8",
+    "tags": [
+      "LUT",
+      "可编程逻辑器件"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## LUT\n\n可编程逻辑器件中关于LUT的核心概念与要点。\n\n### 定义\n\nLUT是可编程逻辑器件的基本组成部分。\n\n### 要点\n\n1. 理解LUT的定义\n2. 掌握LUT的计算方法\n3. 能在电路中识别和应用LUT",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-63"
+    ]
+  },
+  {
+    "id": "kp-247",
+    "slug": "可编程逻辑器件知识点7",
+    "title": "可编程逻辑器件知识点7",
+    "summary": "可编程逻辑器件中的可编程逻辑器件知识点7，是理解和应用该章节内容的基础。",
+    "courseId": "course-8",
+    "tags": [
+      "PLD",
+      "可编程逻辑器件"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 可编程逻辑器件知识点7\n\n可编程逻辑器件中关于可编程逻辑器件知识点7的核心概念与要点。\n\n### 定义\n\n可编程逻辑器件知识点7是可编程逻辑器件的基本组成部分。\n\n### 要点\n\n1. 理解可编程逻辑器件知识点7的定义\n2. 掌握可编程逻辑器件知识点7的计算方法\n3. 能在电路中识别和应用可编程逻辑器件知识点7",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-248",
+    "slug": "可编程逻辑器件知识点8",
+    "title": "可编程逻辑器件知识点8",
+    "summary": "可编程逻辑器件中的可编程逻辑器件知识点8，是理解和应用该章节内容的基础。",
+    "courseId": "course-8",
+    "tags": [
+      "PAL",
+      "可编程逻辑器件"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 可编程逻辑器件知识点8\n\n可编程逻辑器件中关于可编程逻辑器件知识点8的核心概念与要点。\n\n### 定义\n\n可编程逻辑器件知识点8是可编程逻辑器件的基本组成部分。\n\n### 要点\n\n1. 理解可编程逻辑器件知识点8的定义\n2. 掌握可编程逻辑器件知识点8的计算方法\n3. 能在电路中识别和应用可编程逻辑器件知识点8",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-249",
+    "slug": "可编程逻辑器件知识点9",
+    "title": "可编程逻辑器件知识点9",
+    "summary": "可编程逻辑器件中的可编程逻辑器件知识点9，是理解和应用该章节内容的基础。",
+    "courseId": "course-8",
+    "tags": [
+      "GAL",
+      "可编程逻辑器件"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 可编程逻辑器件知识点9\n\n可编程逻辑器件中关于可编程逻辑器件知识点9的核心概念与要点。\n\n### 定义\n\n可编程逻辑器件知识点9是可编程逻辑器件的基本组成部分。\n\n### 要点\n\n1. 理解可编程逻辑器件知识点9的定义\n2. 掌握可编程逻辑器件知识点9的计算方法\n3. 能在电路中识别和应用可编程逻辑器件知识点9",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-250",
+    "slug": "可编程逻辑器件知识点10",
+    "title": "可编程逻辑器件知识点10",
+    "summary": "可编程逻辑器件中的可编程逻辑器件知识点10，是理解和应用该章节内容的基础。",
+    "courseId": "course-8",
+    "tags": [
+      "CPLD",
+      "可编程逻辑器件"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 可编程逻辑器件知识点10\n\n可编程逻辑器件中关于可编程逻辑器件知识点10的核心概念与要点。\n\n### 定义\n\n可编程逻辑器件知识点10是可编程逻辑器件的基本组成部分。\n\n### 要点\n\n1. 理解可编程逻辑器件知识点10的定义\n2. 掌握可编程逻辑器件知识点10的计算方法\n3. 能在电路中识别和应用可编程逻辑器件知识点10",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-251",
+    "slug": "可编程逻辑器件知识点11",
+    "title": "可编程逻辑器件知识点11",
+    "summary": "可编程逻辑器件中的可编程逻辑器件知识点11，是理解和应用该章节内容的基础。",
+    "courseId": "course-8",
+    "tags": [
+      "FPGA",
+      "可编程逻辑器件"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 可编程逻辑器件知识点11\n\n可编程逻辑器件中关于可编程逻辑器件知识点11的核心概念与要点。\n\n### 定义\n\n可编程逻辑器件知识点11是可编程逻辑器件的基本组成部分。\n\n### 要点\n\n1. 理解可编程逻辑器件知识点11的定义\n2. 掌握可编程逻辑器件知识点11的计算方法\n3. 能在电路中识别和应用可编程逻辑器件知识点11",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-252",
+    "slug": "可编程逻辑器件知识点12",
+    "title": "可编程逻辑器件知识点12",
+    "summary": "可编程逻辑器件中的可编程逻辑器件知识点12，是理解和应用该章节内容的基础。",
+    "courseId": "course-8",
+    "tags": [
+      "LUT",
+      "可编程逻辑器件"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 可编程逻辑器件知识点12\n\n可编程逻辑器件中关于可编程逻辑器件知识点12的核心概念与要点。\n\n### 定义\n\n可编程逻辑器件知识点12是可编程逻辑器件的基本组成部分。\n\n### 要点\n\n1. 理解可编程逻辑器件知识点12的定义\n2. 掌握可编程逻辑器件知识点12的计算方法\n3. 能在电路中识别和应用可编程逻辑器件知识点12",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-253",
+    "slug": "可编程逻辑器件知识点13",
+    "title": "可编程逻辑器件知识点13",
+    "summary": "可编程逻辑器件中的可编程逻辑器件知识点13，是理解和应用该章节内容的基础。",
+    "courseId": "course-8",
+    "tags": [
+      "PLD",
+      "可编程逻辑器件"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 可编程逻辑器件知识点13\n\n可编程逻辑器件中关于可编程逻辑器件知识点13的核心概念与要点。\n\n### 定义\n\n可编程逻辑器件知识点13是可编程逻辑器件的基本组成部分。\n\n### 要点\n\n1. 理解可编程逻辑器件知识点13的定义\n2. 掌握可编程逻辑器件知识点13的计算方法\n3. 能在电路中识别和应用可编程逻辑器件知识点13",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-254",
+    "slug": "可编程逻辑器件知识点14",
+    "title": "可编程逻辑器件知识点14",
+    "summary": "可编程逻辑器件中的可编程逻辑器件知识点14，是理解和应用该章节内容的基础。",
+    "courseId": "course-8",
+    "tags": [
+      "PAL",
+      "可编程逻辑器件"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 可编程逻辑器件知识点14\n\n可编程逻辑器件中关于可编程逻辑器件知识点14的核心概念与要点。\n\n### 定义\n\n可编程逻辑器件知识点14是可编程逻辑器件的基本组成部分。\n\n### 要点\n\n1. 理解可编程逻辑器件知识点14的定义\n2. 掌握可编程逻辑器件知识点14的计算方法\n3. 能在电路中识别和应用可编程逻辑器件知识点14",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-255",
+    "slug": "可编程逻辑器件知识点15",
+    "title": "可编程逻辑器件知识点15",
+    "summary": "可编程逻辑器件中的可编程逻辑器件知识点15，是理解和应用该章节内容的基础。",
+    "courseId": "course-8",
+    "tags": [
+      "GAL",
+      "可编程逻辑器件"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 可编程逻辑器件知识点15\n\n可编程逻辑器件中关于可编程逻辑器件知识点15的核心概念与要点。\n\n### 定义\n\n可编程逻辑器件知识点15是可编程逻辑器件的基本组成部分。\n\n### 要点\n\n1. 理解可编程逻辑器件知识点15的定义\n2. 掌握可编程逻辑器件知识点15的计算方法\n3. 能在电路中识别和应用可编程逻辑器件知识点15",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-256",
+    "slug": "可编程逻辑器件知识点16",
+    "title": "可编程逻辑器件知识点16",
+    "summary": "可编程逻辑器件中的可编程逻辑器件知识点16，是理解和应用该章节内容的基础。",
+    "courseId": "course-8",
+    "tags": [
+      "CPLD",
+      "可编程逻辑器件"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 可编程逻辑器件知识点16\n\n可编程逻辑器件中关于可编程逻辑器件知识点16的核心概念与要点。\n\n### 定义\n\n可编程逻辑器件知识点16是可编程逻辑器件的基本组成部分。\n\n### 要点\n\n1. 理解可编程逻辑器件知识点16的定义\n2. 掌握可编程逻辑器件知识点16的计算方法\n3. 能在电路中识别和应用可编程逻辑器件知识点16",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-257",
+    "slug": "quartus",
+    "title": "Quartus",
+    "summary": "Quartus入门中的Quartus，是理解和应用该章节内容的基础。",
+    "courseId": "course-9",
+    "tags": [
+      "Quartus",
+      "Quartus入门"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## Quartus\n\nQuartus入门中关于Quartus的核心概念与要点。\n\n### 定义\n\nQuartus是Quartus入门的基本组成部分。\n\n### 要点\n\n1. 理解Quartus的定义\n2. 掌握Quartus的计算方法\n3. 能在电路中识别和应用Quartus",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-64"
+    ]
+  },
+  {
+    "id": "kp-258",
+    "slug": "工程",
+    "title": "工程",
+    "summary": "Quartus入门中的工程，是理解和应用该章节内容的基础。",
+    "courseId": "course-9",
+    "tags": [
+      "工程",
+      "Quartus入门"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 工程\n\nQuartus入门中关于工程的核心概念与要点。\n\n### 定义\n\n工程是Quartus入门的基本组成部分。\n\n### 要点\n\n1. 理解工程的定义\n2. 掌握工程的计算方法\n3. 能在电路中识别和应用工程",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-259",
+    "slug": "编译",
+    "title": "编译",
+    "summary": "Quartus入门中的编译，是理解和应用该章节内容的基础。",
+    "courseId": "course-9",
+    "tags": [
+      "编译",
+      "Quartus入门"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 编译\n\nQuartus入门中关于编译的核心概念与要点。\n\n### 定义\n\n编译是Quartus入门的基本组成部分。\n\n### 要点\n\n1. 理解编译的定义\n2. 掌握编译的计算方法\n3. 能在电路中识别和应用编译",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-260",
+    "slug": "仿真",
+    "title": "仿真",
+    "summary": "Quartus入门中的仿真，是理解和应用该章节内容的基础。",
+    "courseId": "course-9",
+    "tags": [
+      "仿真",
+      "Quartus入门"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 仿真\n\nQuartus入门中关于仿真的核心概念与要点。\n\n### 定义\n\n仿真是Quartus入门的基本组成部分。\n\n### 要点\n\n1. 理解仿真的定义\n2. 掌握仿真的计算方法\n3. 能在电路中识别和应用仿真",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-105",
+      "g-106",
+      "g-167"
+    ]
+  },
+  {
+    "id": "kp-261",
+    "slug": "引脚",
+    "title": "引脚",
+    "summary": "Quartus入门中的引脚，是理解和应用该章节内容的基础。",
+    "courseId": "course-9",
+    "tags": [
+      "引脚",
+      "Quartus入门"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 引脚\n\nQuartus入门中关于引脚的核心概念与要点。\n\n### 定义\n\n引脚是Quartus入门的基本组成部分。\n\n### 要点\n\n1. 理解引脚的定义\n2. 掌握引脚的计算方法\n3. 能在电路中识别和应用引脚",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-117"
+    ]
+  },
+  {
+    "id": "kp-262",
+    "slug": "下载",
+    "title": "下载",
+    "summary": "Quartus入门中的下载，是理解和应用该章节内容的基础。",
+    "courseId": "course-9",
+    "tags": [
+      "下载",
+      "Quartus入门"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 下载\n\nQuartus入门中关于下载的核心概念与要点。\n\n### 定义\n\n下载是Quartus入门的基本组成部分。\n\n### 要点\n\n1. 理解下载的定义\n2. 掌握下载的计算方法\n3. 能在电路中识别和应用下载",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-168"
+    ]
+  },
+  {
+    "id": "kp-263",
+    "slug": "quartus入门知识点7",
+    "title": "Quartus入门知识点7",
+    "summary": "Quartus入门中的Quartus入门知识点7，是理解和应用该章节内容的基础。",
+    "courseId": "course-9",
+    "tags": [
+      "Quartus",
+      "Quartus入门"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## Quartus入门知识点7\n\nQuartus入门中关于Quartus入门知识点7的核心概念与要点。\n\n### 定义\n\nQuartus入门知识点7是Quartus入门的基本组成部分。\n\n### 要点\n\n1. 理解Quartus入门知识点7的定义\n2. 掌握Quartus入门知识点7的计算方法\n3. 能在电路中识别和应用Quartus入门知识点7",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-64"
+    ]
+  },
+  {
+    "id": "kp-264",
+    "slug": "quartus入门知识点8",
+    "title": "Quartus入门知识点8",
+    "summary": "Quartus入门中的Quartus入门知识点8，是理解和应用该章节内容的基础。",
+    "courseId": "course-9",
+    "tags": [
+      "工程",
+      "Quartus入门"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## Quartus入门知识点8\n\nQuartus入门中关于Quartus入门知识点8的核心概念与要点。\n\n### 定义\n\nQuartus入门知识点8是Quartus入门的基本组成部分。\n\n### 要点\n\n1. 理解Quartus入门知识点8的定义\n2. 掌握Quartus入门知识点8的计算方法\n3. 能在电路中识别和应用Quartus入门知识点8",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-64"
+    ]
+  },
+  {
+    "id": "kp-265",
+    "slug": "quartus入门知识点9",
+    "title": "Quartus入门知识点9",
+    "summary": "Quartus入门中的Quartus入门知识点9，是理解和应用该章节内容的基础。",
+    "courseId": "course-9",
+    "tags": [
+      "编译",
+      "Quartus入门"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## Quartus入门知识点9\n\nQuartus入门中关于Quartus入门知识点9的核心概念与要点。\n\n### 定义\n\nQuartus入门知识点9是Quartus入门的基本组成部分。\n\n### 要点\n\n1. 理解Quartus入门知识点9的定义\n2. 掌握Quartus入门知识点9的计算方法\n3. 能在电路中识别和应用Quartus入门知识点9",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-64"
+    ]
+  },
+  {
+    "id": "kp-266",
+    "slug": "quartus入门知识点10",
+    "title": "Quartus入门知识点10",
+    "summary": "Quartus入门中的Quartus入门知识点10，是理解和应用该章节内容的基础。",
+    "courseId": "course-9",
+    "tags": [
+      "仿真",
+      "Quartus入门"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## Quartus入门知识点10\n\nQuartus入门中关于Quartus入门知识点10的核心概念与要点。\n\n### 定义\n\nQuartus入门知识点10是Quartus入门的基本组成部分。\n\n### 要点\n\n1. 理解Quartus入门知识点10的定义\n2. 掌握Quartus入门知识点10的计算方法\n3. 能在电路中识别和应用Quartus入门知识点10",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-64"
+    ]
+  },
+  {
+    "id": "kp-267",
+    "slug": "quartus入门知识点11",
+    "title": "Quartus入门知识点11",
+    "summary": "Quartus入门中的Quartus入门知识点11，是理解和应用该章节内容的基础。",
+    "courseId": "course-9",
+    "tags": [
+      "引脚",
+      "Quartus入门"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## Quartus入门知识点11\n\nQuartus入门中关于Quartus入门知识点11的核心概念与要点。\n\n### 定义\n\nQuartus入门知识点11是Quartus入门的基本组成部分。\n\n### 要点\n\n1. 理解Quartus入门知识点11的定义\n2. 掌握Quartus入门知识点11的计算方法\n3. 能在电路中识别和应用Quartus入门知识点11",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-64"
+    ]
+  },
+  {
+    "id": "kp-268",
+    "slug": "quartus入门知识点12",
+    "title": "Quartus入门知识点12",
+    "summary": "Quartus入门中的Quartus入门知识点12，是理解和应用该章节内容的基础。",
+    "courseId": "course-9",
+    "tags": [
+      "下载",
+      "Quartus入门"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## Quartus入门知识点12\n\nQuartus入门中关于Quartus入门知识点12的核心概念与要点。\n\n### 定义\n\nQuartus入门知识点12是Quartus入门的基本组成部分。\n\n### 要点\n\n1. 理解Quartus入门知识点12的定义\n2. 掌握Quartus入门知识点12的计算方法\n3. 能在电路中识别和应用Quartus入门知识点12",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-64"
+    ]
+  },
+  {
+    "id": "kp-269",
+    "slug": "quartus入门知识点13",
+    "title": "Quartus入门知识点13",
+    "summary": "Quartus入门中的Quartus入门知识点13，是理解和应用该章节内容的基础。",
+    "courseId": "course-9",
+    "tags": [
+      "Quartus",
+      "Quartus入门"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## Quartus入门知识点13\n\nQuartus入门中关于Quartus入门知识点13的核心概念与要点。\n\n### 定义\n\nQuartus入门知识点13是Quartus入门的基本组成部分。\n\n### 要点\n\n1. 理解Quartus入门知识点13的定义\n2. 掌握Quartus入门知识点13的计算方法\n3. 能在电路中识别和应用Quartus入门知识点13",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-64"
+    ]
+  },
+  {
+    "id": "kp-270",
+    "slug": "quartus入门知识点14",
+    "title": "Quartus入门知识点14",
+    "summary": "Quartus入门中的Quartus入门知识点14，是理解和应用该章节内容的基础。",
+    "courseId": "course-9",
+    "tags": [
+      "工程",
+      "Quartus入门"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## Quartus入门知识点14\n\nQuartus入门中关于Quartus入门知识点14的核心概念与要点。\n\n### 定义\n\nQuartus入门知识点14是Quartus入门的基本组成部分。\n\n### 要点\n\n1. 理解Quartus入门知识点14的定义\n2. 掌握Quartus入门知识点14的计算方法\n3. 能在电路中识别和应用Quartus入门知识点14",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-64"
+    ]
+  },
+  {
+    "id": "kp-271",
+    "slug": "quartus入门知识点15",
+    "title": "Quartus入门知识点15",
+    "summary": "Quartus入门中的Quartus入门知识点15，是理解和应用该章节内容的基础。",
+    "courseId": "course-9",
+    "tags": [
+      "编译",
+      "Quartus入门"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## Quartus入门知识点15\n\nQuartus入门中关于Quartus入门知识点15的核心概念与要点。\n\n### 定义\n\nQuartus入门知识点15是Quartus入门的基本组成部分。\n\n### 要点\n\n1. 理解Quartus入门知识点15的定义\n2. 掌握Quartus入门知识点15的计算方法\n3. 能在电路中识别和应用Quartus入门知识点15",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-64"
+    ]
+  },
+  {
+    "id": "kp-272",
+    "slug": "quartus入门知识点16",
+    "title": "Quartus入门知识点16",
+    "summary": "Quartus入门中的Quartus入门知识点16，是理解和应用该章节内容的基础。",
+    "courseId": "course-9",
+    "tags": [
+      "仿真",
+      "Quartus入门"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## Quartus入门知识点16\n\nQuartus入门中关于Quartus入门知识点16的核心概念与要点。\n\n### 定义\n\nQuartus入门知识点16是Quartus入门的基本组成部分。\n\n### 要点\n\n1. 理解Quartus入门知识点16的定义\n2. 掌握Quartus入门知识点16的计算方法\n3. 能在电路中识别和应用Quartus入门知识点16",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-64"
+    ]
+  },
+  {
+    "id": "kp-273",
+    "slug": "bdf",
+    "title": "BDF",
+    "summary": "BDF原理图设计中的BDF，是理解和应用该章节内容的基础。",
+    "courseId": "course-9",
+    "tags": [
+      "BDF",
+      "BDF原理图设计"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## BDF\n\nBDF原理图设计中关于BDF的核心概念与要点。\n\n### 定义\n\nBDF是BDF原理图设计的基本组成部分。\n\n### 要点\n\n1. 理解BDF的定义\n2. 掌握BDF的计算方法\n3. 能在电路中识别和应用BDF",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-65"
+    ]
+  },
+  {
+    "id": "kp-274",
+    "slug": "原理图",
+    "title": "原理图",
+    "summary": "BDF原理图设计中的原理图，是理解和应用该章节内容的基础。",
+    "courseId": "course-9",
+    "tags": [
+      "原理图",
+      "BDF原理图设计"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 原理图\n\nBDF原理图设计中关于原理图的核心概念与要点。\n\n### 定义\n\n原理图是BDF原理图设计的基本组成部分。\n\n### 要点\n\n1. 理解原理图的定义\n2. 掌握原理图的计算方法\n3. 能在电路中识别和应用原理图",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-275",
+    "slug": "符号编辑",
+    "title": "符号编辑",
+    "summary": "BDF原理图设计中的符号编辑，是理解和应用该章节内容的基础。",
+    "courseId": "course-9",
+    "tags": [
+      "符号编辑",
+      "BDF原理图设计"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 符号编辑\n\nBDF原理图设计中关于符号编辑的核心概念与要点。\n\n### 定义\n\n符号编辑是BDF原理图设计的基本组成部分。\n\n### 要点\n\n1. 理解符号编辑的定义\n2. 掌握符号编辑的计算方法\n3. 能在电路中识别和应用符号编辑",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-276",
+    "slug": "lpm",
+    "title": "LPM",
+    "summary": "BDF原理图设计中的LPM，是理解和应用该章节内容的基础。",
+    "courseId": "course-9",
+    "tags": [
+      "LPM",
+      "BDF原理图设计"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## LPM\n\nBDF原理图设计中关于LPM的核心概念与要点。\n\n### 定义\n\nLPM是BDF原理图设计的基本组成部分。\n\n### 要点\n\n1. 理解LPM的定义\n2. 掌握LPM的计算方法\n3. 能在电路中识别和应用LPM",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-66"
+    ]
+  },
+  {
+    "id": "kp-277",
+    "slug": "总线",
+    "title": "总线",
+    "summary": "BDF原理图设计中的总线，是理解和应用该章节内容的基础。",
+    "courseId": "course-9",
+    "tags": [
+      "总线",
+      "BDF原理图设计"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 总线\n\nBDF原理图设计中关于总线的核心概念与要点。\n\n### 定义\n\n总线是BDF原理图设计的基本组成部分。\n\n### 要点\n\n1. 理解总线的定义\n2. 掌握总线的计算方法\n3. 能在电路中识别和应用总线",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-77"
+    ]
+  },
+  {
+    "id": "kp-278",
+    "slug": "bdf原理图设计知识点6",
+    "title": "BDF原理图设计知识点6",
+    "summary": "BDF原理图设计中的BDF原理图设计知识点6，是理解和应用该章节内容的基础。",
+    "courseId": "course-9",
+    "tags": [
+      "BDF",
+      "BDF原理图设计"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## BDF原理图设计知识点6\n\nBDF原理图设计中关于BDF原理图设计知识点6的核心概念与要点。\n\n### 定义\n\nBDF原理图设计知识点6是BDF原理图设计的基本组成部分。\n\n### 要点\n\n1. 理解BDF原理图设计知识点6的定义\n2. 掌握BDF原理图设计知识点6的计算方法\n3. 能在电路中识别和应用BDF原理图设计知识点6",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-65"
+    ]
+  },
+  {
+    "id": "kp-279",
+    "slug": "bdf原理图设计知识点7",
+    "title": "BDF原理图设计知识点7",
+    "summary": "BDF原理图设计中的BDF原理图设计知识点7，是理解和应用该章节内容的基础。",
+    "courseId": "course-9",
+    "tags": [
+      "原理图",
+      "BDF原理图设计"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## BDF原理图设计知识点7\n\nBDF原理图设计中关于BDF原理图设计知识点7的核心概念与要点。\n\n### 定义\n\nBDF原理图设计知识点7是BDF原理图设计的基本组成部分。\n\n### 要点\n\n1. 理解BDF原理图设计知识点7的定义\n2. 掌握BDF原理图设计知识点7的计算方法\n3. 能在电路中识别和应用BDF原理图设计知识点7",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-65"
+    ]
+  },
+  {
+    "id": "kp-280",
+    "slug": "bdf原理图设计知识点8",
+    "title": "BDF原理图设计知识点8",
+    "summary": "BDF原理图设计中的BDF原理图设计知识点8，是理解和应用该章节内容的基础。",
+    "courseId": "course-9",
+    "tags": [
+      "符号编辑",
+      "BDF原理图设计"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## BDF原理图设计知识点8\n\nBDF原理图设计中关于BDF原理图设计知识点8的核心概念与要点。\n\n### 定义\n\nBDF原理图设计知识点8是BDF原理图设计的基本组成部分。\n\n### 要点\n\n1. 理解BDF原理图设计知识点8的定义\n2. 掌握BDF原理图设计知识点8的计算方法\n3. 能在电路中识别和应用BDF原理图设计知识点8",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-65"
+    ]
+  },
+  {
+    "id": "kp-281",
+    "slug": "bdf原理图设计知识点9",
+    "title": "BDF原理图设计知识点9",
+    "summary": "BDF原理图设计中的BDF原理图设计知识点9，是理解和应用该章节内容的基础。",
+    "courseId": "course-9",
+    "tags": [
+      "LPM",
+      "BDF原理图设计"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## BDF原理图设计知识点9\n\nBDF原理图设计中关于BDF原理图设计知识点9的核心概念与要点。\n\n### 定义\n\nBDF原理图设计知识点9是BDF原理图设计的基本组成部分。\n\n### 要点\n\n1. 理解BDF原理图设计知识点9的定义\n2. 掌握BDF原理图设计知识点9的计算方法\n3. 能在电路中识别和应用BDF原理图设计知识点9",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-65"
+    ]
+  },
+  {
+    "id": "kp-282",
+    "slug": "bdf原理图设计知识点10",
+    "title": "BDF原理图设计知识点10",
+    "summary": "BDF原理图设计中的BDF原理图设计知识点10，是理解和应用该章节内容的基础。",
+    "courseId": "course-9",
+    "tags": [
+      "总线",
+      "BDF原理图设计"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## BDF原理图设计知识点10\n\nBDF原理图设计中关于BDF原理图设计知识点10的核心概念与要点。\n\n### 定义\n\nBDF原理图设计知识点10是BDF原理图设计的基本组成部分。\n\n### 要点\n\n1. 理解BDF原理图设计知识点10的定义\n2. 掌握BDF原理图设计知识点10的计算方法\n3. 能在电路中识别和应用BDF原理图设计知识点10",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-65"
+    ]
+  },
+  {
+    "id": "kp-283",
+    "slug": "bdf原理图设计知识点11",
+    "title": "BDF原理图设计知识点11",
+    "summary": "BDF原理图设计中的BDF原理图设计知识点11，是理解和应用该章节内容的基础。",
+    "courseId": "course-9",
+    "tags": [
+      "BDF",
+      "BDF原理图设计"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## BDF原理图设计知识点11\n\nBDF原理图设计中关于BDF原理图设计知识点11的核心概念与要点。\n\n### 定义\n\nBDF原理图设计知识点11是BDF原理图设计的基本组成部分。\n\n### 要点\n\n1. 理解BDF原理图设计知识点11的定义\n2. 掌握BDF原理图设计知识点11的计算方法\n3. 能在电路中识别和应用BDF原理图设计知识点11",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-65"
+    ]
+  },
+  {
+    "id": "kp-284",
+    "slug": "bdf原理图设计知识点12",
+    "title": "BDF原理图设计知识点12",
+    "summary": "BDF原理图设计中的BDF原理图设计知识点12，是理解和应用该章节内容的基础。",
+    "courseId": "course-9",
+    "tags": [
+      "原理图",
+      "BDF原理图设计"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## BDF原理图设计知识点12\n\nBDF原理图设计中关于BDF原理图设计知识点12的核心概念与要点。\n\n### 定义\n\nBDF原理图设计知识点12是BDF原理图设计的基本组成部分。\n\n### 要点\n\n1. 理解BDF原理图设计知识点12的定义\n2. 掌握BDF原理图设计知识点12的计算方法\n3. 能在电路中识别和应用BDF原理图设计知识点12",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-65"
+    ]
+  },
+  {
+    "id": "kp-285",
+    "slug": "bdf原理图设计知识点13",
+    "title": "BDF原理图设计知识点13",
+    "summary": "BDF原理图设计中的BDF原理图设计知识点13，是理解和应用该章节内容的基础。",
+    "courseId": "course-9",
+    "tags": [
+      "符号编辑",
+      "BDF原理图设计"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## BDF原理图设计知识点13\n\nBDF原理图设计中关于BDF原理图设计知识点13的核心概念与要点。\n\n### 定义\n\nBDF原理图设计知识点13是BDF原理图设计的基本组成部分。\n\n### 要点\n\n1. 理解BDF原理图设计知识点13的定义\n2. 掌握BDF原理图设计知识点13的计算方法\n3. 能在电路中识别和应用BDF原理图设计知识点13",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-65"
+    ]
+  },
+  {
+    "id": "kp-286",
+    "slug": "bdf原理图设计知识点14",
+    "title": "BDF原理图设计知识点14",
+    "summary": "BDF原理图设计中的BDF原理图设计知识点14，是理解和应用该章节内容的基础。",
+    "courseId": "course-9",
+    "tags": [
+      "LPM",
+      "BDF原理图设计"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## BDF原理图设计知识点14\n\nBDF原理图设计中关于BDF原理图设计知识点14的核心概念与要点。\n\n### 定义\n\nBDF原理图设计知识点14是BDF原理图设计的基本组成部分。\n\n### 要点\n\n1. 理解BDF原理图设计知识点14的定义\n2. 掌握BDF原理图设计知识点14的计算方法\n3. 能在电路中识别和应用BDF原理图设计知识点14",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-65"
+    ]
+  },
+  {
+    "id": "kp-287",
+    "slug": "bdf原理图设计知识点15",
+    "title": "BDF原理图设计知识点15",
+    "summary": "BDF原理图设计中的BDF原理图设计知识点15，是理解和应用该章节内容的基础。",
+    "courseId": "course-9",
+    "tags": [
+      "总线",
+      "BDF原理图设计"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## BDF原理图设计知识点15\n\nBDF原理图设计中关于BDF原理图设计知识点15的核心概念与要点。\n\n### 定义\n\nBDF原理图设计知识点15是BDF原理图设计的基本组成部分。\n\n### 要点\n\n1. 理解BDF原理图设计知识点15的定义\n2. 掌握BDF原理图设计知识点15的计算方法\n3. 能在电路中识别和应用BDF原理图设计知识点15",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-65"
+    ]
+  },
+  {
+    "id": "kp-288",
+    "slug": "bdf原理图设计知识点16",
+    "title": "BDF原理图设计知识点16",
+    "summary": "BDF原理图设计中的BDF原理图设计知识点16，是理解和应用该章节内容的基础。",
+    "courseId": "course-9",
+    "tags": [
+      "BDF",
+      "BDF原理图设计"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## BDF原理图设计知识点16\n\nBDF原理图设计中关于BDF原理图设计知识点16的核心概念与要点。\n\n### 定义\n\nBDF原理图设计知识点16是BDF原理图设计的基本组成部分。\n\n### 要点\n\n1. 理解BDF原理图设计知识点16的定义\n2. 掌握BDF原理图设计知识点16的计算方法\n3. 能在电路中识别和应用BDF原理图设计知识点16",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-65"
+    ]
+  },
+  {
+    "id": "kp-289",
+    "slug": "verilog",
+    "title": "Verilog",
+    "summary": "Verilog基础中的Verilog，是理解和应用该章节内容的基础。",
+    "courseId": "course-10",
+    "tags": [
+      "Verilog",
+      "Verilog基础"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## Verilog\n\nVerilog基础中关于Verilog的核心概念与要点。\n\n### 定义\n\nVerilog是Verilog基础的基本组成部分。\n\n### 要点\n\n1. 理解Verilog的定义\n2. 掌握Verilog的计算方法\n3. 能在电路中识别和应用Verilog",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-67"
+    ]
+  },
+  {
+    "id": "kp-290",
+    "slug": "模块",
+    "title": "模块",
+    "summary": "Verilog基础中的模块，是理解和应用该章节内容的基础。",
+    "courseId": "course-10",
+    "tags": [
+      "模块",
+      "Verilog基础"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 模块\n\nVerilog基础中关于模块的核心概念与要点。\n\n### 定义\n\n模块是Verilog基础的基本组成部分。\n\n### 要点\n\n1. 理解模块的定义\n2. 掌握模块的计算方法\n3. 能在电路中识别和应用模块",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-110"
+    ]
+  },
+  {
+    "id": "kp-291",
+    "slug": "always",
+    "title": "always",
+    "summary": "Verilog基础中的always，是理解和应用该章节内容的基础。",
+    "courseId": "course-10",
+    "tags": [
+      "always",
+      "Verilog基础"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## always\n\nVerilog基础中关于always的核心概念与要点。\n\n### 定义\n\nalways是Verilog基础的基本组成部分。\n\n### 要点\n\n1. 理解always的定义\n2. 掌握always的计算方法\n3. 能在电路中识别和应用always",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-112"
+    ]
+  },
+  {
+    "id": "kp-292",
+    "slug": "assign",
+    "title": "assign",
+    "summary": "Verilog基础中的assign，是理解和应用该章节内容的基础。",
+    "courseId": "course-10",
+    "tags": [
+      "assign",
+      "Verilog基础"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## assign\n\nVerilog基础中关于assign的核心概念与要点。\n\n### 定义\n\nassign是Verilog基础的基本组成部分。\n\n### 要点\n\n1. 理解assign的定义\n2. 掌握assign的计算方法\n3. 能在电路中识别和应用assign",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-113"
+    ]
+  },
+  {
+    "id": "kp-293",
+    "slug": "case",
+    "title": "case",
+    "summary": "Verilog基础中的case，是理解和应用该章节内容的基础。",
+    "courseId": "course-10",
+    "tags": [
+      "case",
+      "Verilog基础"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## case\n\nVerilog基础中关于case的核心概念与要点。\n\n### 定义\n\ncase是Verilog基础的基本组成部分。\n\n### 要点\n\n1. 理解case的定义\n2. 掌握case的计算方法\n3. 能在电路中识别和应用case",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-114"
+    ]
+  },
+  {
+    "id": "kp-294",
+    "slug": "if-else",
+    "title": "if-else",
+    "summary": "Verilog基础中的if-else，是理解和应用该章节内容的基础。",
+    "courseId": "course-10",
+    "tags": [
+      "if-else",
+      "Verilog基础"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## if-else\n\nVerilog基础中关于if-else的核心概念与要点。\n\n### 定义\n\nif-else是Verilog基础的基本组成部分。\n\n### 要点\n\n1. 理解if-else的定义\n2. 掌握if-else的计算方法\n3. 能在电路中识别和应用if-else",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-295",
+    "slug": "verilog基础知识点7",
+    "title": "Verilog基础知识点7",
+    "summary": "Verilog基础中的Verilog基础知识点7，是理解和应用该章节内容的基础。",
+    "courseId": "course-10",
+    "tags": [
+      "Verilog",
+      "Verilog基础"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## Verilog基础知识点7\n\nVerilog基础中关于Verilog基础知识点7的核心概念与要点。\n\n### 定义\n\nVerilog基础知识点7是Verilog基础的基本组成部分。\n\n### 要点\n\n1. 理解Verilog基础知识点7的定义\n2. 掌握Verilog基础知识点7的计算方法\n3. 能在电路中识别和应用Verilog基础知识点7",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-67"
+    ]
+  },
+  {
+    "id": "kp-296",
+    "slug": "verilog基础知识点8",
+    "title": "Verilog基础知识点8",
+    "summary": "Verilog基础中的Verilog基础知识点8，是理解和应用该章节内容的基础。",
+    "courseId": "course-10",
+    "tags": [
+      "模块",
+      "Verilog基础"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## Verilog基础知识点8\n\nVerilog基础中关于Verilog基础知识点8的核心概念与要点。\n\n### 定义\n\nVerilog基础知识点8是Verilog基础的基本组成部分。\n\n### 要点\n\n1. 理解Verilog基础知识点8的定义\n2. 掌握Verilog基础知识点8的计算方法\n3. 能在电路中识别和应用Verilog基础知识点8",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-67"
+    ]
+  },
+  {
+    "id": "kp-297",
+    "slug": "verilog基础知识点9",
+    "title": "Verilog基础知识点9",
+    "summary": "Verilog基础中的Verilog基础知识点9，是理解和应用该章节内容的基础。",
+    "courseId": "course-10",
+    "tags": [
+      "always",
+      "Verilog基础"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## Verilog基础知识点9\n\nVerilog基础中关于Verilog基础知识点9的核心概念与要点。\n\n### 定义\n\nVerilog基础知识点9是Verilog基础的基本组成部分。\n\n### 要点\n\n1. 理解Verilog基础知识点9的定义\n2. 掌握Verilog基础知识点9的计算方法\n3. 能在电路中识别和应用Verilog基础知识点9",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-67"
+    ]
+  },
+  {
+    "id": "kp-298",
+    "slug": "verilog基础知识点10",
+    "title": "Verilog基础知识点10",
+    "summary": "Verilog基础中的Verilog基础知识点10，是理解和应用该章节内容的基础。",
+    "courseId": "course-10",
+    "tags": [
+      "assign",
+      "Verilog基础"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## Verilog基础知识点10\n\nVerilog基础中关于Verilog基础知识点10的核心概念与要点。\n\n### 定义\n\nVerilog基础知识点10是Verilog基础的基本组成部分。\n\n### 要点\n\n1. 理解Verilog基础知识点10的定义\n2. 掌握Verilog基础知识点10的计算方法\n3. 能在电路中识别和应用Verilog基础知识点10",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-67"
+    ]
+  },
+  {
+    "id": "kp-299",
+    "slug": "verilog基础知识点11",
+    "title": "Verilog基础知识点11",
+    "summary": "Verilog基础中的Verilog基础知识点11，是理解和应用该章节内容的基础。",
+    "courseId": "course-10",
+    "tags": [
+      "case",
+      "Verilog基础"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## Verilog基础知识点11\n\nVerilog基础中关于Verilog基础知识点11的核心概念与要点。\n\n### 定义\n\nVerilog基础知识点11是Verilog基础的基本组成部分。\n\n### 要点\n\n1. 理解Verilog基础知识点11的定义\n2. 掌握Verilog基础知识点11的计算方法\n3. 能在电路中识别和应用Verilog基础知识点11",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-67"
+    ]
+  },
+  {
+    "id": "kp-300",
+    "slug": "verilog基础知识点12",
+    "title": "Verilog基础知识点12",
+    "summary": "Verilog基础中的Verilog基础知识点12，是理解和应用该章节内容的基础。",
+    "courseId": "course-10",
+    "tags": [
+      "if-else",
+      "Verilog基础"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## Verilog基础知识点12\n\nVerilog基础中关于Verilog基础知识点12的核心概念与要点。\n\n### 定义\n\nVerilog基础知识点12是Verilog基础的基本组成部分。\n\n### 要点\n\n1. 理解Verilog基础知识点12的定义\n2. 掌握Verilog基础知识点12的计算方法\n3. 能在电路中识别和应用Verilog基础知识点12",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-67"
+    ]
+  },
+  {
+    "id": "kp-301",
+    "slug": "verilog基础知识点13",
+    "title": "Verilog基础知识点13",
+    "summary": "Verilog基础中的Verilog基础知识点13，是理解和应用该章节内容的基础。",
+    "courseId": "course-10",
+    "tags": [
+      "Verilog",
+      "Verilog基础"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## Verilog基础知识点13\n\nVerilog基础中关于Verilog基础知识点13的核心概念与要点。\n\n### 定义\n\nVerilog基础知识点13是Verilog基础的基本组成部分。\n\n### 要点\n\n1. 理解Verilog基础知识点13的定义\n2. 掌握Verilog基础知识点13的计算方法\n3. 能在电路中识别和应用Verilog基础知识点13",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-67"
+    ]
+  },
+  {
+    "id": "kp-302",
+    "slug": "verilog基础知识点14",
+    "title": "Verilog基础知识点14",
+    "summary": "Verilog基础中的Verilog基础知识点14，是理解和应用该章节内容的基础。",
+    "courseId": "course-10",
+    "tags": [
+      "模块",
+      "Verilog基础"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## Verilog基础知识点14\n\nVerilog基础中关于Verilog基础知识点14的核心概念与要点。\n\n### 定义\n\nVerilog基础知识点14是Verilog基础的基本组成部分。\n\n### 要点\n\n1. 理解Verilog基础知识点14的定义\n2. 掌握Verilog基础知识点14的计算方法\n3. 能在电路中识别和应用Verilog基础知识点14",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-67"
+    ]
+  },
+  {
+    "id": "kp-303",
+    "slug": "verilog基础知识点15",
+    "title": "Verilog基础知识点15",
+    "summary": "Verilog基础中的Verilog基础知识点15，是理解和应用该章节内容的基础。",
+    "courseId": "course-10",
+    "tags": [
+      "always",
+      "Verilog基础"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## Verilog基础知识点15\n\nVerilog基础中关于Verilog基础知识点15的核心概念与要点。\n\n### 定义\n\nVerilog基础知识点15是Verilog基础的基本组成部分。\n\n### 要点\n\n1. 理解Verilog基础知识点15的定义\n2. 掌握Verilog基础知识点15的计算方法\n3. 能在电路中识别和应用Verilog基础知识点15",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-67"
+    ]
+  },
+  {
+    "id": "kp-304",
+    "slug": "verilog基础知识点16",
+    "title": "Verilog基础知识点16",
+    "summary": "Verilog基础中的Verilog基础知识点16，是理解和应用该章节内容的基础。",
+    "courseId": "course-10",
+    "tags": [
+      "assign",
+      "Verilog基础"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## Verilog基础知识点16\n\nVerilog基础中关于Verilog基础知识点16的核心概念与要点。\n\n### 定义\n\nVerilog基础知识点16是Verilog基础的基本组成部分。\n\n### 要点\n\n1. 理解Verilog基础知识点16的定义\n2. 掌握Verilog基础知识点16的计算方法\n3. 能在电路中识别和应用Verilog基础知识点16",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-67"
+    ]
+  },
+  {
+    "id": "kp-305",
+    "slug": "电梯",
+    "title": "电梯",
+    "summary": "步进电机模拟电梯课程设计中的电梯，是理解和应用该章节内容的基础。",
+    "courseId": "course-11",
+    "tags": [
+      "电梯",
+      "步进电机模拟电梯课程设计"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 电梯\n\n步进电机模拟电梯课程设计中关于电梯的核心概念与要点。\n\n### 定义\n\n电梯是步进电机模拟电梯课程设计的基本组成部分。\n\n### 要点\n\n1. 理解电梯的定义\n2. 掌握电梯的计算方法\n3. 能在电路中识别和应用电梯",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-159"
+    ]
+  },
+  {
+    "id": "kp-306",
+    "slug": "步进电机",
+    "title": "步进电机",
+    "summary": "步进电机模拟电梯课程设计中的步进电机，是理解和应用该章节内容的基础。",
+    "courseId": "course-11",
+    "tags": [
+      "步进电机",
+      "步进电机模拟电梯课程设计"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 步进电机\n\n步进电机模拟电梯课程设计中关于步进电机的核心概念与要点。\n\n### 定义\n\n步进电机是步进电机模拟电梯课程设计的基本组成部分。\n\n### 要点\n\n1. 理解步进电机的定义\n2. 掌握步进电机的计算方法\n3. 能在电路中识别和应用步进电机",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-73",
+      "g-163"
+    ]
+  },
+  {
+    "id": "kp-307",
+    "slug": "楼层",
+    "title": "楼层",
+    "summary": "步进电机模拟电梯课程设计中的楼层，是理解和应用该章节内容的基础。",
+    "courseId": "course-11",
+    "tags": [
+      "楼层",
+      "步进电机模拟电梯课程设计"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 楼层\n\n步进电机模拟电梯课程设计中关于楼层的核心概念与要点。\n\n### 定义\n\n楼层是步进电机模拟电梯课程设计的基本组成部分。\n\n### 要点\n\n1. 理解楼层的定义\n2. 掌握楼层的计算方法\n3. 能在电路中识别和应用楼层",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-160"
+    ]
+  },
+  {
+    "id": "kp-308",
+    "slug": "方向控制",
+    "title": "方向控制",
+    "summary": "步进电机模拟电梯课程设计中的方向控制，是理解和应用该章节内容的基础。",
+    "courseId": "course-11",
+    "tags": [
+      "方向控制",
+      "步进电机模拟电梯课程设计"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 方向控制\n\n步进电机模拟电梯课程设计中关于方向控制的核心概念与要点。\n\n### 定义\n\n方向控制是步进电机模拟电梯课程设计的基本组成部分。\n\n### 要点\n\n1. 理解方向控制的定义\n2. 掌握方向控制的计算方法\n3. 能在电路中识别和应用方向控制",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-161"
+    ]
+  },
+  {
+    "id": "kp-309",
+    "slug": "开关门",
+    "title": "开关门",
+    "summary": "步进电机模拟电梯课程设计中的开关门，是理解和应用该章节内容的基础。",
+    "courseId": "course-11",
+    "tags": [
+      "开关门",
+      "步进电机模拟电梯课程设计"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 开关门\n\n步进电机模拟电梯课程设计中关于开关门的核心概念与要点。\n\n### 定义\n\n开关门是步进电机模拟电梯课程设计的基本组成部分。\n\n### 要点\n\n1. 理解开关门的定义\n2. 掌握开关门的计算方法\n3. 能在电路中识别和应用开关门",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-162"
+    ]
+  },
+  {
+    "id": "kp-310",
+    "slug": "lpm_counter",
+    "title": "LPM_COUNTER",
+    "summary": "步进电机模拟电梯课程设计中的LPM_COUNTER，是理解和应用该章节内容的基础。",
+    "courseId": "course-11",
+    "tags": [
+      "LPM_COUNTER",
+      "步进电机模拟电梯课程设计"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## LPM_COUNTER\n\n步进电机模拟电梯课程设计中关于LPM_COUNTER的核心概念与要点。\n\n### 定义\n\nLPM_COUNTER是步进电机模拟电梯课程设计的基本组成部分。\n\n### 要点\n\n1. 理解LPM_COUNTER的定义\n2. 掌握LPM_COUNTER的计算方法\n3. 能在电路中识别和应用LPM_COUNTER",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-66"
+    ]
+  },
+  {
+    "id": "kp-311",
+    "slug": "数码管",
+    "title": "数码管",
+    "summary": "步进电机模拟电梯课程设计中的数码管，是理解和应用该章节内容的基础。",
+    "courseId": "course-11",
+    "tags": [
+      "数码管",
+      "步进电机模拟电梯课程设计"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 数码管\n\n步进电机模拟电梯课程设计中关于数码管的核心概念与要点。\n\n### 定义\n\n数码管是步进电机模拟电梯课程设计的基本组成部分。\n\n### 要点\n\n1. 理解数码管的定义\n2. 掌握数码管的计算方法\n3. 能在电路中识别和应用数码管",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-75",
+      "g-165"
+    ]
+  },
+  {
+    "id": "kp-312",
+    "slug": "led",
+    "title": "LED",
+    "summary": "步进电机模拟电梯课程设计中的LED，是理解和应用该章节内容的基础。",
+    "courseId": "course-11",
+    "tags": [
+      "LED",
+      "步进电机模拟电梯课程设计"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## LED\n\n步进电机模拟电梯课程设计中关于LED的核心概念与要点。\n\n### 定义\n\nLED是步进电机模拟电梯课程设计的基本组成部分。\n\n### 要点\n\n1. 理解LED的定义\n2. 掌握LED的计算方法\n3. 能在电路中识别和应用LED",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-166"
+    ]
+  },
+  {
+    "id": "kp-313",
+    "slug": "50mhz",
+    "title": "50MHz",
+    "summary": "步进电机模拟电梯课程设计中的50MHz，是理解和应用该章节内容的基础。",
+    "courseId": "course-11",
+    "tags": [
+      "50MHz",
+      "步进电机模拟电梯课程设计"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 50MHz\n\n步进电机模拟电梯课程设计中关于50MHz的核心概念与要点。\n\n### 定义\n\n50MHz是步进电机模拟电梯课程设计的基本组成部分。\n\n### 要点\n\n1. 理解50MHz的定义\n2. 掌握50MHz的计算方法\n3. 能在电路中识别和应用50MHz",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-314",
+    "slug": "sdc约束",
+    "title": "SDC约束",
+    "summary": "步进电机模拟电梯课程设计中的SDC约束，是理解和应用该章节内容的基础。",
+    "courseId": "course-11",
+    "tags": [
+      "SDC约束",
+      "步进电机模拟电梯课程设计"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## SDC约束\n\n步进电机模拟电梯课程设计中关于SDC约束的核心概念与要点。\n\n### 定义\n\nSDC约束是步进电机模拟电梯课程设计的基本组成部分。\n\n### 要点\n\n1. 理解SDC约束的定义\n2. 掌握SDC约束的计算方法\n3. 能在电路中识别和应用SDC约束",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-72"
+    ]
+  },
+  {
+    "id": "kp-315",
+    "slug": "步进电机模拟电梯课程设计知识点11",
+    "title": "步进电机模拟电梯课程设计知识点11",
+    "summary": "步进电机模拟电梯课程设计中的步进电机模拟电梯课程设计知识点11，是理解和应用该章节内容的基础。",
+    "courseId": "course-11",
+    "tags": [
+      "电梯",
+      "步进电机模拟电梯课程设计"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 步进电机模拟电梯课程设计知识点11\n\n步进电机模拟电梯课程设计中关于步进电机模拟电梯课程设计知识点11的核心概念与要点。\n\n### 定义\n\n步进电机模拟电梯课程设计知识点11是步进电机模拟电梯课程设计的基本组成部分。\n\n### 要点\n\n1. 理解步进电机模拟电梯课程设计知识点11的定义\n2. 掌握步进电机模拟电梯课程设计知识点11的计算方法\n3. 能在电路中识别和应用步进电机模拟电梯课程设计知识点11",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-73"
+    ]
+  },
+  {
+    "id": "kp-316",
+    "slug": "步进电机模拟电梯课程设计知识点12",
+    "title": "步进电机模拟电梯课程设计知识点12",
+    "summary": "步进电机模拟电梯课程设计中的步进电机模拟电梯课程设计知识点12，是理解和应用该章节内容的基础。",
+    "courseId": "course-11",
+    "tags": [
+      "步进电机",
+      "步进电机模拟电梯课程设计"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 步进电机模拟电梯课程设计知识点12\n\n步进电机模拟电梯课程设计中关于步进电机模拟电梯课程设计知识点12的核心概念与要点。\n\n### 定义\n\n步进电机模拟电梯课程设计知识点12是步进电机模拟电梯课程设计的基本组成部分。\n\n### 要点\n\n1. 理解步进电机模拟电梯课程设计知识点12的定义\n2. 掌握步进电机模拟电梯课程设计知识点12的计算方法\n3. 能在电路中识别和应用步进电机模拟电梯课程设计知识点12",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-73"
+    ]
+  },
+  {
+    "id": "kp-317",
+    "slug": "步进电机模拟电梯课程设计知识点13",
+    "title": "步进电机模拟电梯课程设计知识点13",
+    "summary": "步进电机模拟电梯课程设计中的步进电机模拟电梯课程设计知识点13，是理解和应用该章节内容的基础。",
+    "courseId": "course-11",
+    "tags": [
+      "楼层",
+      "步进电机模拟电梯课程设计"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 步进电机模拟电梯课程设计知识点13\n\n步进电机模拟电梯课程设计中关于步进电机模拟电梯课程设计知识点13的核心概念与要点。\n\n### 定义\n\n步进电机模拟电梯课程设计知识点13是步进电机模拟电梯课程设计的基本组成部分。\n\n### 要点\n\n1. 理解步进电机模拟电梯课程设计知识点13的定义\n2. 掌握步进电机模拟电梯课程设计知识点13的计算方法\n3. 能在电路中识别和应用步进电机模拟电梯课程设计知识点13",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-73"
+    ]
+  },
+  {
+    "id": "kp-318",
+    "slug": "步进电机模拟电梯课程设计知识点14",
+    "title": "步进电机模拟电梯课程设计知识点14",
+    "summary": "步进电机模拟电梯课程设计中的步进电机模拟电梯课程设计知识点14，是理解和应用该章节内容的基础。",
+    "courseId": "course-11",
+    "tags": [
+      "方向控制",
+      "步进电机模拟电梯课程设计"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 步进电机模拟电梯课程设计知识点14\n\n步进电机模拟电梯课程设计中关于步进电机模拟电梯课程设计知识点14的核心概念与要点。\n\n### 定义\n\n步进电机模拟电梯课程设计知识点14是步进电机模拟电梯课程设计的基本组成部分。\n\n### 要点\n\n1. 理解步进电机模拟电梯课程设计知识点14的定义\n2. 掌握步进电机模拟电梯课程设计知识点14的计算方法\n3. 能在电路中识别和应用步进电机模拟电梯课程设计知识点14",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-73"
+    ]
+  },
+  {
+    "id": "kp-319",
+    "slug": "步进电机模拟电梯课程设计知识点15",
+    "title": "步进电机模拟电梯课程设计知识点15",
+    "summary": "步进电机模拟电梯课程设计中的步进电机模拟电梯课程设计知识点15，是理解和应用该章节内容的基础。",
+    "courseId": "course-11",
+    "tags": [
+      "开关门",
+      "步进电机模拟电梯课程设计"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 步进电机模拟电梯课程设计知识点15\n\n步进电机模拟电梯课程设计中关于步进电机模拟电梯课程设计知识点15的核心概念与要点。\n\n### 定义\n\n步进电机模拟电梯课程设计知识点15是步进电机模拟电梯课程设计的基本组成部分。\n\n### 要点\n\n1. 理解步进电机模拟电梯课程设计知识点15的定义\n2. 掌握步进电机模拟电梯课程设计知识点15的计算方法\n3. 能在电路中识别和应用步进电机模拟电梯课程设计知识点15",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-73"
+    ]
+  },
+  {
+    "id": "kp-320",
+    "slug": "步进电机模拟电梯课程设计知识点16",
+    "title": "步进电机模拟电梯课程设计知识点16",
+    "summary": "步进电机模拟电梯课程设计中的步进电机模拟电梯课程设计知识点16，是理解和应用该章节内容的基础。",
+    "courseId": "course-11",
+    "tags": [
+      "LPM_COUNTER",
+      "步进电机模拟电梯课程设计"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 步进电机模拟电梯课程设计知识点16\n\n步进电机模拟电梯课程设计中关于步进电机模拟电梯课程设计知识点16的核心概念与要点。\n\n### 定义\n\n步进电机模拟电梯课程设计知识点16是步进电机模拟电梯课程设计的基本组成部分。\n\n### 要点\n\n1. 理解步进电机模拟电梯课程设计知识点16的定义\n2. 掌握步进电机模拟电梯课程设计知识点16的计算方法\n3. 能在电路中识别和应用步进电机模拟电梯课程设计知识点16",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-73"
+    ]
+  },
+  {
+    "id": "kp-321",
+    "slug": "步进电机模拟电梯课程设计知识点17",
+    "title": "步进电机模拟电梯课程设计知识点17",
+    "summary": "步进电机模拟电梯课程设计中的步进电机模拟电梯课程设计知识点17，是理解和应用该章节内容的基础。",
+    "courseId": "course-11",
+    "tags": [
+      "数码管",
+      "步进电机模拟电梯课程设计"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 步进电机模拟电梯课程设计知识点17\n\n步进电机模拟电梯课程设计中关于步进电机模拟电梯课程设计知识点17的核心概念与要点。\n\n### 定义\n\n步进电机模拟电梯课程设计知识点17是步进电机模拟电梯课程设计的基本组成部分。\n\n### 要点\n\n1. 理解步进电机模拟电梯课程设计知识点17的定义\n2. 掌握步进电机模拟电梯课程设计知识点17的计算方法\n3. 能在电路中识别和应用步进电机模拟电梯课程设计知识点17",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-73"
+    ]
+  },
+  {
+    "id": "kp-322",
+    "slug": "步进电机模拟电梯课程设计知识点18",
+    "title": "步进电机模拟电梯课程设计知识点18",
+    "summary": "步进电机模拟电梯课程设计中的步进电机模拟电梯课程设计知识点18，是理解和应用该章节内容的基础。",
+    "courseId": "course-11",
+    "tags": [
+      "LED",
+      "步进电机模拟电梯课程设计"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 步进电机模拟电梯课程设计知识点18\n\n步进电机模拟电梯课程设计中关于步进电机模拟电梯课程设计知识点18的核心概念与要点。\n\n### 定义\n\n步进电机模拟电梯课程设计知识点18是步进电机模拟电梯课程设计的基本组成部分。\n\n### 要点\n\n1. 理解步进电机模拟电梯课程设计知识点18的定义\n2. 掌握步进电机模拟电梯课程设计知识点18的计算方法\n3. 能在电路中识别和应用步进电机模拟电梯课程设计知识点18",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-73"
+    ]
+  },
+  {
+    "id": "kp-323",
+    "slug": "步进电机模拟电梯课程设计知识点19",
+    "title": "步进电机模拟电梯课程设计知识点19",
+    "summary": "步进电机模拟电梯课程设计中的步进电机模拟电梯课程设计知识点19，是理解和应用该章节内容的基础。",
+    "courseId": "course-11",
+    "tags": [
+      "50MHz",
+      "步进电机模拟电梯课程设计"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 步进电机模拟电梯课程设计知识点19\n\n步进电机模拟电梯课程设计中关于步进电机模拟电梯课程设计知识点19的核心概念与要点。\n\n### 定义\n\n步进电机模拟电梯课程设计知识点19是步进电机模拟电梯课程设计的基本组成部分。\n\n### 要点\n\n1. 理解步进电机模拟电梯课程设计知识点19的定义\n2. 掌握步进电机模拟电梯课程设计知识点19的计算方法\n3. 能在电路中识别和应用步进电机模拟电梯课程设计知识点19",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-73"
+    ]
+  },
+  {
+    "id": "kp-324",
+    "slug": "步进电机模拟电梯课程设计知识点20",
+    "title": "步进电机模拟电梯课程设计知识点20",
+    "summary": "步进电机模拟电梯课程设计中的步进电机模拟电梯课程设计知识点20，是理解和应用该章节内容的基础。",
+    "courseId": "course-11",
+    "tags": [
+      "SDC约束",
+      "步进电机模拟电梯课程设计"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 步进电机模拟电梯课程设计知识点20\n\n步进电机模拟电梯课程设计中关于步进电机模拟电梯课程设计知识点20的核心概念与要点。\n\n### 定义\n\n步进电机模拟电梯课程设计知识点20是步进电机模拟电梯课程设计的基本组成部分。\n\n### 要点\n\n1. 理解步进电机模拟电梯课程设计知识点20的定义\n2. 掌握步进电机模拟电梯课程设计知识点20的计算方法\n3. 能在电路中识别和应用步进电机模拟电梯课程设计知识点20",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-73"
+    ]
+  },
+  {
+    "id": "kp-325",
+    "slug": "步进电机模拟电梯课程设计知识点21",
+    "title": "步进电机模拟电梯课程设计知识点21",
+    "summary": "步进电机模拟电梯课程设计中的步进电机模拟电梯课程设计知识点21，是理解和应用该章节内容的基础。",
+    "courseId": "course-11",
+    "tags": [
+      "电梯",
+      "步进电机模拟电梯课程设计"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 步进电机模拟电梯课程设计知识点21\n\n步进电机模拟电梯课程设计中关于步进电机模拟电梯课程设计知识点21的核心概念与要点。\n\n### 定义\n\n步进电机模拟电梯课程设计知识点21是步进电机模拟电梯课程设计的基本组成部分。\n\n### 要点\n\n1. 理解步进电机模拟电梯课程设计知识点21的定义\n2. 掌握步进电机模拟电梯课程设计知识点21的计算方法\n3. 能在电路中识别和应用步进电机模拟电梯课程设计知识点21",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-73"
+    ]
+  },
+  {
+    "id": "kp-326",
+    "slug": "步进电机模拟电梯课程设计知识点22",
+    "title": "步进电机模拟电梯课程设计知识点22",
+    "summary": "步进电机模拟电梯课程设计中的步进电机模拟电梯课程设计知识点22，是理解和应用该章节内容的基础。",
+    "courseId": "course-11",
+    "tags": [
+      "步进电机",
+      "步进电机模拟电梯课程设计"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 步进电机模拟电梯课程设计知识点22\n\n步进电机模拟电梯课程设计中关于步进电机模拟电梯课程设计知识点22的核心概念与要点。\n\n### 定义\n\n步进电机模拟电梯课程设计知识点22是步进电机模拟电梯课程设计的基本组成部分。\n\n### 要点\n\n1. 理解步进电机模拟电梯课程设计知识点22的定义\n2. 掌握步进电机模拟电梯课程设计知识点22的计算方法\n3. 能在电路中识别和应用步进电机模拟电梯课程设计知识点22",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-73"
+    ]
+  },
+  {
+    "id": "kp-327",
+    "slug": "步进电机模拟电梯课程设计知识点23",
+    "title": "步进电机模拟电梯课程设计知识点23",
+    "summary": "步进电机模拟电梯课程设计中的步进电机模拟电梯课程设计知识点23，是理解和应用该章节内容的基础。",
+    "courseId": "course-11",
+    "tags": [
+      "楼层",
+      "步进电机模拟电梯课程设计"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 步进电机模拟电梯课程设计知识点23\n\n步进电机模拟电梯课程设计中关于步进电机模拟电梯课程设计知识点23的核心概念与要点。\n\n### 定义\n\n步进电机模拟电梯课程设计知识点23是步进电机模拟电梯课程设计的基本组成部分。\n\n### 要点\n\n1. 理解步进电机模拟电梯课程设计知识点23的定义\n2. 掌握步进电机模拟电梯课程设计知识点23的计算方法\n3. 能在电路中识别和应用步进电机模拟电梯课程设计知识点23",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-73"
+    ]
+  },
+  {
+    "id": "kp-328",
+    "slug": "步进电机模拟电梯课程设计知识点24",
+    "title": "步进电机模拟电梯课程设计知识点24",
+    "summary": "步进电机模拟电梯课程设计中的步进电机模拟电梯课程设计知识点24，是理解和应用该章节内容的基础。",
+    "courseId": "course-11",
+    "tags": [
+      "方向控制",
+      "步进电机模拟电梯课程设计"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 步进电机模拟电梯课程设计知识点24\n\n步进电机模拟电梯课程设计中关于步进电机模拟电梯课程设计知识点24的核心概念与要点。\n\n### 定义\n\n步进电机模拟电梯课程设计知识点24是步进电机模拟电梯课程设计的基本组成部分。\n\n### 要点\n\n1. 理解步进电机模拟电梯课程设计知识点24的定义\n2. 掌握步进电机模拟电梯课程设计知识点24的计算方法\n3. 能在电路中识别和应用步进电机模拟电梯课程设计知识点24",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-73"
+    ]
+  },
+  {
+    "id": "kp-329",
+    "slug": "步进电机模拟电梯课程设计知识点25",
+    "title": "步进电机模拟电梯课程设计知识点25",
+    "summary": "步进电机模拟电梯课程设计中的步进电机模拟电梯课程设计知识点25，是理解和应用该章节内容的基础。",
+    "courseId": "course-11",
+    "tags": [
+      "开关门",
+      "步进电机模拟电梯课程设计"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 步进电机模拟电梯课程设计知识点25\n\n步进电机模拟电梯课程设计中关于步进电机模拟电梯课程设计知识点25的核心概念与要点。\n\n### 定义\n\n步进电机模拟电梯课程设计知识点25是步进电机模拟电梯课程设计的基本组成部分。\n\n### 要点\n\n1. 理解步进电机模拟电梯课程设计知识点25的定义\n2. 掌握步进电机模拟电梯课程设计知识点25的计算方法\n3. 能在电路中识别和应用步进电机模拟电梯课程设计知识点25",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-73"
+    ]
+  },
+  {
+    "id": "kp-330",
+    "slug": "步进电机模拟电梯课程设计知识点26",
+    "title": "步进电机模拟电梯课程设计知识点26",
+    "summary": "步进电机模拟电梯课程设计中的步进电机模拟电梯课程设计知识点26，是理解和应用该章节内容的基础。",
+    "courseId": "course-11",
+    "tags": [
+      "LPM_COUNTER",
+      "步进电机模拟电梯课程设计"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 步进电机模拟电梯课程设计知识点26\n\n步进电机模拟电梯课程设计中关于步进电机模拟电梯课程设计知识点26的核心概念与要点。\n\n### 定义\n\n步进电机模拟电梯课程设计知识点26是步进电机模拟电梯课程设计的基本组成部分。\n\n### 要点\n\n1. 理解步进电机模拟电梯课程设计知识点26的定义\n2. 掌握步进电机模拟电梯课程设计知识点26的计算方法\n3. 能在电路中识别和应用步进电机模拟电梯课程设计知识点26",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-73"
+    ]
+  },
+  {
+    "id": "kp-331",
+    "slug": "步进电机模拟电梯课程设计知识点27",
+    "title": "步进电机模拟电梯课程设计知识点27",
+    "summary": "步进电机模拟电梯课程设计中的步进电机模拟电梯课程设计知识点27，是理解和应用该章节内容的基础。",
+    "courseId": "course-11",
+    "tags": [
+      "数码管",
+      "步进电机模拟电梯课程设计"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 步进电机模拟电梯课程设计知识点27\n\n步进电机模拟电梯课程设计中关于步进电机模拟电梯课程设计知识点27的核心概念与要点。\n\n### 定义\n\n步进电机模拟电梯课程设计知识点27是步进电机模拟电梯课程设计的基本组成部分。\n\n### 要点\n\n1. 理解步进电机模拟电梯课程设计知识点27的定义\n2. 掌握步进电机模拟电梯课程设计知识点27的计算方法\n3. 能在电路中识别和应用步进电机模拟电梯课程设计知识点27",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-73"
+    ]
+  },
+  {
+    "id": "kp-332",
+    "slug": "步进电机模拟电梯课程设计知识点28",
+    "title": "步进电机模拟电梯课程设计知识点28",
+    "summary": "步进电机模拟电梯课程设计中的步进电机模拟电梯课程设计知识点28，是理解和应用该章节内容的基础。",
+    "courseId": "course-11",
+    "tags": [
+      "LED",
+      "步进电机模拟电梯课程设计"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 步进电机模拟电梯课程设计知识点28\n\n步进电机模拟电梯课程设计中关于步进电机模拟电梯课程设计知识点28的核心概念与要点。\n\n### 定义\n\n步进电机模拟电梯课程设计知识点28是步进电机模拟电梯课程设计的基本组成部分。\n\n### 要点\n\n1. 理解步进电机模拟电梯课程设计知识点28的定义\n2. 掌握步进电机模拟电梯课程设计知识点28的计算方法\n3. 能在电路中识别和应用步进电机模拟电梯课程设计知识点28",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-73"
+    ]
+  },
+  {
+    "id": "kp-333",
+    "slug": "步进电机模拟电梯课程设计知识点29",
+    "title": "步进电机模拟电梯课程设计知识点29",
+    "summary": "步进电机模拟电梯课程设计中的步进电机模拟电梯课程设计知识点29，是理解和应用该章节内容的基础。",
+    "courseId": "course-11",
+    "tags": [
+      "50MHz",
+      "步进电机模拟电梯课程设计"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 步进电机模拟电梯课程设计知识点29\n\n步进电机模拟电梯课程设计中关于步进电机模拟电梯课程设计知识点29的核心概念与要点。\n\n### 定义\n\n步进电机模拟电梯课程设计知识点29是步进电机模拟电梯课程设计的基本组成部分。\n\n### 要点\n\n1. 理解步进电机模拟电梯课程设计知识点29的定义\n2. 掌握步进电机模拟电梯课程设计知识点29的计算方法\n3. 能在电路中识别和应用步进电机模拟电梯课程设计知识点29",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-73"
+    ]
+  },
+  {
+    "id": "kp-334",
+    "slug": "步进电机模拟电梯课程设计知识点30",
+    "title": "步进电机模拟电梯课程设计知识点30",
+    "summary": "步进电机模拟电梯课程设计中的步进电机模拟电梯课程设计知识点30，是理解和应用该章节内容的基础。",
+    "courseId": "course-11",
+    "tags": [
+      "SDC约束",
+      "步进电机模拟电梯课程设计"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 步进电机模拟电梯课程设计知识点30\n\n步进电机模拟电梯课程设计中关于步进电机模拟电梯课程设计知识点30的核心概念与要点。\n\n### 定义\n\n步进电机模拟电梯课程设计知识点30是步进电机模拟电梯课程设计的基本组成部分。\n\n### 要点\n\n1. 理解步进电机模拟电梯课程设计知识点30的定义\n2. 掌握步进电机模拟电梯课程设计知识点30的计算方法\n3. 能在电路中识别和应用步进电机模拟电梯课程设计知识点30",
+    "relatedQuestions": [],
+    "relatedCases": [],
+    "glossary": [
+      "g-73"
+    ]
+  }
+]

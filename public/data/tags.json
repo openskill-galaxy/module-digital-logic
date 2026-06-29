@@ -1,0 +1,567 @@
+[
+  {
+    "id": "tag-0",
+    "name": "数制",
+    "slug": "数制"
+  },
+  {
+    "id": "tag-1",
+    "name": "编码",
+    "slug": "编码"
+  },
+  {
+    "id": "tag-2",
+    "name": "二进制",
+    "slug": "二进制"
+  },
+  {
+    "id": "tag-3",
+    "name": "八进制",
+    "slug": "八进制"
+  },
+  {
+    "id": "tag-4",
+    "name": "十六进制",
+    "slug": "十六进制"
+  },
+  {
+    "id": "tag-5",
+    "name": "BCD",
+    "slug": "bcd"
+  },
+  {
+    "id": "tag-6",
+    "name": "格雷码",
+    "slug": "格雷码"
+  },
+  {
+    "id": "tag-7",
+    "name": "与或非",
+    "slug": "与或非"
+  },
+  {
+    "id": "tag-8",
+    "name": "逻辑表达式",
+    "slug": "逻辑表达式"
+  },
+  {
+    "id": "tag-9",
+    "name": "卡诺图",
+    "slug": "卡诺图"
+  },
+  {
+    "id": "tag-10",
+    "name": "摩根定律",
+    "slug": "摩根定律"
+  },
+  {
+    "id": "tag-11",
+    "name": "最小项",
+    "slug": "最小项"
+  },
+  {
+    "id": "tag-12",
+    "name": "最大项",
+    "slug": "最大项"
+  },
+  {
+    "id": "tag-13",
+    "name": "与门",
+    "slug": "与门"
+  },
+  {
+    "id": "tag-14",
+    "name": "或门",
+    "slug": "或门"
+  },
+  {
+    "id": "tag-15",
+    "name": "非门",
+    "slug": "非门"
+  },
+  {
+    "id": "tag-16",
+    "name": "与非门",
+    "slug": "与非门"
+  },
+  {
+    "id": "tag-17",
+    "name": "或非门",
+    "slug": "或非门"
+  },
+  {
+    "id": "tag-18",
+    "name": "异或门",
+    "slug": "异或门"
+  },
+  {
+    "id": "tag-19",
+    "name": "OC门",
+    "slug": "oc门"
+  },
+  {
+    "id": "tag-20",
+    "name": "三态门",
+    "slug": "三态门"
+  },
+  {
+    "id": "tag-21",
+    "name": "CMOS",
+    "slug": "cmos"
+  },
+  {
+    "id": "tag-22",
+    "name": "TTL",
+    "slug": "ttl"
+  },
+  {
+    "id": "tag-23",
+    "name": "组合逻辑",
+    "slug": "组合逻辑"
+  },
+  {
+    "id": "tag-24",
+    "name": "竞争冒险",
+    "slug": "竞争冒险"
+  },
+  {
+    "id": "tag-25",
+    "name": "消去法",
+    "slug": "消去法"
+  },
+  {
+    "id": "tag-26",
+    "name": "编码器",
+    "slug": "编码器"
+  },
+  {
+    "id": "tag-27",
+    "name": "优先编码器",
+    "slug": "优先编码器"
+  },
+  {
+    "id": "tag-28",
+    "name": "8421编码",
+    "slug": "8421编码"
+  },
+  {
+    "id": "tag-29",
+    "name": "74LS148",
+    "slug": "74ls148"
+  },
+  {
+    "id": "tag-30",
+    "name": "译码器",
+    "slug": "译码器"
+  },
+  {
+    "id": "tag-31",
+    "name": "3-8译码器",
+    "slug": "3-8译码器"
+  },
+  {
+    "id": "tag-32",
+    "name": "七段译码器",
+    "slug": "七段译码器"
+  },
+  {
+    "id": "tag-33",
+    "name": "74LS138",
+    "slug": "74ls138"
+  },
+  {
+    "id": "tag-34",
+    "name": "74LS48",
+    "slug": "74ls48"
+  },
+  {
+    "id": "tag-35",
+    "name": "数据选择器",
+    "slug": "数据选择器"
+  },
+  {
+    "id": "tag-36",
+    "name": "多路选择器",
+    "slug": "多路选择器"
+  },
+  {
+    "id": "tag-37",
+    "name": "74LS151",
+    "slug": "74ls151"
+  },
+  {
+    "id": "tag-38",
+    "name": "74LS153",
+    "slug": "74ls153"
+  },
+  {
+    "id": "tag-39",
+    "name": "半加器",
+    "slug": "半加器"
+  },
+  {
+    "id": "tag-40",
+    "name": "全加器",
+    "slug": "全加器"
+  },
+  {
+    "id": "tag-41",
+    "name": "超前进位",
+    "slug": "超前进位"
+  },
+  {
+    "id": "tag-42",
+    "name": "74LS283",
+    "slug": "74ls283"
+  },
+  {
+    "id": "tag-43",
+    "name": "比较器",
+    "slug": "比较器"
+  },
+  {
+    "id": "tag-44",
+    "name": "数值比较",
+    "slug": "数值比较"
+  },
+  {
+    "id": "tag-45",
+    "name": "74LS85",
+    "slug": "74ls85"
+  },
+  {
+    "id": "tag-46",
+    "name": "RS触发器",
+    "slug": "rs触发器"
+  },
+  {
+    "id": "tag-47",
+    "name": "JK触发器",
+    "slug": "jk触发器"
+  },
+  {
+    "id": "tag-48",
+    "name": "D触发器",
+    "slug": "d触发器"
+  },
+  {
+    "id": "tag-49",
+    "name": "T触发器",
+    "slug": "t触发器"
+  },
+  {
+    "id": "tag-50",
+    "name": "边沿触发",
+    "slug": "边沿触发"
+  },
+  {
+    "id": "tag-51",
+    "name": "电平触发",
+    "slug": "电平触发"
+  },
+  {
+    "id": "tag-52",
+    "name": "计数器",
+    "slug": "计数器"
+  },
+  {
+    "id": "tag-53",
+    "name": "同步计数",
+    "slug": "同步计数"
+  },
+  {
+    "id": "tag-54",
+    "name": "异步计数",
+    "slug": "异步计数"
+  },
+  {
+    "id": "tag-55",
+    "name": "进制计数",
+    "slug": "进制计数"
+  },
+  {
+    "id": "tag-56",
+    "name": "74LS161",
+    "slug": "74ls161"
+  },
+  {
+    "id": "tag-57",
+    "name": "74LS160",
+    "slug": "74ls160"
+  },
+  {
+    "id": "tag-58",
+    "name": "寄存器",
+    "slug": "寄存器"
+  },
+  {
+    "id": "tag-59",
+    "name": "移位寄存器",
+    "slug": "移位寄存器"
+  },
+  {
+    "id": "tag-60",
+    "name": "74LS194",
+    "slug": "74ls194"
+  },
+  {
+    "id": "tag-61",
+    "name": "74LS175",
+    "slug": "74ls175"
+  },
+  {
+    "id": "tag-62",
+    "name": "时序逻辑",
+    "slug": "时序逻辑"
+  },
+  {
+    "id": "tag-63",
+    "name": "状态机",
+    "slug": "状态机"
+  },
+  {
+    "id": "tag-64",
+    "name": "米利型",
+    "slug": "米利型"
+  },
+  {
+    "id": "tag-65",
+    "name": "摩尔型",
+    "slug": "摩尔型"
+  },
+  {
+    "id": "tag-66",
+    "name": "状态图",
+    "slug": "状态图"
+  },
+  {
+    "id": "tag-67",
+    "name": "状态表",
+    "slug": "状态表"
+  },
+  {
+    "id": "tag-68",
+    "name": "脉冲",
+    "slug": "脉冲"
+  },
+  {
+    "id": "tag-69",
+    "name": "多谐振荡器",
+    "slug": "多谐振荡器"
+  },
+  {
+    "id": "tag-70",
+    "name": "单稳态",
+    "slug": "单稳态"
+  },
+  {
+    "id": "tag-71",
+    "name": "施密特",
+    "slug": "施密特"
+  },
+  {
+    "id": "tag-72",
+    "name": "555定时器",
+    "slug": "555定时器"
+  },
+  {
+    "id": "tag-73",
+    "name": "ROM",
+    "slug": "rom"
+  },
+  {
+    "id": "tag-74",
+    "name": "RAM",
+    "slug": "ram"
+  },
+  {
+    "id": "tag-75",
+    "name": "SRAM",
+    "slug": "sram"
+  },
+  {
+    "id": "tag-76",
+    "name": "DRAM",
+    "slug": "dram"
+  },
+  {
+    "id": "tag-77",
+    "name": "EPROM",
+    "slug": "eprom"
+  },
+  {
+    "id": "tag-78",
+    "name": "EEPROM",
+    "slug": "eeprom"
+  },
+  {
+    "id": "tag-79",
+    "name": "Flash",
+    "slug": "flash"
+  },
+  {
+    "id": "tag-80",
+    "name": "PLD",
+    "slug": "pld"
+  },
+  {
+    "id": "tag-81",
+    "name": "PAL",
+    "slug": "pal"
+  },
+  {
+    "id": "tag-82",
+    "name": "GAL",
+    "slug": "gal"
+  },
+  {
+    "id": "tag-83",
+    "name": "CPLD",
+    "slug": "cpld"
+  },
+  {
+    "id": "tag-84",
+    "name": "FPGA",
+    "slug": "fpga"
+  },
+  {
+    "id": "tag-85",
+    "name": "LUT",
+    "slug": "lut"
+  },
+  {
+    "id": "tag-86",
+    "name": "Quartus",
+    "slug": "quartus"
+  },
+  {
+    "id": "tag-87",
+    "name": "工程",
+    "slug": "工程"
+  },
+  {
+    "id": "tag-88",
+    "name": "编译",
+    "slug": "编译"
+  },
+  {
+    "id": "tag-89",
+    "name": "仿真",
+    "slug": "仿真"
+  },
+  {
+    "id": "tag-90",
+    "name": "引脚",
+    "slug": "引脚"
+  },
+  {
+    "id": "tag-91",
+    "name": "下载",
+    "slug": "下载"
+  },
+  {
+    "id": "tag-92",
+    "name": "BDF",
+    "slug": "bdf"
+  },
+  {
+    "id": "tag-93",
+    "name": "原理图",
+    "slug": "原理图"
+  },
+  {
+    "id": "tag-94",
+    "name": "符号编辑",
+    "slug": "符号编辑"
+  },
+  {
+    "id": "tag-95",
+    "name": "LPM",
+    "slug": "lpm"
+  },
+  {
+    "id": "tag-96",
+    "name": "总线",
+    "slug": "总线"
+  },
+  {
+    "id": "tag-97",
+    "name": "Verilog",
+    "slug": "verilog"
+  },
+  {
+    "id": "tag-98",
+    "name": "模块",
+    "slug": "模块"
+  },
+  {
+    "id": "tag-99",
+    "name": "always",
+    "slug": "always"
+  },
+  {
+    "id": "tag-100",
+    "name": "assign",
+    "slug": "assign"
+  },
+  {
+    "id": "tag-101",
+    "name": "case",
+    "slug": "case"
+  },
+  {
+    "id": "tag-102",
+    "name": "if-else",
+    "slug": "if-else"
+  },
+  {
+    "id": "tag-103",
+    "name": "电梯",
+    "slug": "电梯"
+  },
+  {
+    "id": "tag-104",
+    "name": "步进电机",
+    "slug": "步进电机"
+  },
+  {
+    "id": "tag-105",
+    "name": "楼层",
+    "slug": "楼层"
+  },
+  {
+    "id": "tag-106",
+    "name": "方向控制",
+    "slug": "方向控制"
+  },
+  {
+    "id": "tag-107",
+    "name": "开关门",
+    "slug": "开关门"
+  },
+  {
+    "id": "tag-108",
+    "name": "LPM_COUNTER",
+    "slug": "lpm_counter"
+  },
+  {
+    "id": "tag-109",
+    "name": "数码管",
+    "slug": "数码管"
+  },
+  {
+    "id": "tag-110",
+    "name": "LED",
+    "slug": "led"
+  },
+  {
+    "id": "tag-111",
+    "name": "50MHz",
+    "slug": "50mhz"
+  },
+  {
+    "id": "tag-112",
+    "name": "SDC约束",
+    "slug": "sdc约束"
+  }
+]

@@ -1,0 +1,689 @@
+[
+  {
+    "id": "route-1",
+    "slug": "从零到一-数字逻辑入门路线",
+    "title": "从零到一：数字逻辑入门路线",
+    "summary": "从零到一：数字逻辑入门路线，帮助你系统化学习。",
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1步：数制与编码",
+        "description": "学习数制与编码的核心内容。",
+        "courseId": "course-1",
+        "lessonId": "lesson-1"
+      },
+      {
+        "order": 2,
+        "title": "第2步：逻辑代数基础",
+        "description": "学习逻辑代数基础的核心内容。",
+        "courseId": "course-2",
+        "lessonId": "lesson-6"
+      },
+      {
+        "order": 3,
+        "title": "第3步：逻辑门电路",
+        "description": "学习逻辑门电路的核心内容。",
+        "courseId": "course-3",
+        "lessonId": "lesson-11"
+      },
+      {
+        "order": 4,
+        "title": "第4步：组合逻辑电路",
+        "description": "学习组合逻辑电路的核心内容。",
+        "courseId": "course-4",
+        "lessonId": "lesson-16"
+      }
+    ]
+  },
+  {
+    "id": "route-2",
+    "slug": "组合逻辑速成路线",
+    "title": "组合逻辑速成路线",
+    "summary": "组合逻辑速成路线，帮助你系统化学习。",
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1步：逻辑代数基础",
+        "description": "学习逻辑代数基础的核心内容。",
+        "courseId": "course-2",
+        "lessonId": "lesson-6"
+      },
+      {
+        "order": 2,
+        "title": "第2步：逻辑门电路",
+        "description": "学习逻辑门电路的核心内容。",
+        "courseId": "course-3",
+        "lessonId": "lesson-11"
+      },
+      {
+        "order": 3,
+        "title": "第3步：组合逻辑电路",
+        "description": "学习组合逻辑电路的核心内容。",
+        "courseId": "course-4",
+        "lessonId": "lesson-16"
+      },
+      {
+        "order": 4,
+        "title": "第4步：编码器",
+        "description": "学习编码器的核心内容。",
+        "courseId": "course-4",
+        "lessonId": "lesson-16"
+      },
+      {
+        "order": 5,
+        "title": "第5步：译码器",
+        "description": "学习译码器的核心内容。",
+        "courseId": "course-4",
+        "lessonId": "lesson-16"
+      }
+    ]
+  },
+  {
+    "id": "route-3",
+    "slug": "时序逻辑进阶路线",
+    "title": "时序逻辑进阶路线",
+    "summary": "时序逻辑进阶路线，帮助你系统化学习。",
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1步：逻辑门电路",
+        "description": "学习逻辑门电路的核心内容。",
+        "courseId": "course-3",
+        "lessonId": "lesson-11"
+      },
+      {
+        "order": 2,
+        "title": "第2步：组合逻辑电路",
+        "description": "学习组合逻辑电路的核心内容。",
+        "courseId": "course-4",
+        "lessonId": "lesson-16"
+      },
+      {
+        "order": 3,
+        "title": "第3步：编码器",
+        "description": "学习编码器的核心内容。",
+        "courseId": "course-4",
+        "lessonId": "lesson-16"
+      },
+      {
+        "order": 4,
+        "title": "第4步：译码器",
+        "description": "学习译码器的核心内容。",
+        "courseId": "course-4",
+        "lessonId": "lesson-16"
+      },
+      {
+        "order": 5,
+        "title": "第5步：数据选择器",
+        "description": "学习数据选择器的核心内容。",
+        "courseId": "course-4",
+        "lessonId": "lesson-16"
+      },
+      {
+        "order": 6,
+        "title": "第6步：加法器",
+        "description": "学习加法器的核心内容。",
+        "courseId": "course-4",
+        "lessonId": "lesson-16"
+      }
+    ]
+  },
+  {
+    "id": "route-4",
+    "slug": "fpga开发入门路线",
+    "title": "FPGA开发入门路线",
+    "summary": "FPGA开发入门路线，帮助你系统化学习。",
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1步：组合逻辑电路",
+        "description": "学习组合逻辑电路的核心内容。",
+        "courseId": "course-4",
+        "lessonId": "lesson-16"
+      },
+      {
+        "order": 2,
+        "title": "第2步：编码器",
+        "description": "学习编码器的核心内容。",
+        "courseId": "course-4",
+        "lessonId": "lesson-16"
+      },
+      {
+        "order": 3,
+        "title": "第3步：译码器",
+        "description": "学习译码器的核心内容。",
+        "courseId": "course-4",
+        "lessonId": "lesson-16"
+      },
+      {
+        "order": 4,
+        "title": "第4步：数据选择器",
+        "description": "学习数据选择器的核心内容。",
+        "courseId": "course-4",
+        "lessonId": "lesson-16"
+      },
+      {
+        "order": 5,
+        "title": "第5步：加法器",
+        "description": "学习加法器的核心内容。",
+        "courseId": "course-4",
+        "lessonId": "lesson-16"
+      },
+      {
+        "order": 6,
+        "title": "第6步：比较器",
+        "description": "学习比较器的核心内容。",
+        "courseId": "course-4",
+        "lessonId": "lesson-16"
+      },
+      {
+        "order": 7,
+        "title": "第7步：触发器",
+        "description": "学习触发器的核心内容。",
+        "courseId": "course-5",
+        "lessonId": "lesson-52"
+      }
+    ]
+  },
+  {
+    "id": "route-5",
+    "slug": "quartus实战路线",
+    "title": "Quartus实战路线",
+    "summary": "Quartus实战路线，帮助你系统化学习。",
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1步：编码器",
+        "description": "学习编码器的核心内容。",
+        "courseId": "course-4",
+        "lessonId": "lesson-16"
+      },
+      {
+        "order": 2,
+        "title": "第2步：译码器",
+        "description": "学习译码器的核心内容。",
+        "courseId": "course-4",
+        "lessonId": "lesson-16"
+      },
+      {
+        "order": 3,
+        "title": "第3步：数据选择器",
+        "description": "学习数据选择器的核心内容。",
+        "courseId": "course-4",
+        "lessonId": "lesson-16"
+      },
+      {
+        "order": 4,
+        "title": "第4步：加法器",
+        "description": "学习加法器的核心内容。",
+        "courseId": "course-4",
+        "lessonId": "lesson-16"
+      }
+    ]
+  },
+  {
+    "id": "route-6",
+    "slug": "verilog入门路线",
+    "title": "Verilog入门路线",
+    "summary": "Verilog入门路线，帮助你系统化学习。",
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1步：译码器",
+        "description": "学习译码器的核心内容。",
+        "courseId": "course-4",
+        "lessonId": "lesson-16"
+      },
+      {
+        "order": 2,
+        "title": "第2步：数据选择器",
+        "description": "学习数据选择器的核心内容。",
+        "courseId": "course-4",
+        "lessonId": "lesson-16"
+      },
+      {
+        "order": 3,
+        "title": "第3步：加法器",
+        "description": "学习加法器的核心内容。",
+        "courseId": "course-4",
+        "lessonId": "lesson-16"
+      },
+      {
+        "order": 4,
+        "title": "第4步：比较器",
+        "description": "学习比较器的核心内容。",
+        "courseId": "course-4",
+        "lessonId": "lesson-16"
+      },
+      {
+        "order": 5,
+        "title": "第5步：触发器",
+        "description": "学习触发器的核心内容。",
+        "courseId": "course-5",
+        "lessonId": "lesson-52"
+      }
+    ]
+  },
+  {
+    "id": "route-7",
+    "slug": "编码器译码器专题路线",
+    "title": "编码器译码器专题路线",
+    "summary": "编码器译码器专题路线，帮助你系统化学习。",
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1步：数据选择器",
+        "description": "学习数据选择器的核心内容。",
+        "courseId": "course-4",
+        "lessonId": "lesson-16"
+      },
+      {
+        "order": 2,
+        "title": "第2步：加法器",
+        "description": "学习加法器的核心内容。",
+        "courseId": "course-4",
+        "lessonId": "lesson-16"
+      },
+      {
+        "order": 3,
+        "title": "第3步：比较器",
+        "description": "学习比较器的核心内容。",
+        "courseId": "course-4",
+        "lessonId": "lesson-16"
+      },
+      {
+        "order": 4,
+        "title": "第4步：触发器",
+        "description": "学习触发器的核心内容。",
+        "courseId": "course-5",
+        "lessonId": "lesson-52"
+      },
+      {
+        "order": 5,
+        "title": "第5步：计数器",
+        "description": "学习计数器的核心内容。",
+        "courseId": "course-5",
+        "lessonId": "lesson-52"
+      },
+      {
+        "order": 6,
+        "title": "第6步：寄存器",
+        "description": "学习寄存器的核心内容。",
+        "courseId": "course-6",
+        "lessonId": "lesson-63"
+      }
+    ]
+  },
+  {
+    "id": "route-8",
+    "slug": "计数器寄存器专题路线",
+    "title": "计数器寄存器专题路线",
+    "summary": "计数器寄存器专题路线，帮助你系统化学习。",
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1步：加法器",
+        "description": "学习加法器的核心内容。",
+        "courseId": "course-4",
+        "lessonId": "lesson-16"
+      },
+      {
+        "order": 2,
+        "title": "第2步：比较器",
+        "description": "学习比较器的核心内容。",
+        "courseId": "course-4",
+        "lessonId": "lesson-16"
+      },
+      {
+        "order": 3,
+        "title": "第3步：触发器",
+        "description": "学习触发器的核心内容。",
+        "courseId": "course-5",
+        "lessonId": "lesson-52"
+      },
+      {
+        "order": 4,
+        "title": "第4步：计数器",
+        "description": "学习计数器的核心内容。",
+        "courseId": "course-5",
+        "lessonId": "lesson-52"
+      },
+      {
+        "order": 5,
+        "title": "第5步：寄存器",
+        "description": "学习寄存器的核心内容。",
+        "courseId": "course-6",
+        "lessonId": "lesson-63"
+      },
+      {
+        "order": 6,
+        "title": "第6步：时序逻辑电路",
+        "description": "学习时序逻辑电路的核心内容。",
+        "courseId": "course-6",
+        "lessonId": "lesson-63"
+      },
+      {
+        "order": 7,
+        "title": "第7步：脉冲波形",
+        "description": "学习脉冲波形的核心内容。",
+        "courseId": "course-7",
+        "lessonId": "lesson-73"
+      }
+    ]
+  },
+  {
+    "id": "route-9",
+    "slug": "存储器专题路线",
+    "title": "存储器专题路线",
+    "summary": "存储器专题路线，帮助你系统化学习。",
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1步：比较器",
+        "description": "学习比较器的核心内容。",
+        "courseId": "course-4",
+        "lessonId": "lesson-16"
+      },
+      {
+        "order": 2,
+        "title": "第2步：触发器",
+        "description": "学习触发器的核心内容。",
+        "courseId": "course-5",
+        "lessonId": "lesson-52"
+      },
+      {
+        "order": 3,
+        "title": "第3步：计数器",
+        "description": "学习计数器的核心内容。",
+        "courseId": "course-5",
+        "lessonId": "lesson-52"
+      },
+      {
+        "order": 4,
+        "title": "第4步：寄存器",
+        "description": "学习寄存器的核心内容。",
+        "courseId": "course-6",
+        "lessonId": "lesson-63"
+      }
+    ]
+  },
+  {
+    "id": "route-10",
+    "slug": "脉冲与555定时器路线",
+    "title": "脉冲与555定时器路线",
+    "summary": "脉冲与555定时器路线，帮助你系统化学习。",
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1步：触发器",
+        "description": "学习触发器的核心内容。",
+        "courseId": "course-5",
+        "lessonId": "lesson-52"
+      },
+      {
+        "order": 2,
+        "title": "第2步：计数器",
+        "description": "学习计数器的核心内容。",
+        "courseId": "course-5",
+        "lessonId": "lesson-52"
+      },
+      {
+        "order": 3,
+        "title": "第3步：寄存器",
+        "description": "学习寄存器的核心内容。",
+        "courseId": "course-6",
+        "lessonId": "lesson-63"
+      },
+      {
+        "order": 4,
+        "title": "第4步：时序逻辑电路",
+        "description": "学习时序逻辑电路的核心内容。",
+        "courseId": "course-6",
+        "lessonId": "lesson-63"
+      },
+      {
+        "order": 5,
+        "title": "第5步：脉冲波形",
+        "description": "学习脉冲波形的核心内容。",
+        "courseId": "course-7",
+        "lessonId": "lesson-73"
+      }
+    ]
+  },
+  {
+    "id": "route-11",
+    "slug": "电梯课程设计路线",
+    "title": "电梯课程设计路线",
+    "summary": "电梯课程设计路线，帮助你系统化学习。",
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1步：计数器",
+        "description": "学习计数器的核心内容。",
+        "courseId": "course-5",
+        "lessonId": "lesson-52"
+      },
+      {
+        "order": 2,
+        "title": "第2步：寄存器",
+        "description": "学习寄存器的核心内容。",
+        "courseId": "course-6",
+        "lessonId": "lesson-63"
+      },
+      {
+        "order": 3,
+        "title": "第3步：时序逻辑电路",
+        "description": "学习时序逻辑电路的核心内容。",
+        "courseId": "course-6",
+        "lessonId": "lesson-63"
+      },
+      {
+        "order": 4,
+        "title": "第4步：脉冲波形",
+        "description": "学习脉冲波形的核心内容。",
+        "courseId": "course-7",
+        "lessonId": "lesson-73"
+      },
+      {
+        "order": 5,
+        "title": "第5步：存储器基础",
+        "description": "学习存储器基础的核心内容。",
+        "courseId": "course-7",
+        "lessonId": "lesson-73"
+      },
+      {
+        "order": 6,
+        "title": "第6步：可编程逻辑器件",
+        "description": "学习可编程逻辑器件的核心内容。",
+        "courseId": "course-8",
+        "lessonId": "lesson-83"
+      }
+    ]
+  },
+  {
+    "id": "route-12",
+    "slug": "数制编码专项路线",
+    "title": "数制编码专项路线",
+    "summary": "数制编码专项路线，帮助你系统化学习。",
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1步：寄存器",
+        "description": "学习寄存器的核心内容。",
+        "courseId": "course-6",
+        "lessonId": "lesson-63"
+      },
+      {
+        "order": 2,
+        "title": "第2步：时序逻辑电路",
+        "description": "学习时序逻辑电路的核心内容。",
+        "courseId": "course-6",
+        "lessonId": "lesson-63"
+      },
+      {
+        "order": 3,
+        "title": "第3步：脉冲波形",
+        "description": "学习脉冲波形的核心内容。",
+        "courseId": "course-7",
+        "lessonId": "lesson-73"
+      },
+      {
+        "order": 4,
+        "title": "第4步：存储器基础",
+        "description": "学习存储器基础的核心内容。",
+        "courseId": "course-7",
+        "lessonId": "lesson-73"
+      },
+      {
+        "order": 5,
+        "title": "第5步：可编程逻辑器件",
+        "description": "学习可编程逻辑器件的核心内容。",
+        "courseId": "course-8",
+        "lessonId": "lesson-83"
+      },
+      {
+        "order": 6,
+        "title": "第6步：Quartus入门",
+        "description": "学习Quartus入门的核心内容。",
+        "courseId": "course-9",
+        "lessonId": "lesson-88"
+      },
+      {
+        "order": 7,
+        "title": "第7步：BDF原理图设计",
+        "description": "学习BDF原理图设计的核心内容。",
+        "courseId": "course-9",
+        "lessonId": "lesson-88"
+      }
+    ]
+  },
+  {
+    "id": "route-13",
+    "slug": "逻辑代数化简路线",
+    "title": "逻辑代数化简路线",
+    "summary": "逻辑代数化简路线，帮助你系统化学习。",
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1步：时序逻辑电路",
+        "description": "学习时序逻辑电路的核心内容。",
+        "courseId": "course-6",
+        "lessonId": "lesson-63"
+      },
+      {
+        "order": 2,
+        "title": "第2步：脉冲波形",
+        "description": "学习脉冲波形的核心内容。",
+        "courseId": "course-7",
+        "lessonId": "lesson-73"
+      },
+      {
+        "order": 3,
+        "title": "第3步：存储器基础",
+        "description": "学习存储器基础的核心内容。",
+        "courseId": "course-7",
+        "lessonId": "lesson-73"
+      },
+      {
+        "order": 4,
+        "title": "第4步：可编程逻辑器件",
+        "description": "学习可编程逻辑器件的核心内容。",
+        "courseId": "course-8",
+        "lessonId": "lesson-83"
+      }
+    ]
+  },
+  {
+    "id": "route-14",
+    "slug": "加法器比较器路线",
+    "title": "加法器比较器路线",
+    "summary": "加法器比较器路线，帮助你系统化学习。",
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1步：脉冲波形",
+        "description": "学习脉冲波形的核心内容。",
+        "courseId": "course-7",
+        "lessonId": "lesson-73"
+      },
+      {
+        "order": 2,
+        "title": "第2步：存储器基础",
+        "description": "学习存储器基础的核心内容。",
+        "courseId": "course-7",
+        "lessonId": "lesson-73"
+      },
+      {
+        "order": 3,
+        "title": "第3步：可编程逻辑器件",
+        "description": "学习可编程逻辑器件的核心内容。",
+        "courseId": "course-8",
+        "lessonId": "lesson-83"
+      },
+      {
+        "order": 4,
+        "title": "第4步：Quartus入门",
+        "description": "学习Quartus入门的核心内容。",
+        "courseId": "course-9",
+        "lessonId": "lesson-88"
+      },
+      {
+        "order": 5,
+        "title": "第5步：BDF原理图设计",
+        "description": "学习BDF原理图设计的核心内容。",
+        "courseId": "course-9",
+        "lessonId": "lesson-88"
+      }
+    ]
+  },
+  {
+    "id": "route-15",
+    "slug": "综合复习冲刺路线",
+    "title": "综合复习冲刺路线",
+    "summary": "综合复习冲刺路线，帮助你系统化学习。",
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1步：存储器基础",
+        "description": "学习存储器基础的核心内容。",
+        "courseId": "course-7",
+        "lessonId": "lesson-73"
+      },
+      {
+        "order": 2,
+        "title": "第2步：可编程逻辑器件",
+        "description": "学习可编程逻辑器件的核心内容。",
+        "courseId": "course-8",
+        "lessonId": "lesson-83"
+      },
+      {
+        "order": 3,
+        "title": "第3步：Quartus入门",
+        "description": "学习Quartus入门的核心内容。",
+        "courseId": "course-9",
+        "lessonId": "lesson-88"
+      },
+      {
+        "order": 4,
+        "title": "第4步：BDF原理图设计",
+        "description": "学习BDF原理图设计的核心内容。",
+        "courseId": "course-9",
+        "lessonId": "lesson-88"
+      },
+      {
+        "order": 5,
+        "title": "第5步：Verilog基础",
+        "description": "学习Verilog基础的核心内容。",
+        "courseId": "course-10",
+        "lessonId": "lesson-98"
+      },
+      {
+        "order": 6,
+        "title": "第6步：步进电机模拟电梯课程设计",
+        "description": "学习步进电机模拟电梯课程设计的核心内容。",
+        "courseId": "course-11",
+        "lessonId": "lesson-103"
+      }
+    ]
+  }
+]
