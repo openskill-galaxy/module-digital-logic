@@ -685,5 +685,405 @@
         "lessonId": "lesson-103"
       }
     ]
+  },
+  {
+    "id": "route-16",
+    "slug": "译码器应用专项路线",
+    "title": "译码器应用专项路线",
+    "summary": "译码器原理及实现组合逻辑专项。",
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1步：译码器原理",
+        "description": "学习译码器原理的核心内容。",
+        "courseId": "course-5",
+        "lessonId": "lesson-52"
+      },
+      {
+        "order": 2,
+        "title": "第2步：74LS138",
+        "description": "学习74LS138的核心内容。",
+        "courseId": "course-5",
+        "lessonId": "lesson-53"
+      },
+      {
+        "order": 3,
+        "title": "第3步：显示译码器",
+        "description": "学习显示译码器的核心内容。",
+        "courseId": "course-5",
+        "lessonId": "lesson-54"
+      },
+      {
+        "order": 4,
+        "title": "第4步：译码器实现逻辑",
+        "description": "学习译码器实现逻辑的核心内容。",
+        "courseId": "course-5",
+        "lessonId": "lesson-55"
+      },
+      {
+        "order": 5,
+        "title": "第5步：译码器综合",
+        "description": "学习译码器综合的核心内容。",
+        "courseId": "course-5",
+        "lessonId": "lesson-56"
+      }
+    ]
+  },
+  {
+    "id": "route-17",
+    "slug": "数据选择器应用专项路线",
+    "title": "数据选择器应用专项路线",
+    "summary": "数据选择器原理及实现逻辑函数专项。",
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1步：MUX原理",
+        "description": "学习MUX原理的核心内容。",
+        "courseId": "course-6",
+        "lessonId": "lesson-63"
+      },
+      {
+        "order": 2,
+        "title": "第2步：74LS151",
+        "description": "学习74LS151的核心内容。",
+        "courseId": "course-6",
+        "lessonId": "lesson-64"
+      },
+      {
+        "order": 3,
+        "title": "第3步：MUX扩展",
+        "description": "学习MUX扩展的核心内容。",
+        "courseId": "course-6",
+        "lessonId": "lesson-65"
+      },
+      {
+        "order": 4,
+        "title": "第4步：MUX实现逻辑函数",
+        "description": "学习MUX实现逻辑函数的核心内容。",
+        "courseId": "course-6",
+        "lessonId": "lesson-66"
+      },
+      {
+        "order": 5,
+        "title": "第5步：MUX综合",
+        "description": "学习MUX综合的核心内容。",
+        "courseId": "course-6",
+        "lessonId": "lesson-67"
+      }
+    ]
+  },
+  {
+    "id": "route-18",
+    "slug": "寄存器专项路线",
+    "title": "寄存器专项路线",
+    "summary": "数码寄存器与移位寄存器专项。",
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1步：数码寄存器",
+        "description": "学习数码寄存器的核心内容。",
+        "courseId": "course-10",
+        "lessonId": "lesson-98"
+      },
+      {
+        "order": 2,
+        "title": "第2步：移位寄存器",
+        "description": "学习移位寄存器的核心内容。",
+        "courseId": "course-10",
+        "lessonId": "lesson-99"
+      },
+      {
+        "order": 3,
+        "title": "第3步：74LS194",
+        "description": "学习74LS194的核心内容。",
+        "courseId": "course-10",
+        "lessonId": "lesson-100"
+      },
+      {
+        "order": 4,
+        "title": "第4步：移位型计数器",
+        "description": "学习移位型计数器的核心内容。",
+        "courseId": "course-10",
+        "lessonId": "lesson-101"
+      },
+      {
+        "order": 5,
+        "title": "第5步：寄存器应用",
+        "description": "学习寄存器应用的核心内容。",
+        "courseId": "course-10",
+        "lessonId": "lesson-102"
+      }
+    ]
+  },
+  {
+    "id": "route-19",
+    "slug": "存储器专项路线",
+    "title": "存储器专项路线",
+    "summary": "ROM、RAM、存储器扩展与ROM实现组合逻辑。",
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1步：ROM结构",
+        "description": "学习ROM结构的核心内容。",
+        "courseId": "course-14"
+      },
+      {
+        "order": 2,
+        "title": "第2步：RAM结构",
+        "description": "学习RAM结构的核心内容。",
+        "courseId": "course-14"
+      },
+      {
+        "order": 3,
+        "title": "第3步：存储器扩展",
+        "description": "学习存储器扩展的核心内容。",
+        "courseId": "course-14"
+      },
+      {
+        "order": 4,
+        "title": "第4步：ROM实现组合逻辑",
+        "description": "学习ROM实现组合逻辑的核心内容。",
+        "courseId": "course-14"
+      },
+      {
+        "order": 5,
+        "title": "第5步：Flash",
+        "description": "学习Flash的核心内容。",
+        "courseId": "course-14"
+      }
+    ]
+  },
+  {
+    "id": "route-20",
+    "slug": "可编程器件专项路线",
+    "title": "可编程器件专项路线",
+    "summary": "PLD、FPGA、CPLD结构与开发流程。",
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1步：PLD概述",
+        "description": "学习PLD概述的核心内容。",
+        "courseId": "course-15"
+      },
+      {
+        "order": 2,
+        "title": "第2步：GAL结构",
+        "description": "学习GAL结构的核心内容。",
+        "courseId": "course-15"
+      },
+      {
+        "order": 3,
+        "title": "第3步：FPGA结构",
+        "description": "学习FPGA结构的核心内容。",
+        "courseId": "course-15"
+      },
+      {
+        "order": 4,
+        "title": "第4步：CPLD结构",
+        "description": "学习CPLD结构的核心内容。",
+        "courseId": "course-15"
+      },
+      {
+        "order": 5,
+        "title": "第5步：PLD开发流程",
+        "description": "学习PLD开发流程的核心内容。",
+        "courseId": "course-15"
+      }
+    ]
+  },
+  {
+    "id": "route-21",
+    "slug": "脉冲定时专项路线",
+    "title": "脉冲定时专项路线",
+    "summary": "555定时器与脉冲整形电路专项。",
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1步：施密特触发器",
+        "description": "学习施密特触发器的核心内容。",
+        "courseId": "course-13"
+      },
+      {
+        "order": 2,
+        "title": "第2步：单稳态触发器",
+        "description": "学习单稳态触发器的核心内容。",
+        "courseId": "course-13"
+      },
+      {
+        "order": 3,
+        "title": "第3步：多谐振荡器",
+        "description": "学习多谐振荡器的核心内容。",
+        "courseId": "course-13"
+      },
+      {
+        "order": 4,
+        "title": "第4步：555应用",
+        "description": "学习555应用的核心内容。",
+        "courseId": "course-13"
+      },
+      {
+        "order": 5,
+        "title": "第5步：定时电路",
+        "description": "学习定时电路的核心内容。",
+        "courseId": "course-13"
+      }
+    ]
+  },
+  {
+    "id": "route-22",
+    "slug": "状态机设计专项路线",
+    "title": "状态机设计专项路线",
+    "summary": "Moore与Mealy状态机、序列检测器专项。",
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1步：状态图",
+        "description": "学习状态图的核心内容。",
+        "courseId": "course-12"
+      },
+      {
+        "order": 2,
+        "title": "第2步：状态化简",
+        "description": "学习状态化简的核心内容。",
+        "courseId": "course-12"
+      },
+      {
+        "order": 3,
+        "title": "第3步：状态分配",
+        "description": "学习状态分配的核心内容。",
+        "courseId": "course-12"
+      },
+      {
+        "order": 4,
+        "title": "第4步：Moore状态机",
+        "description": "学习Moore状态机的核心内容。",
+        "courseId": "course-12"
+      },
+      {
+        "order": 5,
+        "title": "第5步：序列检测器",
+        "description": "学习序列检测器的核心内容。",
+        "courseId": "course-12"
+      }
+    ]
+  },
+  {
+    "id": "route-23",
+    "slug": "FPGA下载验证专项路线",
+    "title": "FPGA下载验证专项路线",
+    "summary": "引脚约束、SDC、下载与上板调试。",
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1步：引脚约束",
+        "description": "学习引脚约束的核心内容。",
+        "courseId": "course-19"
+      },
+      {
+        "order": 2,
+        "title": "第2步：SDC时钟约束",
+        "description": "学习SDC时钟约束的核心内容。",
+        "courseId": "course-19"
+      },
+      {
+        "order": 3,
+        "title": "第3步：比特流生成",
+        "description": "学习比特流生成的核心内容。",
+        "courseId": "course-19"
+      },
+      {
+        "order": 4,
+        "title": "第4步：下载验证",
+        "description": "学习下载验证的核心内容。",
+        "courseId": "course-19"
+      },
+      {
+        "order": 5,
+        "title": "第5步：上板调试",
+        "description": "学习上板调试的核心内容。",
+        "courseId": "course-19"
+      }
+    ]
+  },
+  {
+    "id": "route-24",
+    "slug": "实验报告撰写专项路线",
+    "title": "实验报告撰写专项路线",
+    "summary": "课程设计报告结构、调试记录与结论撰写。",
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1步：报告结构",
+        "description": "学习报告结构的核心内容。",
+        "courseId": "course-20"
+      },
+      {
+        "order": 2,
+        "title": "第2步：设计思路记录",
+        "description": "学习设计思路记录的核心内容。",
+        "courseId": "course-20"
+      },
+      {
+        "order": 3,
+        "title": "第3步：仿真截图整理",
+        "description": "学习仿真截图整理的核心内容。",
+        "courseId": "course-19"
+      },
+      {
+        "order": 4,
+        "title": "第4步：调试过程记录",
+        "description": "学习调试过程记录的核心内容。",
+        "courseId": "course-19"
+      },
+      {
+        "order": 5,
+        "title": "第5步：结论与心得",
+        "description": "学习结论与心得的核心内容。",
+        "courseId": "course-20"
+      }
+    ]
+  },
+  {
+    "id": "route-25",
+    "slug": "加法器比较器专项路线",
+    "title": "加法器比较器专项路线",
+    "summary": "半加器、全加器、超前进位与比较器专项。",
+    "steps": [
+      {
+        "order": 1,
+        "title": "第1步：半加器",
+        "description": "学习半加器的核心内容。",
+        "courseId": "course-7",
+        "lessonId": "lesson-73"
+      },
+      {
+        "order": 2,
+        "title": "第2步：全加器",
+        "description": "学习全加器的核心内容。",
+        "courseId": "course-7",
+        "lessonId": "lesson-74"
+      },
+      {
+        "order": 3,
+        "title": "第3步：超前进位",
+        "description": "学习超前进位的核心内容。",
+        "courseId": "course-7",
+        "lessonId": "lesson-75"
+      },
+      {
+        "order": 4,
+        "title": "第4步：比较器",
+        "description": "学习比较器的核心内容。",
+        "courseId": "course-7",
+        "lessonId": "lesson-76"
+      },
+      {
+        "order": 5,
+        "title": "第5步：ALU",
+        "description": "学习ALU的核心内容。",
+        "courseId": "course-7",
+        "lessonId": "lesson-77"
+      }
+    ]
   }
 ]

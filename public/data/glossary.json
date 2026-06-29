@@ -1350,5 +1350,669 @@
     "aliases": [
       "Lab Report"
     ]
+  },
+  {
+    "id": "g-170",
+    "term": "真值",
+    "definition": "机器数所表示的实际数值",
+    "aliases": [
+      "True Value"
+    ]
+  },
+  {
+    "id": "g-171",
+    "term": "机器数",
+    "definition": "带符号位在计算机中的表示",
+    "aliases": [
+      "Machine Number"
+    ]
+  },
+  {
+    "id": "g-172",
+    "term": "逻辑变量",
+    "definition": "取值仅为0或1的变量",
+    "aliases": [
+      "Logic Variable"
+    ]
+  },
+  {
+    "id": "g-173",
+    "term": "与非运算",
+    "definition": "与运算后取反",
+    "aliases": [
+      "NAND"
+    ]
+  },
+  {
+    "id": "g-174",
+    "term": "或非运算",
+    "definition": "或运算后取反",
+    "aliases": [
+      "NOR"
+    ]
+  },
+  {
+    "id": "g-175",
+    "term": "异或运算",
+    "definition": "两输入不同输出为1",
+    "aliases": [
+      "XOR"
+    ]
+  },
+  {
+    "id": "g-176",
+    "term": "同或运算",
+    "definition": "两输入相同输出为1",
+    "aliases": [
+      "XNOR"
+    ]
+  },
+  {
+    "id": "g-177",
+    "term": "真值表",
+    "definition": "列出所有输入组合与对应输出的表",
+    "aliases": [
+      "Truth Table"
+    ]
+  },
+  {
+    "id": "g-178",
+    "term": "逻辑函数",
+    "definition": "输入到输出的逻辑映射",
+    "aliases": [
+      "Logic Function"
+    ]
+  },
+  {
+    "id": "g-179",
+    "term": "吸收律",
+    "definition": "AB+AB=A等简化规律",
+    "aliases": [
+      "Absorption Law"
+    ]
+  },
+  {
+    "id": "g-180",
+    "term": "代入规则",
+    "definition": "将变量替换为表达式的规则",
+    "aliases": [
+      "Substitution Rule"
+    ]
+  },
+  {
+    "id": "g-181",
+    "term": "反演规则",
+    "definition": "求反函数的规则",
+    "aliases": [
+      "Complementation Rule"
+    ]
+  },
+  {
+    "id": "g-182",
+    "term": "对偶规则",
+    "definition": "与或互换01互换的规则",
+    "aliases": [
+      "Duality Rule"
+    ]
+  },
+  {
+    "id": "g-183",
+    "term": "无关项",
+    "definition": "不会出现的输入组合",
+    "aliases": [
+      "Don't Care"
+    ]
+  },
+  {
+    "id": "g-184",
+    "term": "扇出系数",
+    "definition": "一个门能驱动同类门的数目",
+    "aliases": [
+      "Fan-Out"
+    ]
+  },
+  {
+    "id": "g-185",
+    "term": "噪声容限",
+    "definition": "保证逻辑正确允许的噪声幅度",
+    "aliases": [
+      "Noise Margin"
+    ]
+  },
+  {
+    "id": "g-186",
+    "term": "组合逻辑",
+    "definition": "输出仅取决于当前输入的逻辑",
+    "aliases": [
+      "Combinational Logic"
+    ]
+  },
+  {
+    "id": "g-187",
+    "term": "时序逻辑",
+    "definition": "输出取决于当前输入与历史状态的逻辑",
+    "aliases": [
+      "Sequential Logic"
+    ]
+  },
+  {
+    "id": "g-188",
+    "term": "竞争",
+    "definition": "输入信号到达时间差异引起的现象",
+    "aliases": [
+      "Race"
+    ]
+  },
+  {
+    "id": "g-189",
+    "term": "冒险",
+    "definition": "竞争导致的瞬时错误输出",
+    "aliases": [
+      "Hazard"
+    ]
+  },
+  {
+    "id": "g-190",
+    "term": "数据分配器",
+    "definition": "将一路输入分配到多路输出的电路",
+    "aliases": [
+      "Demultiplexer"
+    ]
+  },
+  {
+    "id": "g-191",
+    "term": "触发器",
+    "definition": "具有记忆功能的基本时序单元",
+    "aliases": [
+      "Flip-Flop"
+    ]
+  },
+  {
+    "id": "g-192",
+    "term": "状态方程",
+    "definition": "描述次态与现态输入关系的方程",
+    "aliases": [
+      "State Equation"
+    ]
+  },
+  {
+    "id": "g-193",
+    "term": "驱动方程",
+    "definition": "描述触发器输入的方程",
+    "aliases": [
+      "Drive Equation"
+    ]
+  },
+  {
+    "id": "g-194",
+    "term": "输出方程",
+    "definition": "描述输出与现态输入关系的方程",
+    "aliases": [
+      "Output Equation"
+    ]
+  },
+  {
+    "id": "g-195",
+    "term": "空翻",
+    "definition": "电平触发期间多次翻转",
+    "aliases": [
+      "Race-Around"
+    ]
+  },
+  {
+    "id": "g-196",
+    "term": "模N计数器",
+    "definition": "计数周期为N的计数器",
+    "aliases": [
+      "Modulo-N Counter"
+    ]
+  },
+  {
+    "id": "g-197",
+    "term": "清零法",
+    "definition": "用反馈清零构成任意进制",
+    "aliases": [
+      "Clear Method"
+    ]
+  },
+  {
+    "id": "g-198",
+    "term": "置数法",
+    "definition": "用反馈置数构成任意进制",
+    "aliases": [
+      "Load Method"
+    ]
+  },
+  {
+    "id": "g-199",
+    "term": "串入串出",
+    "definition": "串行输入串行输出",
+    "aliases": [
+      "SISO"
+    ]
+  },
+  {
+    "id": "g-200",
+    "term": "串入并出",
+    "definition": "串行输入并行输出",
+    "aliases": [
+      "SIPO"
+    ]
+  },
+  {
+    "id": "g-201",
+    "term": "并入串出",
+    "definition": "并行输入串行输出",
+    "aliases": [
+      "PISO"
+    ]
+  },
+  {
+    "id": "g-202",
+    "term": "双向移位寄存器",
+    "definition": "可左移右移的寄存器",
+    "aliases": [
+      "Bidirectional Shift Register"
+    ]
+  },
+  {
+    "id": "g-203",
+    "term": "状态化简",
+    "definition": "合并等价状态简化电路",
+    "aliases": [
+      "State Reduction"
+    ]
+  },
+  {
+    "id": "g-204",
+    "term": "状态分配",
+    "definition": "为状态分配二进制编码",
+    "aliases": [
+      "State Assignment"
+    ]
+  },
+  {
+    "id": "g-205",
+    "term": "Moore型状态机",
+    "definition": "输出仅取决于状态",
+    "aliases": [
+      "Moore Machine"
+    ]
+  },
+  {
+    "id": "g-206",
+    "term": "Mealy型状态机",
+    "definition": "输出取决于状态与输入",
+    "aliases": [
+      "Mealy Machine"
+    ]
+  },
+  {
+    "id": "g-207",
+    "term": "序列检测器",
+    "definition": "检测输入是否包含特定序列",
+    "aliases": [
+      "Sequence Detector"
+    ]
+  },
+  {
+    "id": "g-208",
+    "term": "自启动",
+    "definition": "无效状态能自动回到有效循环",
+    "aliases": [
+      "Self-Start"
+    ]
+  },
+  {
+    "id": "g-209",
+    "term": "脉冲",
+    "definition": "短时间内变化的电信号",
+    "aliases": [
+      "Pulse"
+    ]
+  },
+  {
+    "id": "g-210",
+    "term": "回差电压",
+    "definition": "施密特上下阈值之差",
+    "aliases": [
+      "Hysteresis Voltage"
+    ]
+  },
+  {
+    "id": "g-211",
+    "term": "字扩展",
+    "definition": "增加存储字数的扩展",
+    "aliases": [
+      "Word Expansion"
+    ]
+  },
+  {
+    "id": "g-212",
+    "term": "位扩展",
+    "definition": "增加每个字位数的扩展",
+    "aliases": [
+      "Bit Expansion"
+    ]
+  },
+  {
+    "id": "g-213",
+    "term": "PLA",
+    "definition": "可编程逻辑阵列",
+    "aliases": [
+      "PLA"
+    ]
+  },
+  {
+    "id": "g-214",
+    "term": "IP核",
+    "definition": "可复用的设计模块",
+    "aliases": [
+      "IP Core"
+    ]
+  },
+  {
+    "id": "g-215",
+    "term": "AS模式",
+    "definition": "主动串行编程模式",
+    "aliases": [
+      "Active Serial"
+    ]
+  },
+  {
+    "id": "g-216",
+    "term": "create_clock",
+    "definition": "SDC中定义时钟约束的命令",
+    "aliases": [
+      "create_clock"
+    ]
+  },
+  {
+    "id": "g-217",
+    "term": "set_input_delay",
+    "definition": "SDC中设置输入延迟的命令",
+    "aliases": [
+      "set_input_delay"
+    ]
+  },
+  {
+    "id": "g-218",
+    "term": "set_output_delay",
+    "definition": "SDC中设置输出延迟的命令",
+    "aliases": [
+      "set_output_delay"
+    ]
+  },
+  {
+    "id": "g-219",
+    "term": "时序违例",
+    "definition": "不满足建立或保持时间约束",
+    "aliases": [
+      "Timing Violation"
+    ]
+  },
+  {
+    "id": "g-220",
+    "term": "Pin Planner",
+    "definition": "Quartus引脚分配工具",
+    "aliases": [
+      "Pin Planner"
+    ]
+  },
+  {
+    "id": "g-221",
+    "term": "SignalTap",
+    "definition": "Quartus在线逻辑分析仪",
+    "aliases": [
+      "SignalTap II"
+    ]
+  },
+  {
+    "id": "g-222",
+    "term": "四相四拍",
+    "definition": "AB→BC→CD→DA四步驱动",
+    "aliases": [
+      "4-Phase 4-Beat"
+    ]
+  },
+  {
+    "id": "g-223",
+    "term": "四相八拍",
+    "definition": "A→AB→B→BC→C→CD→D→DA八步驱动",
+    "aliases": [
+      "4-Phase 8-Beat"
+    ]
+  },
+  {
+    "id": "g-224",
+    "term": "相序",
+    "definition": "步进电机各相的通电顺序",
+    "aliases": [
+      "Phase Sequence"
+    ]
+  },
+  {
+    "id": "g-225",
+    "term": "楼层编码",
+    "definition": "用二进制表示楼层号",
+    "aliases": [
+      "Floor Encoding"
+    ]
+  },
+  {
+    "id": "g-226",
+    "term": "LPM_COUNTER",
+    "definition": "Quartus参数化计数器宏模块",
+    "aliases": [
+      "LPM_COUNTER"
+    ]
+  },
+  {
+    "id": "g-227",
+    "term": "到站判断",
+    "definition": "判断电梯是否到达目标楼层",
+    "aliases": [
+      "Arrival Detection"
+    ]
+  },
+  {
+    "id": "g-228",
+    "term": "开关门信号",
+    "definition": "控制电梯门开关的信号",
+    "aliases": [
+      "Door Signal"
+    ]
+  },
+  {
+    "id": "g-229",
+    "term": "编译警告",
+    "definition": "编译过程中产生的警告信息",
+    "aliases": [
+      "Compilation Warning"
+    ]
+  },
+  {
+    "id": "g-230",
+    "term": "与门",
+    "definition": "实现与运算的逻辑门",
+    "aliases": [
+      "AND Gate"
+    ]
+  },
+  {
+    "id": "g-231",
+    "term": "或门",
+    "definition": "实现或运算的逻辑门",
+    "aliases": [
+      "OR Gate"
+    ]
+  },
+  {
+    "id": "g-232",
+    "term": "非门",
+    "definition": "实现非运算的逻辑门",
+    "aliases": [
+      "NOT Gate"
+    ]
+  },
+  {
+    "id": "g-233",
+    "term": "缓冲器",
+    "definition": "不改变逻辑值仅增强驱动能力",
+    "aliases": [
+      "Buffer"
+    ]
+  },
+  {
+    "id": "g-234",
+    "term": "与或非门",
+    "definition": "与-或-非组合逻辑门",
+    "aliases": [
+      "AOI Gate"
+    ]
+  },
+  {
+    "id": "g-235",
+    "term": "功耗",
+    "definition": "电路消耗的功率",
+    "aliases": [
+      "Power Dissipation"
+    ]
+  },
+  {
+    "id": "g-236",
+    "term": "延迟时间",
+    "definition": "信号从输入到输出的时间",
+    "aliases": [
+      "Delay Time"
+    ]
+  },
+  {
+    "id": "g-237",
+    "term": "上升时间",
+    "definition": "信号从低到高的过渡时间",
+    "aliases": [
+      "Rise Time"
+    ]
+  },
+  {
+    "id": "g-238",
+    "term": "下降时间",
+    "definition": "信号从高到低的过渡时间",
+    "aliases": [
+      "Fall Time"
+    ]
+  },
+  {
+    "id": "g-239",
+    "term": "脉宽",
+    "definition": "脉冲高电平持续时间",
+    "aliases": [
+      "Pulse Width"
+    ]
+  },
+  {
+    "id": "g-240",
+    "term": "周期",
+    "definition": "信号重复一次的时间",
+    "aliases": [
+      "Period"
+    ]
+  },
+  {
+    "id": "g-241",
+    "term": "频率",
+    "definition": "单位时间内脉冲重复次数",
+    "aliases": [
+      "Frequency"
+    ]
+  },
+  {
+    "id": "g-242",
+    "term": "寄存器传输级",
+    "definition": "描述数据在寄存器间传输的抽象层次",
+    "aliases": [
+      "RTL"
+    ]
+  },
+  {
+    "id": "g-243",
+    "term": "适配",
+    "definition": "将逻辑映射到FPGA物理资源的过程",
+    "aliases": [
+      "Fitting"
+    ]
+  },
+  {
+    "id": "g-244",
+    "term": "配置",
+    "definition": "将设计数据加载到FPGA的过程",
+    "aliases": [
+      "Configuration"
+    ]
+  },
+  {
+    "id": "g-245",
+    "term": "消隐",
+    "definition": "数码管显示中关闭所有段",
+    "aliases": [
+      "Blanking"
+    ]
+  },
+  {
+    "id": "g-246",
+    "term": "鬼影",
+    "definition": "动态扫描中不该亮的段微亮",
+    "aliases": [
+      "Ghosting"
+    ]
+  },
+  {
+    "id": "g-247",
+    "term": "VHDL",
+    "definition": "甚高速集成电路硬件描述语言",
+    "aliases": [
+      "VHSIC HDL"
+    ]
+  },
+  {
+    "id": "g-248",
+    "term": "Testbench",
+    "definition": "用于仿真的测试激励模块",
+    "aliases": [
+      "Testbench"
+    ]
+  },
+  {
+    "id": "g-249",
+    "term": "网表",
+    "definition": "描述电路连接关系的数据",
+    "aliases": [
+      "Netlist"
+    ]
+  },
+  {
+    "id": "g-250",
+    "term": "原理图",
+    "definition": "用图形符号表示电路的设计方式",
+    "aliases": [
+      "Schematic"
+    ]
+  },
+  {
+    "id": "g-251",
+    "term": "宏模块",
+    "definition": "Quartus中参数化的功能模块",
+    "aliases": [
+      "Megafunction"
+    ]
+  },
+  {
+    "id": "g-252",
+    "term": "DE2开发板",
+    "definition": "Altera Cyclone II FPGA教学开发板",
+    "aliases": [
+      "DE2 Board"
+    ]
   }
 ]

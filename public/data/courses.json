@@ -15,7 +15,17 @@
       "lesson-2",
       "lesson-3",
       "lesson-4",
-      "lesson-5"
+      "lesson-5",
+      "lesson-124",
+      "lesson-125",
+      "lesson-126",
+      "lesson-127",
+      "lesson-128",
+      "lesson-129",
+      "lesson-130",
+      "lesson-131",
+      "lesson-132",
+      "lesson-133"
     ],
     "order": 1
   },
@@ -35,7 +45,17 @@
       "lesson-7",
       "lesson-8",
       "lesson-9",
-      "lesson-10"
+      "lesson-10",
+      "lesson-134",
+      "lesson-135",
+      "lesson-136",
+      "lesson-137",
+      "lesson-138",
+      "lesson-139",
+      "lesson-140",
+      "lesson-141",
+      "lesson-142",
+      "lesson-143"
     ],
     "order": 2
   },
@@ -55,7 +75,14 @@
       "lesson-12",
       "lesson-13",
       "lesson-14",
-      "lesson-15"
+      "lesson-15",
+      "lesson-144",
+      "lesson-145",
+      "lesson-146",
+      "lesson-147",
+      "lesson-148",
+      "lesson-149",
+      "lesson-150"
     ],
     "order": 3
   },
@@ -342,5 +369,125 @@
     "estimatedHours": 20,
     "lessons": [],
     "order": 12
+  },
+  {
+    "id": "course-13",
+    "slug": "脉冲波形与定时电路",
+    "title": "脉冲波形与定时电路",
+    "summary": "涵盖脉冲波形与定时电路的系统学习。",
+    "difficulty": "medium",
+    "tags": [
+      "555",
+      "施密特",
+      "单稳"
+    ],
+    "estimatedHours": 10,
+    "lessons": [],
+    "order": 13
+  },
+  {
+    "id": "course-14",
+    "slug": "存储器基础",
+    "title": "存储器基础",
+    "summary": "涵盖存储器基础的系统学习。",
+    "difficulty": "medium",
+    "tags": [
+      "RAM",
+      "ROM",
+      "FLASH"
+    ],
+    "estimatedHours": 8,
+    "lessons": [],
+    "order": 14
+  },
+  {
+    "id": "course-15",
+    "slug": "可编程逻辑器件",
+    "title": "可编程逻辑器件",
+    "summary": "涵盖可编程逻辑器件的系统学习。",
+    "difficulty": "medium",
+    "tags": [
+      "PLD",
+      "GAL",
+      "FPGA"
+    ],
+    "estimatedHours": 10,
+    "lessons": [],
+    "order": 15
+  },
+  {
+    "id": "course-16",
+    "slug": "Quartus入门",
+    "title": "Quartus入门",
+    "summary": "涵盖Quartus入门的系统学习。",
+    "difficulty": "easy",
+    "tags": [
+      "Quartus",
+      "工程",
+      "编译"
+    ],
+    "estimatedHours": 8,
+    "lessons": [],
+    "order": 16
+  },
+  {
+    "id": "course-17",
+    "slug": "BDF原理图设计",
+    "title": "BDF原理图设计",
+    "summary": "涵盖BDF原理图设计的系统学习。",
+    "difficulty": "medium",
+    "tags": [
+      "BDF",
+      "原理图",
+      "符号"
+    ],
+    "estimatedHours": 10,
+    "lessons": [],
+    "order": 17
+  },
+  {
+    "id": "course-18",
+    "slug": "Verilog基础",
+    "title": "Verilog基础",
+    "summary": "涵盖Verilog基础的系统学习。",
+    "difficulty": "medium",
+    "tags": [
+      "Verilog",
+      "module",
+      "always"
+    ],
+    "estimatedHours": 12,
+    "lessons": [],
+    "order": 18
+  },
+  {
+    "id": "course-19",
+    "slug": "FPGA实验流程",
+    "title": "FPGA实验流程",
+    "summary": "涵盖FPGA实验流程的系统学习。",
+    "difficulty": "hard",
+    "tags": [
+      "FPGA",
+      "下载",
+      "验证"
+    ],
+    "estimatedHours": 12,
+    "lessons": [],
+    "order": 19
+  },
+  {
+    "id": "course-20",
+    "slug": "步进电机模拟电梯控制系统课程设计",
+    "title": "步进电机模拟电梯控制系统课程设计",
+    "summary": "涵盖步进电机模拟电梯控制系统课程设计的系统学习。",
+    "difficulty": "hard",
+    "tags": [
+      "步进电机",
+      "电梯",
+      "课程设计"
+    ],
+    "estimatedHours": 20,
+    "lessons": [],
+    "order": 20
   }
 ]
