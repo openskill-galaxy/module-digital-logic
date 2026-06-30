@@ -928,5 +928,395 @@
     "question": "电梯项目中如何处理多个楼层请求？",
     "answer": "多请求处理策略：1)方向优先原则——先响应当前运行方向上的请求；2)先来先服务——按请求到达顺序响应；3)就近原则——响应最近的请求；4)推荐方向优先：上行时只响应上方请求，到顶后切换方向响应下方。实现时用寄存器存储各层请求，方向逻辑决定响应顺序。",
     "category": "步进电机模拟电梯项目"
+  },
+  {
+    "id": "faq-156",
+    "question": "如何用卡诺图化简五变量逻辑函数？",
+    "answer": "五变量卡诺图使用两个四变量卡诺图叠加，对应位置相邻。化简时先在单个图内圈组，再考虑两图对应位置的合并。",
+    "category": "学习方法"
+  },
+  {
+    "id": "faq-157",
+    "question": "同步复位和异步复位怎么选？",
+    "answer": "同步复位在时钟沿生效不影响时序路径但需时钟；异步复位立即生效不依赖时钟但释放可能违反恢复时间约束。FPGA推荐异步复位+同步释放。",
+    "category": "易错点"
+  },
+  {
+    "id": "faq-158",
+    "question": "如何消除组合逻辑中的冒险？",
+    "answer": "1)添加冗余项覆盖相切圈组；2)引入选通脉冲在输出稳定后采样；3)加滤波电容（不推荐）；4)改用时序逻辑在时钟沿采样。",
+    "category": "易错点"
+  },
+  {
+    "id": "faq-159",
+    "question": "LPM_COUNTER的模值如何计算？",
+    "answer": "模值=计数器最大值+1。如模12计数器计数0-11共12个状态，设置MODULUS=12。分频输出频率=输入频率/模值。",
+    "category": "计数器"
+  },
+  {
+    "id": "faq-160",
+    "question": "如何用74LS161构成任意进制计数器？",
+    "answer": "清零法：计数到N时通过与非门接CLR同步清零。置数法：计数到N-1时接LOAD置入0。注意CLR和LOAD都是同步控制。",
+    "category": "计数器"
+  },
+  {
+    "id": "faq-161",
+    "question": "Quartus编译报Timing violation怎么办？",
+    "answer": "1)查看TimeQuest报告找违例路径；2)添加SDC约束；3)增加时钟周期或优化路径；4)用流水线寄存器打断长路径；5)调整Fitter努力级别。",
+    "category": "Quartus常见问题"
+  },
+  {
+    "id": "faq-162",
+    "question": "BDF中如何实现层次化设计？",
+    "answer": "1)底层子模块BDF设计；2)Create Symbol生成符号；3)顶层BDF放置子模块符号连线；4)设置顶层实体；5)编译递归编译所有子模块。",
+    "category": "BDF连线问题"
+  },
+  {
+    "id": "faq-163",
+    "question": "步进电机四相四拍和四相八拍的区别？",
+    "answer": "四拍：A→B→C→D，步距角较大力矩大但振动明显。八拍：A→AB→B→BC→C→CD→D→DA，步距角减半更平滑定位精度高。电梯推荐八拍。",
+    "category": "步进电机模拟电梯项目"
+  },
+  {
+    "id": "faq-164",
+    "question": "电梯项目如何实现多楼层请求调度？",
+    "answer": "方向优先：先响应当前方向最近请求。扫描策略：上行扫完上行请求再转向。实现：寄存器存各层请求，方向逻辑决定扫描顺序，到站清除已服务请求。",
+    "category": "步进电机模拟电梯项目"
+  },
+  {
+    "id": "faq-165",
+    "question": "FPGA开发板LED不亮如何排查？",
+    "answer": "1)确认引脚绑定正确；2)确认LED驱动电平；3)SignalTap观察输出；4)确认分频后频率可见；5)确认FPGA已下载；6)检查时钟。",
+    "category": "下载验证"
+  },
+  {
+    "id": "faq-166",
+    "question": "如何写好课程设计实验报告？",
+    "answer": "1)实验目的；2)设计思路+系统框图；3)详细设计+电路图/代码；4)仿真结果+波形截图；5)下载验证结果；6)问题与解决；7)总结与心得。",
+    "category": "实验报告"
+  },
+  {
+    "id": "faq-167",
+    "question": "Verilog中阻塞和非阻塞赋值怎么选？",
+    "answer": "组合逻辑用阻塞(=)，时序逻辑用非阻塞(<=)。混用导致仿真与综合不一致。always@(posedge clk)统一用<=，always@(*)统一用=。",
+    "category": "Verilog"
+  },
+  {
+    "id": "faq-168",
+    "question": "如何设计序列1101检测器？",
+    "answer": "1)状态：S0(初始)→S1(1)→S2(11)→S3(110)→S4(1101)；2)画状态图/表；3)状态化简；4)3位二进制编码；5)写次态和输出方程；6)画电路或写Verilog。",
+    "category": "时序逻辑设计"
+  },
+  {
+    "id": "faq-169",
+    "question": "555定时器三种工作模式如何区分？",
+    "answer": "施密特：2脚6脚短接作输入整形方波。单稳态：2脚负脉冲触发输出Tw=1.1RC。多谐振荡：无外部触发自激振荡f=1/[0.7(R1+2R2)C]。",
+    "category": "脉冲与定时"
+  },
+  {
+    "id": "faq-170",
+    "question": "ROM和RAM在FPGA中的实现方式？",
+    "answer": "ROM用分布式ROM(LUT)或嵌入式块(M9K)实现，配置时加载内容。RAM同样用嵌入式块，支持双端口读写。通过IP Catalog配置参数。",
+    "category": "存储器"
+  },
+  {
+    "id": "faq-171",
+    "question": "如何理解建立时间和保持时间？",
+    "answer": "建立时间Tsu：数据在时钟沿前必须稳定的最短时间。保持时间Th：数据在时钟沿后必须稳定的最短时间。Tsu+Th构成时间约束，违例导致亚稳态。",
+    "category": "FPGA实验"
+  },
+  {
+    "id": "faq-172",
+    "question": "数码管动态扫描的刷新率要求多少？",
+    "answer": "刷新率至少50Hz避免闪烁。每位显示时间约1-2ms，N位数码管刷新周期=N×2ms，刷新率=1/周期。6位数码管：周期12ms，刷新率83Hz。",
+    "category": "数码管显示"
+  },
+  {
+    "id": "faq-173",
+    "question": "电梯项目中如何处理紧急停止？",
+    "answer": "紧急停止信号优先级最高，立即：1)停止步进电机驱动；2)清除所有请求；3)保持当前楼层；4)点亮紧急指示LED；5)等待复位信号恢复。",
+    "category": "步进电机模拟电梯项目"
+  },
+  {
+    "id": "faq-174",
+    "question": "如何选择FPGA开发板的器件型号？",
+    "answer": "选择依据：1)逻辑单元数量满足设计需求；2)嵌入式存储块数量；3)I/O引脚数够用；4)是否需要PLL/DDR等专用资源；5)封装和功耗；6)成本。",
+    "category": "FPGA实验"
+  },
+  {
+    "id": "faq-175",
+    "question": "卡诺图化简的圈组规则是什么？",
+    "answer": "1)圈组必须是2^n个相邻1格；2)圈组尽可能大；3)圈组数尽可能少；4)每个圈组至少含一个未被圈过的1；5)四角和两边可相邻；6)无关项可当0或1用。",
+    "category": "学习方法"
+  },
+  {
+    "id": "faq-176",
+    "question": "什么是逻辑函数的最小项表达式？",
+    "answer": "最小项是所有变量以原变量或反变量出现一次的乘积项。逻辑函数的最小项表达式是将函数值为1对应的最小项求和，即标准与或式，是唯一的。",
+    "category": "逻辑代数"
+  },
+  {
+    "id": "faq-177",
+    "question": "Quartus编译报inferred latch怎么办？",
+    "answer": "组合逻辑中if缺少else或case缺少default会导致锁存器推断。修复：1)补全所有分支；2)在always@(*)开头给所有输出赋默认值；3)确认设计意图是否确实需要锁存器。",
+    "category": "编译警告"
+  },
+  {
+    "id": "faq-178",
+    "question": "电梯项目BDF如何组织？",
+    "answer": "顶层(top.bdf)连接子模块：分频模块→楼层计数→方向判断→到站判断→开关门→电机驱动→数码管显示。每个子模块生成符号后顶层调用。",
+    "category": "BDF连线问题"
+  },
+  {
+    "id": "faq-179",
+    "question": "如何用译码器实现组合逻辑函数？",
+    "answer": "将逻辑函数展开为最小项之和形式，用译码器输出对应最小项，再通过或门（或级联译码器）组合输出。如74LS138的8个输出对应8个最小项，选择需要的输出或门即可。",
+    "category": "组合逻辑设计"
+  },
+  {
+    "id": "faq-180",
+    "question": "FPGA中如何实现双端口RAM？",
+    "answer": "使用Quartus IP Catalog中的RAM: 2-PORT模块，设置读端口和写端口独立地址，支持同时读写。也可用Verilog inferred RAM让综合器自动推断。",
+    "category": "存储器"
+  },
+  {
+    "id": "faq-181",
+    "question": "步进电机相序如何用Verilog实现？",
+    "answer": "用3位计数器编码8个状态(0-7)，查表输出四相信号：case(cnt) 0:A=1; 1:A=1,B=1; 2:B=1; ... endcase。反转时计数器减1。",
+    "category": "Verilog"
+  },
+  {
+    "id": "faq-182",
+    "question": "如何分析异步计数器的时序？",
+    "answer": "异步计数器各级触发器时钟不同步，需逐级分析：1)写出每级时钟条件；2)逐级推导输出波形；3)注意各级延迟累积；4)过渡时间=各级延迟之和。",
+    "category": "时序逻辑分析"
+  },
+  {
+    "id": "faq-183",
+    "question": "课程设计中如何进行模块化测试？",
+    "answer": "1)每个子模块单独创建测试工程；2)编写简单Testbench验证基本功能；3)在SignalTap中观察关键信号；4)确认时序正确后再集成到顶层；5)集成后整体仿真。",
+    "category": "实验报告"
+  },
+  {
+    "id": "faq-184",
+    "question": "什么是FPGA的查找表LUT？",
+    "answer": "LUT是FPGA的基本逻辑单元，实质是一个小容量ROM，输入作为地址，输出为查找结果。4输入LUT可实现任意4变量逻辑函数。多个LUT通过互连实现复杂逻辑。",
+    "category": "FPGA实验"
+  },
+  {
+    "id": "faq-185",
+    "question": "如何理解触发器的建立时间和保持时间？",
+    "answer": "建立时间Tsu：数据在时钟沿前必须稳定的最短时间。保持时间Th：数据在时钟沿后必须稳定的最短时间。违例导致亚稳态，输出不确定。FPGA中需确保所有路径满足Tsu和Th约束。",
+    "category": "FPGA实验"
+  },
+  {
+    "id": "faq-186",
+    "question": "数码管动态扫描刷新率要求多少？",
+    "answer": "至少50Hz避免闪烁。每位显示1-2ms，N位周期=N×2ms。6位数码管：周期12ms，刷新率83Hz。刷新率越高越稳定但CPU占用越大。",
+    "category": "数码管显示"
+  },
+  {
+    "id": "faq-187",
+    "question": "电梯项目如何处理紧急停止？",
+    "answer": "紧急停止优先级最高：1)停止电机驱动；2)清除所有请求；3)保持当前楼层；4)点亮紧急LED；5)等待复位信号恢复。",
+    "category": "步进电机模拟电梯项目"
+  },
+  {
+    "id": "faq-188",
+    "question": "如何选择FPGA器件型号？",
+    "answer": "依据：1)逻辑单元数量；2)嵌入式存储块；3)I/O引脚数；4)PLL/DDR等专用资源；5)封装和功耗；6)成本。",
+    "category": "FPGA实验"
+  },
+  {
+    "id": "faq-189",
+    "question": "卡诺图圈组规则是什么？",
+    "answer": "1)圈2^n个相邻1格；2)圈尽可能大；3)圈数尽可能少；4)每圈至少含一个未被圈过的1；5)四角和两边可相邻；6)无关项可当0或1用。",
+    "category": "学习方法"
+  },
+  {
+    "id": "faq-190",
+    "question": "如何分析异步计数器时序？",
+    "answer": "各级时钟不同步，逐级分析：1)写每级时钟条件；2)逐级推导波形；3)注意延迟累积；4)过渡时间=各级延迟之和。",
+    "category": "时序逻辑分析"
+  },
+  {
+    "id": "faq-191",
+    "question": "课程设计中如何模块化测试？",
+    "answer": "1)每子模块单独测试工程；2)写Testbench验证基本功能；3)SignalTap观察关键信号；4)确认时序正确后集成；5)集成后整体仿真。",
+    "category": "实验报告"
+  },
+  {
+    "id": "faq-192",
+    "question": "如何设计Moore型和Mealy型状态机？",
+    "answer": "Moore：输出仅取决于状态，在always块中用case(state)赋值输出。Mealy：输出取决于状态和输入，在case(state)内再判断输入赋输出。Moore输出在时钟沿后变化，Mealy响应更快但可能有毛刺。",
+    "category": "时序逻辑设计"
+  },
+  {
+    "id": "faq-193",
+    "question": "什么是SDC约束文件？",
+    "answer": "SDC(Synopsys Design Constraints)是标准的时序约束描述语言。FPGA中用于：1)create_clock定义时钟；2)set_input_delay/set_output_delay约束IO；3)set_false_path忽略不关心路径；4)set_multicycle_path设置多周期路径。",
+    "category": "FPGA实验"
+  },
+  {
+    "id": "faq-194",
+    "question": "Quartus中如何查看资源使用情况？",
+    "answer": "编译后查看：1)Compilation Report→Flow Summary看总资源；2)Fitter→Resource Section看详细分配；3)Fitter→Fitter Settings看使用率。关注LE/LUT、存储块、PLL、I/O使用率。",
+    "category": "Quartus常见问题"
+  },
+  {
+    "id": "faq-195",
+    "question": "电梯项目数码管如何显示楼层？",
+    "answer": "用BCD-七段译码器将楼层编码转为段选信号。共阴数码管段选高电平有效，位选低电平选中。动态扫描轮流点亮各位，刷新率>50Hz。",
+    "category": "数码管显示"
+  },
+  {
+    "id": "faq-196",
+    "question": "如何用数据选择器实现逻辑函数？",
+    "answer": "将函数的真值表作为选择器的数据输入，变量作为选择信号。如4选1MUX实现2变量函数：D0=f(0,0),D1=f(0,1),D2=f(1,0),D3=f(1,1)。",
+    "category": "组合逻辑设计"
+  },
+  {
+    "id": "faq-197",
+    "question": "什么是FPGA的时钟网络？",
+    "answer": "FPGA有专用全局时钟网络(GCLK)，低偏斜、高扇出，驱动所有寄存器时钟端。使用专用时钟引脚输入，通过PLL/CDR调整频率相位。普通逻辑信号不应作为时钟。",
+    "category": "FPGA实验"
+  },
+  {
+    "id": "faq-198",
+    "question": "如何处理FPGA多时钟域设计？",
+    "answer": "1)使用同步器（两级触发器）跨时钟域传递单bit信号；2)使用异步FIFO传递多bit数据；3)使用握手协议；4)在SDC中设置set_clock_groups -asynchronous声明异步关系。",
+    "category": "FPGA实验"
+  },
+  {
+    "id": "faq-199",
+    "question": "电梯项目如何实现开关门定时？",
+    "answer": "用计数器实现定时：1)开门后启动计数器；2)计数到开门保持时间（如3秒）后触发关门；3)关门期间若有障碍物重新开门；4)关门确认后恢复待机。",
+    "category": "步进电机模拟电梯项目"
+  },
+  {
+    "id": "faq-200",
+    "question": "如何理解ROM实现组合逻辑的原理？",
+    "answer": "ROM的地址译码器产生所有最小项，存储矩阵存放函数值。n输入m输出函数用2^n×m ROM实现，地址对应输入，数据对应输出。无需化简，直接查表。",
+    "category": "存储器"
+  },
+  {
+    "id": "faq-201",
+    "question": "什么是FPGA的比特流文件？",
+    "answer": "比特流(.sof/.rbf)是FPGA配置数据，包含所有LUT内容、布线信息、IO配置等。JTAG模式用.sof直接配置SRAM（断电丢失），AS模式用.pof写入Flash（断电保持）。",
+    "category": "FPGA实验"
+  },
+  {
+    "id": "faq-202",
+    "question": "如何设计一个模60计数器？",
+    "answer": "用两片74LS161级联：个位模10（0-9），十位模6（0-5）。个位计数到9时产生进位，十位加1。当十位=5且个位=9时，两片同时清零，构成0-59共60个状态。",
+    "category": "计数器"
+  },
+  {
+    "id": "faq-203",
+    "question": "Verilog中如何避免锁存器推断？",
+    "answer": "1)组合逻辑always@(*)中给所有输出赋默认值；2)if-else必须配对；3)case必须有default；4)确保所有分支都给输出赋值；5)综合后检查警告信息。",
+    "category": "Verilog"
+  },
+  {
+    "id": "faq-204",
+    "question": "电梯项目如何实现楼层请求锁存？",
+    "answer": "用D触发器锁存每层请求：1)按钮按下时D=1，时钟沿锁存；2)到站服务后清除请求：D=0；3)多个请求可同时锁存；4)方向逻辑根据锁存请求决定运行方向。",
+    "category": "步进电机模拟电梯项目"
+  },
+  {
+    "id": "faq-205",
+    "question": "什么是FPGA的时序违例？",
+    "answer": "时序违例分为：1)Setup违例——数据到达太晚，不满足建立时间；2)Hold违例——数据变化太快，不满足保持时间。Setup违例可通过降频解决，Hold违例需增加数据路径延迟。",
+    "category": "FPGA实验"
+  },
+  {
+    "id": "faq-206",
+    "question": "如何用卡诺图化简含无关项的函数？",
+    "answer": "无关项(d)在卡诺图中用×表示，可当作0或1：1)如果×能帮助扩大圈组则当1用；2)否则当0用；3)目标是最少圈组覆盖所有1。无关项不一定要被圈。",
+    "category": "逻辑代数"
+  },
+  {
+    "id": "faq-207",
+    "question": "Quartus中如何使用Tcl脚本自动化？",
+    "answer": "1)编写.tcl脚本执行工程创建、编译、引脚分配等操作；2)在Quartus中Tools→Tcl Scripts运行；3)命令行quartus_sh -t script.tcl；4)可加入CI/CD流水线。",
+    "category": "Quartus常见问题"
+  },
+  {
+    "id": "faq-208",
+    "question": "电梯项目SDC约束怎么写？",
+    "answer": "create_clock -name clk -period 20 [get_ports {clk}]（50MHz）；set_input_delay -clock clk -max 5 [all_inputs]；set_output_delay -clock clk -max 5 [all_outputs]；set_false_path -from [get_ports {rst_n}]。",
+    "category": "SDC约束"
+  },
+  {
+    "id": "faq-209",
+    "question": "如何理解状态机的编码方式？",
+    "answer": "二进制编码：状态数最少，但译码逻辑复杂。独热编码(one-hot)：每状态1位，译码简单但寄存器多。格雷编码：相邻状态1位变化，减少毛刺。FPGA推荐独热编码。",
+    "category": "时序逻辑设计"
+  },
+  {
+    "id": "faq-210",
+    "question": "什么是FPGA的布局布线？",
+    "answer": "布局(Placement)：将逻辑单元分配到FPGA物理位置。布线(Routing)：连接布局后的单元。Quartus Fitter完成布局布线，影响时序和资源使用。可设置LogicLock区域约束布局。",
+    "category": "FPGA实验"
+  },
+  {
+    "id": "faq-211",
+    "question": "如何设计LED流水灯？",
+    "answer": "1)分频模块将50MHz降到1-5Hz；2)移位寄存器每周期左移或右移一位；3)输出接LED。Verilog：always@(posedge clk_div) led<={led[6:0],led[7]}实现循环左移。",
+    "category": "FPGA实验"
+  },
+  {
+    "id": "faq-212",
+    "question": "什么是竞争冒险现象？",
+    "answer": "竞争：输入信号经不同路径到达时间不同。冒险：竞争导致的瞬时错误输出。静态0型冒险：输出应0但出现1脉冲。静态1型冒险：输出应1但出现0脉冲。卡诺图中两圈相切处存在冒险。",
+    "category": "组合逻辑设计"
+  },
+  {
+    "id": "faq-213",
+    "question": "如何用NAND门实现任意逻辑函数？",
+    "answer": "NAND是通用门：NOT=输入短接的NAND；AND=NAND+NAND非；OR=先非再NAND。任何逻辑函数可化为NAND-NAND形式：先求最简与或式，再用摩根定律变双重非，内层非与各乘积项结合为NAND。",
+    "category": "逻辑代数"
+  },
+  {
+    "id": "faq-214",
+    "question": "电梯项目如何实现方向优先调度？",
+    "answer": "1)记录当前运行方向(上/下)；2)上行时只响应≥当前楼层的请求；3)到最高请求层后切换下行；4)下行时只响应≤当前楼层的请求；5)到最低请求层后切换上行；6)无请求时待机。",
+    "category": "步进电机模拟电梯项目"
+  },
+  {
+    "id": "faq-215",
+    "question": "如何理解FPGA的时钟偏斜？",
+    "answer": "时钟偏斜(Clock Skew)是同一时钟信号到达不同触发器的时间差。正偏斜有利于setup但不利于hold，负偏斜相反。FPGA全局时钟网络设计目标是最小化偏斜。",
+    "category": "FPGA实验"
+  },
+  {
+    "id": "faq-216",
+    "question": "什么是触发器的亚稳态？",
+    "answer": "亚稳态：触发器输出处于0和1之间的不确定状态，由setup/hold违例引起。持续时间不确定，可能传播到后续电路导致系统错误。解决：1)满足时序约束；2)使用同步器(两级触发器)降低概率。",
+    "category": "触发器"
+  },
+  {
+    "id": "faq-217",
+    "question": "Quartus中如何生成符号文件.bsf？",
+    "answer": "在包含该BDF/Verilog文件的工程中：File→Create/Update→Create Symbol Files for Current File。生成的.bsf可在更高层BDF中作为符号调用。若修改源文件需重新生成符号。",
+    "category": "BDF连线问题"
+  },
+  {
+    "id": "faq-218",
+    "question": "电梯项目如何实现楼层到位检测？",
+    "answer": "用行程开关或光电传感器检测每个楼层。信号接入FPGA输入引脚，电梯运行时扫描到位信号：当当前楼层==目标楼层且到位信号有效时，停止电机，开门。",
+    "category": "步进电机模拟电梯项目"
+  },
+  {
+    "id": "faq-219",
+    "question": "FPGA中如何实现 PWM 控制？",
+    "answer": "用计数器+比较器：计数器在0~max循环，比较器比较计数值与阈值，计数值<阈值输出1否则0。改变阈值改变占空比。PWM频率=max×时钟周期。",
+    "category": "步进电机模拟电梯项目"
+  },
+  {
+    "id": "faq-220",
+    "question": "如何理解Verilog的阻塞与非阻塞赋值？",
+    "answer": "阻塞(=)：顺序执行，立即更新，用于组合逻辑。非阻塞(<=)：在时钟沿统一更新，用于时序逻辑。混用会导致仿真与综合不一致。原则：always@(*)用=，always@(posedge clk)用<=。",
+    "category": "Verilog"
   }
 ]

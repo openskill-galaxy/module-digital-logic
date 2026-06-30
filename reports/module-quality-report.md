@@ -1,6 +1,6 @@
 # Module Quality Report
 
-Generated: 2026-06-30T00:25:13.955Z
+Generated: 2026-06-30T04:41:03.913Z
 Module path: /mnt/d/Wonderful/openskill-galaxy/03-modules/module-digital-logic
 
 ## 1. Data Scale
@@ -9,34 +9,34 @@ Module path: /mnt/d/Wonderful/openskill-galaxy/03-modules/module-digital-logic
 |-----------|------|
 | courses | 20 |
 | lessons | 237 |
-| knowledge-points | 620 |
-| questions | 1511 |
-| exams | 50 |
-| cases | 120 |
+| knowledge-points | 809 |
+| questions | 5000 |
+| exams | 120 |
+| cases | 250 |
 | routes | 25 |
-| glossary | 252 |
-| faqs | 155 |
+| glossary | 358 |
+| faqs | 220 |
 | tags | 564 |
 
 ## 2. Question Type Distribution
 
 | Type | Count |
 |------|------|
-| single | 600 |
-| multiple | 250 |
-| judge | 200 |
-| fill | 150 |
-| short | 120 |
-| calculation | 120 |
-| case_analysis | 71 |
+| single | 2000 |
+| multiple | 800 |
+| judge | 600 |
+| fill | 500 |
+| short | 400 |
+| calculation | 400 |
+| case_analysis | 300 |
 
 ## 3. Difficulty Distribution
 
 | Difficulty | Count | Percentage |
 |------------|------|------------|
-| easy | 599 | 39.6% |
-| medium | 626 | 41.4% |
-| hard | 286 | 18.9% |
+| easy | 1859 | 37.2% |
+| medium | 2207 | 44.1% |
+| hard | 934 | 18.7% |
 
 ## 4. Duplicate IDs
 
@@ -50,25 +50,25 @@ Module path: /mnt/d/Wonderful/openskill-galaxy/03-modules/module-digital-logic
 
 | File | Size (KB) |
 |------|-----------|
-| questions.json | 1594.0 |
-| knowledge-points.json | 639.2 |
+| questions.json | 5189.8 |
+| knowledge-points.json | 760.1 |
 | lessons.json | 231.5 |
-| cases.json | 136.7 |
+| cases.json | 230.6 |
+| exams.json | 95.5 |
+| faqs.json | 66.3 |
 | tags.json | 52.3 |
-| faqs.json | 45.5 |
-| exams.json | 38.1 |
-| glossary.json | 36.8 |
+| glossary.json | 50.7 |
 | routes.json | 30.8 |
 | courses.json | 12.4 |
-| search-index.json | 875.6 |
+| search-index.json | 2052.7 |
 
 ## 7. Search Index
 
-✅ search-index.json exists (875.6 KB)
+✅ search-index.json exists (2052.7 KB)
 
 ## 8. Optimization Suggestions
 
-- **questions.json** is large (1594 KB). Consider splitting or lazy-loading.
+- **questions.json** is large (5190 KB). Consider splitting or lazy-loading.
 
 ## 9. Next Steps
 

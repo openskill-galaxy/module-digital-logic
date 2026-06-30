@@ -2393,5 +2393,2253 @@
       "kp-201"
     ],
     "estimatedMinutes": 30
+  },
+  {
+    "id": "case-121",
+    "slug": "步进电机相序案例-121",
+    "title": "步进电机相序案例 7",
+    "summary": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "easy",
+    "tags": [
+      "步进电机",
+      "四相八拍"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于步进电机相序案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 31
+  },
+  {
+    "id": "case-122",
+    "slug": "卡诺图化简案例-122",
+    "title": "卡诺图化简案例 7",
+    "summary": "卡诺图化简案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "medium",
+    "tags": [
+      "卡诺图",
+      "化简"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于卡诺图化简案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [
+      "kp-18",
+      "kp-29",
+      "kp-27"
+    ],
+    "estimatedMinutes": 32
+  },
+  {
+    "id": "case-123",
+    "slug": "译码器设计案例-123",
+    "title": "译码器设计案例 7",
+    "summary": "译码器设计案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "hard",
+    "tags": [
+      "译码器",
+      "74LS138"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于译码器设计案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [
+      "kp-157",
+      "kp-434",
+      "kp-152"
+    ],
+    "estimatedMinutes": 33
+  },
+  {
+    "id": "case-124",
+    "slug": "步进电机相序案例-124",
+    "title": "步进电机相序案例 7",
+    "summary": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "hard",
+    "tags": [
+      "步进电机",
+      "四相八拍"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于步进电机相序案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 34
+  },
+  {
+    "id": "case-125",
+    "slug": "加法器设计案例-125",
+    "title": "加法器设计案例 7",
+    "summary": "加法器设计案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "medium",
+    "tags": [
+      "加法器",
+      "全加器"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于加法器设计案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [
+      "kp-239",
+      "kp-475",
+      "kp-236"
+    ],
+    "estimatedMinutes": 35
+  },
+  {
+    "id": "case-126",
+    "slug": "计数器设计案例-126",
+    "title": "计数器设计案例 7",
+    "summary": "计数器设计案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "easy",
+    "tags": [
+      "计数器",
+      "模N"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于计数器设计案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [
+      "kp-282",
+      "kp-513",
+      "kp-529"
+    ],
+    "estimatedMinutes": 36
+  },
+  {
+    "id": "case-127",
+    "slug": "步进电机相序案例-127",
+    "title": "步进电机相序案例 7",
+    "summary": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "medium",
+    "tags": [
+      "步进电机",
+      "四相八拍"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于步进电机相序案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 37
+  },
+  {
+    "id": "case-128",
+    "slug": "序列检测器案例-128",
+    "title": "序列检测器案例 7",
+    "summary": "序列检测器案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "medium",
+    "tags": [
+      "序列检测器",
+      "状态图"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于序列检测器案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [
+      "kp-593",
+      "kp-591",
+      "kp-594"
+    ],
+    "estimatedMinutes": 38
+  },
+  {
+    "id": "case-129",
+    "slug": "数码管显示案例-129",
+    "title": "数码管显示案例 7",
+    "summary": "数码管显示案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "easy",
+    "tags": [
+      "数码管",
+      "七段译码"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于数码管显示案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 39
+  },
+  {
+    "id": "case-130",
+    "slug": "步进电机相序案例-130",
+    "title": "步进电机相序案例 7",
+    "summary": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "medium",
+    "tags": [
+      "步进电机",
+      "四相八拍"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于步进电机相序案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 40
+  },
+  {
+    "id": "case-131",
+    "slug": "按键消抖案例-131",
+    "title": "按键消抖案例 7",
+    "summary": "按键消抖案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "medium",
+    "tags": [
+      "按键",
+      "消抖"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于按键消抖案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 41
+  },
+  {
+    "id": "case-132",
+    "slug": "分频器设计案例-132",
+    "title": "分频器设计案例 7",
+    "summary": "分频器设计案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "easy",
+    "tags": [
+      "分频",
+      "LPM_COUNTER"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于分频器设计案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [
+      "kp-531",
+      "kp-529",
+      "kp-534"
+    ],
+    "estimatedMinutes": 42
+  },
+  {
+    "id": "case-133",
+    "slug": "步进电机相序案例-133",
+    "title": "步进电机相序案例 7",
+    "summary": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "medium",
+    "tags": [
+      "步进电机",
+      "四相八拍"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于步进电机相序案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 43
+  },
+  {
+    "id": "case-134",
+    "slug": "Quartus编译案例-134",
+    "title": "Quartus编译案例 7",
+    "summary": "Quartus编译案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "medium",
+    "tags": [
+      "Quartus",
+      "编译"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于Quartus编译案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 44
+  },
+  {
+    "id": "case-135",
+    "slug": "引脚绑定案例-135",
+    "title": "引脚绑定案例 7",
+    "summary": "引脚绑定案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "medium",
+    "tags": [
+      "引脚",
+      "Pin Planner"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于引脚绑定案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 45
+  },
+  {
+    "id": "case-136",
+    "slug": "步进电机相序案例-136",
+    "title": "步进电机相序案例 7",
+    "summary": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "easy",
+    "tags": [
+      "步进电机",
+      "四相八拍"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于步进电机相序案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 46
+  },
+  {
+    "id": "case-137",
+    "slug": "仿真波形案例-137",
+    "title": "仿真波形案例 7",
+    "summary": "仿真波形案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "medium",
+    "tags": [
+      "仿真",
+      "波形"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于仿真波形案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 47
+  },
+  {
+    "id": "case-138",
+    "slug": "步进电机相序案例-138",
+    "title": "步进电机相序案例 7",
+    "summary": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "medium",
+    "tags": [
+      "步进电机",
+      "四相八拍"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于步进电机相序案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 48
+  },
+  {
+    "id": "case-139",
+    "slug": "步进电机相序案例-139",
+    "title": "步进电机相序案例 7",
+    "summary": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "easy",
+    "tags": [
+      "步进电机",
+      "四相八拍"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于步进电机相序案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 49
+  },
+  {
+    "id": "case-140",
+    "slug": "实验报告案例-140",
+    "title": "实验报告案例 7",
+    "summary": "实验报告案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "hard",
+    "tags": [
+      "实验报告",
+      "课程设计"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于实验报告案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 50
+  },
+  {
+    "id": "case-141",
+    "slug": "逻辑函数化简案例-141",
+    "title": "逻辑函数化简案例 8",
+    "summary": "逻辑函数化简案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "medium",
+    "tags": [
+      "组合逻辑",
+      "逻辑代数"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于逻辑函数化简案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [
+      "kp-366",
+      "kp-376",
+      "kp-27"
+    ],
+    "estimatedMinutes": 51
+  },
+  {
+    "id": "case-142",
+    "slug": "步进电机相序案例-142",
+    "title": "步进电机相序案例 8",
+    "summary": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "easy",
+    "tags": [
+      "步进电机",
+      "四相八拍"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于步进电机相序案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 52
+  },
+  {
+    "id": "case-143",
+    "slug": "译码器设计案例-143",
+    "title": "译码器设计案例 8",
+    "summary": "译码器设计案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "easy",
+    "tags": [
+      "译码器",
+      "74LS138"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于译码器设计案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [
+      "kp-436",
+      "kp-154",
+      "kp-172"
+    ],
+    "estimatedMinutes": 53
+  },
+  {
+    "id": "case-144",
+    "slug": "数据选择器设计案例-144",
+    "title": "数据选择器设计案例 8",
+    "summary": "数据选择器设计案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "hard",
+    "tags": [
+      "数据选择器",
+      "MUX"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于数据选择器设计案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [
+      "kp-183",
+      "kp-198",
+      "kp-459"
+    ],
+    "estimatedMinutes": 54
+  },
+  {
+    "id": "case-145",
+    "slug": "步进电机相序案例-145",
+    "title": "步进电机相序案例 8",
+    "summary": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "medium",
+    "tags": [
+      "步进电机",
+      "四相八拍"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于步进电机相序案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 55
+  },
+  {
+    "id": "case-146",
+    "slug": "计数器设计案例-146",
+    "title": "计数器设计案例 8",
+    "summary": "计数器设计案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "easy",
+    "tags": [
+      "计数器",
+      "模N"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于计数器设计案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [
+      "kp-525",
+      "kp-263",
+      "kp-531"
+    ],
+    "estimatedMinutes": 56
+  },
+  {
+    "id": "case-147",
+    "slug": "状态机设计案例-147",
+    "title": "状态机设计案例 8",
+    "summary": "状态机设计案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "medium",
+    "tags": [
+      "状态机",
+      "Moore",
+      "Mealy"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于状态机设计案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [
+      "kp-579",
+      "kp-591",
+      "kp-578"
+    ],
+    "estimatedMinutes": 57
+  },
+  {
+    "id": "case-148",
+    "slug": "步进电机相序案例-148",
+    "title": "步进电机相序案例 8",
+    "summary": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "medium",
+    "tags": [
+      "步进电机",
+      "四相八拍"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于步进电机相序案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 58
+  },
+  {
+    "id": "case-149",
+    "slug": "数码管显示案例-149",
+    "title": "数码管显示案例 8",
+    "summary": "数码管显示案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "medium",
+    "tags": [
+      "数码管",
+      "七段译码"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于数码管显示案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 59
+  },
+  {
+    "id": "case-150",
+    "slug": "LED流水灯案例-150",
+    "title": "LED流水灯案例 8",
+    "summary": "LED流水灯案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "easy",
+    "tags": [
+      "LED",
+      "移位寄存器"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于LED流水灯案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 60
+  },
+  {
+    "id": "case-151",
+    "slug": "步进电机相序案例-151",
+    "title": "步进电机相序案例 8",
+    "summary": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "medium",
+    "tags": [
+      "步进电机",
+      "四相八拍"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于步进电机相序案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 61
+  },
+  {
+    "id": "case-152",
+    "slug": "分频器设计案例-152",
+    "title": "分频器设计案例 8",
+    "summary": "分频器设计案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "hard",
+    "tags": [
+      "分频",
+      "LPM_COUNTER"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于分频器设计案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [
+      "kp-533",
+      "kp-257",
+      "kp-281"
+    ],
+    "estimatedMinutes": 62
+  },
+  {
+    "id": "case-153",
+    "slug": "BDF原理图案例-153",
+    "title": "BDF原理图案例 8",
+    "summary": "BDF原理图案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "easy",
+    "tags": [
+      "BDF",
+      "原理图"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于BDF原理图案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 63
+  },
+  {
+    "id": "case-154",
+    "slug": "步进电机相序案例-154",
+    "title": "步进电机相序案例 8",
+    "summary": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "easy",
+    "tags": [
+      "步进电机",
+      "四相八拍"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于步进电机相序案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 64
+  },
+  {
+    "id": "case-155",
+    "slug": "引脚绑定案例-155",
+    "title": "引脚绑定案例 8",
+    "summary": "引脚绑定案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "hard",
+    "tags": [
+      "引脚",
+      "Pin Planner"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于引脚绑定案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 65
+  },
+  {
+    "id": "case-156",
+    "slug": "SDC约束案例-156",
+    "title": "SDC约束案例 8",
+    "summary": "SDC约束案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "easy",
+    "tags": [
+      "SDC",
+      "时钟约束"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于SDC约束案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 66
+  },
+  {
+    "id": "case-157",
+    "slug": "步进电机相序案例-157",
+    "title": "步进电机相序案例 8",
+    "summary": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "hard",
+    "tags": [
+      "步进电机",
+      "四相八拍"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于步进电机相序案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 67
+  },
+  {
+    "id": "case-158",
+    "slug": "步进电机相序案例-158",
+    "title": "步进电机相序案例 8",
+    "summary": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "hard",
+    "tags": [
+      "步进电机",
+      "四相八拍"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于步进电机相序案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 68
+  },
+  {
+    "id": "case-159",
+    "slug": "电梯控制案例-159",
+    "title": "电梯控制案例 8",
+    "summary": "电梯控制案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "hard",
+    "tags": [
+      "电梯",
+      "方向控制"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于电梯控制案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 69
+  },
+  {
+    "id": "case-160",
+    "slug": "步进电机相序案例-160",
+    "title": "步进电机相序案例 8",
+    "summary": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "hard",
+    "tags": [
+      "步进电机",
+      "四相八拍"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于步进电机相序案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 30
+  },
+  {
+    "id": "case-161",
+    "slug": "逻辑函数化简案例-161",
+    "title": "逻辑函数化简案例 9",
+    "summary": "逻辑函数化简案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "hard",
+    "tags": [
+      "组合逻辑",
+      "逻辑代数"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于逻辑函数化简案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [
+      "kp-362",
+      "kp-25",
+      "kp-373"
+    ],
+    "estimatedMinutes": 31
+  },
+  {
+    "id": "case-162",
+    "slug": "卡诺图化简案例-162",
+    "title": "卡诺图化简案例 9",
+    "summary": "卡诺图化简案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "medium",
+    "tags": [
+      "卡诺图",
+      "化简"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于卡诺图化简案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [
+      "kp-385",
+      "kp-374",
+      "kp-378"
+    ],
+    "estimatedMinutes": 32
+  },
+  {
+    "id": "case-163",
+    "slug": "步进电机相序案例-163",
+    "title": "步进电机相序案例 9",
+    "summary": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "medium",
+    "tags": [
+      "步进电机",
+      "四相八拍"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于步进电机相序案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 33
+  },
+  {
+    "id": "case-164",
+    "slug": "数据选择器设计案例-164",
+    "title": "数据选择器设计案例 9",
+    "summary": "数据选择器设计案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "easy",
+    "tags": [
+      "数据选择器",
+      "MUX"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于数据选择器设计案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [
+      "kp-449",
+      "kp-448",
+      "kp-182"
+    ],
+    "estimatedMinutes": 34
+  },
+  {
+    "id": "case-165",
+    "slug": "加法器设计案例-165",
+    "title": "加法器设计案例 9",
+    "summary": "加法器设计案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "medium",
+    "tags": [
+      "加法器",
+      "全加器"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于加法器设计案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [
+      "kp-486",
+      "kp-481",
+      "kp-224"
+    ],
+    "estimatedMinutes": 35
+  },
+  {
+    "id": "case-166",
+    "slug": "步进电机相序案例-166",
+    "title": "步进电机相序案例 9",
+    "summary": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "easy",
+    "tags": [
+      "步进电机",
+      "四相八拍"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于步进电机相序案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 36
+  },
+  {
+    "id": "case-167",
+    "slug": "状态机设计案例-167",
+    "title": "状态机设计案例 9",
+    "summary": "状态机设计案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "hard",
+    "tags": [
+      "状态机",
+      "Moore",
+      "Mealy"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于状态机设计案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [
+      "kp-584",
+      "kp-589",
+      "kp-597"
+    ],
+    "estimatedMinutes": 37
+  },
+  {
+    "id": "case-168",
+    "slug": "序列检测器案例-168",
+    "title": "序列检测器案例 9",
+    "summary": "序列检测器案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "medium",
+    "tags": [
+      "序列检测器",
+      "状态图"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于序列检测器案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [
+      "kp-579",
+      "kp-585",
+      "kp-589"
+    ],
+    "estimatedMinutes": 38
+  },
+  {
+    "id": "case-169",
+    "slug": "步进电机相序案例-169",
+    "title": "步进电机相序案例 9",
+    "summary": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "easy",
+    "tags": [
+      "步进电机",
+      "四相八拍"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于步进电机相序案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 39
+  },
+  {
+    "id": "case-170",
+    "slug": "LED流水灯案例-170",
+    "title": "LED流水灯案例 9",
+    "summary": "LED流水灯案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "medium",
+    "tags": [
+      "LED",
+      "移位寄存器"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于LED流水灯案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 40
+  },
+  {
+    "id": "case-171",
+    "slug": "按键消抖案例-171",
+    "title": "按键消抖案例 9",
+    "summary": "按键消抖案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "medium",
+    "tags": [
+      "按键",
+      "消抖"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于按键消抖案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 41
+  },
+  {
+    "id": "case-172",
+    "slug": "步进电机相序案例-172",
+    "title": "步进电机相序案例 9",
+    "summary": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "medium",
+    "tags": [
+      "步进电机",
+      "四相八拍"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于步进电机相序案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 42
+  },
+  {
+    "id": "case-173",
+    "slug": "BDF原理图案例-173",
+    "title": "BDF原理图案例 9",
+    "summary": "BDF原理图案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "hard",
+    "tags": [
+      "BDF",
+      "原理图"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于BDF原理图案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 43
+  },
+  {
+    "id": "case-174",
+    "slug": "Quartus编译案例-174",
+    "title": "Quartus编译案例 9",
+    "summary": "Quartus编译案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "easy",
+    "tags": [
+      "Quartus",
+      "编译"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于Quartus编译案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 44
+  },
+  {
+    "id": "case-175",
+    "slug": "步进电机相序案例-175",
+    "title": "步进电机相序案例 9",
+    "summary": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "hard",
+    "tags": [
+      "步进电机",
+      "四相八拍"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于步进电机相序案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 45
+  },
+  {
+    "id": "case-176",
+    "slug": "SDC约束案例-176",
+    "title": "SDC约束案例 9",
+    "summary": "SDC约束案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "easy",
+    "tags": [
+      "SDC",
+      "时钟约束"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于SDC约束案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 46
+  },
+  {
+    "id": "case-177",
+    "slug": "仿真波形案例-177",
+    "title": "仿真波形案例 9",
+    "summary": "仿真波形案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "easy",
+    "tags": [
+      "仿真",
+      "波形"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于仿真波形案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 47
+  },
+  {
+    "id": "case-178",
+    "slug": "步进电机相序案例-178",
+    "title": "步进电机相序案例 9",
+    "summary": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "medium",
+    "tags": [
+      "步进电机",
+      "四相八拍"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于步进电机相序案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 48
+  },
+  {
+    "id": "case-179",
+    "slug": "电梯控制案例-179",
+    "title": "电梯控制案例 9",
+    "summary": "电梯控制案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "medium",
+    "tags": [
+      "电梯",
+      "方向控制"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于电梯控制案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 49
+  },
+  {
+    "id": "case-180",
+    "slug": "实验报告案例-180",
+    "title": "实验报告案例 9",
+    "summary": "实验报告案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "easy",
+    "tags": [
+      "实验报告",
+      "课程设计"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于实验报告案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 50
+  },
+  {
+    "id": "case-181",
+    "slug": "步进电机相序案例-181",
+    "title": "步进电机相序案例 10",
+    "summary": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "easy",
+    "tags": [
+      "步进电机",
+      "四相八拍"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于步进电机相序案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 51
+  },
+  {
+    "id": "case-182",
+    "slug": "卡诺图化简案例-182",
+    "title": "卡诺图化简案例 10",
+    "summary": "卡诺图化简案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "easy",
+    "tags": [
+      "卡诺图",
+      "化简"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于卡诺图化简案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [
+      "kp-361",
+      "kp-376",
+      "kp-32"
+    ],
+    "estimatedMinutes": 52
+  },
+  {
+    "id": "case-183",
+    "slug": "译码器设计案例-183",
+    "title": "译码器设计案例 10",
+    "summary": "译码器设计案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "easy",
+    "tags": [
+      "译码器",
+      "74LS138"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于译码器设计案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [
+      "kp-437",
+      "kp-159",
+      "kp-151"
+    ],
+    "estimatedMinutes": 53
+  },
+  {
+    "id": "case-184",
+    "slug": "步进电机相序案例-184",
+    "title": "步进电机相序案例 10",
+    "summary": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "easy",
+    "tags": [
+      "步进电机",
+      "四相八拍"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于步进电机相序案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 54
+  },
+  {
+    "id": "case-185",
+    "slug": "加法器设计案例-185",
+    "title": "加法器设计案例 10",
+    "summary": "加法器设计案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "medium",
+    "tags": [
+      "加法器",
+      "全加器"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于加法器设计案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [
+      "kp-215",
+      "kp-213",
+      "kp-487"
+    ],
+    "estimatedMinutes": 55
+  },
+  {
+    "id": "case-186",
+    "slug": "计数器设计案例-186",
+    "title": "计数器设计案例 10",
+    "summary": "计数器设计案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "medium",
+    "tags": [
+      "计数器",
+      "模N"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于计数器设计案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [
+      "kp-526",
+      "kp-285",
+      "kp-281"
+    ],
+    "estimatedMinutes": 56
+  },
+  {
+    "id": "case-187",
+    "slug": "步进电机相序案例-187",
+    "title": "步进电机相序案例 10",
+    "summary": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "medium",
+    "tags": [
+      "步进电机",
+      "四相八拍"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于步进电机相序案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 57
+  },
+  {
+    "id": "case-188",
+    "slug": "序列检测器案例-188",
+    "title": "序列检测器案例 10",
+    "summary": "序列检测器案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "easy",
+    "tags": [
+      "序列检测器",
+      "状态图"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于序列检测器案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [
+      "kp-596",
+      "kp-587",
+      "kp-585"
+    ],
+    "estimatedMinutes": 58
+  },
+  {
+    "id": "case-189",
+    "slug": "数码管显示案例-189",
+    "title": "数码管显示案例 10",
+    "summary": "数码管显示案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "medium",
+    "tags": [
+      "数码管",
+      "七段译码"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于数码管显示案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 59
+  },
+  {
+    "id": "case-190",
+    "slug": "步进电机相序案例-190",
+    "title": "步进电机相序案例 10",
+    "summary": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "hard",
+    "tags": [
+      "步进电机",
+      "四相八拍"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于步进电机相序案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 60
+  },
+  {
+    "id": "case-191",
+    "slug": "按键消抖案例-191",
+    "title": "按键消抖案例 10",
+    "summary": "按键消抖案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "easy",
+    "tags": [
+      "按键",
+      "消抖"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于按键消抖案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 61
+  },
+  {
+    "id": "case-192",
+    "slug": "分频器设计案例-192",
+    "title": "分频器设计案例 10",
+    "summary": "分频器设计案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "medium",
+    "tags": [
+      "分频",
+      "LPM_COUNTER"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于分频器设计案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [
+      "kp-257",
+      "kp-532",
+      "kp-280"
+    ],
+    "estimatedMinutes": 62
+  },
+  {
+    "id": "case-193",
+    "slug": "步进电机相序案例-193",
+    "title": "步进电机相序案例 10",
+    "summary": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "easy",
+    "tags": [
+      "步进电机",
+      "四相八拍"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于步进电机相序案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 63
+  },
+  {
+    "id": "case-194",
+    "slug": "Quartus编译案例-194",
+    "title": "Quartus编译案例 10",
+    "summary": "Quartus编译案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "medium",
+    "tags": [
+      "Quartus",
+      "编译"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于Quartus编译案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 64
+  },
+  {
+    "id": "case-195",
+    "slug": "引脚绑定案例-195",
+    "title": "引脚绑定案例 10",
+    "summary": "引脚绑定案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "easy",
+    "tags": [
+      "引脚",
+      "Pin Planner"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于引脚绑定案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 65
+  },
+  {
+    "id": "case-196",
+    "slug": "步进电机相序案例-196",
+    "title": "步进电机相序案例 10",
+    "summary": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "easy",
+    "tags": [
+      "步进电机",
+      "四相八拍"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于步进电机相序案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 66
+  },
+  {
+    "id": "case-197",
+    "slug": "仿真波形案例-197",
+    "title": "仿真波形案例 10",
+    "summary": "仿真波形案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "medium",
+    "tags": [
+      "仿真",
+      "波形"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于仿真波形案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 67
+  },
+  {
+    "id": "case-198",
+    "slug": "步进电机相序案例-198",
+    "title": "步进电机相序案例 10",
+    "summary": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "easy",
+    "tags": [
+      "步进电机",
+      "四相八拍"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于步进电机相序案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 68
+  },
+  {
+    "id": "case-199",
+    "slug": "步进电机相序案例-199",
+    "title": "步进电机相序案例 10",
+    "summary": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "easy",
+    "tags": [
+      "步进电机",
+      "四相八拍"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于步进电机相序案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 69
+  },
+  {
+    "id": "case-200",
+    "slug": "实验报告案例-200",
+    "title": "实验报告案例 10",
+    "summary": "实验报告案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "hard",
+    "tags": [
+      "实验报告",
+      "课程设计"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于实验报告案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 30
+  },
+  {
+    "id": "case-201",
+    "slug": "逻辑函数化简案例-201",
+    "title": "逻辑函数化简案例 11",
+    "summary": "逻辑函数化简案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "hard",
+    "tags": [
+      "组合逻辑",
+      "逻辑代数"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于逻辑函数化简案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [
+      "kp-382",
+      "kp-370",
+      "kp-19"
+    ],
+    "estimatedMinutes": 31
+  },
+  {
+    "id": "case-202",
+    "slug": "步进电机相序案例-202",
+    "title": "步进电机相序案例 11",
+    "summary": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "easy",
+    "tags": [
+      "步进电机",
+      "四相八拍"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于步进电机相序案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 32
+  },
+  {
+    "id": "case-203",
+    "slug": "译码器设计案例-203",
+    "title": "译码器设计案例 11",
+    "summary": "译码器设计案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "hard",
+    "tags": [
+      "译码器",
+      "74LS138"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于译码器设计案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [
+      "kp-167",
+      "kp-163",
+      "kp-444"
+    ],
+    "estimatedMinutes": 33
+  },
+  {
+    "id": "case-204",
+    "slug": "数据选择器设计案例-204",
+    "title": "数据选择器设计案例 11",
+    "summary": "数据选择器设计案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "medium",
+    "tags": [
+      "数据选择器",
+      "MUX"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于数据选择器设计案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [
+      "kp-207",
+      "kp-452",
+      "kp-185"
+    ],
+    "estimatedMinutes": 34
+  },
+  {
+    "id": "case-205",
+    "slug": "步进电机相序案例-205",
+    "title": "步进电机相序案例 11",
+    "summary": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "easy",
+    "tags": [
+      "步进电机",
+      "四相八拍"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于步进电机相序案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 35
+  },
+  {
+    "id": "case-206",
+    "slug": "计数器设计案例-206",
+    "title": "计数器设计案例 11",
+    "summary": "计数器设计案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "easy",
+    "tags": [
+      "计数器",
+      "模N"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于计数器设计案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [
+      "kp-272",
+      "kp-261",
+      "kp-525"
+    ],
+    "estimatedMinutes": 36
+  },
+  {
+    "id": "case-207",
+    "slug": "状态机设计案例-207",
+    "title": "状态机设计案例 11",
+    "summary": "状态机设计案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "easy",
+    "tags": [
+      "状态机",
+      "Moore",
+      "Mealy"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于状态机设计案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [
+      "kp-592",
+      "kp-585",
+      "kp-586"
+    ],
+    "estimatedMinutes": 37
+  },
+  {
+    "id": "case-208",
+    "slug": "步进电机相序案例-208",
+    "title": "步进电机相序案例 11",
+    "summary": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "hard",
+    "tags": [
+      "步进电机",
+      "四相八拍"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于步进电机相序案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 38
+  },
+  {
+    "id": "case-209",
+    "slug": "数码管显示案例-209",
+    "title": "数码管显示案例 11",
+    "summary": "数码管显示案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "medium",
+    "tags": [
+      "数码管",
+      "七段译码"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于数码管显示案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 39
+  },
+  {
+    "id": "case-210",
+    "slug": "LED流水灯案例-210",
+    "title": "LED流水灯案例 11",
+    "summary": "LED流水灯案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "hard",
+    "tags": [
+      "LED",
+      "移位寄存器"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于LED流水灯案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 40
+  },
+  {
+    "id": "case-211",
+    "slug": "步进电机相序案例-211",
+    "title": "步进电机相序案例 11",
+    "summary": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "easy",
+    "tags": [
+      "步进电机",
+      "四相八拍"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于步进电机相序案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 41
+  },
+  {
+    "id": "case-212",
+    "slug": "分频器设计案例-212",
+    "title": "分频器设计案例 11",
+    "summary": "分频器设计案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "easy",
+    "tags": [
+      "分频",
+      "LPM_COUNTER"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于分频器设计案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [
+      "kp-524",
+      "kp-257",
+      "kp-274"
+    ],
+    "estimatedMinutes": 42
+  },
+  {
+    "id": "case-213",
+    "slug": "BDF原理图案例-213",
+    "title": "BDF原理图案例 11",
+    "summary": "BDF原理图案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "hard",
+    "tags": [
+      "BDF",
+      "原理图"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于BDF原理图案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 43
+  },
+  {
+    "id": "case-214",
+    "slug": "步进电机相序案例-214",
+    "title": "步进电机相序案例 11",
+    "summary": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "medium",
+    "tags": [
+      "步进电机",
+      "四相八拍"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于步进电机相序案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 44
+  },
+  {
+    "id": "case-215",
+    "slug": "引脚绑定案例-215",
+    "title": "引脚绑定案例 11",
+    "summary": "引脚绑定案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "hard",
+    "tags": [
+      "引脚",
+      "Pin Planner"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于引脚绑定案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 45
+  },
+  {
+    "id": "case-216",
+    "slug": "SDC约束案例-216",
+    "title": "SDC约束案例 11",
+    "summary": "SDC约束案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "hard",
+    "tags": [
+      "SDC",
+      "时钟约束"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于SDC约束案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 46
+  },
+  {
+    "id": "case-217",
+    "slug": "步进电机相序案例-217",
+    "title": "步进电机相序案例 11",
+    "summary": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "easy",
+    "tags": [
+      "步进电机",
+      "四相八拍"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于步进电机相序案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 47
+  },
+  {
+    "id": "case-218",
+    "slug": "步进电机相序案例-218",
+    "title": "步进电机相序案例 11",
+    "summary": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "hard",
+    "tags": [
+      "步进电机",
+      "四相八拍"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于步进电机相序案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 48
+  },
+  {
+    "id": "case-219",
+    "slug": "电梯控制案例-219",
+    "title": "电梯控制案例 11",
+    "summary": "电梯控制案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "hard",
+    "tags": [
+      "电梯",
+      "方向控制"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于电梯控制案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 49
+  },
+  {
+    "id": "case-220",
+    "slug": "步进电机相序案例-220",
+    "title": "步进电机相序案例 11",
+    "summary": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "medium",
+    "tags": [
+      "步进电机",
+      "四相八拍"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于步进电机相序案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 50
+  },
+  {
+    "id": "case-221",
+    "slug": "逻辑函数化简案例-221",
+    "title": "逻辑函数化简案例 12",
+    "summary": "逻辑函数化简案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "easy",
+    "tags": [
+      "组合逻辑",
+      "逻辑代数"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于逻辑函数化简案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [
+      "kp-23",
+      "kp-24",
+      "kp-22"
+    ],
+    "estimatedMinutes": 51
+  },
+  {
+    "id": "case-222",
+    "slug": "卡诺图化简案例-222",
+    "title": "卡诺图化简案例 12",
+    "summary": "卡诺图化简案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "medium",
+    "tags": [
+      "卡诺图",
+      "化简"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于卡诺图化简案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [
+      "kp-384",
+      "kp-375",
+      "kp-385"
+    ],
+    "estimatedMinutes": 52
+  },
+  {
+    "id": "case-223",
+    "slug": "步进电机相序案例-223",
+    "title": "步进电机相序案例 12",
+    "summary": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "hard",
+    "tags": [
+      "步进电机",
+      "四相八拍"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于步进电机相序案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 53
+  },
+  {
+    "id": "case-224",
+    "slug": "数据选择器设计案例-224",
+    "title": "数据选择器设计案例 12",
+    "summary": "数据选择器设计案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "medium",
+    "tags": [
+      "数据选择器",
+      "MUX"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于数据选择器设计案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [
+      "kp-198",
+      "kp-208",
+      "kp-207"
+    ],
+    "estimatedMinutes": 54
+  },
+  {
+    "id": "case-225",
+    "slug": "加法器设计案例-225",
+    "title": "加法器设计案例 12",
+    "summary": "加法器设计案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "easy",
+    "tags": [
+      "加法器",
+      "全加器"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于加法器设计案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [
+      "kp-482",
+      "kp-240",
+      "kp-235"
+    ],
+    "estimatedMinutes": 55
+  },
+  {
+    "id": "case-226",
+    "slug": "步进电机相序案例-226",
+    "title": "步进电机相序案例 12",
+    "summary": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "easy",
+    "tags": [
+      "步进电机",
+      "四相八拍"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于步进电机相序案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 56
+  },
+  {
+    "id": "case-227",
+    "slug": "状态机设计案例-227",
+    "title": "状态机设计案例 12",
+    "summary": "状态机设计案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "easy",
+    "tags": [
+      "状态机",
+      "Moore",
+      "Mealy"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于状态机设计案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [
+      "kp-597",
+      "kp-592",
+      "kp-593"
+    ],
+    "estimatedMinutes": 57
+  },
+  {
+    "id": "case-228",
+    "slug": "序列检测器案例-228",
+    "title": "序列检测器案例 12",
+    "summary": "序列检测器案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "easy",
+    "tags": [
+      "序列检测器",
+      "状态图"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于序列检测器案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [
+      "kp-596",
+      "kp-597",
+      "kp-584"
+    ],
+    "estimatedMinutes": 58
+  },
+  {
+    "id": "case-229",
+    "slug": "步进电机相序案例-229",
+    "title": "步进电机相序案例 12",
+    "summary": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "easy",
+    "tags": [
+      "步进电机",
+      "四相八拍"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于步进电机相序案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 59
+  },
+  {
+    "id": "case-230",
+    "slug": "LED流水灯案例-230",
+    "title": "LED流水灯案例 12",
+    "summary": "LED流水灯案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "hard",
+    "tags": [
+      "LED",
+      "移位寄存器"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于LED流水灯案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 60
+  },
+  {
+    "id": "case-231",
+    "slug": "按键消抖案例-231",
+    "title": "按键消抖案例 12",
+    "summary": "按键消抖案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "medium",
+    "tags": [
+      "按键",
+      "消抖"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于按键消抖案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 61
+  },
+  {
+    "id": "case-232",
+    "slug": "步进电机相序案例-232",
+    "title": "步进电机相序案例 12",
+    "summary": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "easy",
+    "tags": [
+      "步进电机",
+      "四相八拍"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于步进电机相序案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 62
+  },
+  {
+    "id": "case-233",
+    "slug": "BDF原理图案例-233",
+    "title": "BDF原理图案例 12",
+    "summary": "BDF原理图案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "medium",
+    "tags": [
+      "BDF",
+      "原理图"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于BDF原理图案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 63
+  },
+  {
+    "id": "case-234",
+    "slug": "Quartus编译案例-234",
+    "title": "Quartus编译案例 12",
+    "summary": "Quartus编译案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "medium",
+    "tags": [
+      "Quartus",
+      "编译"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于Quartus编译案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 64
+  },
+  {
+    "id": "case-235",
+    "slug": "步进电机相序案例-235",
+    "title": "步进电机相序案例 12",
+    "summary": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "medium",
+    "tags": [
+      "步进电机",
+      "四相八拍"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于步进电机相序案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 65
+  },
+  {
+    "id": "case-236",
+    "slug": "SDC约束案例-236",
+    "title": "SDC约束案例 12",
+    "summary": "SDC约束案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "easy",
+    "tags": [
+      "SDC",
+      "时钟约束"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于SDC约束案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 66
+  },
+  {
+    "id": "case-237",
+    "slug": "仿真波形案例-237",
+    "title": "仿真波形案例 12",
+    "summary": "仿真波形案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "medium",
+    "tags": [
+      "仿真",
+      "波形"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于仿真波形案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 67
+  },
+  {
+    "id": "case-238",
+    "slug": "步进电机相序案例-238",
+    "title": "步进电机相序案例 12",
+    "summary": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "medium",
+    "tags": [
+      "步进电机",
+      "四相八拍"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于步进电机相序案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 68
+  },
+  {
+    "id": "case-239",
+    "slug": "电梯控制案例-239",
+    "title": "电梯控制案例 12",
+    "summary": "电梯控制案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "hard",
+    "tags": [
+      "电梯",
+      "方向控制"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于电梯控制案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 69
+  },
+  {
+    "id": "case-240",
+    "slug": "实验报告案例-240",
+    "title": "实验报告案例 12",
+    "summary": "实验报告案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "medium",
+    "tags": [
+      "实验报告",
+      "课程设计"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于实验报告案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 30
+  },
+  {
+    "id": "case-241",
+    "slug": "步进电机相序案例-241",
+    "title": "步进电机相序案例 13",
+    "summary": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "hard",
+    "tags": [
+      "步进电机",
+      "四相八拍"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于步进电机相序案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 31
+  },
+  {
+    "id": "case-242",
+    "slug": "卡诺图化简案例-242",
+    "title": "卡诺图化简案例 13",
+    "summary": "卡诺图化简案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "medium",
+    "tags": [
+      "卡诺图",
+      "化简"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于卡诺图化简案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [
+      "kp-26",
+      "kp-382",
+      "kp-365"
+    ],
+    "estimatedMinutes": 32
+  },
+  {
+    "id": "case-243",
+    "slug": "译码器设计案例-243",
+    "title": "译码器设计案例 13",
+    "summary": "译码器设计案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "medium",
+    "tags": [
+      "译码器",
+      "74LS138"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于译码器设计案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [
+      "kp-439",
+      "kp-431",
+      "kp-161"
+    ],
+    "estimatedMinutes": 33
+  },
+  {
+    "id": "case-244",
+    "slug": "步进电机相序案例-244",
+    "title": "步进电机相序案例 13",
+    "summary": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "medium",
+    "tags": [
+      "步进电机",
+      "四相八拍"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于步进电机相序案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 34
+  },
+  {
+    "id": "case-245",
+    "slug": "加法器设计案例-245",
+    "title": "加法器设计案例 13",
+    "summary": "加法器设计案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "medium",
+    "tags": [
+      "加法器",
+      "全加器"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于加法器设计案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [
+      "kp-215",
+      "kp-239",
+      "kp-478"
+    ],
+    "estimatedMinutes": 35
+  },
+  {
+    "id": "case-246",
+    "slug": "计数器设计案例-246",
+    "title": "计数器设计案例 13",
+    "summary": "计数器设计案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "medium",
+    "tags": [
+      "计数器",
+      "模N"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于计数器设计案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [
+      "kp-277",
+      "kp-534",
+      "kp-261"
+    ],
+    "estimatedMinutes": 36
+  },
+  {
+    "id": "case-247",
+    "slug": "步进电机相序案例-247",
+    "title": "步进电机相序案例 13",
+    "summary": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "hard",
+    "tags": [
+      "步进电机",
+      "四相八拍"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于步进电机相序案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 37
+  },
+  {
+    "id": "case-248",
+    "slug": "序列检测器案例-248",
+    "title": "序列检测器案例 13",
+    "summary": "序列检测器案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "easy",
+    "tags": [
+      "序列检测器",
+      "状态图"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于序列检测器案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [
+      "kp-584",
+      "kp-593",
+      "kp-594"
+    ],
+    "estimatedMinutes": 38
+  },
+  {
+    "id": "case-249",
+    "slug": "数码管显示案例-249",
+    "title": "数码管显示案例 13",
+    "summary": "数码管显示案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "easy",
+    "tags": [
+      "数码管",
+      "七段译码"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于数码管显示案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 39
+  },
+  {
+    "id": "case-250",
+    "slug": "步进电机相序案例-250",
+    "title": "步进电机相序案例 13",
+    "summary": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "difficulty": "medium",
+    "tags": [
+      "步进电机",
+      "四相八拍"
+    ],
+    "backgroundMarkdown": "## 背景\n\n本案例属于步进电机相序案例方向，通过实际设计巩固相关知识点。",
+    "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
+    "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
+    "knowledgePoints": [],
+    "estimatedMinutes": 40
   }
 ]

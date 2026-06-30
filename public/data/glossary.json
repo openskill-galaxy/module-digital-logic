@@ -2014,5 +2014,641 @@
     "aliases": [
       "DE2 Board"
     ]
+  },
+  {
+    "id": "g-253",
+    "term": "JTAG链",
+    "definition": "JTAG链的数字电路/FPGA相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-254",
+    "term": "AS编程",
+    "definition": "AS编程的数字电路/FPGA相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-255",
+    "term": "SOF文件",
+    "definition": "SOF文件的数字电路/FPGA相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-256",
+    "term": "POF文件",
+    "definition": "POF文件的数字电路/FPGA相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-257",
+    "term": "TimeQuest",
+    "definition": "TimeQuest的数字电路/FPGA相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-258",
+    "term": "Fmax",
+    "definition": "Fmax的数字电路/FPGA相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-259",
+    "term": "slack",
+    "definition": "slack的数字电路/FPGA相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-260",
+    "term": "critical path",
+    "definition": "critical path的数字电路/FPGA相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-261",
+    "term": "setup slack",
+    "definition": "setup slack的数字电路/FPGA相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-262",
+    "term": "hold slack",
+    "definition": "hold slack的数字电路/FPGA相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-263",
+    "term": "clock skew",
+    "definition": "clock skew的数字电路/FPGA相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-264",
+    "term": "false path",
+    "definition": "false path的数字电路/FPGA相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-265",
+    "term": "multicycle path",
+    "definition": "multicycle path的数字电路/FPGA相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-266",
+    "term": "格雷码计数器",
+    "definition": "格雷码计数器的数字电路/FPGA相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-267",
+    "term": "约翰逊计数器",
+    "definition": "约翰逊计数器的数字电路/FPGA相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-268",
+    "term": "LFSR",
+    "definition": "LFSR的数字电路/FPGA相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-269",
+    "term": "CRC校验",
+    "definition": "CRC校验的数字电路/FPGA相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-270",
+    "term": "汉明码",
+    "definition": "汉明码的数字电路/FPGA相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-271",
+    "term": "奇偶校验位",
+    "definition": "奇偶校验位的数字电路/FPGA相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-272",
+    "term": "校验矩阵",
+    "definition": "校验矩阵的数字电路/FPGA相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-273",
+    "term": "生成矩阵",
+    "definition": "生成矩阵的数字电路/FPGA相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-274",
+    "term": "码距",
+    "definition": "码距的数字电路/FPGA相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-275",
+    "term": "纠错能力",
+    "definition": "纠错能力的数字电路/FPGA相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-276",
+    "term": "电梯控制板",
+    "definition": "电梯控制板的数字电路/FPGA相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-277",
+    "term": "ULN2003",
+    "definition": "ULN2003的数字电路/FPGA相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-278",
+    "term": "四相五线",
+    "definition": "四相五线的数字电路/FPGA相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-279",
+    "term": "两相四线",
+    "definition": "两相四线的数字电路/FPGA相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-280",
+    "term": "微步驱动",
+    "definition": "微步驱动的数字电路/FPGA相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-281",
+    "term": "步距角",
+    "definition": "步距角的数字电路/FPGA相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-282",
+    "term": "保持转矩",
+    "definition": "保持转矩的数字电路/FPGA相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-283",
+    "term": "相电流",
+    "definition": "相电流的数字电路/FPGA相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-284",
+    "term": "楼层传感器",
+    "definition": "楼层传感器的数字电路/FPGA相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-285",
+    "term": "限位开关",
+    "definition": "限位开关的数字电路/FPGA相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-286",
+    "term": "光电传感器",
+    "definition": "光电传感器的数字电路/FPGA相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-287",
+    "term": "七段数码管",
+    "definition": "七段数码管的数字电路/FPGA相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-288",
+    "term": "共阴极",
+    "definition": "共阴极的数字电路/FPGA相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-289",
+    "term": "共阳极",
+    "definition": "共阳极的数字电路/FPGA相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-290",
+    "term": "段选",
+    "definition": "段选的数字电路/FPGA相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-291",
+    "term": "位选",
+    "definition": "位选的数字电路/FPGA相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-292",
+    "term": "动态扫描",
+    "definition": "动态扫描的数字电路/FPGA相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-293",
+    "term": "刷新率",
+    "definition": "刷新率的数字电路/FPGA相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-294",
+    "term": "按键矩阵",
+    "definition": "按键矩阵的数字电路/FPGA相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-295",
+    "term": "独立按键",
+    "definition": "独立按键的数字电路/FPGA相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-296",
+    "term": "拨码开关",
+    "definition": "拨码开关的数字电路/FPGA相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-297",
+    "term": "LED阵列",
+    "definition": "LED阵列的数字电路/FPGA相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-298",
+    "term": "RGB LED",
+    "definition": "RGB LED的数字电路/FPGA相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-299",
+    "term": "蜂鸣器",
+    "definition": "蜂鸣器的数字电路/FPGA相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-300",
+    "term": "UART",
+    "definition": "UART的数字电路/FPGA相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-301",
+    "term": "SPI",
+    "definition": "SPI的数字电路/FPGA相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-302",
+    "term": "I2C",
+    "definition": "I2C的数字电路/FPGA相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-303",
+    "term": "PWM",
+    "definition": "PWM的数字电路/FPGA相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-304",
+    "term": "DDS",
+    "definition": "DDS的数字电路/FPGA相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-305",
+    "term": "EP2C35",
+    "definition": "EP2C35的数字电路/FPGA相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-306",
+    "term": "EPCS16",
+    "definition": "EPCS16的数字电路/FPGA相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-307",
+    "term": "QSF文件",
+    "definition": "QSF文件的数字电路/FPGA相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-308",
+    "term": "QPF文件",
+    "definition": "QPF文件的数字电路/FPGA相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-309",
+    "term": "TCL脚本",
+    "definition": "TCL脚本的数字电路/FPGA相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-310",
+    "term": "静态冒险",
+    "definition": "静态冒险的数字电路相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-311",
+    "term": "动态冒险",
+    "definition": "动态冒险的数字电路相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-312",
+    "term": "冗余项",
+    "definition": "冗余项的数字电路相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-313",
+    "term": "选通脉冲",
+    "definition": "选通脉冲的数字电路相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-314",
+    "term": "特征方程",
+    "definition": "特征方程的数字电路相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-315",
+    "term": "驱动表",
+    "definition": "驱动表的数字电路相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-316",
+    "term": "状态转换图",
+    "definition": "状态转换图的数字电路相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-317",
+    "term": "状态转换表",
+    "definition": "状态转换表的数字电路相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-318",
+    "term": "有效状态",
+    "definition": "有效状态的数字电路相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-319",
+    "term": "无效状态",
+    "definition": "无效状态的数字电路相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-320",
+    "term": "自启动能力",
+    "definition": "自启动能力的数字电路相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-321",
+    "term": "模值",
+    "definition": "模值的数字电路相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-322",
+    "term": "同步清零",
+    "definition": "同步清零的数字电路相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-323",
+    "term": "同步置数",
+    "definition": "同步置数的数字电路相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-324",
+    "term": "异步清零",
+    "definition": "异步清零的数字电路相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-325",
+    "term": "异步置数",
+    "definition": "异步置数的数字电路相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-326",
+    "term": "进位输出",
+    "definition": "进位输出的数字电路相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-327",
+    "term": "借位输出",
+    "definition": "借位输出的数字电路相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-328",
+    "term": "使能端",
+    "definition": "使能端的数字电路相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-329",
+    "term": "片选端",
+    "definition": "片选端的数字电路相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-330",
+    "term": "控制线",
+    "definition": "控制线的数字电路相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-331",
+    "term": "存取时间",
+    "definition": "存取时间的数字电路相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-332",
+    "term": "周期时间",
+    "definition": "周期时间的数字电路相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-333",
+    "term": "位宽",
+    "definition": "位宽的数字电路相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-334",
+    "term": "地址空间",
+    "definition": "地址空间的数字电路相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-335",
+    "term": "存储映射",
+    "definition": "存储映射的数字电路相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-336",
+    "term": "直接映射",
+    "definition": "直接映射的数字电路相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-337",
+    "term": "全相联映射",
+    "definition": "全相联映射的数字电路相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-338",
+    "term": "组相联映射",
+    "definition": "组相联映射的数字电路相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-339",
+    "term": "替换策略",
+    "definition": "替换策略的数字电路相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-340",
+    "term": "写回法",
+    "definition": "写回法的数字电路相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-341",
+    "term": "写直达法",
+    "definition": "写直达法的数字电路相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-342",
+    "term": "Cache命中",
+    "definition": "Cache命中的数字电路相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-343",
+    "term": "Cache缺失",
+    "definition": "Cache缺失的数字电路相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-344",
+    "term": "命中率",
+    "definition": "命中率的数字电路相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-345",
+    "term": "缺失率",
+    "definition": "缺失率的数字电路相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-346",
+    "term": "块大小",
+    "definition": "块大小的数字电路相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-347",
+    "term": "总线宽度",
+    "definition": "总线宽度的数字电路相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-348",
+    "term": "带宽",
+    "definition": "带宽的数字电路相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-349",
+    "term": "延迟",
+    "definition": "延迟的数字电路相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-350",
+    "term": "吞吐量",
+    "definition": "吞吐量的数字电路相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-351",
+    "term": "并行处理",
+    "definition": "并行处理的数字电路相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-352",
+    "term": "数据相关",
+    "definition": "数据相关的数字电路相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-353",
+    "term": "控制相关",
+    "definition": "控制相关的数字电路相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-354",
+    "term": "资源冲突",
+    "definition": "资源冲突的数字电路相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-355",
+    "term": "冒险检测",
+    "definition": "冒险检测的数字电路相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-356",
+    "term": "前推技术",
+    "definition": "前推技术的数字电路相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-357",
+    "term": "分支预测",
+    "definition": "分支预测的数字电路相关定义",
+    "aliases": []
+  },
+  {
+    "id": "g-358",
+    "term": "乱序执行",
+    "definition": "乱序执行的数字电路相关定义",
+    "aliases": []
   }
 ]

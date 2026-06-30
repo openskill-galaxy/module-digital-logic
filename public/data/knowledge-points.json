@@ -14465,5 +14465,3596 @@
       "case-35"
     ],
     "glossary": []
+  },
+  {
+    "id": "kp-621",
+    "slug": "位权展开法",
+    "title": "位权展开法",
+    "summary": "位权展开法是数字逻辑的重要知识点。",
+    "courseId": "course-1",
+    "tags": [
+      "位权展开法"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 位权展开法\n\n位权展开法的核心概念与要点。\n\n### 定义\n\n位权展开法的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-004838",
+      "dl-q-003643",
+      "dl-q-004123"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-622",
+    "slug": "十六进制与二进制快速转换",
+    "title": "十六进制与二进制快速转换",
+    "summary": "十六进制与二进制快速转换是数字逻辑的重要知识点。",
+    "courseId": "course-1",
+    "tags": [
+      "十六进制与二进制快速转换"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 十六进制与二进制快速转换\n\n十六进制与二进制快速转换的核心概念与要点。\n\n### 定义\n\n十六进制与二进制快速转换的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-004595",
+      "dl-q-001762",
+      "dl-q-004625"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-623",
+    "slug": "8421BCD加法修正",
+    "title": "8421BCD加法修正",
+    "summary": "8421BCD加法修正是数字逻辑的重要知识点。",
+    "courseId": "course-1",
+    "tags": [
+      "8421BCD加法修正"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 8421BCD加法修正\n\n8421BCD加法修正的核心概念与要点。\n\n### 定义\n\n8421BCD加法修正的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-002770",
+      "dl-q-000737",
+      "dl-q-002609"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-624",
+    "slug": "余3码",
+    "title": "余3码",
+    "summary": "余3码是数字逻辑的重要知识点。",
+    "courseId": "course-1",
+    "tags": [
+      "余3码"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 余3码\n\n余3码的核心概念与要点。\n\n### 定义\n\n余3码的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-000299",
+      "dl-q-002597",
+      "dl-q-004536"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-625",
+    "slug": "ASCII编码表",
+    "title": "ASCII编码表",
+    "summary": "ASCII编码表是数字逻辑的重要知识点。",
+    "courseId": "course-1",
+    "tags": [
+      "ASCII编码表"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## ASCII编码表\n\nASCII编码表的核心概念与要点。\n\n### 定义\n\nASCII编码表的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-003301",
+      "dl-q-003540",
+      "dl-q-003468"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-626",
+    "slug": "汉明距离",
+    "title": "汉明距离",
+    "summary": "汉明距离是数字逻辑的重要知识点。",
+    "courseId": "course-1",
+    "tags": [
+      "汉明距离"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 汉明距离\n\n汉明距离的核心概念与要点。\n\n### 定义\n\n汉明距离的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-003503",
+      "dl-q-002466",
+      "dl-q-001128"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-627",
+    "slug": "循环码",
+    "title": "循环码",
+    "summary": "循环码是数字逻辑的重要知识点。",
+    "courseId": "course-1",
+    "tags": [
+      "循环码"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 循环码\n\n循环码的核心概念与要点。\n\n### 定义\n\n循环码的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-000894",
+      "dl-q-001205",
+      "dl-q-002226"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-628",
+    "slug": "校验位计算",
+    "title": "校验位计算",
+    "summary": "校验位计算是数字逻辑的重要知识点。",
+    "courseId": "course-1",
+    "tags": [
+      "校验位计算"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 校验位计算\n\n校验位计算的核心概念与要点。\n\n### 定义\n\n校验位计算的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-003738",
+      "dl-q-001274",
+      "dl-q-001377"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-629",
+    "slug": "补码溢出检测",
+    "title": "补码溢出检测",
+    "summary": "补码溢出检测是数字逻辑的重要知识点。",
+    "courseId": "course-1",
+    "tags": [
+      "补码溢出检测"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 补码溢出检测\n\n补码溢出检测的核心概念与要点。\n\n### 定义\n\n补码溢出检测的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-000409",
+      "dl-q-003045",
+      "dl-q-000962"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-630",
+    "slug": "双进位法",
+    "title": "双进位法",
+    "summary": "双进位法是数字逻辑的重要知识点。",
+    "courseId": "course-1",
+    "tags": [
+      "双进位法"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 双进位法\n\n双进位法的核心概念与要点。\n\n### 定义\n\n双进位法的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-002679",
+      "dl-q-001565",
+      "dl-q-002066"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-631",
+    "slug": "对偶式求法",
+    "title": "对偶式求法",
+    "summary": "对偶式求法是数字逻辑的重要知识点。",
+    "courseId": "course-2",
+    "tags": [
+      "对偶式求法"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 对偶式求法\n\n对偶式求法的核心概念与要点。\n\n### 定义\n\n对偶式求法的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-001126",
+      "dl-q-001578",
+      "dl-q-004163"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-632",
+    "slug": "反演式求法",
+    "title": "反演式求法",
+    "summary": "反演式求法是数字逻辑的重要知识点。",
+    "courseId": "course-2",
+    "tags": [
+      "反演式求法"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 反演式求法\n\n反演式求法的核心概念与要点。\n\n### 定义\n\n反演式求法的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-004208",
+      "dl-q-004206",
+      "dl-q-004475"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-633",
+    "slug": "冗余项定理",
+    "title": "冗余项定理",
+    "summary": "冗余项定理是数字逻辑的重要知识点。",
+    "courseId": "course-2",
+    "tags": [
+      "冗余项定理"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 冗余项定理\n\n冗余项定理的核心概念与要点。\n\n### 定义\n\n冗余项定理的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-001521",
+      "dl-q-000030",
+      "dl-q-001468"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-634",
+    "slug": "一致性定理",
+    "title": "一致性定理",
+    "summary": "一致性定理是数字逻辑的重要知识点。",
+    "courseId": "course-2",
+    "tags": [
+      "一致性定理"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 一致性定理\n\n一致性定理的核心概念与要点。\n\n### 定义\n\n一致性定理的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-004971",
+      "dl-q-001044",
+      "dl-q-004890"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-635",
+    "slug": "卡诺图五变量",
+    "title": "卡诺图五变量",
+    "summary": "卡诺图五变量是数字逻辑的重要知识点。",
+    "courseId": "course-2",
+    "tags": [
+      "卡诺图五变量"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 卡诺图五变量\n\n卡诺图五变量的核心概念与要点。\n\n### 定义\n\n卡诺图五变量的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-004510",
+      "dl-q-004837",
+      "dl-q-000134"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-636",
+    "slug": "Q-M法化简",
+    "title": "Q-M法化简",
+    "summary": "Q-M法化简是数字逻辑的重要知识点。",
+    "courseId": "course-2",
+    "tags": [
+      "Q-M法化简"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## Q-M法化简\n\nQ-M法化简的核心概念与要点。\n\n### 定义\n\nQ-M法化简的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-003546",
+      "dl-q-000580",
+      "dl-q-004135"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-637",
+    "slug": "逻辑函数四种标准形式",
+    "title": "逻辑函数四种标准形式",
+    "summary": "逻辑函数四种标准形式是数字逻辑的重要知识点。",
+    "courseId": "course-2",
+    "tags": [
+      "逻辑函数四种标准形式"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 逻辑函数四种标准形式\n\n逻辑函数四种标准形式的核心概念与要点。\n\n### 定义\n\n逻辑函数四种标准形式的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-002032",
+      "dl-q-003154",
+      "dl-q-003537"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-638",
+    "slug": "异或展开式",
+    "title": "异或展开式",
+    "summary": "异或展开式是数字逻辑的重要知识点。",
+    "courseId": "course-2",
+    "tags": [
+      "异或展开式"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 异或展开式\n\n异或展开式的核心概念与要点。\n\n### 定义\n\n异或展开式的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-002005",
+      "dl-q-002379",
+      "dl-q-001323"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-639",
+    "slug": "最简与或式判断",
+    "title": "最简与或式判断",
+    "summary": "最简与或式判断是数字逻辑的重要知识点。",
+    "courseId": "course-2",
+    "tags": [
+      "最简与或式判断"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 最简与或式判断\n\n最简与或式判断的核心概念与要点。\n\n### 定义\n\n最简与或式判断的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-004387",
+      "dl-q-001608",
+      "dl-q-003582"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-640",
+    "slug": "最简或与式判断",
+    "title": "最简或与式判断",
+    "summary": "最简或与式判断是数字逻辑的重要知识点。",
+    "courseId": "course-2",
+    "tags": [
+      "最简或与式判断"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 最简或与式判断\n\n最简或与式判断的核心概念与要点。\n\n### 定义\n\n最简或与式判断的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-002350",
+      "dl-q-000244",
+      "dl-q-002679"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-641",
+    "slug": "组合逻辑自顶向下设计",
+    "title": "组合逻辑自顶向下设计",
+    "summary": "组合逻辑自顶向下设计是数字逻辑的重要知识点。",
+    "courseId": "course-4",
+    "tags": [
+      "组合逻辑自顶向下设计"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 组合逻辑自顶向下设计\n\n组合逻辑自顶向下设计的核心概念与要点。\n\n### 定义\n\n组合逻辑自顶向下设计的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-001215",
+      "dl-q-003151",
+      "dl-q-000317"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-642",
+    "slug": "组合逻辑自底向上设计",
+    "title": "组合逻辑自底向上设计",
+    "summary": "组合逻辑自底向上设计是数字逻辑的重要知识点。",
+    "courseId": "course-4",
+    "tags": [
+      "组合逻辑自底向上设计"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 组合逻辑自底向上设计\n\n组合逻辑自底向上设计的核心概念与要点。\n\n### 定义\n\n组合逻辑自底向上设计的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-001372",
+      "dl-q-002706",
+      "dl-q-003651"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-643",
+    "slug": "多输出函数化简",
+    "title": "多输出函数化简",
+    "summary": "多输出函数化简是数字逻辑的重要知识点。",
+    "courseId": "course-4",
+    "tags": [
+      "多输出函数化简"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 多输出函数化简\n\n多输出函数化简的核心概念与要点。\n\n### 定义\n\n多输出函数化简的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-002163",
+      "dl-q-000516",
+      "dl-q-001682"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-644",
+    "slug": "共用项提取",
+    "title": "共用项提取",
+    "summary": "共用项提取是数字逻辑的重要知识点。",
+    "courseId": "course-4",
+    "tags": [
+      "共用项提取"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 共用项提取\n\n共用项提取的核心概念与要点。\n\n### 定义\n\n共用项提取的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-003076",
+      "dl-q-002748",
+      "dl-q-003063"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-645",
+    "slug": "冒险三种类型",
+    "title": "冒险三种类型",
+    "summary": "冒险三种类型是数字逻辑的重要知识点。",
+    "courseId": "course-4",
+    "tags": [
+      "冒险三种类型"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 冒险三种类型\n\n冒险三种类型的核心概念与要点。\n\n### 定义\n\n冒险三种类型的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-004874",
+      "dl-q-004661",
+      "dl-q-001171"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-646",
+    "slug": "动态冒险消除",
+    "title": "动态冒险消除",
+    "summary": "动态冒险消除是数字逻辑的重要知识点。",
+    "courseId": "course-4",
+    "tags": [
+      "动态冒险消除"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 动态冒险消除\n\n动态冒险消除的核心概念与要点。\n\n### 定义\n\n动态冒险消除的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-002033",
+      "dl-q-000558",
+      "dl-q-001704"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-647",
+    "slug": "选通脉冲法",
+    "title": "选通脉冲法",
+    "summary": "选通脉冲法是数字逻辑的重要知识点。",
+    "courseId": "course-4",
+    "tags": [
+      "选通脉冲法"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 选通脉冲法\n\n选通脉冲法的核心概念与要点。\n\n### 定义\n\n选通脉冲法的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-003868",
+      "dl-q-002033",
+      "dl-q-001743"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-648",
+    "slug": "滤波电容法",
+    "title": "滤波电容法",
+    "summary": "滤波电容法是数字逻辑的重要知识点。",
+    "courseId": "course-4",
+    "tags": [
+      "滤波电容法"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 滤波电容法\n\n滤波电容法的核心概念与要点。\n\n### 定义\n\n滤波电容法的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-000430",
+      "dl-q-002668",
+      "dl-q-004936"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-649",
+    "slug": "多输出卡诺图",
+    "title": "多输出卡诺图",
+    "summary": "多输出卡诺图是数字逻辑的重要知识点。",
+    "courseId": "course-4",
+    "tags": [
+      "多输出卡诺图"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 多输出卡诺图\n\n多输出卡诺图的核心概念与要点。\n\n### 定义\n\n多输出卡诺图的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-001710",
+      "dl-q-000719",
+      "dl-q-003438"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-650",
+    "slug": "逻辑函数转换",
+    "title": "逻辑函数转换",
+    "summary": "逻辑函数转换是数字逻辑的重要知识点。",
+    "courseId": "course-4",
+    "tags": [
+      "逻辑函数转换"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 逻辑函数转换\n\n逻辑函数转换的核心概念与要点。\n\n### 定义\n\n逻辑函数转换的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-002210",
+      "dl-q-000518",
+      "dl-q-004295"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-651",
+    "slug": "触发器动态特性",
+    "title": "触发器动态特性",
+    "summary": "触发器动态特性是数字逻辑的重要知识点。",
+    "courseId": "course-8",
+    "tags": [
+      "触发器动态特性"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 触发器动态特性\n\n触发器动态特性的核心概念与要点。\n\n### 定义\n\n触发器动态特性的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-003297",
+      "dl-q-001208",
+      "dl-q-003791"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-652",
+    "slug": "触发器建立时间",
+    "title": "触发器建立时间",
+    "summary": "触发器建立时间是数字逻辑的重要知识点。",
+    "courseId": "course-8",
+    "tags": [
+      "触发器建立时间"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 触发器建立时间\n\n触发器建立时间的核心概念与要点。\n\n### 定义\n\n触发器建立时间的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-000109",
+      "dl-q-002958",
+      "dl-q-003102"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-653",
+    "slug": "触发器保持时间",
+    "title": "触发器保持时间",
+    "summary": "触发器保持时间是数字逻辑的重要知识点。",
+    "courseId": "course-8",
+    "tags": [
+      "触发器保持时间"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 触发器保持时间\n\n触发器保持时间的核心概念与要点。\n\n### 定义\n\n触发器保持时间的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-002809",
+      "dl-q-003139",
+      "dl-q-004620"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-654",
+    "slug": "触发器最大时钟频率",
+    "title": "触发器最大时钟频率",
+    "summary": "触发器最大时钟频率是数字逻辑的重要知识点。",
+    "courseId": "course-8",
+    "tags": [
+      "触发器最大时钟频率"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 触发器最大时钟频率\n\n触发器最大时钟频率的核心概念与要点。\n\n### 定义\n\n触发器最大时钟频率的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-001601",
+      "dl-q-004537",
+      "dl-q-004162"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-655",
+    "slug": "触发器异步清零时序",
+    "title": "触发器异步清零时序",
+    "summary": "触发器异步清零时序是数字逻辑的重要知识点。",
+    "courseId": "course-8",
+    "tags": [
+      "触发器异步清零时序"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 触发器异步清零时序\n\n触发器异步清零时序的核心概念与要点。\n\n### 定义\n\n触发器异步清零时序的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-001774",
+      "dl-q-001158",
+      "dl-q-000830"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-656",
+    "slug": "触发器功耗",
+    "title": "触发器功耗",
+    "summary": "触发器功耗是数字逻辑的重要知识点。",
+    "courseId": "course-8",
+    "tags": [
+      "触发器功耗"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 触发器功耗\n\n触发器功耗的核心概念与要点。\n\n### 定义\n\n触发器功耗的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-004728",
+      "dl-q-000742",
+      "dl-q-000189"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-657",
+    "slug": "触发器传输延迟",
+    "title": "触发器传输延迟",
+    "summary": "触发器传输延迟是数字逻辑的重要知识点。",
+    "courseId": "course-8",
+    "tags": [
+      "触发器传输延迟"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 触发器传输延迟\n\n触发器传输延迟的核心概念与要点。\n\n### 定义\n\n触发器传输延迟的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-003489",
+      "dl-q-000097",
+      "dl-q-000990"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-658",
+    "slug": "主从JK消除空翻",
+    "title": "主从JK消除空翻",
+    "summary": "主从JK消除空翻是数字逻辑的重要知识点。",
+    "courseId": "course-8",
+    "tags": [
+      "主从JK消除空翻"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 主从JK消除空翻\n\n主从JK消除空翻的核心概念与要点。\n\n### 定义\n\n主从JK消除空翻的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-002895",
+      "dl-q-003591",
+      "dl-q-004999"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-659",
+    "slug": "边沿D触发器内部结构",
+    "title": "边沿D触发器内部结构",
+    "summary": "边沿D触发器内部结构是数字逻辑的重要知识点。",
+    "courseId": "course-8",
+    "tags": [
+      "边沿D触发器内部结构"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 边沿D触发器内部结构\n\n边沿D触发器内部结构的核心概念与要点。\n\n### 定义\n\n边沿D触发器内部结构的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-001680",
+      "dl-q-001076",
+      "dl-q-000881"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-660",
+    "slug": "触发器功能比较",
+    "title": "触发器功能比较",
+    "summary": "触发器功能比较是数字逻辑的重要知识点。",
+    "courseId": "course-8",
+    "tags": [
+      "触发器功能比较"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 触发器功能比较\n\n触发器功能比较的核心概念与要点。\n\n### 定义\n\n触发器功能比较的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-002022",
+      "dl-q-003471",
+      "dl-q-001665"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-661",
+    "slug": "74LS160同步十进制",
+    "title": "74LS160同步十进制",
+    "summary": "74LS160同步十进制是数字逻辑的重要知识点。",
+    "courseId": "course-9",
+    "tags": [
+      "74LS160同步十进制"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 74LS160同步十进制\n\n74LS160同步十进制的核心概念与要点。\n\n### 定义\n\n74LS160同步十进制的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-000398",
+      "dl-q-004752",
+      "dl-q-002258"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-662",
+    "slug": "74LS163同步4位二进制",
+    "title": "74LS163同步4位二进制",
+    "summary": "74LS163同步4位二进制是数字逻辑的重要知识点。",
+    "courseId": "course-9",
+    "tags": [
+      "74LS163同步4位二进制"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 74LS163同步4位二进制\n\n74LS163同步4位二进制的核心概念与要点。\n\n### 定义\n\n74LS163同步4位二进制的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-003687",
+      "dl-q-003461",
+      "dl-q-000532"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-663",
+    "slug": "74LS190可逆十进制",
+    "title": "74LS190可逆十进制",
+    "summary": "74LS190可逆十进制是数字逻辑的重要知识点。",
+    "courseId": "course-9",
+    "tags": [
+      "74LS190可逆十进制"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 74LS190可逆十进制\n\n74LS190可逆十进制的核心概念与要点。\n\n### 定义\n\n74LS190可逆十进制的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-001124",
+      "dl-q-003020",
+      "dl-q-000237"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-664",
+    "slug": "74LS192双时钟可逆",
+    "title": "74LS192双时钟可逆",
+    "summary": "74LS192双时钟可逆是数字逻辑的重要知识点。",
+    "courseId": "course-9",
+    "tags": [
+      "74LS192双时钟可逆"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 74LS192双时钟可逆\n\n74LS192双时钟可逆的核心概念与要点。\n\n### 定义\n\n74LS192双时钟可逆的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-000199",
+      "dl-q-002100",
+      "dl-q-003891"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-665",
+    "slug": "计数器初始值设置",
+    "title": "计数器初始值设置",
+    "summary": "计数器初始值设置是数字逻辑的重要知识点。",
+    "courseId": "course-9",
+    "tags": [
+      "计数器初始值设置"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 计数器初始值设置\n\n计数器初始值设置的核心概念与要点。\n\n### 定义\n\n计数器初始值设置的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-001660",
+      "dl-q-004400",
+      "dl-q-003014"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-666",
+    "slug": "计数器使能控制",
+    "title": "计数器使能控制",
+    "summary": "计数器使能控制是数字逻辑的重要知识点。",
+    "courseId": "course-9",
+    "tags": [
+      "计数器使能控制"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 计数器使能控制\n\n计数器使能控制的核心概念与要点。\n\n### 定义\n\n计数器使能控制的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-004868",
+      "dl-q-000769",
+      "dl-q-003060"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-667",
+    "slug": "计数器级联进位",
+    "title": "计数器级联进位",
+    "summary": "计数器级联进位是数字逻辑的重要知识点。",
+    "courseId": "course-9",
+    "tags": [
+      "计数器级联进位"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 计数器级联进位\n\n计数器级联进位的核心概念与要点。\n\n### 定义\n\n计数器级联进位的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-004438",
+      "dl-q-004175",
+      "dl-q-004751"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-668",
+    "slug": "计数器预置数",
+    "title": "计数器预置数",
+    "summary": "计数器预置数是数字逻辑的重要知识点。",
+    "courseId": "course-9",
+    "tags": [
+      "计数器预置数"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 计数器预置数\n\n计数器预置数的核心概念与要点。\n\n### 定义\n\n计数器预置数的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-003189",
+      "dl-q-002388",
+      "dl-q-000586"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-669",
+    "slug": "分频比计算",
+    "title": "分频比计算",
+    "summary": "分频比计算是数字逻辑的重要知识点。",
+    "courseId": "course-9",
+    "tags": [
+      "分频比计算"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 分频比计算\n\n分频比计算的核心概念与要点。\n\n### 定义\n\n分频比计算的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-003577",
+      "dl-q-001543",
+      "dl-q-000499"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-670",
+    "slug": "等价状态判断",
+    "title": "等价状态判断",
+    "summary": "等价状态判断是数字逻辑的重要知识点。",
+    "courseId": "course-12",
+    "tags": [
+      "等价状态判断"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 等价状态判断\n\n等价状态判断的核心概念与要点。\n\n### 定义\n\n等价状态判断的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-004566",
+      "dl-q-003395",
+      "dl-q-003799"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-671",
+    "slug": "相容状态判断",
+    "title": "相容状态判断",
+    "summary": "相容状态判断是数字逻辑的重要知识点。",
+    "courseId": "course-12",
+    "tags": [
+      "相容状态判断"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 相容状态判断\n\n相容状态判断的核心概念与要点。\n\n### 定义\n\n相容状态判断的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-004568",
+      "dl-q-000076",
+      "dl-q-002787"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-672",
+    "slug": "隐含表法化简",
+    "title": "隐含表法化简",
+    "summary": "隐含表法化简是数字逻辑的重要知识点。",
+    "courseId": "course-12",
+    "tags": [
+      "隐含表法化简"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 隐含表法化简\n\n隐含表法化简的核心概念与要点。\n\n### 定义\n\n隐含表法化简的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-003641",
+      "dl-q-003475",
+      "dl-q-000515"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-673",
+    "slug": "分割法化简",
+    "title": "分割法化简",
+    "summary": "分割法化简是数字逻辑的重要知识点。",
+    "courseId": "course-12",
+    "tags": [
+      "分割法化简"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 分割法化简\n\n分割法化简的核心概念与要点。\n\n### 定义\n\n分割法化简的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-001611",
+      "dl-q-004850",
+      "dl-q-004112"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-674",
+    "slug": "状态分配三条原则",
+    "title": "状态分配三条原则",
+    "summary": "状态分配三条原则是数字逻辑的重要知识点。",
+    "courseId": "course-12",
+    "tags": [
+      "状态分配三条原则"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 状态分配三条原则\n\n状态分配三条原则的核心概念与要点。\n\n### 定义\n\n状态分配三条原则的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-001973",
+      "dl-q-002671",
+      "dl-q-003285"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-675",
+    "slug": "相邻编码",
+    "title": "相邻编码",
+    "summary": "相邻编码是数字逻辑的重要知识点。",
+    "courseId": "course-12",
+    "tags": [
+      "相邻编码"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 相邻编码\n\n相邻编码的核心概念与要点。\n\n### 定义\n\n相邻编码的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-003462",
+      "dl-q-001992",
+      "dl-q-004043"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-676",
+    "slug": "独热编码",
+    "title": "独热编码",
+    "summary": "独热编码是数字逻辑的重要知识点。",
+    "courseId": "course-12",
+    "tags": [
+      "独热编码"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 独热编码\n\n独热编码的核心概念与要点。\n\n### 定义\n\n独热编码的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-004330",
+      "dl-q-001836",
+      "dl-q-001624"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-677",
+    "slug": "二进制编码",
+    "title": "二进制编码",
+    "summary": "二进制编码是数字逻辑的重要知识点。",
+    "courseId": "course-12",
+    "tags": [
+      "二进制编码"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 二进制编码\n\n二进制编码的核心概念与要点。\n\n### 定义\n\n二进制编码的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-001423",
+      "dl-q-003269",
+      "dl-q-002773"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-678",
+    "slug": "未用状态处理",
+    "title": "未用状态处理",
+    "summary": "未用状态处理是数字逻辑的重要知识点。",
+    "courseId": "course-12",
+    "tags": [
+      "未用状态处理"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 未用状态处理\n\n未用状态处理的核心概念与要点。\n\n### 定义\n\n未用状态处理的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-001256",
+      "dl-q-000428",
+      "dl-q-002183"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-679",
+    "slug": "状态机输出编码",
+    "title": "状态机输出编码",
+    "summary": "状态机输出编码是数字逻辑的重要知识点。",
+    "courseId": "course-12",
+    "tags": [
+      "状态机输出编码"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 状态机输出编码\n\n状态机输出编码的核心概念与要点。\n\n### 定义\n\n状态机输出编码的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-001858",
+      "dl-q-002524",
+      "dl-q-004770"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-680",
+    "slug": "Quartus宏功能",
+    "title": "Quartus宏功能",
+    "summary": "Quartus宏功能是数字逻辑的重要知识点。",
+    "courseId": "course-16",
+    "tags": [
+      "Quartus宏功能"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## Quartus宏功能\n\nQuartus宏功能的核心概念与要点。\n\n### 定义\n\nQuartus宏功能的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-002946",
+      "dl-q-003525",
+      "dl-q-004540"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-681",
+    "slug": "QuartusIP目录",
+    "title": "QuartusIP目录",
+    "summary": "QuartusIP目录是数字逻辑的重要知识点。",
+    "courseId": "course-16",
+    "tags": [
+      "QuartusIP目录"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## QuartusIP目录\n\nQuartusIP目录的核心概念与要点。\n\n### 定义\n\nQuartusIP目录的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-001941",
+      "dl-q-004415",
+      "dl-q-001213"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-682",
+    "slug": "Quartus增量编译",
+    "title": "Quartus增量编译",
+    "summary": "Quartus增量编译是数字逻辑的重要知识点。",
+    "courseId": "course-16",
+    "tags": [
+      "Quartus增量编译"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## Quartus增量编译\n\nQuartus增量编译的核心概念与要点。\n\n### 定义\n\nQuartus增量编译的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-001871",
+      "dl-q-001244",
+      "dl-q-001862"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-683",
+    "slug": "Quartus时序约束向导",
+    "title": "Quartus时序约束向导",
+    "summary": "Quartus时序约束向导是数字逻辑的重要知识点。",
+    "courseId": "course-16",
+    "tags": [
+      "Quartus时序约束向导"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## Quartus时序约束向导\n\nQuartus时序约束向导的核心概念与要点。\n\n### 定义\n\nQuartus时序约束向导的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-003552",
+      "dl-q-001946",
+      "dl-q-003520"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-684",
+    "slug": "Quartus设计分区",
+    "title": "Quartus设计分区",
+    "summary": "Quartus设计分区是数字逻辑的重要知识点。",
+    "courseId": "course-16",
+    "tags": [
+      "Quartus设计分区"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## Quartus设计分区\n\nQuartus设计分区的核心概念与要点。\n\n### 定义\n\nQuartus设计分区的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-002217",
+      "dl-q-003574",
+      "dl-q-004968"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-685",
+    "slug": "QuartusLogicLock",
+    "title": "QuartusLogicLock",
+    "summary": "QuartusLogicLock是数字逻辑的重要知识点。",
+    "courseId": "course-16",
+    "tags": [
+      "QuartusLogicLock"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## QuartusLogicLock\n\nQuartusLogicLock的核心概念与要点。\n\n### 定义\n\nQuartusLogicLock的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-004740",
+      "dl-q-004154",
+      "dl-q-002347"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-686",
+    "slug": "Quartus早期时序估计",
+    "title": "Quartus早期时序估计",
+    "summary": "Quartus早期时序估计是数字逻辑的重要知识点。",
+    "courseId": "course-16",
+    "tags": [
+      "Quartus早期时序估计"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## Quartus早期时序估计\n\nQuartus早期时序估计的核心概念与要点。\n\n### 定义\n\nQuartus早期时序估计的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-000322",
+      "dl-q-002037",
+      "dl-q-001332"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-687",
+    "slug": "Quartus功耗分析",
+    "title": "Quartus功耗分析",
+    "summary": "Quartus功耗分析是数字逻辑的重要知识点。",
+    "courseId": "course-16",
+    "tags": [
+      "Quartus功耗分析"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## Quartus功耗分析\n\nQuartus功耗分析的核心概念与要点。\n\n### 定义\n\nQuartus功耗分析的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-004388",
+      "dl-q-002634",
+      "dl-q-000560"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-688",
+    "slug": "Quartus资源使用报告",
+    "title": "Quartus资源使用报告",
+    "summary": "Quartus资源使用报告是数字逻辑的重要知识点。",
+    "courseId": "course-16",
+    "tags": [
+      "Quartus资源使用报告"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## Quartus资源使用报告\n\nQuartus资源使用报告的核心概念与要点。\n\n### 定义\n\nQuartus资源使用报告的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-002654",
+      "dl-q-004482",
+      "dl-q-004171"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-689",
+    "slug": "Quartus适配优化",
+    "title": "Quartus适配优化",
+    "summary": "Quartus适配优化是数字逻辑的重要知识点。",
+    "courseId": "course-16",
+    "tags": [
+      "Quartus适配优化"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## Quartus适配优化\n\nQuartus适配优化的核心概念与要点。\n\n### 定义\n\nQuartus适配优化的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-002213",
+      "dl-q-002194",
+      "dl-q-004527"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-690",
+    "slug": "电梯6层控制",
+    "title": "电梯6层控制",
+    "summary": "电梯6层控制是数字逻辑的重要知识点。",
+    "courseId": "course-20",
+    "tags": [
+      "电梯6层控制"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 电梯6层控制\n\n电梯6层控制的核心概念与要点。\n\n### 定义\n\n电梯6层控制的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-004111",
+      "dl-q-001211",
+      "dl-q-004064"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-691",
+    "slug": "电梯请求优先级",
+    "title": "电梯请求优先级",
+    "summary": "电梯请求优先级是数字逻辑的重要知识点。",
+    "courseId": "course-20",
+    "tags": [
+      "电梯请求优先级"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 电梯请求优先级\n\n电梯请求优先级的核心概念与要点。\n\n### 定义\n\n电梯请求优先级的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-004652",
+      "dl-q-004115",
+      "dl-q-004417"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-692",
+    "slug": "电梯空闲待机",
+    "title": "电梯空闲待机",
+    "summary": "电梯空闲待机是数字逻辑的重要知识点。",
+    "courseId": "course-20",
+    "tags": [
+      "电梯空闲待机"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 电梯空闲待机\n\n电梯空闲待机的核心概念与要点。\n\n### 定义\n\n电梯空闲待机的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-003775",
+      "dl-q-002707",
+      "dl-q-004461"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-693",
+    "slug": "电梯超载检测",
+    "title": "电梯超载检测",
+    "summary": "电梯超载检测是数字逻辑的重要知识点。",
+    "courseId": "course-20",
+    "tags": [
+      "电梯超载检测"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 电梯超载检测\n\n电梯超载检测的核心概念与要点。\n\n### 定义\n\n电梯超载检测的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-002026",
+      "dl-q-002836",
+      "dl-q-004713"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-694",
+    "slug": "电梯紧急停止",
+    "title": "电梯紧急停止",
+    "summary": "电梯紧急停止是数字逻辑的重要知识点。",
+    "courseId": "course-20",
+    "tags": [
+      "电梯紧急停止"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 电梯紧急停止\n\n电梯紧急停止的核心概念与要点。\n\n### 定义\n\n电梯紧急停止的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-004837",
+      "dl-q-000346",
+      "dl-q-003053"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-695",
+    "slug": "电梯门安全光幕",
+    "title": "电梯门安全光幕",
+    "summary": "电梯门安全光幕是数字逻辑的重要知识点。",
+    "courseId": "course-20",
+    "tags": [
+      "电梯门安全光幕"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 电梯门安全光幕\n\n电梯门安全光幕的核心概念与要点。\n\n### 定义\n\n电梯门安全光幕的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-003048",
+      "dl-q-001913",
+      "dl-q-002479"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-696",
+    "slug": "电梯运行计时",
+    "title": "电梯运行计时",
+    "summary": "电梯运行计时是数字逻辑的重要知识点。",
+    "courseId": "course-20",
+    "tags": [
+      "电梯运行计时"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 电梯运行计时\n\n电梯运行计时的核心概念与要点。\n\n### 定义\n\n电梯运行计时的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-000081",
+      "dl-q-002782",
+      "dl-q-001399"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-697",
+    "slug": "电梯停靠延时",
+    "title": "电梯停靠延时",
+    "summary": "电梯停靠延时是数字逻辑的重要知识点。",
+    "courseId": "course-20",
+    "tags": [
+      "电梯停靠延时"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 电梯停靠延时\n\n电梯停靠延时的核心概念与要点。\n\n### 定义\n\n电梯停靠延时的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-001651",
+      "dl-q-003511",
+      "dl-q-001393"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-698",
+    "slug": "电梯方向优先调度",
+    "title": "电梯方向优先调度",
+    "summary": "电梯方向优先调度是数字逻辑的重要知识点。",
+    "courseId": "course-20",
+    "tags": [
+      "电梯方向优先调度"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 电梯方向优先调度\n\n电梯方向优先调度的核心概念与要点。\n\n### 定义\n\n电梯方向优先调度的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-002370",
+      "dl-q-003807",
+      "dl-q-004264"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-699",
+    "slug": "电梯最短路径调度",
+    "title": "电梯最短路径调度",
+    "summary": "电梯最短路径调度是数字逻辑的重要知识点。",
+    "courseId": "course-20",
+    "tags": [
+      "电梯最短路径调度"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 电梯最短路径调度\n\n电梯最短路径调度的核心概念与要点。\n\n### 定义\n\n电梯最短路径调度的基本定义和性质。\n\n### 要点\n\n1. 理解定义\n2. 掌握计算方法\n3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-000860",
+      "dl-q-004743",
+      "dl-q-000717"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-700",
+    "slug": "二极管与门原理",
+    "title": "二极管与门原理",
+    "summary": "二极管与门原理是数字逻辑的重要知识点。",
+    "courseId": "course-3",
+    "tags": [
+      "二极管与门原理"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 二极管与门原理\n\n二极管与门原理的核心概念与要点。\n\n### 定义\n\n二极管与门原理的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-000294",
+      "dl-q-001629",
+      "dl-q-002069"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-701",
+    "slug": "三极管或门原理",
+    "title": "三极管或门原理",
+    "summary": "三极管或门原理是数字逻辑的重要知识点。",
+    "courseId": "course-3",
+    "tags": [
+      "三极管或门原理"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 三极管或门原理\n\n三极管或门原理的核心概念与要点。\n\n### 定义\n\n三极管或门原理的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-001902",
+      "dl-q-004039",
+      "dl-q-001843"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-702",
+    "slug": "MOS反相器",
+    "title": "MOS反相器",
+    "summary": "MOS反相器是数字逻辑的重要知识点。",
+    "courseId": "course-3",
+    "tags": [
+      "MOS反相器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## MOS反相器\n\nMOS反相器的核心概念与要点。\n\n### 定义\n\nMOS反相器的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-003880",
+      "dl-q-001765",
+      "dl-q-000753"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-703",
+    "slug": "TTL推挽输出",
+    "title": "TTL推挽输出",
+    "summary": "TTL推挽输出是数字逻辑的重要知识点。",
+    "courseId": "course-3",
+    "tags": [
+      "TTL推挽输出"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## TTL推挽输出\n\nTTL推挽输出的核心概念与要点。\n\n### 定义\n\nTTL推挽输出的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-002086",
+      "dl-q-002731",
+      "dl-q-000165"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-704",
+    "slug": "CMOS传输门",
+    "title": "CMOS传输门",
+    "summary": "CMOS传输门是数字逻辑的重要知识点。",
+    "courseId": "course-3",
+    "tags": [
+      "CMOS传输门"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## CMOS传输门\n\nCMOS传输门的核心概念与要点。\n\n### 定义\n\nCMOS传输门的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-000942",
+      "dl-q-002471",
+      "dl-q-002023"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-705",
+    "slug": "漏极开路门",
+    "title": "漏极开路门",
+    "summary": "漏极开路门是数字逻辑的重要知识点。",
+    "courseId": "course-3",
+    "tags": [
+      "漏极开路门"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 漏极开路门\n\n漏极开路门的核心概念与要点。\n\n### 定义\n\n漏极开路门的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-002754",
+      "dl-q-002646",
+      "dl-q-000194"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-706",
+    "slug": "线或逻辑",
+    "title": "线或逻辑",
+    "summary": "线或逻辑是数字逻辑的重要知识点。",
+    "courseId": "course-3",
+    "tags": [
+      "线或逻辑"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 线或逻辑\n\n线或逻辑的核心概念与要点。\n\n### 定义\n\n线或逻辑的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-003170",
+      "dl-q-001968",
+      "dl-q-001310"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-707",
+    "slug": "电平转换电路",
+    "title": "电平转换电路",
+    "summary": "电平转换电路是数字逻辑的重要知识点。",
+    "courseId": "course-3",
+    "tags": [
+      "电平转换电路"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 电平转换电路\n\n电平转换电路的核心概念与要点。\n\n### 定义\n\n电平转换电路的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-003150",
+      "dl-q-002574",
+      "dl-q-003324"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-708",
+    "slug": "施密特输入门",
+    "title": "施密特输入门",
+    "summary": "施密特输入门是数字逻辑的重要知识点。",
+    "courseId": "course-3",
+    "tags": [
+      "施密特输入门"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 施密特输入门\n\n施密特输入门的核心概念与要点。\n\n### 定义\n\n施密特输入门的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-003747",
+      "dl-q-002026",
+      "dl-q-004415"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-709",
+    "slug": "门电路扇出计算",
+    "title": "门电路扇出计算",
+    "summary": "门电路扇出计算是数字逻辑的重要知识点。",
+    "courseId": "course-3",
+    "tags": [
+      "门电路扇出计算"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 门电路扇出计算\n\n门电路扇出计算的核心概念与要点。\n\n### 定义\n\n门电路扇出计算的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-004456",
+      "dl-q-000829",
+      "dl-q-003461"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-710",
+    "slug": "74LS147编码器应用",
+    "title": "74LS147编码器应用",
+    "summary": "74LS147编码器应用是数字逻辑的重要知识点。",
+    "courseId": "course-5",
+    "tags": [
+      "74LS147编码器应用"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 74LS147编码器应用\n\n74LS147编码器应用的核心概念与要点。\n\n### 定义\n\n74LS147编码器应用的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-002230",
+      "dl-q-004972",
+      "dl-q-004982"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-711",
+    "slug": "74LS42译码器",
+    "title": "74LS42译码器",
+    "summary": "74LS42译码器是数字逻辑的重要知识点。",
+    "courseId": "course-5",
+    "tags": [
+      "74LS42译码器"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 74LS42译码器\n\n74LS42译码器的核心概念与要点。\n\n### 定义\n\n74LS42译码器的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-004296",
+      "dl-q-004182",
+      "dl-q-003681"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-712",
+    "slug": "BCD-七段译码逻辑",
+    "title": "BCD-七段译码逻辑",
+    "summary": "BCD-七段译码逻辑是数字逻辑的重要知识点。",
+    "courseId": "course-5",
+    "tags": [
+      "BCD-七段译码逻辑"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## BCD-七段译码逻辑\n\nBCD-七段译码逻辑的核心概念与要点。\n\n### 定义\n\nBCD-七段译码逻辑的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-001050",
+      "dl-q-003362",
+      "dl-q-000406"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-713",
+    "slug": "译码器级联方法",
+    "title": "译码器级联方法",
+    "summary": "译码器级联方法是数字逻辑的重要知识点。",
+    "courseId": "course-5",
+    "tags": [
+      "译码器级联方法"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 译码器级联方法\n\n译码器级联方法的核心概念与要点。\n\n### 定义\n\n译码器级联方法的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-000126",
+      "dl-q-002273",
+      "dl-q-003743"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-714",
+    "slug": "编码器优先级设计",
+    "title": "编码器优先级设计",
+    "summary": "编码器优先级设计是数字逻辑的重要知识点。",
+    "courseId": "course-5",
+    "tags": [
+      "编码器优先级设计"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 编码器优先级设计\n\n编码器优先级设计的核心概念与要点。\n\n### 定义\n\n编码器优先级设计的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-002204",
+      "dl-q-001629",
+      "dl-q-000039"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-715",
+    "slug": "灭零输入输出",
+    "title": "灭零输入输出",
+    "summary": "灭零输入输出是数字逻辑的重要知识点。",
+    "courseId": "course-5",
+    "tags": [
+      "灭零输入输出"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 灭零输入输出\n\n灭零输入输出的核心概念与要点。\n\n### 定义\n\n灭零输入输出的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-003221",
+      "dl-q-002287",
+      "dl-q-001231"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-716",
+    "slug": "试灯输入LT",
+    "title": "试灯输入LT",
+    "summary": "试灯输入LT是数字逻辑的重要知识点。",
+    "courseId": "course-5",
+    "tags": [
+      "试灯输入LT"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 试灯输入LT\n\n试灯输入LT的核心概念与要点。\n\n### 定义\n\n试灯输入LT的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-003473",
+      "dl-q-001331",
+      "dl-q-002676"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-717",
+    "slug": "灭灯输入BI",
+    "title": "灭灯输入BI",
+    "summary": "灭灯输入BI是数字逻辑的重要知识点。",
+    "courseId": "course-5",
+    "tags": [
+      "灭灯输入BI"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 灭灯输入BI\n\n灭灯输入BI的核心概念与要点。\n\n### 定义\n\n灭灯输入BI的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-003284",
+      "dl-q-003446",
+      "dl-q-003028"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-718",
+    "slug": "译码器作分配器",
+    "title": "译码器作分配器",
+    "summary": "译码器作分配器是数字逻辑的重要知识点。",
+    "courseId": "course-5",
+    "tags": [
+      "译码器作分配器"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 译码器作分配器\n\n译码器作分配器的核心概念与要点。\n\n### 定义\n\n译码器作分配器的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-002965",
+      "dl-q-004167",
+      "dl-q-003143"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-719",
+    "slug": "编码器键盘扫描",
+    "title": "编码器键盘扫描",
+    "summary": "编码器键盘扫描是数字逻辑的重要知识点。",
+    "courseId": "course-5",
+    "tags": [
+      "编码器键盘扫描"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 编码器键盘扫描\n\n编码器键盘扫描的核心概念与要点。\n\n### 定义\n\n编码器键盘扫描的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-001447",
+      "dl-q-002403",
+      "dl-q-001058"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-720",
+    "slug": "四选一内部结构",
+    "title": "四选一内部结构",
+    "summary": "四选一内部结构是数字逻辑的重要知识点。",
+    "courseId": "course-6",
+    "tags": [
+      "四选一内部结构"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 四选一内部结构\n\n四选一内部结构的核心概念与要点。\n\n### 定义\n\n四选一内部结构的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-002242",
+      "dl-q-002216",
+      "dl-q-002349"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-721",
+    "slug": "选择器地址线",
+    "title": "选择器地址线",
+    "summary": "选择器地址线是数字逻辑的重要知识点。",
+    "courseId": "course-6",
+    "tags": [
+      "选择器地址线"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 选择器地址线\n\n选择器地址线的核心概念与要点。\n\n### 定义\n\n选择器地址线的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-001809",
+      "dl-q-000849",
+      "dl-q-003709"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-722",
+    "slug": "选择器使能控制",
+    "title": "选择器使能控制",
+    "summary": "选择器使能控制是数字逻辑的重要知识点。",
+    "courseId": "course-6",
+    "tags": [
+      "选择器使能控制"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 选择器使能控制\n\n选择器使能控制的核心概念与要点。\n\n### 定义\n\n选择器使能控制的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-001774",
+      "dl-q-002873",
+      "dl-q-002083"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-723",
+    "slug": "DMUX与译码器关系",
+    "title": "DMUX与译码器关系",
+    "summary": "DMUX与译码器关系是数字逻辑的重要知识点。",
+    "courseId": "course-6",
+    "tags": [
+      "DMUX与译码器关系"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## DMUX与译码器关系\n\nDMUX与译码器关系的核心概念与要点。\n\n### 定义\n\nDMUX与译码器关系的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-001038",
+      "dl-q-000721",
+      "dl-q-004304"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-724",
+    "slug": "选择器实现加法器",
+    "title": "选择器实现加法器",
+    "summary": "选择器实现加法器是数字逻辑的重要知识点。",
+    "courseId": "course-6",
+    "tags": [
+      "选择器实现加法器"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 选择器实现加法器\n\n选择器实现加法器的核心概念与要点。\n\n### 定义\n\n选择器实现加法器的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-003206",
+      "dl-q-004105",
+      "dl-q-003831"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-725",
+    "slug": "选择器级联16选1",
+    "title": "选择器级联16选1",
+    "summary": "选择器级联16选1是数字逻辑的重要知识点。",
+    "courseId": "course-6",
+    "tags": [
+      "选择器级联16选1"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 选择器级联16选1\n\n选择器级联16选1的核心概念与要点。\n\n### 定义\n\n选择器级联16选1的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-002396",
+      "dl-q-004928",
+      "dl-q-000019"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-726",
+    "slug": "模拟多路选择",
+    "title": "模拟多路选择",
+    "summary": "模拟多路选择是数字逻辑的重要知识点。",
+    "courseId": "course-6",
+    "tags": [
+      "模拟多路选择"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 模拟多路选择\n\n模拟多路选择的核心概念与要点。\n\n### 定义\n\n模拟多路选择的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-004712",
+      "dl-q-001639",
+      "dl-q-004381"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-727",
+    "slug": "总线选择器",
+    "title": "总线选择器",
+    "summary": "总线选择器是数字逻辑的重要知识点。",
+    "courseId": "course-6",
+    "tags": [
+      "总线选择器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 总线选择器\n\n总线选择器的核心概念与要点。\n\n### 定义\n\n总线选择器的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-002160",
+      "dl-q-000519",
+      "dl-q-004767"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-728",
+    "slug": "选择器延时分析",
+    "title": "选择器延时分析",
+    "summary": "选择器延时分析是数字逻辑的重要知识点。",
+    "courseId": "course-6",
+    "tags": [
+      "选择器延时分析"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 选择器延时分析\n\n选择器延时分析的核心概念与要点。\n\n### 定义\n\n选择器延时分析的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-003765",
+      "dl-q-003160",
+      "dl-q-004120"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-729",
+    "slug": "选择器与FPGA LUT",
+    "title": "选择器与FPGA LUT",
+    "summary": "选择器与FPGA LUT是数字逻辑的重要知识点。",
+    "courseId": "course-6",
+    "tags": [
+      "选择器与FPGA LUT"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 选择器与FPGA LUT\n\n选择器与FPGA LUT的核心概念与要点。\n\n### 定义\n\n选择器与FPGA LUT的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-004294",
+      "dl-q-004913",
+      "dl-q-004903"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-730",
+    "slug": "串行进位延时分析",
+    "title": "串行进位延时分析",
+    "summary": "串行进位延时分析是数字逻辑的重要知识点。",
+    "courseId": "course-7",
+    "tags": [
+      "串行进位延时分析"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 串行进位延时分析\n\n串行进位延时分析的核心概念与要点。\n\n### 定义\n\n串行进位延时分析的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-002872",
+      "dl-q-003044",
+      "dl-q-001867"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-731",
+    "slug": "超前进位生成函数",
+    "title": "超前进位生成函数",
+    "summary": "超前进位生成函数是数字逻辑的重要知识点。",
+    "courseId": "course-7",
+    "tags": [
+      "超前进位生成函数"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 超前进位生成函数\n\n超前进位生成函数的核心概念与要点。\n\n### 定义\n\n超前进位生成函数的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-000179",
+      "dl-q-004194",
+      "dl-q-004456"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-732",
+    "slug": "超前进位进位函数",
+    "title": "超前进位进位函数",
+    "summary": "超前进位进位函数是数字逻辑的重要知识点。",
+    "courseId": "course-7",
+    "tags": [
+      "超前进位进位函数"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 超前进位进位函数\n\n超前进位进位函数的核心概念与要点。\n\n### 定义\n\n超前进位进位函数的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-000548",
+      "dl-q-004930",
+      "dl-q-003922"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-733",
+    "slug": "74LS283应用",
+    "title": "74LS283应用",
+    "summary": "74LS283应用是数字逻辑的重要知识点。",
+    "courseId": "course-7",
+    "tags": [
+      "74LS283应用"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 74LS283应用\n\n74LS283应用的核心概念与要点。\n\n### 定义\n\n74LS283应用的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-000667",
+      "dl-q-004020",
+      "dl-q-000834"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-734",
+    "slug": "减法器补码实现",
+    "title": "减法器补码实现",
+    "summary": "减法器补码实现是数字逻辑的重要知识点。",
+    "courseId": "course-7",
+    "tags": [
+      "减法器补码实现"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 减法器补码实现\n\n减法器补码实现的核心概念与要点。\n\n### 定义\n\n减法器补码实现的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-001976",
+      "dl-q-003339",
+      "dl-q-001788"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-735",
+    "slug": "BCD加法器",
+    "title": "BCD加法器",
+    "summary": "BCD加法器是数字逻辑的重要知识点。",
+    "courseId": "course-7",
+    "tags": [
+      "BCD加法器"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## BCD加法器\n\nBCD加法器的核心概念与要点。\n\n### 定义\n\nBCD加法器的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-002864",
+      "dl-q-004979",
+      "dl-q-001408"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-736",
+    "slug": "比较器级联方法",
+    "title": "比较器级联方法",
+    "summary": "比较器级联方法是数字逻辑的重要知识点。",
+    "courseId": "course-7",
+    "tags": [
+      "比较器级联方法"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 比较器级联方法\n\n比较器级联方法的核心概念与要点。\n\n### 定义\n\n比较器级联方法的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-001707",
+      "dl-q-004258",
+      "dl-q-004787"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-737",
+    "slug": "ALU功能选择",
+    "title": "ALU功能选择",
+    "summary": "ALU功能选择是数字逻辑的重要知识点。",
+    "courseId": "course-7",
+    "tags": [
+      "ALU功能选择"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## ALU功能选择\n\nALU功能选择的核心概念与要点。\n\n### 定义\n\nALU功能选择的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-004847",
+      "dl-q-003532",
+      "dl-q-000857"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-738",
+    "slug": "溢出检测方法",
+    "title": "溢出检测方法",
+    "summary": "溢出检测方法是数字逻辑的重要知识点。",
+    "courseId": "course-7",
+    "tags": [
+      "溢出检测方法"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 溢出检测方法\n\n溢出检测方法的核心概念与要点。\n\n### 定义\n\n溢出检测方法的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-002348",
+      "dl-q-002598",
+      "dl-q-004031"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-739",
+    "slug": "运算器综合设计",
+    "title": "运算器综合设计",
+    "summary": "运算器综合设计是数字逻辑的重要知识点。",
+    "courseId": "course-7",
+    "tags": [
+      "运算器综合设计"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 运算器综合设计\n\n运算器综合设计的核心概念与要点。\n\n### 定义\n\n运算器综合设计的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-004995",
+      "dl-q-000201",
+      "dl-q-004902"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-740",
+    "slug": "74LS175寄存器",
+    "title": "74LS175寄存器",
+    "summary": "74LS175寄存器是数字逻辑的重要知识点。",
+    "courseId": "course-10",
+    "tags": [
+      "74LS175寄存器"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 74LS175寄存器\n\n74LS175寄存器的核心概念与要点。\n\n### 定义\n\n74LS175寄存器的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-003808",
+      "dl-q-000511",
+      "dl-q-004410"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-741",
+    "slug": "74LS194功能表",
+    "title": "74LS194功能表",
+    "summary": "74LS194功能表是数字逻辑的重要知识点。",
+    "courseId": "course-10",
+    "tags": [
+      "74LS194功能表"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 74LS194功能表\n\n74LS194功能表的核心概念与要点。\n\n### 定义\n\n74LS194功能表的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-003276",
+      "dl-q-002422",
+      "dl-q-001136"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-742",
+    "slug": "移位型计数器特点",
+    "title": "移位型计数器特点",
+    "summary": "移位型计数器特点是数字逻辑的重要知识点。",
+    "courseId": "course-10",
+    "tags": [
+      "移位型计数器特点"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 移位型计数器特点\n\n移位型计数器特点的核心概念与要点。\n\n### 定义\n\n移位型计数器特点的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-001693",
+      "dl-q-004437",
+      "dl-q-002928"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-743",
+    "slug": "串行累加器",
+    "title": "串行累加器",
+    "summary": "串行累加器是数字逻辑的重要知识点。",
+    "courseId": "course-10",
+    "tags": [
+      "串行累加器"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 串行累加器\n\n串行累加器的核心概念与要点。\n\n### 定义\n\n串行累加器的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-002956",
+      "dl-q-002177",
+      "dl-q-003643"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-744",
+    "slug": "并串转换应用",
+    "title": "并串转换应用",
+    "summary": "并串转换应用是数字逻辑的重要知识点。",
+    "courseId": "course-10",
+    "tags": [
+      "并串转换应用"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 并串转换应用\n\n并串转换应用的核心概念与要点。\n\n### 定义\n\n并串转换应用的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-000242",
+      "dl-q-000449",
+      "dl-q-000432"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-745",
+    "slug": "串并转换应用",
+    "title": "串并转换应用",
+    "summary": "串并转换应用是数字逻辑的重要知识点。",
+    "courseId": "course-10",
+    "tags": [
+      "串并转换应用"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 串并转换应用\n\n串并转换应用的核心概念与要点。\n\n### 定义\n\n串并转换应用的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-003001",
+      "dl-q-002750",
+      "dl-q-004507"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-746",
+    "slug": "移位寄存器延时",
+    "title": "移位寄存器延时",
+    "summary": "移位寄存器延时是数字逻辑的重要知识点。",
+    "courseId": "course-10",
+    "tags": [
+      "移位寄存器延时"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 移位寄存器延时\n\n移位寄存器延时的核心概念与要点。\n\n### 定义\n\n移位寄存器延时的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-004169",
+      "dl-q-004954",
+      "dl-q-003000"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-747",
+    "slug": "桶形移位器",
+    "title": "桶形移位器",
+    "summary": "桶形移位器是数字逻辑的重要知识点。",
+    "courseId": "course-10",
+    "tags": [
+      "桶形移位器"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 桶形移位器\n\n桶形移位器的核心概念与要点。\n\n### 定义\n\n桶形移位器的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-000284",
+      "dl-q-001172",
+      "dl-q-004527"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-748",
+    "slug": "线性反馈移位",
+    "title": "线性反馈移位",
+    "summary": "线性反馈移位是数字逻辑的重要知识点。",
+    "courseId": "course-10",
+    "tags": [
+      "线性反馈移位"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 线性反馈移位\n\n线性反馈移位的核心概念与要点。\n\n### 定义\n\n线性反馈移位的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-000401",
+      "dl-q-001633",
+      "dl-q-001443"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-749",
+    "slug": "寄存器文件设计",
+    "title": "寄存器文件设计",
+    "summary": "寄存器文件设计是数字逻辑的重要知识点。",
+    "courseId": "course-10",
+    "tags": [
+      "寄存器文件设计"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 寄存器文件设计\n\n寄存器文件设计的核心概念与要点。\n\n### 定义\n\n寄存器文件设计的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-004682",
+      "dl-q-000497",
+      "dl-q-001012"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-750",
+    "slug": "555内部比较器",
+    "title": "555内部比较器",
+    "summary": "555内部比较器是数字逻辑的重要知识点。",
+    "courseId": "course-13",
+    "tags": [
+      "555内部比较器"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 555内部比较器\n\n555内部比较器的核心概念与要点。\n\n### 定义\n\n555内部比较器的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-001287",
+      "dl-q-001595",
+      "dl-q-004576"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-751",
+    "slug": "555放电管",
+    "title": "555放电管",
+    "summary": "555放电管是数字逻辑的重要知识点。",
+    "courseId": "course-13",
+    "tags": [
+      "555放电管"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 555放电管\n\n555放电管的核心概念与要点。\n\n### 定义\n\n555放电管的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-000595",
+      "dl-q-000292",
+      "dl-q-001304"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-752",
+    "slug": "555复位引脚",
+    "title": "555复位引脚",
+    "summary": "555复位引脚是数字逻辑的重要知识点。",
+    "courseId": "course-13",
+    "tags": [
+      "555复位引脚"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 555复位引脚\n\n555复位引脚的核心概念与要点。\n\n### 定义\n\n555复位引脚的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-001767",
+      "dl-q-001613",
+      "dl-q-001704"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-753",
+    "slug": "施密特整形应用",
+    "title": "施密特整形应用",
+    "summary": "施密特整形应用是数字逻辑的重要知识点。",
+    "courseId": "course-13",
+    "tags": [
+      "施密特整形应用"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 施密特整形应用\n\n施密特整形应用的核心概念与要点。\n\n### 定义\n\n施密特整形应用的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-001052",
+      "dl-q-003399",
+      "dl-q-004960"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-754",
+    "slug": "单稳态可重触发",
+    "title": "单稳态可重触发",
+    "summary": "单稳态可重触发是数字逻辑的重要知识点。",
+    "courseId": "course-13",
+    "tags": [
+      "单稳态可重触发"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 单稳态可重触发\n\n单稳态可重触发的核心概念与要点。\n\n### 定义\n\n单稳态可重触发的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-000558",
+      "dl-q-003290",
+      "dl-q-004509"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-755",
+    "slug": "多谐占空比调节",
+    "title": "多谐占空比调节",
+    "summary": "多谐占空比调节是数字逻辑的重要知识点。",
+    "courseId": "course-13",
+    "tags": [
+      "多谐占空比调节"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## 多谐占空比调节\n\n多谐占空比调节的核心概念与要点。\n\n### 定义\n\n多谐占空比调节的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-003866",
+      "dl-q-000221",
+      "dl-q-002453"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-756",
+    "slug": "555频率计算",
+    "title": "555频率计算",
+    "summary": "555频率计算是数字逻辑的重要知识点。",
+    "courseId": "course-13",
+    "tags": [
+      "555频率计算"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 555频率计算\n\n555频率计算的核心概念与要点。\n\n### 定义\n\n555频率计算的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-002181",
+      "dl-q-000130",
+      "dl-q-004012"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-757",
+    "slug": "555电容选择",
+    "title": "555电容选择",
+    "summary": "555电容选择是数字逻辑的重要知识点。",
+    "courseId": "course-13",
+    "tags": [
+      "555电容选择"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 555电容选择\n\n555电容选择的核心概念与要点。\n\n### 定义\n\n555电容选择的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-003559",
+      "dl-q-000134",
+      "dl-q-001911"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-758",
+    "slug": "555电阻选择",
+    "title": "555电阻选择",
+    "summary": "555电阻选择是数字逻辑的重要知识点。",
+    "courseId": "course-13",
+    "tags": [
+      "555电阻选择"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 555电阻选择\n\n555电阻选择的核心概念与要点。\n\n### 定义\n\n555电阻选择的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-001195",
+      "dl-q-002453",
+      "dl-q-004177"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-759",
+    "slug": "555精度分析",
+    "title": "555精度分析",
+    "summary": "555精度分析是数字逻辑的重要知识点。",
+    "courseId": "course-13",
+    "tags": [
+      "555精度分析"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 555精度分析\n\n555精度分析的核心概念与要点。\n\n### 定义\n\n555精度分析的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-003192",
+      "dl-q-002838",
+      "dl-q-001742"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-760",
+    "slug": "ROM地址译码",
+    "title": "ROM地址译码",
+    "summary": "ROM地址译码是数字逻辑的重要知识点。",
+    "courseId": "course-14",
+    "tags": [
+      "ROM地址译码"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## ROM地址译码\n\nROM地址译码的核心概念与要点。\n\n### 定义\n\nROM地址译码的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-004858",
+      "dl-q-002474",
+      "dl-q-001875"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-761",
+    "slug": "ROM存储矩阵",
+    "title": "ROM存储矩阵",
+    "summary": "ROM存储矩阵是数字逻辑的重要知识点。",
+    "courseId": "course-14",
+    "tags": [
+      "ROM存储矩阵"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## ROM存储矩阵\n\nROM存储矩阵的核心概念与要点。\n\n### 定义\n\nROM存储矩阵的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-000073",
+      "dl-q-004993",
+      "dl-q-004391"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-762",
+    "slug": "DRAM刷新周期",
+    "title": "DRAM刷新周期",
+    "summary": "DRAM刷新周期是数字逻辑的重要知识点。",
+    "courseId": "course-14",
+    "tags": [
+      "DRAM刷新周期"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## DRAM刷新周期\n\nDRAM刷新周期的核心概念与要点。\n\n### 定义\n\nDRAM刷新周期的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-003382",
+      "dl-q-000415",
+      "dl-q-002896"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-763",
+    "slug": "DRAM读写时序",
+    "title": "DRAM读写时序",
+    "summary": "DRAM读写时序是数字逻辑的重要知识点。",
+    "courseId": "course-14",
+    "tags": [
+      "DRAM读写时序"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## DRAM读写时序\n\nDRAM读写时序的核心概念与要点。\n\n### 定义\n\nDRAM读写时序的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-004759",
+      "dl-q-000244",
+      "dl-q-004510"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-764",
+    "slug": "Cache映射方式",
+    "title": "Cache映射方式",
+    "summary": "Cache映射方式是数字逻辑的重要知识点。",
+    "courseId": "course-14",
+    "tags": [
+      "Cache映射方式"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## Cache映射方式\n\nCache映射方式的核心概念与要点。\n\n### 定义\n\nCache映射方式的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-003858",
+      "dl-q-001743",
+      "dl-q-001648"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-765",
+    "slug": "存储器带宽计算",
+    "title": "存储器带宽计算",
+    "summary": "存储器带宽计算是数字逻辑的重要知识点。",
+    "courseId": "course-14",
+    "tags": [
+      "存储器带宽计算"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## 存储器带宽计算\n\n存储器带宽计算的核心概念与要点。\n\n### 定义\n\n存储器带宽计算的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-001806",
+      "dl-q-001179",
+      "dl-q-001225"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-766",
+    "slug": "存储器寻址方式",
+    "title": "存储器寻址方式",
+    "summary": "存储器寻址方式是数字逻辑的重要知识点。",
+    "courseId": "course-14",
+    "tags": [
+      "存储器寻址方式"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 存储器寻址方式\n\n存储器寻址方式的核心概念与要点。\n\n### 定义\n\n存储器寻址方式的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-000889",
+      "dl-q-001837",
+      "dl-q-004856"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-767",
+    "slug": "Flash擦写寿命",
+    "title": "Flash擦写寿命",
+    "summary": "Flash擦写寿命是数字逻辑的重要知识点。",
+    "courseId": "course-14",
+    "tags": [
+      "Flash擦写寿命"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## Flash擦写寿命\n\nFlash擦写寿命的核心概念与要点。\n\n### 定义\n\nFlash擦写寿命的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-001315",
+      "dl-q-002062",
+      "dl-q-004645"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-768",
+    "slug": "EEPROM页写入",
+    "title": "EEPROM页写入",
+    "summary": "EEPROM页写入是数字逻辑的重要知识点。",
+    "courseId": "course-14",
+    "tags": [
+      "EEPROM页写入"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## EEPROM页写入\n\nEEPROM页写入的核心概念与要点。\n\n### 定义\n\nEEPROM页写入的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-001292",
+      "dl-q-004411",
+      "dl-q-000220"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-769",
+    "slug": "存储器功耗分析",
+    "title": "存储器功耗分析",
+    "summary": "存储器功耗分析是数字逻辑的重要知识点。",
+    "courseId": "course-14",
+    "tags": [
+      "存储器功耗分析"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## 存储器功耗分析\n\n存储器功耗分析的核心概念与要点。\n\n### 定义\n\n存储器功耗分析的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-002935",
+      "dl-q-000361",
+      "dl-q-003306"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-770",
+    "slug": "GALOLMC配置",
+    "title": "GALOLMC配置",
+    "summary": "GALOLMC配置是数字逻辑的重要知识点。",
+    "courseId": "course-15",
+    "tags": [
+      "GALOLMC配置"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## GALOLMC配置\n\nGALOLMC配置的核心概念与要点。\n\n### 定义\n\nGALOLMC配置的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-003903",
+      "dl-q-001050",
+      "dl-q-003744"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-771",
+    "slug": "FPGA布线资源",
+    "title": "FPGA布线资源",
+    "summary": "FPGA布线资源是数字逻辑的重要知识点。",
+    "courseId": "course-15",
+    "tags": [
+      "FPGA布线资源"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## FPGA布线资源\n\nFPGA布线资源的核心概念与要点。\n\n### 定义\n\nFPGA布线资源的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-003441",
+      "dl-q-004301",
+      "dl-q-004994"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-772",
+    "slug": "FPGA时钟网络",
+    "title": "FPGA时钟网络",
+    "summary": "FPGA时钟网络是数字逻辑的重要知识点。",
+    "courseId": "course-15",
+    "tags": [
+      "FPGA时钟网络"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## FPGA时钟网络\n\nFPGA时钟网络的核心概念与要点。\n\n### 定义\n\nFPGA时钟网络的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-001764",
+      "dl-q-002542",
+      "dl-q-000319"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-773",
+    "slug": "FPGA嵌入式乘法器",
+    "title": "FPGA嵌入式乘法器",
+    "summary": "FPGA嵌入式乘法器是数字逻辑的重要知识点。",
+    "courseId": "course-15",
+    "tags": [
+      "FPGA嵌入式乘法器"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## FPGA嵌入式乘法器\n\nFPGA嵌入式乘法器的核心概念与要点。\n\n### 定义\n\nFPGA嵌入式乘法器的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-003996",
+      "dl-q-003220",
+      "dl-q-001831"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-774",
+    "slug": "CPLD宏单元",
+    "title": "CPLD宏单元",
+    "summary": "CPLD宏单元是数字逻辑的重要知识点。",
+    "courseId": "course-15",
+    "tags": [
+      "CPLD宏单元"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## CPLD宏单元\n\nCPLD宏单元的核心概念与要点。\n\n### 定义\n\nCPLD宏单元的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-002977",
+      "dl-q-003675",
+      "dl-q-000591"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-775",
+    "slug": "CPLD乘积项",
+    "title": "CPLD乘积项",
+    "summary": "CPLD乘积项是数字逻辑的重要知识点。",
+    "courseId": "course-15",
+    "tags": [
+      "CPLD乘积项"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## CPLD乘积项\n\nCPLD乘积项的核心概念与要点。\n\n### 定义\n\nCPLD乘积项的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-002306",
+      "dl-q-001805",
+      "dl-q-004773"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-776",
+    "slug": "FPGA配置模式",
+    "title": "FPGA配置模式",
+    "summary": "FPGA配置模式是数字逻辑的重要知识点。",
+    "courseId": "course-15",
+    "tags": [
+      "FPGA配置模式"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## FPGA配置模式\n\nFPGA配置模式的核心概念与要点。\n\n### 定义\n\nFPGA配置模式的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-002034",
+      "dl-q-002110",
+      "dl-q-001610"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-777",
+    "slug": "JTAG边界扫描",
+    "title": "JTAG边界扫描",
+    "summary": "JTAG边界扫描是数字逻辑的重要知识点。",
+    "courseId": "course-15",
+    "tags": [
+      "JTAG边界扫描"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## JTAG边界扫描\n\nJTAG边界扫描的核心概念与要点。\n\n### 定义\n\nJTAG边界扫描的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-000317",
+      "dl-q-000544",
+      "dl-q-001944"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-778",
+    "slug": "PLD功耗对比",
+    "title": "PLD功耗对比",
+    "summary": "PLD功耗对比是数字逻辑的重要知识点。",
+    "courseId": "course-15",
+    "tags": [
+      "PLD功耗对比"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## PLD功耗对比\n\nPLD功耗对比的核心概念与要点。\n\n### 定义\n\nPLD功耗对比的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-003690",
+      "dl-q-000373",
+      "dl-q-000545"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-779",
+    "slug": "FPGA时序约束",
+    "title": "FPGA时序约束",
+    "summary": "FPGA时序约束是数字逻辑的重要知识点。",
+    "courseId": "course-15",
+    "tags": [
+      "FPGA时序约束"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## FPGA时序约束\n\nFPGA时序约束的核心概念与要点。\n\n### 定义\n\nFPGA时序约束的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-000907",
+      "dl-q-004208",
+      "dl-q-003430"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-780",
+    "slug": "BDF网络标号",
+    "title": "BDF网络标号",
+    "summary": "BDF网络标号是数字逻辑的重要知识点。",
+    "courseId": "course-17",
+    "tags": [
+      "BDF网络标号"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## BDF网络标号\n\nBDF网络标号的核心概念与要点。\n\n### 定义\n\nBDF网络标号的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-003310",
+      "dl-q-000848",
+      "dl-q-001630"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-781",
+    "slug": "BDF总线抽取",
+    "title": "BDF总线抽取",
+    "summary": "BDF总线抽取是数字逻辑的重要知识点。",
+    "courseId": "course-17",
+    "tags": [
+      "BDF总线抽取"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## BDF总线抽取\n\nBDF总线抽取的核心概念与要点。\n\n### 定义\n\nBDF总线抽取的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-000769",
+      "dl-q-001498",
+      "dl-q-004478"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-782",
+    "slug": "BDF引脚映射",
+    "title": "BDF引脚映射",
+    "summary": "BDF引脚映射是数字逻辑的重要知识点。",
+    "courseId": "course-17",
+    "tags": [
+      "BDF引脚映射"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## BDF引脚映射\n\nBDF引脚映射的核心概念与要点。\n\n### 定义\n\nBDF引脚映射的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-003789",
+      "dl-q-004773",
+      "dl-q-004532"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-783",
+    "slug": "BDF编译顺序",
+    "title": "BDF编译顺序",
+    "summary": "BDF编译顺序是数字逻辑的重要知识点。",
+    "courseId": "course-17",
+    "tags": [
+      "BDF编译顺序"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## BDF编译顺序\n\nBDF编译顺序的核心概念与要点。\n\n### 定义\n\nBDF编译顺序的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-002276",
+      "dl-q-000117",
+      "dl-q-003289"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-784",
+    "slug": "BDF符号编辑",
+    "title": "BDF符号编辑",
+    "summary": "BDF符号编辑是数字逻辑的重要知识点。",
+    "courseId": "course-17",
+    "tags": [
+      "BDF符号编辑"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## BDF符号编辑\n\nBDF符号编辑的核心概念与要点。\n\n### 定义\n\nBDF符号编辑的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-002865",
+      "dl-q-000806",
+      "dl-q-004093"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-785",
+    "slug": "BDF端口方向",
+    "title": "BDF端口方向",
+    "summary": "BDF端口方向是数字逻辑的重要知识点。",
+    "courseId": "course-17",
+    "tags": [
+      "BDF端口方向"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## BDF端口方向\n\nBDF端口方向的核心概念与要点。\n\n### 定义\n\nBDF端口方向的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-001008",
+      "dl-q-000961",
+      "dl-q-001299"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-786",
+    "slug": "BDF默认值设置",
+    "title": "BDF默认值设置",
+    "summary": "BDF默认值设置是数字逻辑的重要知识点。",
+    "courseId": "course-17",
+    "tags": [
+      "BDF默认值设置"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## BDF默认值设置\n\nBDF默认值设置的核心概念与要点。\n\n### 定义\n\nBDF默认值设置的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-001523",
+      "dl-q-004169",
+      "dl-q-003067"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-787",
+    "slug": "BDF多驱动检测",
+    "title": "BDF多驱动检测",
+    "summary": "BDF多驱动检测是数字逻辑的重要知识点。",
+    "courseId": "course-17",
+    "tags": [
+      "BDF多驱动检测"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## BDF多驱动检测\n\nBDF多驱动检测的核心概念与要点。\n\n### 定义\n\nBDF多驱动检测的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-001884",
+      "dl-q-002591",
+      "dl-q-000991"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-788",
+    "slug": "BDF悬空节点",
+    "title": "BDF悬空节点",
+    "summary": "BDF悬空节点是数字逻辑的重要知识点。",
+    "courseId": "course-17",
+    "tags": [
+      "BDF悬空节点"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## BDF悬空节点\n\nBDF悬空节点的核心概念与要点。\n\n### 定义\n\nBDF悬空节点的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-003869",
+      "dl-q-001616",
+      "dl-q-000135"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-789",
+    "slug": "BDF到Verilog转换",
+    "title": "BDF到Verilog转换",
+    "summary": "BDF到Verilog转换是数字逻辑的重要知识点。",
+    "courseId": "course-17",
+    "tags": [
+      "BDF到Verilog转换"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## BDF到Verilog转换\n\nBDF到Verilog转换的核心概念与要点。\n\n### 定义\n\nBDF到Verilog转换的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-004980",
+      "dl-q-004856",
+      "dl-q-001629"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-790",
+    "slug": "Verilog参数化模块",
+    "title": "Verilog参数化模块",
+    "summary": "Verilog参数化模块是数字逻辑的重要知识点。",
+    "courseId": "course-18",
+    "tags": [
+      "Verilog参数化模块"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## Verilog参数化模块\n\nVerilog参数化模块的核心概念与要点。\n\n### 定义\n\nVerilog参数化模块的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-003176",
+      "dl-q-000987",
+      "dl-q-002717"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-791",
+    "slug": "Verilog生成语句",
+    "title": "Verilog生成语句",
+    "summary": "Verilog生成语句是数字逻辑的重要知识点。",
+    "courseId": "course-18",
+    "tags": [
+      "Verilog生成语句"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## Verilog生成语句\n\nVerilog生成语句的核心概念与要点。\n\n### 定义\n\nVerilog生成语句的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-002894",
+      "dl-q-004962",
+      "dl-q-002384"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-792",
+    "slug": "Verilog任务函数",
+    "title": "Verilog任务函数",
+    "summary": "Verilog任务函数是数字逻辑的重要知识点。",
+    "courseId": "course-18",
+    "tags": [
+      "Verilog任务函数"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## Verilog任务函数\n\nVerilog任务函数的核心概念与要点。\n\n### 定义\n\nVerilog任务函数的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-003112",
+      "dl-q-003005",
+      "dl-q-002820"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-793",
+    "slug": "Verilog时间尺度",
+    "title": "Verilog时间尺度",
+    "summary": "Verilog时间尺度是数字逻辑的重要知识点。",
+    "courseId": "course-18",
+    "tags": [
+      "Verilog时间尺度"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## Verilog时间尺度\n\nVerilog时间尺度的核心概念与要点。\n\n### 定义\n\nVerilog时间尺度的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-002968",
+      "dl-q-001789",
+      "dl-q-000522"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-794",
+    "slug": "Verilog系统任务",
+    "title": "Verilog系统任务",
+    "summary": "Verilog系统任务是数字逻辑的重要知识点。",
+    "courseId": "course-18",
+    "tags": [
+      "Verilog系统任务"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## Verilog系统任务\n\nVerilog系统任务的核心概念与要点。\n\n### 定义\n\nVerilog系统任务的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-004584",
+      "dl-q-000795",
+      "dl-q-002965"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-795",
+    "slug": "Verilog编译指令",
+    "title": "Verilog编译指令",
+    "summary": "Verilog编译指令是数字逻辑的重要知识点。",
+    "courseId": "course-18",
+    "tags": [
+      "Verilog编译指令"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## Verilog编译指令\n\nVerilog编译指令的核心概念与要点。\n\n### 定义\n\nVerilog编译指令的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-004008",
+      "dl-q-004371",
+      "dl-q-002035"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-796",
+    "slug": "Verilog枚举类型",
+    "title": "Verilog枚举类型",
+    "summary": "Verilog枚举类型是数字逻辑的重要知识点。",
+    "courseId": "course-18",
+    "tags": [
+      "Verilog枚举类型"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## Verilog枚举类型\n\nVerilog枚举类型的核心概念与要点。\n\n### 定义\n\nVerilog枚举类型的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-002383",
+      "dl-q-002119",
+      "dl-q-004806"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-797",
+    "slug": "Verilog接口",
+    "title": "Verilog接口",
+    "summary": "Verilog接口是数字逻辑的重要知识点。",
+    "courseId": "course-18",
+    "tags": [
+      "Verilog接口"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## Verilog接口\n\nVerilog接口的核心概念与要点。\n\n### 定义\n\nVerilog接口的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-002312",
+      "dl-q-001844",
+      "dl-q-001261"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-798",
+    "slug": "Verilog断言",
+    "title": "Verilog断言",
+    "summary": "Verilog断言是数字逻辑的重要知识点。",
+    "courseId": "course-18",
+    "tags": [
+      "Verilog断言"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## Verilog断言\n\nVerilog断言的核心概念与要点。\n\n### 定义\n\nVerilog断言的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-001511",
+      "dl-q-003423",
+      "dl-q-001350"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-799",
+    "slug": "Verilog覆盖率",
+    "title": "Verilog覆盖率",
+    "summary": "Verilog覆盖率是数字逻辑的重要知识点。",
+    "courseId": "course-18",
+    "tags": [
+      "Verilog覆盖率"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## Verilog覆盖率\n\nVerilog覆盖率的核心概念与要点。\n\n### 定义\n\nVerilog覆盖率的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-002146",
+      "dl-q-001953",
+      "dl-q-001443"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-800",
+    "slug": "FPGA上电配置",
+    "title": "FPGA上电配置",
+    "summary": "FPGA上电配置是数字逻辑的重要知识点。",
+    "courseId": "course-19",
+    "tags": [
+      "FPGA上电配置"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## FPGA上电配置\n\nFPGA上电配置的核心概念与要点。\n\n### 定义\n\nFPGA上电配置的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-002205",
+      "dl-q-001515",
+      "dl-q-001093"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-801",
+    "slug": "FPGA多时钟域",
+    "title": "FPGA多时钟域",
+    "summary": "FPGA多时钟域是数字逻辑的重要知识点。",
+    "courseId": "course-19",
+    "tags": [
+      "FPGA多时钟域"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## FPGA多时钟域\n\nFPGA多时钟域的核心概念与要点。\n\n### 定义\n\nFPGA多时钟域的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-003061",
+      "dl-q-000953",
+      "dl-q-000438"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-802",
+    "slug": "FPGA复位网络",
+    "title": "FPGA复位网络",
+    "summary": "FPGA复位网络是数字逻辑的重要知识点。",
+    "courseId": "course-19",
+    "tags": [
+      "FPGA复位网络"
+    ],
+    "difficulty": "hard",
+    "contentMarkdown": "## FPGA复位网络\n\nFPGA复位网络的核心概念与要点。\n\n### 定义\n\nFPGA复位网络的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-004861",
+      "dl-q-001566",
+      "dl-q-004203"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-803",
+    "slug": "FPGA功耗优化",
+    "title": "FPGA功耗优化",
+    "summary": "FPGA功耗优化是数字逻辑的重要知识点。",
+    "courseId": "course-19",
+    "tags": [
+      "FPGA功耗优化"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## FPGA功耗优化\n\nFPGA功耗优化的核心概念与要点。\n\n### 定义\n\nFPGA功耗优化的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-000616",
+      "dl-q-001422",
+      "dl-q-004562"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-804",
+    "slug": "FPGA资源估算",
+    "title": "FPGA资源估算",
+    "summary": "FPGA资源估算是数字逻辑的重要知识点。",
+    "courseId": "course-19",
+    "tags": [
+      "FPGA资源估算"
+    ],
+    "difficulty": "easy",
+    "contentMarkdown": "## FPGA资源估算\n\nFPGA资源估算的核心概念与要点。\n\n### 定义\n\nFPGA资源估算的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-003117",
+      "dl-q-002352",
+      "dl-q-001937"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-805",
+    "slug": "FPGA布局约束",
+    "title": "FPGA布局约束",
+    "summary": "FPGA布局约束是数字逻辑的重要知识点。",
+    "courseId": "course-19",
+    "tags": [
+      "FPGA布局约束"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## FPGA布局约束\n\nFPGA布局约束的核心概念与要点。\n\n### 定义\n\nFPGA布局约束的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-002633",
+      "dl-q-004496",
+      "dl-q-001984"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-806",
+    "slug": "FPGA时序例外",
+    "title": "FPGA时序例外",
+    "summary": "FPGA时序例外是数字逻辑的重要知识点。",
+    "courseId": "course-19",
+    "tags": [
+      "FPGA时序例外"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## FPGA时序例外\n\nFPGA时序例外的核心概念与要点。\n\n### 定义\n\nFPGA时序例外的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-000214",
+      "dl-q-001558",
+      "dl-q-004091"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-807",
+    "slug": "FPGA多周期路径",
+    "title": "FPGA多周期路径",
+    "summary": "FPGA多周期路径是数字逻辑的重要知识点。",
+    "courseId": "course-19",
+    "tags": [
+      "FPGA多周期路径"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## FPGA多周期路径\n\nFPGA多周期路径的核心概念与要点。\n\n### 定义\n\nFPGA多周期路径的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-000316",
+      "dl-q-002514",
+      "dl-q-003408"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-808",
+    "slug": "FPGA虚假路径",
+    "title": "FPGA虚假路径",
+    "summary": "FPGA虚假路径是数字逻辑的重要知识点。",
+    "courseId": "course-19",
+    "tags": [
+      "FPGA虚假路径"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## FPGA虚假路径\n\nFPGA虚假路径的核心概念与要点。\n\n### 定义\n\nFPGA虚假路径的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-000668",
+      "dl-q-003471",
+      "dl-q-001740"
+    ],
+    "relatedCases": [],
+    "glossary": []
+  },
+  {
+    "id": "kp-809",
+    "slug": "FPGA时钟域交叉",
+    "title": "FPGA时钟域交叉",
+    "summary": "FPGA时钟域交叉是数字逻辑的重要知识点。",
+    "courseId": "course-19",
+    "tags": [
+      "FPGA时钟域交叉"
+    ],
+    "difficulty": "medium",
+    "contentMarkdown": "## FPGA时钟域交叉\n\nFPGA时钟域交叉的核心概念与要点。\n\n### 定义\n\nFPGA时钟域交叉的基本定义和性质。\n\n### 要点\n\n1. 理解定义 2. 掌握计算方法 3. 能在电路中应用",
+    "relatedQuestions": [
+      "dl-q-003034",
+      "dl-q-000280",
+      "dl-q-001233"
+    ],
+    "relatedCases": [],
+    "glossary": []
   }
 ]
