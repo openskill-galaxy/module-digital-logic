@@ -68,6 +68,24 @@ export async function loadFaqs(): Promise<FaqItem[]> {
   return fetchJson<FaqItem[]>("data/faqs.json");
 }
 
+// Search index entry type (matches build-search-index.mjs output)
+export interface SearchIndexEntry {
+  id: string;
+  type: string;
+  title: string;
+  summary: string;
+  tags: string[];
+  url: string;
+}
+
+export async function loadSearchIndex(): Promise<SearchIndexEntry[]> {
+  try {
+    return await fetchJson<SearchIndexEntry[]>("data/search-index.json");
+  } catch {
+    return [];
+  }
+}
+
 export interface ModuleData {
   module: ModuleMeta;
   courses: Course[];

@@ -1470,6 +1470,702 @@
     "url": "/lessons/lesson-150"
   },
   {
+    "id": "dl-lesson-00151",
+    "type": "lesson",
+    "title": "数字逻辑总复习",
+    "summary": "系统回顾数字逻辑全部核心知识点，建立知识体系。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00151"
+  },
+  {
+    "id": "dl-lesson-00152",
+    "type": "lesson",
+    "title": "组合逻辑综合练习",
+    "summary": "综合组合逻辑分析设计方法，完成典型习题。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00152"
+  },
+  {
+    "id": "dl-lesson-00153",
+    "type": "lesson",
+    "title": "时序逻辑综合练习",
+    "summary": "综合触发器、计数器、状态机知识，完成典型习题。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00153"
+  },
+  {
+    "id": "dl-lesson-00154",
+    "type": "lesson",
+    "title": "FPGA实操复习",
+    "summary": "回顾Quartus、BDF、Verilog操作要点。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00154"
+  },
+  {
+    "id": "dl-lesson-00155",
+    "type": "lesson",
+    "title": "模拟考试与讲评",
+    "summary": "完成一套综合模拟试卷并详细讲评。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00155"
+  },
+  {
+    "id": "dl-lesson-00156",
+    "type": "lesson",
+    "title": "脉冲信号概述",
+    "summary": "了解脉冲信号的基本参数：脉宽、周期、频率、占空比、上升沿、下降沿。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00156"
+  },
+  {
+    "id": "dl-lesson-00157",
+    "type": "lesson",
+    "title": "施密特触发器",
+    "summary": "掌握施密特触发器的回差特性、传输特性曲线及整形应用。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00157"
+  },
+  {
+    "id": "dl-lesson-00158",
+    "type": "lesson",
+    "title": "单稳态触发器",
+    "summary": "理解单稳态触发器的暂稳态原理、脉宽计算及不可重复/可重复触发区别。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00158"
+  },
+  {
+    "id": "dl-lesson-00159",
+    "type": "lesson",
+    "title": "多谐振荡器",
+    "summary": "掌握多谐振荡器自激振荡原理、振荡频率计算及RC定时元件选择。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00159"
+  },
+  {
+    "id": "dl-lesson-00160",
+    "type": "lesson",
+    "title": "555定时器结构",
+    "summary": "了解555定时器内部结构、引脚功能及三种基本工作模式。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00160"
+  },
+  {
+    "id": "dl-lesson-00161",
+    "type": "lesson",
+    "title": "555构成施密特触发器",
+    "summary": "用555实现施密特触发器，计算回差电压并分析传输特性。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00161"
+  },
+  {
+    "id": "dl-lesson-00162",
+    "type": "lesson",
+    "title": "555构成单稳态触发器",
+    "summary": "用555实现单稳态触发器，推导脉宽公式Tw=1.1RC并进行设计计算。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00162"
+  },
+  {
+    "id": "dl-lesson-00163",
+    "type": "lesson",
+    "title": "555构成多谐振荡器",
+    "summary": "用555实现多谐振荡器，推导频率公式f=1/[0.7(R1+2R2)C]及占空比调节方法。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00163"
+  },
+  {
+    "id": "dl-lesson-00164",
+    "type": "lesson",
+    "title": "脉冲整形与延时应用",
+    "summary": "施密特整形、单稳延时、多谐振荡在实际电路中的典型应用。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00164"
+  },
+  {
+    "id": "dl-lesson-00165",
+    "type": "lesson",
+    "title": "555综合应用设计",
+    "summary": "综合运用555实现定时、报警、频率可调信号源等实际项目。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00165"
+  },
+  {
+    "id": "dl-lesson-00166",
+    "type": "lesson",
+    "title": "存储器概述与分类",
+    "summary": "了解ROM、RAM、SRAM、DRAM、Flash的分类体系及各自特点。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00166"
+  },
+  {
+    "id": "dl-lesson-00167",
+    "type": "lesson",
+    "title": "ROM结构与原理",
+    "summary": "掌握ROM的地址译码、存储矩阵结构及只读特性。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00167"
+  },
+  {
+    "id": "dl-lesson-00168",
+    "type": "lesson",
+    "title": "RAM结构与读写操作",
+    "summary": "理解SRAM和DRAM的存储单元结构、读写时序及速度对比。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00168"
+  },
+  {
+    "id": "dl-lesson-00169",
+    "type": "lesson",
+    "title": "SRAM与DRAM对比",
+    "summary": "从速度、功耗、密度、成本、刷新需求等维度对比SRAM和DRAM。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00169"
+  },
+  {
+    "id": "dl-lesson-00170",
+    "type": "lesson",
+    "title": "存储器字扩展",
+    "summary": "用多片存储器扩展字数（地址空间），掌握片选逻辑设计。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00170"
+  },
+  {
+    "id": "dl-lesson-00171",
+    "type": "lesson",
+    "title": "存储器位扩展",
+    "summary": "用多片存储器扩展每个字的位数，掌握数据线并联方法。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00171"
+  },
+  {
+    "id": "dl-lesson-00172",
+    "type": "lesson",
+    "title": "ROM实现组合逻辑函数",
+    "summary": "利用ROM的地址-数据映射特性实现任意组合逻辑函数。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00172"
+  },
+  {
+    "id": "dl-lesson-00173",
+    "type": "lesson",
+    "title": "PROM与EPROM",
+    "summary": "了解可编程ROM的一次编程和可擦除可编程原理。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00173"
+  },
+  {
+    "id": "dl-lesson-00174",
+    "type": "lesson",
+    "title": "EEPROM与Flash存储器",
+    "summary": "了解电可擦除ROM和Flash的NOR/NAND结构及擦写原理。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00174"
+  },
+  {
+    "id": "dl-lesson-00175",
+    "type": "lesson",
+    "title": "存储器综合应用",
+    "summary": "存储器在计算机系统中的层级结构、Cache原理及实际应用。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00175"
+  },
+  {
+    "id": "dl-lesson-00176",
+    "type": "lesson",
+    "title": "可编程逻辑器件概述",
+    "summary": "了解PLD的发展历程、分类体系（PROM/PLA/PAL/GAL/FPGA/CPLD）及选型原则。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00176"
+  },
+  {
+    "id": "dl-lesson-00177",
+    "type": "lesson",
+    "title": "PROM与PLA结构",
+    "summary": "掌握PROM的固定与阵列+可编程或阵列、PLA的可编程与+或阵列结构。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00177"
+  },
+  {
+    "id": "dl-lesson-00178",
+    "type": "lesson",
+    "title": "PAL结构与应用",
+    "summary": "理解PAL的可编程与阵列+固定或阵列结构及其局限性。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00178"
+  },
+  {
+    "id": "dl-lesson-00179",
+    "type": "lesson",
+    "title": "GAL结构与OLMC",
+    "summary": "掌握GAL的输出逻辑宏单元OLMC结构及多种工作模式配置。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00179"
+  },
+  {
+    "id": "dl-lesson-00180",
+    "type": "lesson",
+    "title": "FPGA结构与查找表",
+    "summary": "深入理解FPGA的LUT查找表、可编程互连、I/O块及嵌入式存储块结构。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00180"
+  },
+  {
+    "id": "dl-lesson-00181",
+    "type": "lesson",
+    "title": "CPLD结构与特点",
+    "summary": "了解CPLD的乘积项结构、与FPGA的区别及各自适用场景。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00181"
+  },
+  {
+    "id": "dl-lesson-00182",
+    "type": "lesson",
+    "title": "硬件描述语言与PLD",
+    "summary": "了解Verilog/VHDL在PLD设计中的角色，从HDL到配置文件的完整流程。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00182"
+  },
+  {
+    "id": "dl-lesson-00183",
+    "type": "lesson",
+    "title": "PLD开发流程",
+    "summary": "掌握设计输入→功能仿真→综合→适配→时序仿真→下载的完整开发流程。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00183"
+  },
+  {
+    "id": "dl-lesson-00184",
+    "type": "lesson",
+    "title": "IP核与设计复用",
+    "summary": "了解IP核的概念、软核/硬核/固核区别及在FPGA设计中的复用策略。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00184"
+  },
+  {
+    "id": "dl-lesson-00185",
+    "type": "lesson",
+    "title": "PLD选型与综合应用",
+    "summary": "根据项目需求选择合适的FPGA/CPLD器件，进行资源评估和功耗分析。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00185"
+  },
+  {
+    "id": "dl-lesson-00186",
+    "type": "lesson",
+    "title": "Quartus安装与界面介绍",
+    "summary": "安装Quartus Prime，熟悉菜单栏、工程导航器、消息窗口等界面布局。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00186"
+  },
+  {
+    "id": "dl-lesson-00187",
+    "type": "lesson",
+    "title": "新建工程与器件选择",
+    "summary": "掌握新建工程向导：工程名/路径设置、器件选择（Cyclone IV等）、EDA工具配置。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00187"
+  },
+  {
+    "id": "dl-lesson-00188",
+    "type": "lesson",
+    "title": "添加源文件与设计输入",
+    "summary": "学习添加Verilog/BDF源文件，理解设计层次结构和文件管理。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00188"
+  },
+  {
+    "id": "dl-lesson-00189",
+    "type": "lesson",
+    "title": "编译与综合详解",
+    "summary": "理解Analysis & Synthesis、Fitter、Assembler、TimeQuest四个编译阶段。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00189"
+  },
+  {
+    "id": "dl-lesson-00190",
+    "type": "lesson",
+    "title": "查看RTL视图",
+    "summary": "使用RTL Viewer查看综合后的寄存器传输级电路结构，验证设计意图。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00190"
+  },
+  {
+    "id": "dl-lesson-00191",
+    "type": "lesson",
+    "title": "时序仿真与波形",
+    "summary": "创建Vector Waveform File，添加信号、设置激励、运行仿真并分析波形。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00191"
+  },
+  {
+    "id": "dl-lesson-00192",
+    "type": "lesson",
+    "title": "SignalTap II逻辑分析仪",
+    "summary": "使用SignalTap II在线抓取FPGA内部信号，设置采样时钟、触发条件和采样深度。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00192"
+  },
+  {
+    "id": "dl-lesson-00193",
+    "type": "lesson",
+    "title": "引脚分配与Pin Planner",
+    "summary": "使用Pin Planner或Assignment Editor将逻辑端口映射到FPGA物理引脚。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00193"
+  },
+  {
+    "id": "dl-lesson-00194",
+    "type": "lesson",
+    "title": "下载与编程",
+    "summary": "使用Programmer通过JTAG/AS模式将比特流下载到FPGA，区分SRAM配置和Flash固化。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00194"
+  },
+  {
+    "id": "dl-lesson-00195",
+    "type": "lesson",
+    "title": "工程管理与版本控制",
+    "summary": "工程设置备份、QSF文件管理、Tcl脚本自动化及Git版本控制最佳实践。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00195"
+  },
+  {
+    "id": "dl-lesson-00196",
+    "type": "lesson",
+    "title": "BDF原理图设计概述",
+    "summary": "了解Block Diagram File的设计方式、适用场景及与Verilog的对比。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00196"
+  },
+  {
+    "id": "dl-lesson-00197",
+    "type": "lesson",
+    "title": "创建BDF文件与符号库",
+    "summary": "新建BDF文件，认识Quartus符号库中的基本逻辑门、译码器、计数器等符号。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00197"
+  },
+  {
+    "id": "dl-lesson-00198",
+    "type": "lesson",
+    "title": "放置元器件与绘制连线",
+    "summary": "从符号库拖放元器件，使用单线工具绘制连线，掌握橡皮筋模式。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00198"
+  },
+  {
+    "id": "dl-lesson-00199",
+    "type": "lesson",
+    "title": "总线绘制与命名",
+    "summary": "绘制总线（粗线），使用Bus Tap引出单线，命名如data[3..0]和data[0]。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00199"
+  },
+  {
+    "id": "dl-lesson-00200",
+    "type": "lesson",
+    "title": "输入输出端口与电源地",
+    "summary": "添加输入端口、输出端口、双向端口，以及VCC/GND符号。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00200"
+  },
+  {
+    "id": "dl-lesson-00201",
+    "type": "lesson",
+    "title": "生成自定义符号",
+    "summary": "将完成的子模块BDF生成可复用符号，在顶层原理图中调用。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00201"
+  },
+  {
+    "id": "dl-lesson-00202",
+    "type": "lesson",
+    "title": "层次化设计方法",
+    "summary": "自顶向下设计：顶层BDF调用子模块符号，实现模块化与层次化。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00202"
+  },
+  {
+    "id": "dl-lesson-00203",
+    "type": "lesson",
+    "title": "BDF编译与错误排查",
+    "summary": "编译BDF设计，定位悬空节点、命名冲突、位宽不匹配等常见错误。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00203"
+  },
+  {
+    "id": "dl-lesson-00204",
+    "type": "lesson",
+    "title": "BDF与Verilog混合设计",
+    "summary": "在BDF中调用Verilog模块生成的符号，实现原理图与代码的混合设计。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00204"
+  },
+  {
+    "id": "dl-lesson-00205",
+    "type": "lesson",
+    "title": "BDF综合设计实例",
+    "summary": "完成一个完整的BDF设计项目：从需求分析到原理图绘制到编译验证。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00205"
+  },
+  {
+    "id": "dl-lesson-00206",
+    "type": "lesson",
+    "title": "Verilog模块结构",
+    "summary": "掌握module-endmodule结构、端口声明（input/output/inout）及模块实例化。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00206"
+  },
+  {
+    "id": "dl-lesson-00207",
+    "type": "lesson",
+    "title": "数据类型与常量",
+    "summary": "理解wire、reg、integer、parameter类型及常量表示（位宽进制数值）。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00207"
+  },
+  {
+    "id": "dl-lesson-00208",
+    "type": "lesson",
+    "title": "运算符与表达式",
+    "summary": "掌握算术、逻辑、关系、位运算、移位、条件运算符及运算优先级。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00208"
+  },
+  {
+    "id": "dl-lesson-00209",
+    "type": "lesson",
+    "title": "assign连续赋值语句",
+    "summary": "使用assign描述组合逻辑，理解wire类型的驱动关系及三态门建模。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00209"
+  },
+  {
+    "id": "dl-lesson-00210",
+    "type": "lesson",
+    "title": "always过程块",
+    "summary": "掌握always块的事件列表（posedge/negedge）、阻塞与非阻塞赋值区别。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00210"
+  },
+  {
+    "id": "dl-lesson-00211",
+    "type": "lesson",
+    "title": "条件与分支语句",
+    "summary": "使用if-else和case/casex/casez实现条件分支，注意锁存器推断问题。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00211"
+  },
+  {
+    "id": "dl-lesson-00212",
+    "type": "lesson",
+    "title": "组合逻辑建模规范",
+    "summary": "组合逻辑使用always @(*)或assign，确保所有分支赋值避免latch推断。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00212"
+  },
+  {
+    "id": "dl-lesson-00213",
+    "type": "lesson",
+    "title": "时序逻辑建模规范",
+    "summary": "时序逻辑使用always @(posedge clk)，统一使用非阻塞赋值<=，异步复位处理。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00213"
+  },
+  {
+    "id": "dl-lesson-00214",
+    "type": "lesson",
+    "title": "有限状态机设计",
+    "summary": "两段式/三段式状态机写法：状态寄存器+次态逻辑+输出逻辑，编码方式选择。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00214"
+  },
+  {
+    "id": "dl-lesson-00215",
+    "type": "lesson",
+    "title": "Verilog综合实例",
+    "summary": "从需求到代码的完整设计：分频器、计数器、UART发送器等典型电路。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00215"
+  },
+  {
+    "id": "dl-lesson-00216",
+    "type": "lesson",
+    "title": "FPGA开发流程概述",
+    "summary": "了解FPGA从设计输入到下载验证的完整开发流程及各阶段工具。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00216"
+  },
+  {
+    "id": "dl-lesson-00217",
+    "type": "lesson",
+    "title": "设计输入与功能仿真",
+    "summary": "完成设计输入（Verilog/BDF），编写Testbench进行功能仿真验证逻辑正确性。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00217"
+  },
+  {
+    "id": "dl-lesson-00218",
+    "type": "lesson",
+    "title": "综合与适配详解",
+    "summary": "理解综合（逻辑优化+映射到LUT）和适配（布局布线）的原理和报告分析。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00218"
+  },
+  {
+    "id": "dl-lesson-00219",
+    "type": "lesson",
+    "title": "静态时序分析基础",
+    "summary": "理解建立时间/保持时间约束、关键路径、时序违例及slack计算。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00219"
+  },
+  {
+    "id": "dl-lesson-00220",
+    "type": "lesson",
+    "title": "SDC时钟约束",
+    "summary": "编写SDC约束文件：create_clock定义时钟、set_input_delay/set_output_delay约束I/O。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00220"
+  },
+  {
+    "id": "dl-lesson-00221",
+    "type": "lesson",
+    "title": "引脚约束与I/O标准",
+    "summary": "使用QSF或Pin Planner分配引脚，设置I/O标准（3.3-V LVTTL等）和驱动强度。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00221"
+  },
+  {
+    "id": "dl-lesson-00222",
+    "type": "lesson",
+    "title": "比特流生成与下载",
+    "summary": "生成.sof/.pof比特流文件，通过JTAG下载到FPGA或AS模式固化到EPCS。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00222"
+  },
+  {
+    "id": "dl-lesson-00223",
+    "type": "lesson",
+    "title": "上板调试方法",
+    "summary": "使用SignalTap II在线调试、LED/数码管辅助观察、分模块验证等调试策略。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00223"
+  },
+  {
+    "id": "dl-lesson-00224",
+    "type": "lesson",
+    "title": "LED流水灯实验",
+    "summary": "从零完成LED流水灯实验：分频→移位寄存器→LED输出→引脚绑定→下载验证。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00224"
+  },
+  {
+    "id": "dl-lesson-00225",
+    "type": "lesson",
+    "title": "按键消抖与数码管实验",
+    "summary": "实现按键消抖逻辑+数码管动态扫描显示，掌握输入输出外设的综合调试。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00225"
+  },
+  {
+    "id": "dl-lesson-00226",
+    "type": "lesson",
+    "title": "课程设计需求分析",
+    "summary": "分析步进电机模拟电梯控制系统的功能需求、性能指标和设计约束。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00226"
+  },
+  {
+    "id": "dl-lesson-00227",
+    "type": "lesson",
+    "title": "输入输出信号定义",
+    "summary": "定义层站呼叫按钮、轿内指令、楼层传感器、开关门按钮等输入信号，及电机相序、数码管、LED、门控等输出信号。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00227"
+  },
+  {
+    "id": "dl-lesson-00228",
+    "type": "lesson",
+    "title": "楼层状态编码设计",
+    "summary": "用二进制编码表示楼层号，设计当前楼层寄存器的数据宽度和初始值。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00228"
+  },
+  {
+    "id": "dl-lesson-00229",
+    "type": "lesson",
+    "title": "请求信号锁存与保持",
+    "summary": "用D触发器或JK触发器锁存层站呼叫和轿内指令信号，设计请求清除逻辑。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00229"
+  },
+  {
+    "id": "dl-lesson-00230",
+    "type": "lesson",
+    "title": "电梯方向控制逻辑",
+    "summary": "设计上行/下行方向判断逻辑：比较当前楼层与目标楼层，确定运行方向。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00230"
+  },
+  {
+    "id": "dl-lesson-00231",
+    "type": "lesson",
+    "title": "到站判断与停靠",
+    "summary": "当当前楼层等于目标楼层时产生到站信号，触发减速、停靠和开门动作。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00231"
+  },
+  {
+    "id": "dl-lesson-00232",
+    "type": "lesson",
+    "title": "开关门信号设计",
+    "summary": "设计开门定时→开门保持→关门信号→关门确认的时序控制逻辑。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00232"
+  },
+  {
+    "id": "dl-lesson-00233",
+    "type": "lesson",
+    "title": "步进电机四相八拍相序",
+    "summary": "设计步进电机四相八拍驱动相序：A→AB→B→BC→C→CD→D→DA，正反转切换。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00233"
+  },
+  {
+    "id": "dl-lesson-00234",
+    "type": "lesson",
+    "title": "分频与速度控制模块",
+    "summary": "用LPM_COUNTER将50MHz系统时钟分频到步进电机驱动频率，实现速度调节。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00234"
+  },
+  {
+    "id": "dl-lesson-00235",
+    "type": "lesson",
+    "title": "BDF原理图连接设计",
+    "summary": "在Quartus BDF中连接分频、计数、译码、电机驱动、显示等子模块。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00235"
+  },
+  {
+    "id": "dl-lesson-00236",
+    "type": "lesson",
+    "title": "Quartus编译与引脚绑定",
+    "summary": "完成编译、分配引脚、编写SDC时钟约束、解决编译警告。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00236"
+  },
+  {
+    "id": "dl-lesson-00237",
+    "type": "lesson",
+    "title": "下载验证与实验报告",
+    "summary": "下载到FPGA开发板验证功能，撰写课程设计实验报告。",
+    "tags": [],
+    "url": "/lessons/dl-lesson-00237"
+  },
+  {
     "id": "kp-1",
     "type": "knowledge-point",
     "title": "数制",

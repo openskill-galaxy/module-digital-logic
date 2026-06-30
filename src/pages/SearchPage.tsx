@@ -1,13 +1,24 @@
-import { useMemo, useState } from "react";
-import { Link } from "react-router-dom";
+import { useMemo, useState, useEffect } from "react";
+import { Link, useSearchParams } from "react-router-dom";
 import type { ModuleData } from "../data/loaders";
 import { ensureIndex } from "../components/SearchBox";
 import { runSearch, typeLabel } from "../search/search";
 import EmptyState from "../components/EmptyState";
 
 export default function SearchPage({ data }: { data: ModuleData }) {
-  const [query, setQuery] = useState("");
-  const [submitted, setSubmitted] = useState("");
+  const [searchParams] = useSearchParams();
+  const initialQ = searchParams.get("q") || "";
+  const [query, setQuery] = useState(initialQ);
+  const [submitted, setSubmitted] = useState(initialQ);
+
+  // Read URL q param on change
+  useEffect(() => {
+    const q = searchParams.get("q") || "";
+    if (q && q !== query) {
+      setQuery(q);
+      setSubmitted(q);
+    }
+  }, [searchParams]);
 
   const results = useMemo(() => {
     if (!submitted.trim()) return [];

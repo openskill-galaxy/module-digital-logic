@@ -10,6 +10,7 @@ import type {
   GlossaryTerm,
   SearchResult,
 } from "../types";
+import type { SearchIndexEntry } from "../data/loaders";
 
 export interface SearchSource {
   courses: Course[];
@@ -31,11 +32,22 @@ interface IndexEntry {
   tags: string[];
 }
 
+// Type mapping: search-index uses different type labels than the raw data
+const INDEX_TYPE_MAP: Record<string, SearchResult["type"]> = {
+  course: "course",
+  lesson: "lesson",
+  "knowledge-point": "knowledge",
+  question: "question",
+  case: "case",
+  route: "route",
+  faq: "faq",
+  glossary: "glossary",
+};
+
 export function buildSearchEntries(src: SearchSource): IndexEntry[] {
   const courses: IndexEntry[] = src.courses.map((c) => ({ type: "course", id: c.id, title: c.title, summary: c.summary, url: `/courses/${c.slug}`, tags: c.tags }));
   const lessons: IndexEntry[] = src.lessons.map((l) => ({ type: "lesson", id: l.id, title: l.title, summary: l.summary, url: `/lessons/${l.slug}`, tags: [] }));
   const kps: IndexEntry[] = src.knowledgePoints.map((k) => ({ type: "knowledge", id: k.id, title: k.title, summary: k.summary, url: `/knowledge/${k.slug}`, tags: k.tags }));
-  // 题目使用 chapter + knowledge_points 作为搜索字段
   const questions: IndexEntry[] = src.questions.map((q) => ({
     type: "question",
     id: q.id,
@@ -49,6 +61,18 @@ export function buildSearchEntries(src: SearchSource): IndexEntry[] {
   const faqs: IndexEntry[] = src.faqs.map((f) => ({ type: "faq", id: f.id, title: f.question, summary: f.answer.slice(0, 120), url: `/faq#${f.id}`, tags: [] }));
   const glossary: IndexEntry[] = src.glossary.map((g) => ({ type: "glossary", id: g.id, title: g.term, summary: g.definition, url: `/knowledge#glossary-${g.id}`, tags: [] }));
   return [...courses, ...lessons, ...kps, ...questions, ...cases, ...routes, ...faqs, ...glossary];
+}
+
+// Convert pre-built search-index.json entries to IndexEntry format
+export function convertSearchIndex(entries: SearchIndexEntry[]): IndexEntry[] {
+  return entries.map((e) => ({
+    type: INDEX_TYPE_MAP[e.type] || (e.type as SearchResult["type"]),
+    id: e.id,
+    title: e.title,
+    summary: e.summary,
+    url: e.url,
+    tags: e.tags || [],
+  }));
 }
 
 export function createFuse(entries: IndexEntry[]): Fuse<IndexEntry> {

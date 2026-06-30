@@ -1,11 +1,13 @@
 import { useEffect, useRef, useState } from "react";
 import { useNavigate } from "react-router-dom";
 import type { SearchResult } from "../types";
-import { buildSearchEntries, createFuse, runSearch, typeLabel } from "../search/search";
+import { buildSearchEntries, convertSearchIndex, createFuse, runSearch, typeLabel } from "../search/search";
+import { loadSearchIndex } from "../data/loaders";
 import type { ModuleData } from "../data/loaders";
 
 let cachedEntries: ReturnType<typeof buildSearchEntries> | null = null;
 let cachedFuse: ReturnType<typeof createFuse> | null = null;
+let indexLoadAttempted = false;
 
 export default function SearchBox() {
   const [query, setQuery] = useState("");
@@ -24,7 +26,7 @@ export default function SearchBox() {
     return () => document.removeEventListener("mousedown", handleClick);
   }, []);
 
-  // 延迟加载搜索数据（首次聚焦或输入时）
+  // Lazy-load search index on first input
   useEffect(() => {
     if (query.trim().length === 0) {
       setResults([]);
@@ -33,6 +35,40 @@ export default function SearchBox() {
     }
     let cancelled = false;
     if (!cachedEntries || !cachedFuse) {
+      // Try loading pre-built search-index.json first
+      if (!indexLoadAttempted) {
+        indexLoadAttempted = true;
+        loadSearchIndex()
+          .then((entries) => {
+            if (cancelled) return;
+            if (entries.length > 0) {
+              cachedEntries = convertSearchIndex(entries);
+              cachedFuse = createFuse(cachedEntries);
+              setResults(runSearch(cachedFuse, query, 8));
+              setOpen(true);
+            } else {
+              // Fallback: build from raw data
+              buildFromRawData();
+            }
+          })
+          .catch(() => {
+            if (cancelled) return;
+            buildFromRawData();
+          });
+      } else {
+        buildFromRawData();
+      }
+    } else {
+      setResults(runSearch(cachedFuse, query, 8));
+      setOpen(true);
+    }
+
+    function buildFromRawData() {
+      if (cachedEntries && cachedFuse) {
+        setResults(runSearch(cachedFuse, query, 8));
+        setOpen(true);
+        return;
+      }
       import("../data/loaders")
         .then(({ loadAll }) => loadAll())
         .then((data) => {
@@ -52,10 +88,8 @@ export default function SearchBox() {
           setOpen(true);
         })
         .catch(() => {});
-    } else {
-      setResults(runSearch(cachedFuse, query, 8));
-      setOpen(true);
     }
+
     return () => {
       cancelled = true;
     };
@@ -67,12 +101,20 @@ export default function SearchBox() {
     navigate(r.url);
   }
 
+  function handleKeyDown(e: React.KeyboardEvent) {
+    if (e.key === "Enter" && query.trim()) {
+      setOpen(false);
+      navigate(`/search?q=${encodeURIComponent(query.trim())}`);
+    }
+  }
+
   return (
     <div ref={boxRef} className="relative">
       <input
         type="search"
         value={query}
         onChange={(e) => setQuery(e.target.value)}
+        onKeyDown={handleKeyDown}
         placeholder="搜索课程、知识点、题目…"
         className="input"
         aria-label="搜索"
@@ -107,24 +149,28 @@ export default function SearchBox() {
   );
 }
 
-// 暴露给 SearchPage 复用同一份缓存
+// Expose for SearchPage to reuse the same cache
 export function getSearchIndex(): { fuse: ReturnType<typeof createFuse> | null } {
   return { fuse: cachedFuse };
 }
 
 export function ensureIndex(data: ModuleData): ReturnType<typeof createFuse> {
   if (!cachedEntries || !cachedFuse) {
-    cachedEntries = buildSearchEntries({
-      courses: data.courses,
-      lessons: data.lessons,
-      knowledgePoints: data.knowledgePoints,
-      questions: data.questions,
-      cases: data.cases,
-      routes: data.routes,
-      faqs: data.faqs,
-      glossary: data.glossary,
-    });
-    cachedFuse = createFuse(cachedEntries);
+    // Try pre-built index first
+    if (!indexLoadAttempted) {
+      // Synchronous fallback — SearchPage uses this after data is already loaded
+      cachedEntries = buildSearchEntries({
+        courses: data.courses,
+        lessons: data.lessons,
+        knowledgePoints: data.knowledgePoints,
+        questions: data.questions,
+        cases: data.cases,
+        routes: data.routes,
+        faqs: data.faqs,
+        glossary: data.glossary,
+      });
+      cachedFuse = createFuse(cachedEntries);
+    }
   }
-  return cachedFuse;
+  return cachedFuse!;
 }

@@ -367,7 +367,13 @@
       "状态机"
     ],
     "estimatedHours": 20,
-    "lessons": [],
+    "lessons": [
+      "dl-lesson-00151",
+      "dl-lesson-00152",
+      "dl-lesson-00153",
+      "dl-lesson-00154",
+      "dl-lesson-00155"
+    ],
     "order": 12
   },
   {
@@ -382,7 +388,18 @@
       "单稳"
     ],
     "estimatedHours": 10,
-    "lessons": [],
+    "lessons": [
+      "dl-lesson-00156",
+      "dl-lesson-00157",
+      "dl-lesson-00158",
+      "dl-lesson-00159",
+      "dl-lesson-00160",
+      "dl-lesson-00161",
+      "dl-lesson-00162",
+      "dl-lesson-00163",
+      "dl-lesson-00164",
+      "dl-lesson-00165"
+    ],
     "order": 13
   },
   {
@@ -397,7 +414,18 @@
       "FLASH"
     ],
     "estimatedHours": 8,
-    "lessons": [],
+    "lessons": [
+      "dl-lesson-00166",
+      "dl-lesson-00167",
+      "dl-lesson-00168",
+      "dl-lesson-00169",
+      "dl-lesson-00170",
+      "dl-lesson-00171",
+      "dl-lesson-00172",
+      "dl-lesson-00173",
+      "dl-lesson-00174",
+      "dl-lesson-00175"
+    ],
     "order": 14
   },
   {
@@ -412,7 +440,18 @@
       "FPGA"
     ],
     "estimatedHours": 10,
-    "lessons": [],
+    "lessons": [
+      "dl-lesson-00176",
+      "dl-lesson-00177",
+      "dl-lesson-00178",
+      "dl-lesson-00179",
+      "dl-lesson-00180",
+      "dl-lesson-00181",
+      "dl-lesson-00182",
+      "dl-lesson-00183",
+      "dl-lesson-00184",
+      "dl-lesson-00185"
+    ],
     "order": 15
   },
   {
@@ -427,7 +466,18 @@
       "编译"
     ],
     "estimatedHours": 8,
-    "lessons": [],
+    "lessons": [
+      "dl-lesson-00186",
+      "dl-lesson-00187",
+      "dl-lesson-00188",
+      "dl-lesson-00189",
+      "dl-lesson-00190",
+      "dl-lesson-00191",
+      "dl-lesson-00192",
+      "dl-lesson-00193",
+      "dl-lesson-00194",
+      "dl-lesson-00195"
+    ],
     "order": 16
   },
   {
@@ -442,7 +492,18 @@
       "符号"
     ],
     "estimatedHours": 10,
-    "lessons": [],
+    "lessons": [
+      "dl-lesson-00196",
+      "dl-lesson-00197",
+      "dl-lesson-00198",
+      "dl-lesson-00199",
+      "dl-lesson-00200",
+      "dl-lesson-00201",
+      "dl-lesson-00202",
+      "dl-lesson-00203",
+      "dl-lesson-00204",
+      "dl-lesson-00205"
+    ],
     "order": 17
   },
   {
@@ -457,7 +518,18 @@
       "always"
     ],
     "estimatedHours": 12,
-    "lessons": [],
+    "lessons": [
+      "dl-lesson-00206",
+      "dl-lesson-00207",
+      "dl-lesson-00208",
+      "dl-lesson-00209",
+      "dl-lesson-00210",
+      "dl-lesson-00211",
+      "dl-lesson-00212",
+      "dl-lesson-00213",
+      "dl-lesson-00214",
+      "dl-lesson-00215"
+    ],
     "order": 18
   },
   {
@@ -472,7 +544,18 @@
       "验证"
     ],
     "estimatedHours": 12,
-    "lessons": [],
+    "lessons": [
+      "dl-lesson-00216",
+      "dl-lesson-00217",
+      "dl-lesson-00218",
+      "dl-lesson-00219",
+      "dl-lesson-00220",
+      "dl-lesson-00221",
+      "dl-lesson-00222",
+      "dl-lesson-00223",
+      "dl-lesson-00224",
+      "dl-lesson-00225"
+    ],
     "order": 19
   },
   {
@@ -487,7 +570,20 @@
       "课程设计"
     ],
     "estimatedHours": 20,
-    "lessons": [],
+    "lessons": [
+      "dl-lesson-00226",
+      "dl-lesson-00227",
+      "dl-lesson-00228",
+      "dl-lesson-00229",
+      "dl-lesson-00230",
+      "dl-lesson-00231",
+      "dl-lesson-00232",
+      "dl-lesson-00233",
+      "dl-lesson-00234",
+      "dl-lesson-00235",
+      "dl-lesson-00236",
+      "dl-lesson-00237"
+    ],
     "order": 20
   }
 ]

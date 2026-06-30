@@ -1,14 +1,14 @@
 # Module Quality Report
 
-Generated: 2026-06-29T19:04:48.830Z
-Module path: D:\Wonderful\openskill-galaxy\03-modules\module-digital-logic
+Generated: 2026-06-30T00:25:13.955Z
+Module path: /mnt/d/Wonderful/openskill-galaxy/03-modules/module-digital-logic
 
 ## 1. Data Scale
 
 | Data Type | Count |
 |-----------|------|
 | courses | 20 |
-| lessons | 150 |
+| lessons | 237 |
 | knowledge-points | 620 |
 | questions | 1511 |
 | exams | 50 |
@@ -52,19 +52,19 @@ Module path: D:\Wonderful\openskill-galaxy\03-modules\module-digital-logic
 |------|-----------|
 | questions.json | 1594.0 |
 | knowledge-points.json | 639.2 |
+| lessons.json | 231.5 |
 | cases.json | 136.7 |
-| lessons.json | 126.0 |
 | tags.json | 52.3 |
 | faqs.json | 45.5 |
 | exams.json | 38.1 |
 | glossary.json | 36.8 |
 | routes.json | 30.8 |
-| courses.json | 10.2 |
-| search-index.json | 853.8 |
+| courses.json | 12.4 |
+| search-index.json | 875.6 |
 
 ## 7. Search Index
 
-✅ search-index.json exists (853.8 KB)
+✅ search-index.json exists (875.6 KB)
 
 ## 8. Optimization Suggestions
 
