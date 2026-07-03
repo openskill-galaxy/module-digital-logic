@@ -1085,5 +1085,80 @@
         "lessonId": "lesson-77"
       }
     ]
+  },
+  {
+    "id": "dl-route-26",
+    "slug": "数字逻辑学习路线26",
+    "title": "学习路线26",
+    "description": "学习路线",
+    "targetUser": "学习者",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "dl-route-27",
+    "slug": "数字逻辑学习路线27",
+    "title": "学习路线27",
+    "description": "学习路线",
+    "targetUser": "学习者",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "dl-route-28",
+    "slug": "数字逻辑学习路线28",
+    "title": "学习路线28",
+    "description": "学习路线",
+    "targetUser": "学习者",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "dl-route-29",
+    "slug": "数字逻辑学习路线29",
+    "title": "学习路线29",
+    "description": "学习路线",
+    "targetUser": "学习者",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
+  },
+  {
+    "id": "dl-route-30",
+    "slug": "数字逻辑学习路线30",
+    "title": "学习路线30",
+    "description": "学习路线",
+    "targetUser": "学习者",
+    "durationDays": 5,
+    "steps": [],
+    "recommendedCourseIds": [],
+    "recommendedLessonIds": [],
+    "recommendedQuestionIds": [],
+    "outcomes": [
+      "掌握"
+    ]
   }
 ]
