@@ -18,7 +18,9 @@
       "dl-q-000001"
     ],
     "timeLimitMinutes": 10,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 10,
+    "description": "覆盖数制与编码核心知识点的模拟测试。"
   },
   {
     "id": "exam-2",
@@ -39,7 +41,9 @@
       "dl-q-000462"
     ],
     "timeLimitMinutes": 10,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 10,
+    "description": "覆盖逻辑代数基础核心知识点的模拟测试。"
   },
   {
     "id": "exam-3",
@@ -60,7 +64,9 @@
       "dl-q-000443"
     ],
     "timeLimitMinutes": 10,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 10,
+    "description": "覆盖逻辑门电路核心知识点的模拟测试。"
   },
   {
     "id": "exam-4",
@@ -81,7 +87,9 @@
       "dl-q-000164"
     ],
     "timeLimitMinutes": 10,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 10,
+    "description": "覆盖组合逻辑电路核心知识点的模拟测试。"
   },
   {
     "id": "exam-5",
@@ -102,7 +110,9 @@
       "dl-q-000085"
     ],
     "timeLimitMinutes": 10,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 10,
+    "description": "覆盖编码器核心知识点的模拟测试。"
   },
   {
     "id": "exam-6",
@@ -123,7 +133,9 @@
       "dl-q-000046"
     ],
     "timeLimitMinutes": 15,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 15,
+    "description": "覆盖译码器核心知识点的模拟测试。"
   },
   {
     "id": "exam-7",
@@ -144,7 +156,9 @@
       "dl-q-000287"
     ],
     "timeLimitMinutes": 15,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 15,
+    "description": "覆盖数据选择器核心知识点的模拟测试。"
   },
   {
     "id": "exam-8",
@@ -165,7 +179,9 @@
       "dl-q-000168"
     ],
     "timeLimitMinutes": 15,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 15,
+    "description": "覆盖加法器核心知识点的模拟测试。"
   },
   {
     "id": "exam-9",
@@ -186,7 +202,9 @@
       "dl-q-000089"
     ],
     "timeLimitMinutes": 15,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 15,
+    "description": "覆盖比较器核心知识点的模拟测试。"
   },
   {
     "id": "exam-10",
@@ -207,7 +225,9 @@
       "dl-q-000390"
     ],
     "timeLimitMinutes": 15,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 15,
+    "description": "覆盖触发器核心知识点的模拟测试。"
   },
   {
     "id": "exam-11",
@@ -228,7 +248,9 @@
       "dl-q-000371"
     ],
     "timeLimitMinutes": 20,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 20,
+    "description": "覆盖计数器核心知识点的模拟测试。"
   },
   {
     "id": "exam-12",
@@ -249,7 +271,9 @@
       "dl-q-000032"
     ],
     "timeLimitMinutes": 20,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 20,
+    "description": "覆盖寄存器核心知识点的模拟测试。"
   },
   {
     "id": "exam-13",
@@ -270,7 +294,9 @@
       "dl-q-000433"
     ],
     "timeLimitMinutes": 20,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 20,
+    "description": "覆盖时序逻辑电路核心知识点的模拟测试。"
   },
   {
     "id": "exam-14",
@@ -291,7 +317,9 @@
       "dl-q-000174"
     ],
     "timeLimitMinutes": 20,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 20,
+    "description": "覆盖脉冲波形核心知识点的模拟测试。"
   },
   {
     "id": "exam-15",
@@ -312,7 +340,9 @@
       "dl-q-000095"
     ],
     "timeLimitMinutes": 20,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 20,
+    "description": "覆盖存储器基础核心知识点的模拟测试。"
   },
   {
     "id": "exam-16",
@@ -333,7 +363,9 @@
       "dl-q-000256"
     ],
     "timeLimitMinutes": 25,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 25,
+    "description": "覆盖可编程逻辑器件核心知识点的模拟测试。"
   },
   {
     "id": "exam-17",
@@ -354,7 +386,9 @@
       "dl-q-000017"
     ],
     "timeLimitMinutes": 25,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 25,
+    "description": "覆盖Quartus入门核心知识点的模拟测试。"
   },
   {
     "id": "exam-18",
@@ -375,7 +409,9 @@
       "dl-q-000118"
     ],
     "timeLimitMinutes": 25,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 25,
+    "description": "覆盖BDF原理图设计核心知识点的模拟测试。"
   },
   {
     "id": "exam-19",
@@ -396,7 +432,9 @@
       "dl-q-000019"
     ],
     "timeLimitMinutes": 25,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 25,
+    "description": "覆盖Verilog基础核心知识点的模拟测试。"
   },
   {
     "id": "exam-20",
@@ -417,7 +455,9 @@
       "dl-q-000140"
     ],
     "timeLimitMinutes": 25,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 25,
+    "description": "覆盖步进电机模拟电梯课程设计核心知识点的模拟测试。"
   },
   {
     "id": "exam-21",
@@ -478,7 +518,9 @@
       "dl-q-000190"
     ],
     "timeLimitMinutes": 90,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 90,
+    "description": "数字逻辑期末模拟一，覆盖全部章节核心知识点，共50题，限时90分钟。"
   },
   {
     "id": "exam-22",
@@ -539,7 +581,9 @@
       "dl-q-000197"
     ],
     "timeLimitMinutes": 90,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 90,
+    "description": "数字逻辑期末模拟二，覆盖全部章节核心知识点，共50题，限时90分钟。"
   },
   {
     "id": "exam-23",
@@ -600,7 +644,9 @@
       "dl-q-000204"
     ],
     "timeLimitMinutes": 90,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 90,
+    "description": "综合能力测试一，覆盖全部章节核心知识点，共50题，限时90分钟。"
   },
   {
     "id": "exam-24",
@@ -661,7 +707,9 @@
       "dl-q-000211"
     ],
     "timeLimitMinutes": 90,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 90,
+    "description": "综合能力测试二，覆盖全部章节核心知识点，共50题，限时90分钟。"
   },
   {
     "id": "exam-25",
@@ -702,7 +750,9 @@
       "dl-q-000198"
     ],
     "timeLimitMinutes": 40,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 40,
+    "description": "组合逻辑综合测验，覆盖全部章节核心知识点，共30题，限时40分钟。"
   },
   {
     "id": "exam-26",
@@ -733,7 +783,9 @@
       "dl-q-000562"
     ],
     "timeLimitMinutes": 20,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 20,
+    "description": "数制与编码章节测验，覆盖数制与编码核心知识点，共20题，限时20分钟。"
   },
   {
     "id": "exam-27",
@@ -769,7 +821,9 @@
       "dl-q-001506"
     ],
     "timeLimitMinutes": 30,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 30,
+    "description": "逻辑代数单元测验，覆盖逻辑代数基础核心知识点，共25题，限时30分钟。"
   },
   {
     "id": "exam-28",
@@ -805,7 +859,9 @@
       "dl-q-001332"
     ],
     "timeLimitMinutes": 30,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 30,
+    "description": "组合逻辑单元测验，覆盖组合逻辑电路核心知识点，共25题，限时30分钟。"
   },
   {
     "id": "exam-29",
@@ -836,7 +892,9 @@
       "dl-q-001500"
     ],
     "timeLimitMinutes": 25,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 25,
+    "description": "编码器译码器单元测验，覆盖编码器与译码器核心知识点，共20题，限时25分钟。"
   },
   {
     "id": "exam-30",
@@ -867,7 +925,9 @@
       "dl-q-001428"
     ],
     "timeLimitMinutes": 25,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 25,
+    "description": "数据选择器单元测验，覆盖数据选择器与分配器核心知识点，共20题，限时25分钟。"
   },
   {
     "id": "exam-31",
@@ -898,7 +958,9 @@
       "dl-q-000897"
     ],
     "timeLimitMinutes": 25,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 25,
+    "description": "加法器比较器单元测验，覆盖加法器比较器与算术逻辑核心知识点，共20题，限时25分钟。"
   },
   {
     "id": "exam-32",
@@ -934,7 +996,9 @@
       "dl-q-001019"
     ],
     "timeLimitMinutes": 30,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 30,
+    "description": "触发器专项测验，覆盖触发器基础核心知识点，共25题，限时30分钟。"
   },
   {
     "id": "exam-33",
@@ -970,7 +1034,9 @@
       "dl-q-001006"
     ],
     "timeLimitMinutes": 30,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 30,
+    "description": "计数器专项测验，覆盖计数器核心知识点，共25题，限时30分钟。"
   },
   {
     "id": "exam-34",
@@ -1001,7 +1067,9 @@
       "dl-q-000032"
     ],
     "timeLimitMinutes": 25,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 25,
+    "description": "寄存器专项测验，覆盖寄存器核心知识点，共20题，限时25分钟。"
   },
   {
     "id": "exam-35",
@@ -1037,7 +1105,9 @@
       "dl-q-001495"
     ],
     "timeLimitMinutes": 30,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 30,
+    "description": "时序分析单元测验，覆盖时序逻辑电路分析核心知识点，共25题，限时30分钟。"
   },
   {
     "id": "exam-36",
@@ -1073,7 +1143,9 @@
       "dl-q-001177"
     ],
     "timeLimitMinutes": 30,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 30,
+    "description": "时序设计单元测验，覆盖时序逻辑电路设计核心知识点，共25题，限时30分钟。"
   },
   {
     "id": "exam-37",
@@ -1104,7 +1176,9 @@
       "dl-q-001058"
     ],
     "timeLimitMinutes": 25,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 25,
+    "description": "脉冲定时单元测验，覆盖脉冲波形与定时电路核心知识点，共20题，限时25分钟。"
   },
   {
     "id": "exam-38",
@@ -1130,7 +1204,9 @@
       "dl-q-000958"
     ],
     "timeLimitMinutes": 20,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 20,
+    "description": "存储器单元测验，覆盖存储器基础核心知识点，共15题，限时20分钟。"
   },
   {
     "id": "exam-39",
@@ -1156,7 +1232,9 @@
       "dl-q-001234"
     ],
     "timeLimitMinutes": 20,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 20,
+    "description": "PLD单元测验，覆盖可编程逻辑器件核心知识点，共15题，限时20分钟。"
   },
   {
     "id": "exam-40",
@@ -1187,7 +1265,9 @@
       "dl-q-000497"
     ],
     "timeLimitMinutes": 25,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 25,
+    "description": "Quartus操作测验，覆盖Quartus入门核心知识点，共20题，限时25分钟。"
   },
   {
     "id": "exam-41",
@@ -1218,7 +1298,9 @@
       "dl-q-000902"
     ],
     "timeLimitMinutes": 30,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 30,
+    "description": "BDF原理图测验，覆盖BDF原理图设计核心知识点，共20题，限时30分钟。"
   },
   {
     "id": "exam-42",
@@ -1249,7 +1331,9 @@
       "dl-q-000379"
     ],
     "timeLimitMinutes": 30,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 30,
+    "description": "Verilog基础测验，覆盖Verilog基础核心知识点，共20题，限时30分钟。"
   },
   {
     "id": "exam-43",
@@ -1280,7 +1364,9 @@
       "dl-q-000758"
     ],
     "timeLimitMinutes": 30,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 30,
+    "description": "FPGA实验测验，覆盖FPGA实验流程核心知识点，共20题，限时30分钟。"
   },
   {
     "id": "exam-44",
@@ -1321,7 +1407,9 @@
       "dl-q-001140"
     ],
     "timeLimitMinutes": 45,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 45,
+    "description": "电梯项目专项测验，覆盖步进电机模拟电梯控制系统课程设计核心知识点，共30题，限时45分钟。"
   },
   {
     "id": "exam-45",
@@ -1372,7 +1460,9 @@
       "dl-q-000348"
     ],
     "timeLimitMinutes": 60,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 60,
+    "description": "数字逻辑期中模拟，覆盖全部章节核心知识点，共40题，限时60分钟。"
   },
   {
     "id": "exam-46",
@@ -1433,7 +1523,9 @@
       "dl-q-000365"
     ],
     "timeLimitMinutes": 90,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 90,
+    "description": "数字逻辑期末模拟一，覆盖全部章节核心知识点，共50题，限时90分钟。"
   },
   {
     "id": "exam-47",
@@ -1494,7 +1586,9 @@
       "dl-q-000372"
     ],
     "timeLimitMinutes": 90,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 90,
+    "description": "数字逻辑期末模拟二，覆盖全部章节核心知识点，共50题，限时90分钟。"
   },
   {
     "id": "exam-48",
@@ -1555,7 +1649,9 @@
       "dl-q-000379"
     ],
     "timeLimitMinutes": 90,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 90,
+    "description": "综合能力测试一，覆盖全部章节核心知识点，共50题，限时90分钟。"
   },
   {
     "id": "exam-49",
@@ -1616,7 +1712,9 @@
       "dl-q-000386"
     ],
     "timeLimitMinutes": 90,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 90,
+    "description": "综合能力测试二，覆盖全部章节核心知识点，共50题，限时90分钟。"
   },
   {
     "id": "exam-50",
@@ -1657,7 +1755,9 @@
       "dl-q-000373"
     ],
     "timeLimitMinutes": 40,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 40,
+    "description": "组合逻辑综合测验，覆盖全部章节核心知识点，共30题，限时40分钟。"
   },
   {
     "id": "exam-51",
@@ -1693,7 +1793,9 @@
       "dl-q-002475"
     ],
     "timeLimitMinutes": 30,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 30,
+    "description": "组合逻辑单元测验，覆盖组合逻辑电路核心知识点，共25题。"
   },
   {
     "id": "exam-52",
@@ -1724,7 +1826,9 @@
       "dl-q-003356"
     ],
     "timeLimitMinutes": 25,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 25,
+    "description": "编码器译码器测验，覆盖编码器与译码器核心知识点，共20题。"
   },
   {
     "id": "exam-53",
@@ -1755,7 +1859,9 @@
       "dl-q-003377"
     ],
     "timeLimitMinutes": 25,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 25,
+    "description": "数据选择器测验，覆盖数据选择器与分配器核心知识点，共20题。"
   },
   {
     "id": "exam-54",
@@ -1786,7 +1892,9 @@
       "dl-q-003158"
     ],
     "timeLimitMinutes": 25,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 25,
+    "description": "加法器比较器测验，覆盖加法器比较器与算术逻辑核心知识点，共20题。"
   },
   {
     "id": "exam-55",
@@ -1822,7 +1930,9 @@
       "dl-q-003909"
     ],
     "timeLimitMinutes": 30,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 30,
+    "description": "触发器专项测验，覆盖触发器基础核心知识点，共25题。"
   },
   {
     "id": "exam-56",
@@ -1858,7 +1968,9 @@
       "dl-q-003490"
     ],
     "timeLimitMinutes": 30,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 30,
+    "description": "计数器专项测验，覆盖计数器核心知识点，共25题。"
   },
   {
     "id": "exam-57",
@@ -1889,7 +2001,9 @@
       "dl-q-002921"
     ],
     "timeLimitMinutes": 25,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 25,
+    "description": "寄存器专项测验，覆盖寄存器核心知识点，共20题。"
   },
   {
     "id": "exam-58",
@@ -1925,7 +2039,9 @@
       "dl-q-003892"
     ],
     "timeLimitMinutes": 30,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 30,
+    "description": "时序分析测验，覆盖时序逻辑电路分析核心知识点，共25题。"
   },
   {
     "id": "exam-59",
@@ -1961,7 +2077,9 @@
       "dl-q-004763"
     ],
     "timeLimitMinutes": 30,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 30,
+    "description": "时序设计测验，覆盖时序逻辑电路设计核心知识点，共25题。"
   },
   {
     "id": "exam-60",
@@ -1992,7 +2110,9 @@
       "dl-q-000641"
     ],
     "timeLimitMinutes": 25,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 25,
+    "description": "脉冲定时测验，覆盖脉冲波形与定时电路核心知识点，共20题。"
   },
   {
     "id": "exam-61",
@@ -2018,7 +2138,9 @@
       "dl-q-003715"
     ],
     "timeLimitMinutes": 20,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 20,
+    "description": "存储器测验，覆盖存储器基础核心知识点，共15题。"
   },
   {
     "id": "exam-62",
@@ -2044,7 +2166,9 @@
       "dl-q-004016"
     ],
     "timeLimitMinutes": 20,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 20,
+    "description": "PLD测验，覆盖可编程逻辑器件核心知识点，共15题。"
   },
   {
     "id": "exam-63",
@@ -2075,7 +2199,9 @@
       "dl-q-004467"
     ],
     "timeLimitMinutes": 25,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 25,
+    "description": "Quartus操作测验，覆盖Quartus入门核心知识点，共20题。"
   },
   {
     "id": "exam-64",
@@ -2106,7 +2232,9 @@
       "dl-q-004728"
     ],
     "timeLimitMinutes": 30,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 30,
+    "description": "BDF原理图测验，覆盖BDF原理图设计核心知识点，共20题。"
   },
   {
     "id": "exam-65",
@@ -2137,7 +2265,9 @@
       "dl-q-004549"
     ],
     "timeLimitMinutes": 30,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 30,
+    "description": "Verilog基础测验，覆盖Verilog基础核心知识点，共20题。"
   },
   {
     "id": "exam-66",
@@ -2168,7 +2298,9 @@
       "dl-q-001036"
     ],
     "timeLimitMinutes": 30,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 30,
+    "description": "FPGA实验测验，覆盖FPGA实验流程核心知识点，共20题。"
   },
   {
     "id": "exam-67",
@@ -2209,7 +2341,9 @@
       "dl-q-001851"
     ],
     "timeLimitMinutes": 45,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 45,
+    "description": "电梯项目专项测验，覆盖步进电机模拟电梯控制系统课程设计核心知识点，共30题。"
   },
   {
     "id": "exam-68",
@@ -2250,7 +2384,9 @@
       "dl-q-000499"
     ],
     "timeLimitMinutes": 40,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 40,
+    "description": "组合逻辑专项，覆盖全部章节核心知识点，共30题。"
   },
   {
     "id": "exam-69",
@@ -2291,7 +2427,9 @@
       "dl-q-000506"
     ],
     "timeLimitMinutes": 40,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 40,
+    "description": "时序逻辑专项，覆盖全部章节核心知识点，共30题。"
   },
   {
     "id": "exam-70",
@@ -2342,7 +2480,9 @@
       "dl-q-000523"
     ],
     "timeLimitMinutes": 60,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 60,
+    "description": "期中模拟，覆盖全部章节核心知识点，共40题。"
   },
   {
     "id": "exam-71",
@@ -2403,7 +2543,9 @@
       "dl-q-000540"
     ],
     "timeLimitMinutes": 90,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 90,
+    "description": "期末模拟，覆盖全部章节核心知识点，共50题。"
   },
   {
     "id": "exam-72",
@@ -2464,7 +2606,9 @@
       "dl-q-000547"
     ],
     "timeLimitMinutes": 90,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 90,
+    "description": "综合能力测试，覆盖全部章节核心知识点，共50题。"
   },
   {
     "id": "exam-73",
@@ -2495,7 +2639,9 @@
       "dl-q-000101"
     ],
     "timeLimitMinutes": 20,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 20,
+    "description": "数制与编码章节测验，覆盖数制与编码核心知识点，共20题。"
   },
   {
     "id": "exam-74",
@@ -2531,7 +2677,9 @@
       "dl-q-001037"
     ],
     "timeLimitMinutes": 30,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 30,
+    "description": "逻辑代数单元测验，覆盖逻辑代数基础核心知识点，共25题。"
   },
   {
     "id": "exam-75",
@@ -2567,7 +2715,9 @@
       "dl-q-000790"
     ],
     "timeLimitMinutes": 30,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 30,
+    "description": "组合逻辑单元测验，覆盖组合逻辑电路核心知识点，共25题。"
   },
   {
     "id": "exam-76",
@@ -2598,7 +2748,9 @@
       "dl-q-002116"
     ],
     "timeLimitMinutes": 25,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 25,
+    "description": "编码器译码器测验，覆盖编码器与译码器核心知识点，共20题。"
   },
   {
     "id": "exam-77",
@@ -2629,7 +2781,9 @@
       "dl-q-002077"
     ],
     "timeLimitMinutes": 25,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 25,
+    "description": "数据选择器测验，覆盖数据选择器与分配器核心知识点，共20题。"
   },
   {
     "id": "exam-78",
@@ -2660,7 +2814,9 @@
       "dl-q-001678"
     ],
     "timeLimitMinutes": 25,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 25,
+    "description": "加法器比较器测验，覆盖加法器比较器与算术逻辑核心知识点，共20题。"
   },
   {
     "id": "exam-79",
@@ -2696,7 +2852,9 @@
       "dl-q-002699"
     ],
     "timeLimitMinutes": 30,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 30,
+    "description": "触发器专项测验，覆盖触发器基础核心知识点，共25题。"
   },
   {
     "id": "exam-80",
@@ -2732,7 +2890,9 @@
       "dl-q-002000"
     ],
     "timeLimitMinutes": 30,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 30,
+    "description": "计数器专项测验，覆盖计数器核心知识点，共25题。"
   },
   {
     "id": "exam-81",
@@ -2763,7 +2923,9 @@
       "dl-q-001248"
     ],
     "timeLimitMinutes": 25,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 25,
+    "description": "寄存器专项测验，覆盖寄存器核心知识点，共20题。"
   },
   {
     "id": "exam-82",
@@ -2799,7 +2961,9 @@
       "dl-q-002462"
     ],
     "timeLimitMinutes": 30,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 30,
+    "description": "时序分析测验，覆盖时序逻辑电路分析核心知识点，共25题。"
   },
   {
     "id": "exam-83",
@@ -2835,7 +2999,9 @@
       "dl-q-003693"
     ],
     "timeLimitMinutes": 30,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 30,
+    "description": "时序设计测验，覆盖时序逻辑电路设计核心知识点，共25题。"
   },
   {
     "id": "exam-84",
@@ -2866,7 +3032,9 @@
       "dl-q-004154"
     ],
     "timeLimitMinutes": 25,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 25,
+    "description": "脉冲定时测验，覆盖脉冲波形与定时电路核心知识点，共20题。"
   },
   {
     "id": "exam-85",
@@ -2892,7 +3060,9 @@
       "dl-q-002085"
     ],
     "timeLimitMinutes": 20,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 20,
+    "description": "存储器测验，覆盖存储器基础核心知识点，共15题。"
   },
   {
     "id": "exam-86",
@@ -2918,7 +3088,9 @@
       "dl-q-002466"
     ],
     "timeLimitMinutes": 20,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 20,
+    "description": "PLD测验，覆盖可编程逻辑器件核心知识点，共15题。"
   },
   {
     "id": "exam-87",
@@ -2949,7 +3121,9 @@
       "dl-q-003007"
     ],
     "timeLimitMinutes": 25,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 25,
+    "description": "Quartus操作测验，覆盖Quartus入门核心知识点，共20题。"
   },
   {
     "id": "exam-88",
@@ -2980,7 +3154,9 @@
       "dl-q-003328"
     ],
     "timeLimitMinutes": 30,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 30,
+    "description": "BDF原理图测验，覆盖BDF原理图设计核心知识点，共20题。"
   },
   {
     "id": "exam-89",
@@ -3011,7 +3187,9 @@
       "dl-q-002989"
     ],
     "timeLimitMinutes": 30,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 30,
+    "description": "Verilog基础测验，覆盖Verilog基础核心知识点，共20题。"
   },
   {
     "id": "exam-90",
@@ -3042,7 +3220,9 @@
       "dl-q-004470"
     ],
     "timeLimitMinutes": 30,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 30,
+    "description": "FPGA实验测验，覆盖FPGA实验流程核心知识点，共20题。"
   },
   {
     "id": "exam-91",
@@ -3083,7 +3263,9 @@
       "dl-q-000761"
     ],
     "timeLimitMinutes": 45,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 45,
+    "description": "电梯项目专项测验，覆盖步进电机模拟电梯控制系统课程设计核心知识点，共30题。"
   },
   {
     "id": "exam-92",
@@ -3124,7 +3306,9 @@
       "dl-q-000667"
     ],
     "timeLimitMinutes": 40,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 40,
+    "description": "组合逻辑专项，覆盖全部章节核心知识点，共30题。"
   },
   {
     "id": "exam-93",
@@ -3165,7 +3349,9 @@
       "dl-q-000674"
     ],
     "timeLimitMinutes": 40,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 40,
+    "description": "时序逻辑专项，覆盖全部章节核心知识点，共30题。"
   },
   {
     "id": "exam-94",
@@ -3216,7 +3402,9 @@
       "dl-q-000691"
     ],
     "timeLimitMinutes": 60,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 60,
+    "description": "期中模拟，覆盖全部章节核心知识点，共40题。"
   },
   {
     "id": "exam-95",
@@ -3277,7 +3465,9 @@
       "dl-q-000708"
     ],
     "timeLimitMinutes": 90,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 90,
+    "description": "期末模拟，覆盖全部章节核心知识点，共50题。"
   },
   {
     "id": "exam-96",
@@ -3338,7 +3528,9 @@
       "dl-q-000715"
     ],
     "timeLimitMinutes": 90,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 90,
+    "description": "综合能力测试，覆盖全部章节核心知识点，共50题。"
   },
   {
     "id": "exam-97",
@@ -3369,7 +3561,9 @@
       "dl-q-003312"
     ],
     "timeLimitMinutes": 20,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 20,
+    "description": "数制与编码章节测验，覆盖数制与编码核心知识点，共20题。"
   },
   {
     "id": "exam-98",
@@ -3405,7 +3599,9 @@
       "dl-q-004373"
     ],
     "timeLimitMinutes": 30,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 30,
+    "description": "逻辑代数单元测验，覆盖逻辑代数基础核心知识点，共25题。"
   },
   {
     "id": "exam-99",
@@ -3441,7 +3637,9 @@
       "dl-q-004165"
     ],
     "timeLimitMinutes": 30,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 30,
+    "description": "组合逻辑单元测验，覆盖组合逻辑电路核心知识点，共25题。"
   },
   {
     "id": "exam-100",
@@ -3472,7 +3670,9 @@
       "dl-q-000890"
     ],
     "timeLimitMinutes": 25,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 25,
+    "description": "编码器译码器测验，覆盖编码器与译码器核心知识点，共20题。"
   },
   {
     "id": "exam-101",
@@ -3503,7 +3703,9 @@
       "dl-q-000903"
     ],
     "timeLimitMinutes": 25,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 25,
+    "description": "数据选择器测验，覆盖数据选择器与分配器核心知识点，共20题。"
   },
   {
     "id": "exam-102",
@@ -3534,7 +3736,9 @@
       "dl-q-000508"
     ],
     "timeLimitMinutes": 25,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 25,
+    "description": "加法器比较器测验，覆盖加法器比较器与算术逻辑核心知识点，共20题。"
   },
   {
     "id": "exam-103",
@@ -3570,7 +3774,9 @@
       "dl-q-001481"
     ],
     "timeLimitMinutes": 30,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 30,
+    "description": "触发器专项测验，覆盖触发器基础核心知识点，共25题。"
   },
   {
     "id": "exam-104",
@@ -3606,7 +3812,9 @@
       "dl-q-000331"
     ],
     "timeLimitMinutes": 30,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 30,
+    "description": "计数器专项测验，覆盖计数器核心知识点，共25题。"
   },
   {
     "id": "exam-105",
@@ -3637,7 +3845,9 @@
       "dl-q-004461"
     ],
     "timeLimitMinutes": 25,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 25,
+    "description": "寄存器专项测验，覆盖寄存器核心知识点，共20题。"
   },
   {
     "id": "exam-106",
@@ -3673,7 +3883,9 @@
       "dl-q-001163"
     ],
     "timeLimitMinutes": 30,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 30,
+    "description": "时序分析测验，覆盖时序逻辑电路分析核心知识点，共25题。"
   },
   {
     "id": "exam-107",
@@ -3709,7 +3921,9 @@
       "dl-q-002623"
     ],
     "timeLimitMinutes": 30,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 30,
+    "description": "时序设计测验，覆盖时序逻辑电路设计核心知识点，共25题。"
   },
   {
     "id": "exam-108",
@@ -3740,7 +3954,9 @@
       "dl-q-003224"
     ],
     "timeLimitMinutes": 25,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 25,
+    "description": "脉冲定时测验，覆盖脉冲波形与定时电路核心知识点，共20题。"
   },
   {
     "id": "exam-109",
@@ -3766,7 +3982,9 @@
       "dl-q-000475"
     ],
     "timeLimitMinutes": 20,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 20,
+    "description": "存储器测验，覆盖存储器基础核心知识点，共15题。"
   },
   {
     "id": "exam-110",
@@ -3792,7 +4010,9 @@
       "dl-q-000845"
     ],
     "timeLimitMinutes": 20,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 20,
+    "description": "PLD测验，覆盖可编程逻辑器件核心知识点，共15题。"
   },
   {
     "id": "exam-111",
@@ -3823,7 +4043,9 @@
       "dl-q-001567"
     ],
     "timeLimitMinutes": 25,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 25,
+    "description": "Quartus操作测验，覆盖Quartus入门核心知识点，共20题。"
   },
   {
     "id": "exam-112",
@@ -3854,7 +4076,9 @@
       "dl-q-001948"
     ],
     "timeLimitMinutes": 30,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 30,
+    "description": "BDF原理图测验，覆盖BDF原理图设计核心知识点，共20题。"
   },
   {
     "id": "exam-113",
@@ -3885,7 +4109,9 @@
       "dl-q-001418"
     ],
     "timeLimitMinutes": 30,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 30,
+    "description": "Verilog基础测验，覆盖Verilog基础核心知识点，共20题。"
   },
   {
     "id": "exam-114",
@@ -3916,7 +4142,9 @@
       "dl-q-003350"
     ],
     "timeLimitMinutes": 30,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 30,
+    "description": "FPGA实验测验，覆盖FPGA实验流程核心知识点，共20题。"
   },
   {
     "id": "exam-115",
@@ -3957,7 +4185,9 @@
       "dl-q-004271"
     ],
     "timeLimitMinutes": 45,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 45,
+    "description": "电梯项目专项测验，覆盖步进电机模拟电梯控制系统课程设计核心知识点，共30题。"
   },
   {
     "id": "exam-116",
@@ -3998,7 +4228,9 @@
       "dl-q-000835"
     ],
     "timeLimitMinutes": 40,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 40,
+    "description": "组合逻辑专项，覆盖全部章节核心知识点，共30题。"
   },
   {
     "id": "exam-117",
@@ -4039,7 +4271,9 @@
       "dl-q-000842"
     ],
     "timeLimitMinutes": 40,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 40,
+    "description": "时序逻辑专项，覆盖全部章节核心知识点，共30题。"
   },
   {
     "id": "exam-118",
@@ -4090,7 +4324,9 @@
       "dl-q-000859"
     ],
     "timeLimitMinutes": 60,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 60,
+    "description": "期中模拟，覆盖全部章节核心知识点，共40题。"
   },
   {
     "id": "exam-119",
@@ -4151,7 +4387,9 @@
       "dl-q-000876"
     ],
     "timeLimitMinutes": 90,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 90,
+    "description": "期末模拟，覆盖全部章节核心知识点，共50题。"
   },
   {
     "id": "exam-120",
@@ -4212,6 +4450,8 @@
       "dl-q-000883"
     ],
     "timeLimitMinutes": 90,
-    "passingScore": 60
+    "passingScore": 60,
+    "timeLimit": 90,
+    "description": "综合能力测试，覆盖全部章节核心知识点，共50题。"
   }
 ]

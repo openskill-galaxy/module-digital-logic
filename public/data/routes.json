@@ -33,7 +33,8 @@
         "courseId": "course-4",
         "lessonId": "lesson-16"
       }
-    ]
+    ],
+    "description": "从零到一：数字逻辑入门路线，帮助你系统化学习。"
   },
   {
     "id": "route-2",
@@ -76,7 +77,8 @@
         "courseId": "course-4",
         "lessonId": "lesson-16"
       }
-    ]
+    ],
+    "description": "组合逻辑速成路线，帮助你系统化学习。"
   },
   {
     "id": "route-3",
@@ -126,7 +128,8 @@
         "courseId": "course-4",
         "lessonId": "lesson-16"
       }
-    ]
+    ],
+    "description": "时序逻辑进阶路线，帮助你系统化学习。"
   },
   {
     "id": "route-4",
@@ -183,7 +186,8 @@
         "courseId": "course-5",
         "lessonId": "lesson-52"
       }
-    ]
+    ],
+    "description": "FPGA开发入门路线，帮助你系统化学习。"
   },
   {
     "id": "route-5",
@@ -219,7 +223,8 @@
         "courseId": "course-4",
         "lessonId": "lesson-16"
       }
-    ]
+    ],
+    "description": "Quartus实战路线，帮助你系统化学习。"
   },
   {
     "id": "route-6",
@@ -262,7 +267,8 @@
         "courseId": "course-5",
         "lessonId": "lesson-52"
       }
-    ]
+    ],
+    "description": "Verilog入门路线，帮助你系统化学习。"
   },
   {
     "id": "route-7",
@@ -312,7 +318,8 @@
         "courseId": "course-6",
         "lessonId": "lesson-63"
       }
-    ]
+    ],
+    "description": "编码器译码器专题路线，帮助你系统化学习。"
   },
   {
     "id": "route-8",
@@ -369,7 +376,8 @@
         "courseId": "course-7",
         "lessonId": "lesson-73"
       }
-    ]
+    ],
+    "description": "计数器寄存器专题路线，帮助你系统化学习。"
   },
   {
     "id": "route-9",
@@ -405,7 +413,8 @@
         "courseId": "course-6",
         "lessonId": "lesson-63"
       }
-    ]
+    ],
+    "description": "存储器专题路线，帮助你系统化学习。"
   },
   {
     "id": "route-10",
@@ -448,7 +457,8 @@
         "courseId": "course-7",
         "lessonId": "lesson-73"
       }
-    ]
+    ],
+    "description": "脉冲与555定时器路线，帮助你系统化学习。"
   },
   {
     "id": "route-11",
@@ -498,7 +508,8 @@
         "courseId": "course-8",
         "lessonId": "lesson-83"
       }
-    ]
+    ],
+    "description": "电梯课程设计路线，帮助你系统化学习。"
   },
   {
     "id": "route-12",
@@ -555,7 +566,8 @@
         "courseId": "course-9",
         "lessonId": "lesson-88"
       }
-    ]
+    ],
+    "description": "数制编码专项路线，帮助你系统化学习。"
   },
   {
     "id": "route-13",
@@ -591,7 +603,8 @@
         "courseId": "course-8",
         "lessonId": "lesson-83"
       }
-    ]
+    ],
+    "description": "逻辑代数化简路线，帮助你系统化学习。"
   },
   {
     "id": "route-14",
@@ -634,7 +647,8 @@
         "courseId": "course-9",
         "lessonId": "lesson-88"
       }
-    ]
+    ],
+    "description": "加法器比较器路线，帮助你系统化学习。"
   },
   {
     "id": "route-15",
@@ -684,7 +698,8 @@
         "courseId": "course-11",
         "lessonId": "lesson-103"
       }
-    ]
+    ],
+    "description": "综合复习冲刺路线，帮助你系统化学习。"
   },
   {
     "id": "route-16",
@@ -727,7 +742,8 @@
         "courseId": "course-5",
         "lessonId": "lesson-56"
       }
-    ]
+    ],
+    "description": "译码器原理及实现组合逻辑专项。"
   },
   {
     "id": "route-17",
@@ -770,7 +786,8 @@
         "courseId": "course-6",
         "lessonId": "lesson-67"
       }
-    ]
+    ],
+    "description": "数据选择器原理及实现逻辑函数专项。"
   },
   {
     "id": "route-18",
@@ -813,7 +830,8 @@
         "courseId": "course-10",
         "lessonId": "lesson-102"
       }
-    ]
+    ],
+    "description": "数码寄存器与移位寄存器专项。"
   },
   {
     "id": "route-19",
@@ -851,7 +869,8 @@
         "description": "学习Flash的核心内容。",
         "courseId": "course-14"
       }
-    ]
+    ],
+    "description": "ROM、RAM、存储器扩展与ROM实现组合逻辑。"
   },
   {
     "id": "route-20",
@@ -889,7 +908,8 @@
         "description": "学习PLD开发流程的核心内容。",
         "courseId": "course-15"
       }
-    ]
+    ],
+    "description": "PLD、FPGA、CPLD结构与开发流程。"
   },
   {
     "id": "route-21",
@@ -927,7 +947,8 @@
         "description": "学习定时电路的核心内容。",
         "courseId": "course-13"
       }
-    ]
+    ],
+    "description": "555定时器与脉冲整形电路专项。"
   },
   {
     "id": "route-22",
@@ -965,7 +986,8 @@
         "description": "学习序列检测器的核心内容。",
         "courseId": "course-12"
       }
-    ]
+    ],
+    "description": "Moore与Mealy状态机、序列检测器专项。"
   },
   {
     "id": "route-23",
@@ -1003,7 +1025,8 @@
         "description": "学习上板调试的核心内容。",
         "courseId": "course-19"
       }
-    ]
+    ],
+    "description": "引脚约束、SDC、下载与上板调试。"
   },
   {
     "id": "route-24",
@@ -1041,7 +1064,8 @@
         "description": "学习结论与心得的核心内容。",
         "courseId": "course-20"
       }
-    ]
+    ],
+    "description": "课程设计报告结构、调试记录与结论撰写。"
   },
   {
     "id": "route-25",
@@ -1084,7 +1108,8 @@
         "courseId": "course-7",
         "lessonId": "lesson-77"
       }
-    ]
+    ],
+    "description": "半加器、全加器、超前进位与比较器专项。"
   },
   {
     "id": "dl-route-26",
@@ -1099,7 +1124,8 @@
     "recommendedQuestionIds": [],
     "outcomes": [
       "掌握"
-    ]
+    ],
+    "summary": "学习路线"
   },
   {
     "id": "dl-route-27",
@@ -1114,7 +1140,8 @@
     "recommendedQuestionIds": [],
     "outcomes": [
       "掌握"
-    ]
+    ],
+    "summary": "学习路线"
   },
   {
     "id": "dl-route-28",
@@ -1129,7 +1156,8 @@
     "recommendedQuestionIds": [],
     "outcomes": [
       "掌握"
-    ]
+    ],
+    "summary": "学习路线"
   },
   {
     "id": "dl-route-29",
@@ -1144,7 +1172,8 @@
     "recommendedQuestionIds": [],
     "outcomes": [
       "掌握"
-    ]
+    ],
+    "summary": "学习路线"
   },
   {
     "id": "dl-route-30",
@@ -1159,6 +1188,7 @@
     "recommendedQuestionIds": [],
     "outcomes": [
       "掌握"
-    ]
+    ],
+    "summary": "学习路线"
   }
 ]

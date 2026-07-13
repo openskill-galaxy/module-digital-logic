@@ -17,7 +17,14 @@
       "kp-2",
       "kp-3"
     ],
-    "estimatedMinutes": 58
+    "estimatedMinutes": 58,
+    "description": "步进电机模拟电梯控制系统课程设计——电梯项目目标与需求。",
+    "duration": 58,
+    "knowledgePointIds": [
+      "kp-1",
+      "kp-2",
+      "kp-3"
+    ]
   },
   {
     "id": "case-2",
@@ -37,7 +44,14 @@
       "kp-18",
       "kp-19"
     ],
-    "estimatedMinutes": 35
+    "estimatedMinutes": 35,
+    "description": "步进电机模拟电梯控制系统课程设计——输入输出定义。",
+    "duration": 35,
+    "knowledgePointIds": [
+      "kp-17",
+      "kp-18",
+      "kp-19"
+    ]
   },
   {
     "id": "case-3",
@@ -57,7 +71,14 @@
       "kp-34",
       "kp-35"
     ],
-    "estimatedMinutes": 39
+    "estimatedMinutes": 39,
+    "description": "步进电机模拟电梯控制系统课程设计——层站请求逻辑。",
+    "duration": 39,
+    "knowledgePointIds": [
+      "kp-33",
+      "kp-34",
+      "kp-35"
+    ]
   },
   {
     "id": "case-4",
@@ -77,7 +98,14 @@
       "kp-50",
       "kp-51"
     ],
-    "estimatedMinutes": 31
+    "estimatedMinutes": 31,
+    "description": "步进电机模拟电梯控制系统课程设计——电梯状态定义。",
+    "duration": 31,
+    "knowledgePointIds": [
+      "kp-49",
+      "kp-50",
+      "kp-51"
+    ]
   },
   {
     "id": "case-5",
@@ -97,7 +125,14 @@
       "kp-66",
       "kp-67"
     ],
-    "estimatedMinutes": 35
+    "estimatedMinutes": 35,
+    "description": "步进电机模拟电梯控制系统课程设计——方向控制逻辑。",
+    "duration": 35,
+    "knowledgePointIds": [
+      "kp-65",
+      "kp-66",
+      "kp-67"
+    ]
   },
   {
     "id": "case-6",
@@ -117,7 +152,14 @@
       "kp-82",
       "kp-83"
     ],
-    "estimatedMinutes": 37
+    "estimatedMinutes": 37,
+    "description": "步进电机模拟电梯控制系统课程设计——到站判断逻辑。",
+    "duration": 37,
+    "knowledgePointIds": [
+      "kp-81",
+      "kp-82",
+      "kp-83"
+    ]
   },
   {
     "id": "case-7",
@@ -137,7 +179,14 @@
       "kp-98",
       "kp-99"
     ],
-    "estimatedMinutes": 30
+    "estimatedMinutes": 30,
+    "description": "步进电机模拟电梯控制系统课程设计——开关门信号。",
+    "duration": 30,
+    "knowledgePointIds": [
+      "kp-97",
+      "kp-98",
+      "kp-99"
+    ]
   },
   {
     "id": "case-8",
@@ -157,7 +206,14 @@
       "kp-114",
       "kp-115"
     ],
-    "estimatedMinutes": 59
+    "estimatedMinutes": 59,
+    "description": "步进电机模拟电梯控制系统课程设计——步进电机相序。",
+    "duration": 59,
+    "knowledgePointIds": [
+      "kp-113",
+      "kp-114",
+      "kp-115"
+    ]
   },
   {
     "id": "case-9",
@@ -177,7 +233,14 @@
       "kp-130",
       "kp-131"
     ],
-    "estimatedMinutes": 47
+    "estimatedMinutes": 47,
+    "description": "步进电机模拟电梯控制系统课程设计——BDF设计思路。",
+    "duration": 47,
+    "knowledgePointIds": [
+      "kp-129",
+      "kp-130",
+      "kp-131"
+    ]
   },
   {
     "id": "case-10",
@@ -197,7 +260,14 @@
       "kp-146",
       "kp-147"
     ],
-    "estimatedMinutes": 41
+    "estimatedMinutes": 41,
+    "description": "步进电机模拟电梯控制系统课程设计——LPM_COUNTER分频。",
+    "duration": 41,
+    "knowledgePointIds": [
+      "kp-145",
+      "kp-146",
+      "kp-147"
+    ]
   },
   {
     "id": "case-11",
@@ -217,7 +287,14 @@
       "kp-162",
       "kp-163"
     ],
-    "estimatedMinutes": 47
+    "estimatedMinutes": 47,
+    "description": "步进电机模拟电梯控制系统课程设计——触发器状态保持。",
+    "duration": 47,
+    "knowledgePointIds": [
+      "kp-161",
+      "kp-162",
+      "kp-163"
+    ]
   },
   {
     "id": "case-12",
@@ -237,7 +314,14 @@
       "kp-178",
       "kp-179"
     ],
-    "estimatedMinutes": 56
+    "estimatedMinutes": 56,
+    "description": "步进电机模拟电梯控制系统课程设计——译码器输出。",
+    "duration": 56,
+    "knowledgePointIds": [
+      "kp-177",
+      "kp-178",
+      "kp-179"
+    ]
   },
   {
     "id": "case-13",
@@ -257,7 +341,14 @@
       "kp-194",
       "kp-195"
     ],
-    "estimatedMinutes": 35
+    "estimatedMinutes": 35,
+    "description": "步进电机模拟电梯控制系统课程设计——数码管显示。",
+    "duration": 35,
+    "knowledgePointIds": [
+      "kp-193",
+      "kp-194",
+      "kp-195"
+    ]
   },
   {
     "id": "case-14",
@@ -277,7 +368,14 @@
       "kp-210",
       "kp-211"
     ],
-    "estimatedMinutes": 59
+    "estimatedMinutes": 59,
+    "description": "步进电机模拟电梯控制系统课程设计——LED状态显示。",
+    "duration": 59,
+    "knowledgePointIds": [
+      "kp-209",
+      "kp-210",
+      "kp-211"
+    ]
   },
   {
     "id": "case-15",
@@ -297,7 +395,14 @@
       "kp-226",
       "kp-227"
     ],
-    "estimatedMinutes": 42
+    "estimatedMinutes": 42,
+    "description": "步进电机模拟电梯控制系统课程设计——Quartus编译。",
+    "duration": 42,
+    "knowledgePointIds": [
+      "kp-225",
+      "kp-226",
+      "kp-227"
+    ]
   },
   {
     "id": "case-16",
@@ -317,7 +422,14 @@
       "kp-242",
       "kp-243"
     ],
-    "estimatedMinutes": 48
+    "estimatedMinutes": 48,
+    "description": "步进电机模拟电梯控制系统课程设计——引脚绑定。",
+    "duration": 48,
+    "knowledgePointIds": [
+      "kp-241",
+      "kp-242",
+      "kp-243"
+    ]
   },
   {
     "id": "case-17",
@@ -337,7 +449,14 @@
       "kp-258",
       "kp-259"
     ],
-    "estimatedMinutes": 31
+    "estimatedMinutes": 31,
+    "description": "步进电机模拟电梯控制系统课程设计——50MHz时钟。",
+    "duration": 31,
+    "knowledgePointIds": [
+      "kp-257",
+      "kp-258",
+      "kp-259"
+    ]
   },
   {
     "id": "case-18",
@@ -357,7 +476,14 @@
       "kp-274",
       "kp-275"
     ],
-    "estimatedMinutes": 59
+    "estimatedMinutes": 59,
+    "description": "步进电机模拟电梯控制系统课程设计——SDC约束。",
+    "duration": 59,
+    "knowledgePointIds": [
+      "kp-273",
+      "kp-274",
+      "kp-275"
+    ]
   },
   {
     "id": "case-19",
@@ -377,7 +503,14 @@
       "kp-290",
       "kp-291"
     ],
-    "estimatedMinutes": 56
+    "estimatedMinutes": 56,
+    "description": "步进电机模拟电梯控制系统课程设计——仿真验证。",
+    "duration": 56,
+    "knowledgePointIds": [
+      "kp-289",
+      "kp-290",
+      "kp-291"
+    ]
   },
   {
     "id": "case-20",
@@ -397,7 +530,14 @@
       "kp-306",
       "kp-307"
     ],
-    "estimatedMinutes": 56
+    "estimatedMinutes": 56,
+    "description": "步进电机模拟电梯控制系统课程设计——下载验证。",
+    "duration": 56,
+    "knowledgePointIds": [
+      "kp-305",
+      "kp-306",
+      "kp-307"
+    ]
   },
   {
     "id": "case-21",
@@ -417,7 +557,14 @@
       "kp-2",
       "kp-3"
     ],
-    "estimatedMinutes": 58
+    "estimatedMinutes": 58,
+    "description": "步进电机模拟电梯控制系统课程设计——实验报告。",
+    "duration": 58,
+    "knowledgePointIds": [
+      "kp-1",
+      "kp-2",
+      "kp-3"
+    ]
   },
   {
     "id": "case-22",
@@ -437,7 +584,14 @@
       "kp-18",
       "kp-19"
     ],
-    "estimatedMinutes": 31
+    "estimatedMinutes": 31,
+    "description": "运用逻辑代数基础中摩根定律知识解决实际问题的案例。",
+    "duration": 31,
+    "knowledgePointIds": [
+      "kp-17",
+      "kp-18",
+      "kp-19"
+    ]
   },
   {
     "id": "case-23",
@@ -457,7 +611,14 @@
       "kp-34",
       "kp-35"
     ],
-    "estimatedMinutes": 52
+    "estimatedMinutes": 52,
+    "description": "运用逻辑门电路中非门知识解决实际问题的案例。",
+    "duration": 52,
+    "knowledgePointIds": [
+      "kp-33",
+      "kp-34",
+      "kp-35"
+    ]
   },
   {
     "id": "case-24",
@@ -477,7 +638,14 @@
       "kp-50",
       "kp-51"
     ],
-    "estimatedMinutes": 35
+    "estimatedMinutes": 35,
+    "description": "运用组合逻辑电路中消去法知识解决实际问题的案例。",
+    "duration": 35,
+    "knowledgePointIds": [
+      "kp-49",
+      "kp-50",
+      "kp-51"
+    ]
   },
   {
     "id": "case-25",
@@ -497,7 +665,14 @@
       "kp-66",
       "kp-67"
     ],
-    "estimatedMinutes": 38
+    "estimatedMinutes": 38,
+    "description": "运用编码器中编码器知识解决实际问题的案例。",
+    "duration": 38,
+    "knowledgePointIds": [
+      "kp-65",
+      "kp-66",
+      "kp-67"
+    ]
   },
   {
     "id": "case-26",
@@ -517,7 +692,14 @@
       "kp-82",
       "kp-83"
     ],
-    "estimatedMinutes": 45
+    "estimatedMinutes": 45,
+    "description": "运用译码器中译码器知识解决实际问题的案例。",
+    "duration": 45,
+    "knowledgePointIds": [
+      "kp-81",
+      "kp-82",
+      "kp-83"
+    ]
   },
   {
     "id": "case-27",
@@ -537,7 +719,14 @@
       "kp-98",
       "kp-99"
     ],
-    "estimatedMinutes": 45
+    "estimatedMinutes": 45,
+    "description": "运用数据选择器中74LS151知识解决实际问题的案例。",
+    "duration": 45,
+    "knowledgePointIds": [
+      "kp-97",
+      "kp-98",
+      "kp-99"
+    ]
   },
   {
     "id": "case-28",
@@ -557,7 +746,14 @@
       "kp-114",
       "kp-115"
     ],
-    "estimatedMinutes": 45
+    "estimatedMinutes": 45,
+    "description": "运用加法器中74LS283知识解决实际问题的案例。",
+    "duration": 45,
+    "knowledgePointIds": [
+      "kp-113",
+      "kp-114",
+      "kp-115"
+    ]
   },
   {
     "id": "case-29",
@@ -577,7 +773,14 @@
       "kp-130",
       "kp-131"
     ],
-    "estimatedMinutes": 54
+    "estimatedMinutes": 54,
+    "description": "运用比较器中数值比较知识解决实际问题的案例。",
+    "duration": 54,
+    "knowledgePointIds": [
+      "kp-129",
+      "kp-130",
+      "kp-131"
+    ]
   },
   {
     "id": "case-30",
@@ -597,7 +800,14 @@
       "kp-146",
       "kp-147"
     ],
-    "estimatedMinutes": 32
+    "estimatedMinutes": 32,
+    "description": "运用触发器中电平触发知识解决实际问题的案例。",
+    "duration": 32,
+    "knowledgePointIds": [
+      "kp-145",
+      "kp-146",
+      "kp-147"
+    ]
   },
   {
     "id": "case-31",
@@ -617,7 +827,14 @@
       "kp-162",
       "kp-163"
     ],
-    "estimatedMinutes": 50
+    "estimatedMinutes": 50,
+    "description": "运用计数器中计数器知识解决实际问题的案例。",
+    "duration": 50,
+    "knowledgePointIds": [
+      "kp-161",
+      "kp-162",
+      "kp-163"
+    ]
   },
   {
     "id": "case-32",
@@ -637,7 +854,14 @@
       "kp-178",
       "kp-179"
     ],
-    "estimatedMinutes": 34
+    "estimatedMinutes": 34,
+    "description": "运用寄存器中74LS175知识解决实际问题的案例。",
+    "duration": 34,
+    "knowledgePointIds": [
+      "kp-177",
+      "kp-178",
+      "kp-179"
+    ]
   },
   {
     "id": "case-33",
@@ -657,7 +881,14 @@
       "kp-194",
       "kp-195"
     ],
-    "estimatedMinutes": 32
+    "estimatedMinutes": 32,
+    "description": "运用时序逻辑电路中米利型知识解决实际问题的案例。",
+    "duration": 32,
+    "knowledgePointIds": [
+      "kp-193",
+      "kp-194",
+      "kp-195"
+    ]
   },
   {
     "id": "case-34",
@@ -677,7 +908,14 @@
       "kp-210",
       "kp-211"
     ],
-    "estimatedMinutes": 47
+    "estimatedMinutes": 47,
+    "description": "运用脉冲波形中施密特知识解决实际问题的案例。",
+    "duration": 47,
+    "knowledgePointIds": [
+      "kp-209",
+      "kp-210",
+      "kp-211"
+    ]
   },
   {
     "id": "case-35",
@@ -697,7 +935,14 @@
       "kp-226",
       "kp-227"
     ],
-    "estimatedMinutes": 52
+    "estimatedMinutes": 52,
+    "description": "运用存储器基础中Flash知识解决实际问题的案例。",
+    "duration": 52,
+    "knowledgePointIds": [
+      "kp-225",
+      "kp-226",
+      "kp-227"
+    ]
   },
   {
     "id": "case-36",
@@ -717,7 +962,14 @@
       "kp-242",
       "kp-243"
     ],
-    "estimatedMinutes": 36
+    "estimatedMinutes": 36,
+    "description": "运用可编程逻辑器件中LUT知识解决实际问题的案例。",
+    "duration": 36,
+    "knowledgePointIds": [
+      "kp-241",
+      "kp-242",
+      "kp-243"
+    ]
   },
   {
     "id": "case-37",
@@ -737,7 +989,14 @@
       "kp-258",
       "kp-259"
     ],
-    "estimatedMinutes": 48
+    "estimatedMinutes": 48,
+    "description": "运用Quartus入门中Quartus知识解决实际问题的案例。",
+    "duration": 48,
+    "knowledgePointIds": [
+      "kp-257",
+      "kp-258",
+      "kp-259"
+    ]
   },
   {
     "id": "case-38",
@@ -757,7 +1016,14 @@
       "kp-274",
       "kp-275"
     ],
-    "estimatedMinutes": 59
+    "estimatedMinutes": 59,
+    "description": "运用BDF原理图设计中符号编辑知识解决实际问题的案例。",
+    "duration": 59,
+    "knowledgePointIds": [
+      "kp-273",
+      "kp-274",
+      "kp-275"
+    ]
   },
   {
     "id": "case-39",
@@ -777,7 +1043,14 @@
       "kp-290",
       "kp-291"
     ],
-    "estimatedMinutes": 39
+    "estimatedMinutes": 39,
+    "description": "运用Verilog基础中always知识解决实际问题的案例。",
+    "duration": 39,
+    "knowledgePointIds": [
+      "kp-289",
+      "kp-290",
+      "kp-291"
+    ]
   },
   {
     "id": "case-40",
@@ -797,7 +1070,14 @@
       "kp-306",
       "kp-307"
     ],
-    "estimatedMinutes": 41
+    "estimatedMinutes": 41,
+    "description": "运用步进电机模拟电梯课程设计中SDC约束知识解决实际问题的案例。",
+    "duration": 41,
+    "knowledgePointIds": [
+      "kp-305",
+      "kp-306",
+      "kp-307"
+    ]
   },
   {
     "id": "case-41",
@@ -817,7 +1097,14 @@
       "kp-2",
       "kp-3"
     ],
-    "estimatedMinutes": 55
+    "estimatedMinutes": 55,
+    "description": "运用数制与编码中BCD知识解决实际问题的案例。",
+    "duration": 55,
+    "knowledgePointIds": [
+      "kp-1",
+      "kp-2",
+      "kp-3"
+    ]
   },
   {
     "id": "case-42",
@@ -837,7 +1124,14 @@
       "kp-18",
       "kp-19"
     ],
-    "estimatedMinutes": 47
+    "estimatedMinutes": 47,
+    "description": "运用逻辑代数基础中最大项知识解决实际问题的案例。",
+    "duration": 47,
+    "knowledgePointIds": [
+      "kp-17",
+      "kp-18",
+      "kp-19"
+    ]
   },
   {
     "id": "case-43",
@@ -857,7 +1151,14 @@
       "kp-34",
       "kp-35"
     ],
-    "estimatedMinutes": 57
+    "estimatedMinutes": 57,
+    "description": "运用逻辑门电路中非门知识解决实际问题的案例。",
+    "duration": 57,
+    "knowledgePointIds": [
+      "kp-33",
+      "kp-34",
+      "kp-35"
+    ]
   },
   {
     "id": "case-44",
@@ -877,7 +1178,14 @@
       "kp-50",
       "kp-51"
     ],
-    "estimatedMinutes": 39
+    "estimatedMinutes": 39,
+    "description": "运用组合逻辑电路中竞争冒险知识解决实际问题的案例。",
+    "duration": 39,
+    "knowledgePointIds": [
+      "kp-49",
+      "kp-50",
+      "kp-51"
+    ]
   },
   {
     "id": "case-45",
@@ -897,7 +1205,14 @@
       "kp-66",
       "kp-67"
     ],
-    "estimatedMinutes": 33
+    "estimatedMinutes": 33,
+    "description": "运用编码器中编码器知识解决实际问题的案例。",
+    "duration": 33,
+    "knowledgePointIds": [
+      "kp-65",
+      "kp-66",
+      "kp-67"
+    ]
   },
   {
     "id": "case-46",
@@ -917,7 +1232,14 @@
       "kp-82",
       "kp-83"
     ],
-    "estimatedMinutes": 42
+    "estimatedMinutes": 42,
+    "description": "运用译码器中译码器知识解决实际问题的案例。",
+    "duration": 42,
+    "knowledgePointIds": [
+      "kp-81",
+      "kp-82",
+      "kp-83"
+    ]
   },
   {
     "id": "case-47",
@@ -937,7 +1259,14 @@
       "kp-98",
       "kp-99"
     ],
-    "estimatedMinutes": 35
+    "estimatedMinutes": 35,
+    "description": "运用数据选择器中74LS151知识解决实际问题的案例。",
+    "duration": 35,
+    "knowledgePointIds": [
+      "kp-97",
+      "kp-98",
+      "kp-99"
+    ]
   },
   {
     "id": "case-48",
@@ -957,7 +1286,14 @@
       "kp-114",
       "kp-115"
     ],
-    "estimatedMinutes": 55
+    "estimatedMinutes": 55,
+    "description": "运用加法器中74LS283知识解决实际问题的案例。",
+    "duration": 55,
+    "knowledgePointIds": [
+      "kp-113",
+      "kp-114",
+      "kp-115"
+    ]
   },
   {
     "id": "case-49",
@@ -977,7 +1313,14 @@
       "kp-130",
       "kp-131"
     ],
-    "estimatedMinutes": 58
+    "estimatedMinutes": 58,
+    "description": "运用比较器中比较器知识解决实际问题的案例。",
+    "duration": 58,
+    "knowledgePointIds": [
+      "kp-129",
+      "kp-130",
+      "kp-131"
+    ]
   },
   {
     "id": "case-50",
@@ -997,7 +1340,14 @@
       "kp-146",
       "kp-147"
     ],
-    "estimatedMinutes": 49
+    "estimatedMinutes": 49,
+    "description": "运用触发器中JK触发器知识解决实际问题的案例。",
+    "duration": 49,
+    "knowledgePointIds": [
+      "kp-145",
+      "kp-146",
+      "kp-147"
+    ]
   },
   {
     "id": "case-51",
@@ -1015,7 +1365,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析\"触发器保持请求\"在本项目中的具体作用与输入输出\n2. 设计相应电路或状态机逻辑\n3. 在Quartus中用BDF或Verilog实现\n4. 进行功能仿真并分析波形\n5. 完成引脚绑定与下载验证\n6. 撰写该环节的实验报告章节",
     "referenceMarkdown": "## 参考思路\n\n1. **需求拆解**：明确本环节的输入信号、输出信号与时序关系\n2. **状态编码**：为楼层、方向等状态分配合适的二进制编码\n3. **模块设计**：可使用分频模块、计数器、译码器、触发器组合实现\n4. **相序控制**（涉及电机时）：四相四拍A→B→C→D或四相八拍A→AB→B→BC→C→CD→D→DA\n5. **仿真验证**：观察波形是否符合预期时序\n6. **下载验证**：LED、数码管、电机实际动作\n7. **报告撰写**：记录设计思路、仿真截图、调试过程与结论",
     "knowledgePoints": [],
-    "estimatedMinutes": 51
+    "estimatedMinutes": 51,
+    "description": "步进电机模拟电梯控制系统课程设计——触发器保持请求，面向课程设计全过程训练。",
+    "duration": 51,
+    "knowledgePointIds": []
   },
   {
     "id": "case-52",
@@ -1033,7 +1386,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析\"仿真波形验证\"在本项目中的具体作用与输入输出\n2. 设计相应电路或状态机逻辑\n3. 在Quartus中用BDF或Verilog实现\n4. 进行功能仿真并分析波形\n5. 完成引脚绑定与下载验证\n6. 撰写该环节的实验报告章节",
     "referenceMarkdown": "## 参考思路\n\n1. **需求拆解**：明确本环节的输入信号、输出信号与时序关系\n2. **状态编码**：为楼层、方向等状态分配合适的二进制编码\n3. **模块设计**：可使用分频模块、计数器、译码器、触发器组合实现\n4. **相序控制**（涉及电机时）：四相四拍A→B→C→D或四相八拍A→AB→B→BC→C→CD→D→DA\n5. **仿真验证**：观察波形是否符合预期时序\n6. **下载验证**：LED、数码管、电机实际动作\n7. **报告撰写**：记录设计思路、仿真截图、调试过程与结论",
     "knowledgePoints": [],
-    "estimatedMinutes": 52
+    "estimatedMinutes": 52,
+    "description": "步进电机模拟电梯控制系统课程设计——仿真波形验证，面向课程设计全过程训练。",
+    "duration": 52,
+    "knowledgePointIds": []
   },
   {
     "id": "case-53",
@@ -1051,7 +1407,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析\"引脚绑定\"在本项目中的具体作用与输入输出\n2. 设计相应电路或状态机逻辑\n3. 在Quartus中用BDF或Verilog实现\n4. 进行功能仿真并分析波形\n5. 完成引脚绑定与下载验证\n6. 撰写该环节的实验报告章节",
     "referenceMarkdown": "## 参考思路\n\n1. **需求拆解**：明确本环节的输入信号、输出信号与时序关系\n2. **状态编码**：为楼层、方向等状态分配合适的二进制编码\n3. **模块设计**：可使用分频模块、计数器、译码器、触发器组合实现\n4. **相序控制**（涉及电机时）：四相四拍A→B→C→D或四相八拍A→AB→B→BC→C→CD→D→DA\n5. **仿真验证**：观察波形是否符合预期时序\n6. **下载验证**：LED、数码管、电机实际动作\n7. **报告撰写**：记录设计思路、仿真截图、调试过程与结论",
     "knowledgePoints": [],
-    "estimatedMinutes": 53
+    "estimatedMinutes": 53,
+    "description": "步进电机模拟电梯控制系统课程设计——引脚绑定，面向课程设计全过程训练。",
+    "duration": 53,
+    "knowledgePointIds": []
   },
   {
     "id": "case-54",
@@ -1069,7 +1428,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析\"SDC时钟约束\"在本项目中的具体作用与输入输出\n2. 设计相应电路或状态机逻辑\n3. 在Quartus中用BDF或Verilog实现\n4. 进行功能仿真并分析波形\n5. 完成引脚绑定与下载验证\n6. 撰写该环节的实验报告章节",
     "referenceMarkdown": "## 参考思路\n\n1. **需求拆解**：明确本环节的输入信号、输出信号与时序关系\n2. **状态编码**：为楼层、方向等状态分配合适的二进制编码\n3. **模块设计**：可使用分频模块、计数器、译码器、触发器组合实现\n4. **相序控制**（涉及电机时）：四相四拍A→B→C→D或四相八拍A→AB→B→BC→C→CD→D→DA\n5. **仿真验证**：观察波形是否符合预期时序\n6. **下载验证**：LED、数码管、电机实际动作\n7. **报告撰写**：记录设计思路、仿真截图、调试过程与结论",
     "knowledgePoints": [],
-    "estimatedMinutes": 54
+    "estimatedMinutes": 54,
+    "description": "步进电机模拟电梯控制系统课程设计——SDC时钟约束，面向课程设计全过程训练。",
+    "duration": 54,
+    "knowledgePointIds": []
   },
   {
     "id": "case-55",
@@ -1087,7 +1449,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析\"编译警告解释\"在本项目中的具体作用与输入输出\n2. 设计相应电路或状态机逻辑\n3. 在Quartus中用BDF或Verilog实现\n4. 进行功能仿真并分析波形\n5. 完成引脚绑定与下载验证\n6. 撰写该环节的实验报告章节",
     "referenceMarkdown": "## 参考思路\n\n1. **需求拆解**：明确本环节的输入信号、输出信号与时序关系\n2. **状态编码**：为楼层、方向等状态分配合适的二进制编码\n3. **模块设计**：可使用分频模块、计数器、译码器、触发器组合实现\n4. **相序控制**（涉及电机时）：四相四拍A→B→C→D或四相八拍A→AB→B→BC→C→CD→D→DA\n5. **仿真验证**：观察波形是否符合预期时序\n6. **下载验证**：LED、数码管、电机实际动作\n7. **报告撰写**：记录设计思路、仿真截图、调试过程与结论",
     "knowledgePoints": [],
-    "estimatedMinutes": 55
+    "estimatedMinutes": 55,
+    "description": "步进电机模拟电梯控制系统课程设计——编译警告解释，面向课程设计全过程训练。",
+    "duration": 55,
+    "knowledgePointIds": []
   },
   {
     "id": "case-56",
@@ -1105,7 +1470,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析\"下载验证步骤\"在本项目中的具体作用与输入输出\n2. 设计相应电路或状态机逻辑\n3. 在Quartus中用BDF或Verilog实现\n4. 进行功能仿真并分析波形\n5. 完成引脚绑定与下载验证\n6. 撰写该环节的实验报告章节",
     "referenceMarkdown": "## 参考思路\n\n1. **需求拆解**：明确本环节的输入信号、输出信号与时序关系\n2. **状态编码**：为楼层、方向等状态分配合适的二进制编码\n3. **模块设计**：可使用分频模块、计数器、译码器、触发器组合实现\n4. **相序控制**（涉及电机时）：四相四拍A→B→C→D或四相八拍A→AB→B→BC→C→CD→D→DA\n5. **仿真验证**：观察波形是否符合预期时序\n6. **下载验证**：LED、数码管、电机实际动作\n7. **报告撰写**：记录设计思路、仿真截图、调试过程与结论",
     "knowledgePoints": [],
-    "estimatedMinutes": 56
+    "estimatedMinutes": 56,
+    "description": "步进电机模拟电梯控制系统课程设计——下载验证步骤，面向课程设计全过程训练。",
+    "duration": 56,
+    "knowledgePointIds": []
   },
   {
     "id": "case-57",
@@ -1123,7 +1491,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析\"实验报告撰写\"在本项目中的具体作用与输入输出\n2. 设计相应电路或状态机逻辑\n3. 在Quartus中用BDF或Verilog实现\n4. 进行功能仿真并分析波形\n5. 完成引脚绑定与下载验证\n6. 撰写该环节的实验报告章节",
     "referenceMarkdown": "## 参考思路\n\n1. **需求拆解**：明确本环节的输入信号、输出信号与时序关系\n2. **状态编码**：为楼层、方向等状态分配合适的二进制编码\n3. **模块设计**：可使用分频模块、计数器、译码器、触发器组合实现\n4. **相序控制**（涉及电机时）：四相四拍A→B→C→D或四相八拍A→AB→B→BC→C→CD→D→DA\n5. **仿真验证**：观察波形是否符合预期时序\n6. **下载验证**：LED、数码管、电机实际动作\n7. **报告撰写**：记录设计思路、仿真截图、调试过程与结论",
     "knowledgePoints": [],
-    "estimatedMinutes": 57
+    "estimatedMinutes": 57,
+    "description": "步进电机模拟电梯控制系统课程设计——实验报告撰写，面向课程设计全过程训练。",
+    "duration": 57,
+    "knowledgePointIds": []
   },
   {
     "id": "case-58",
@@ -1141,7 +1512,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析\"电梯综合系统集成\"在本项目中的具体作用与输入输出\n2. 设计相应电路或状态机逻辑\n3. 在Quartus中用BDF或Verilog实现\n4. 进行功能仿真并分析波形\n5. 完成引脚绑定与下载验证\n6. 撰写该环节的实验报告章节",
     "referenceMarkdown": "## 参考思路\n\n1. **需求拆解**：明确本环节的输入信号、输出信号与时序关系\n2. **状态编码**：为楼层、方向等状态分配合适的二进制编码\n3. **模块设计**：可使用分频模块、计数器、译码器、触发器组合实现\n4. **相序控制**（涉及电机时）：四相四拍A→B→C→D或四相八拍A→AB→B→BC→C→CD→D→DA\n5. **仿真验证**：观察波形是否符合预期时序\n6. **下载验证**：LED、数码管、电机实际动作\n7. **报告撰写**：记录设计思路、仿真截图、调试过程与结论",
     "knowledgePoints": [],
-    "estimatedMinutes": 58
+    "estimatedMinutes": 58,
+    "description": "步进电机模拟电梯控制系统课程设计——电梯综合系统集成，面向课程设计全过程训练。",
+    "duration": 58,
+    "knowledgePointIds": []
   },
   {
     "id": "case-59",
@@ -1159,7 +1533,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析\"电梯紧急停止\"在本项目中的具体作用与输入输出\n2. 设计相应电路或状态机逻辑\n3. 在Quartus中用BDF或Verilog实现\n4. 进行功能仿真并分析波形\n5. 完成引脚绑定与下载验证\n6. 撰写该环节的实验报告章节",
     "referenceMarkdown": "## 参考思路\n\n1. **需求拆解**：明确本环节的输入信号、输出信号与时序关系\n2. **状态编码**：为楼层、方向等状态分配合适的二进制编码\n3. **模块设计**：可使用分频模块、计数器、译码器、触发器组合实现\n4. **相序控制**（涉及电机时）：四相四拍A→B→C→D或四相八拍A→AB→B→BC→C→CD→D→DA\n5. **仿真验证**：观察波形是否符合预期时序\n6. **下载验证**：LED、数码管、电机实际动作\n7. **报告撰写**：记录设计思路、仿真截图、调试过程与结论",
     "knowledgePoints": [],
-    "estimatedMinutes": 59
+    "estimatedMinutes": 59,
+    "description": "步进电机模拟电梯控制系统课程设计——电梯紧急停止，面向课程设计全过程训练。",
+    "duration": 59,
+    "knowledgePointIds": []
   },
   {
     "id": "case-60",
@@ -1177,7 +1554,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析\"电梯超载保护\"在本项目中的具体作用与输入输出\n2. 设计相应电路或状态机逻辑\n3. 在Quartus中用BDF或Verilog实现\n4. 进行功能仿真并分析波形\n5. 完成引脚绑定与下载验证\n6. 撰写该环节的实验报告章节",
     "referenceMarkdown": "## 参考思路\n\n1. **需求拆解**：明确本环节的输入信号、输出信号与时序关系\n2. **状态编码**：为楼层、方向等状态分配合适的二进制编码\n3. **模块设计**：可使用分频模块、计数器、译码器、触发器组合实现\n4. **相序控制**（涉及电机时）：四相四拍A→B→C→D或四相八拍A→AB→B→BC→C→CD→D→DA\n5. **仿真验证**：观察波形是否符合预期时序\n6. **下载验证**：LED、数码管、电机实际动作\n7. **报告撰写**：记录设计思路、仿真截图、调试过程与结论",
     "knowledgePoints": [],
-    "estimatedMinutes": 60
+    "estimatedMinutes": 60,
+    "description": "步进电机模拟电梯控制系统课程设计——电梯超载保护，面向课程设计全过程训练。",
+    "duration": 60,
+    "knowledgePointIds": []
   },
   {
     "id": "case-61",
@@ -1195,7 +1575,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析\"电梯优先调度\"在本项目中的具体作用与输入输出\n2. 设计相应电路或状态机逻辑\n3. 在Quartus中用BDF或Verilog实现\n4. 进行功能仿真并分析波形\n5. 完成引脚绑定与下载验证\n6. 撰写该环节的实验报告章节",
     "referenceMarkdown": "## 参考思路\n\n1. **需求拆解**：明确本环节的输入信号、输出信号与时序关系\n2. **状态编码**：为楼层、方向等状态分配合适的二进制编码\n3. **模块设计**：可使用分频模块、计数器、译码器、触发器组合实现\n4. **相序控制**（涉及电机时）：四相四拍A→B→C→D或四相八拍A→AB→B→BC→C→CD→D→DA\n5. **仿真验证**：观察波形是否符合预期时序\n6. **下载验证**：LED、数码管、电机实际动作\n7. **报告撰写**：记录设计思路、仿真截图、调试过程与结论",
     "knowledgePoints": [],
-    "estimatedMinutes": 61
+    "estimatedMinutes": 61,
+    "description": "步进电机模拟电梯控制系统课程设计——电梯优先调度，面向课程设计全过程训练。",
+    "duration": 61,
+    "knowledgePointIds": []
   },
   {
     "id": "case-62",
@@ -1213,7 +1596,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析\"电梯待机节能\"在本项目中的具体作用与输入输出\n2. 设计相应电路或状态机逻辑\n3. 在Quartus中用BDF或Verilog实现\n4. 进行功能仿真并分析波形\n5. 完成引脚绑定与下载验证\n6. 撰写该环节的实验报告章节",
     "referenceMarkdown": "## 参考思路\n\n1. **需求拆解**：明确本环节的输入信号、输出信号与时序关系\n2. **状态编码**：为楼层、方向等状态分配合适的二进制编码\n3. **模块设计**：可使用分频模块、计数器、译码器、触发器组合实现\n4. **相序控制**（涉及电机时）：四相四拍A→B→C→D或四相八拍A→AB→B→BC→C→CD→D→DA\n5. **仿真验证**：观察波形是否符合预期时序\n6. **下载验证**：LED、数码管、电机实际动作\n7. **报告撰写**：记录设计思路、仿真截图、调试过程与结论",
     "knowledgePoints": [],
-    "estimatedMinutes": 62
+    "estimatedMinutes": 62,
+    "description": "步进电机模拟电梯控制系统课程设计——电梯待机节能，面向课程设计全过程训练。",
+    "duration": 62,
+    "knowledgePointIds": []
   },
   {
     "id": "case-63",
@@ -1231,7 +1617,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析\"电梯需求拆解\"在本项目中的具体作用与输入输出\n2. 设计相应电路或状态机逻辑\n3. 在Quartus中用BDF或Verilog实现\n4. 进行功能仿真并分析波形\n5. 完成引脚绑定与下载验证\n6. 撰写该环节的实验报告章节",
     "referenceMarkdown": "## 参考思路\n\n1. **需求拆解**：明确本环节的输入信号、输出信号与时序关系\n2. **状态编码**：为楼层、方向等状态分配合适的二进制编码\n3. **模块设计**：可使用分频模块、计数器、译码器、触发器组合实现\n4. **相序控制**（涉及电机时）：四相四拍A→B→C→D或四相八拍A→AB→B→BC→C→CD→D→DA\n5. **仿真验证**：观察波形是否符合预期时序\n6. **下载验证**：LED、数码管、电机实际动作\n7. **报告撰写**：记录设计思路、仿真截图、调试过程与结论",
     "knowledgePoints": [],
-    "estimatedMinutes": 63
+    "estimatedMinutes": 63,
+    "description": "步进电机模拟电梯控制系统课程设计——电梯需求拆解，面向课程设计全过程训练。",
+    "duration": 63,
+    "knowledgePointIds": []
   },
   {
     "id": "case-64",
@@ -1249,7 +1638,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析\"输入输出定义\"在本项目中的具体作用与输入输出\n2. 设计相应电路或状态机逻辑\n3. 在Quartus中用BDF或Verilog实现\n4. 进行功能仿真并分析波形\n5. 完成引脚绑定与下载验证\n6. 撰写该环节的实验报告章节",
     "referenceMarkdown": "## 参考思路\n\n1. **需求拆解**：明确本环节的输入信号、输出信号与时序关系\n2. **状态编码**：为楼层、方向等状态分配合适的二进制编码\n3. **模块设计**：可使用分频模块、计数器、译码器、触发器组合实现\n4. **相序控制**（涉及电机时）：四相四拍A→B→C→D或四相八拍A→AB→B→BC→C→CD→D→DA\n5. **仿真验证**：观察波形是否符合预期时序\n6. **下载验证**：LED、数码管、电机实际动作\n7. **报告撰写**：记录设计思路、仿真截图、调试过程与结论",
     "knowledgePoints": [],
-    "estimatedMinutes": 64
+    "estimatedMinutes": 64,
+    "description": "步进电机模拟电梯控制系统课程设计——输入输出定义，面向课程设计全过程训练。",
+    "duration": 64,
+    "knowledgePointIds": []
   },
   {
     "id": "case-65",
@@ -1267,7 +1659,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析\"楼层状态编码\"在本项目中的具体作用与输入输出\n2. 设计相应电路或状态机逻辑\n3. 在Quartus中用BDF或Verilog实现\n4. 进行功能仿真并分析波形\n5. 完成引脚绑定与下载验证\n6. 撰写该环节的实验报告章节",
     "referenceMarkdown": "## 参考思路\n\n1. **需求拆解**：明确本环节的输入信号、输出信号与时序关系\n2. **状态编码**：为楼层、方向等状态分配合适的二进制编码\n3. **模块设计**：可使用分频模块、计数器、译码器、触发器组合实现\n4. **相序控制**（涉及电机时）：四相四拍A→B→C→D或四相八拍A→AB→B→BC→C→CD→D→DA\n5. **仿真验证**：观察波形是否符合预期时序\n6. **下载验证**：LED、数码管、电机实际动作\n7. **报告撰写**：记录设计思路、仿真截图、调试过程与结论",
     "knowledgePoints": [],
-    "estimatedMinutes": 65
+    "estimatedMinutes": 65,
+    "description": "步进电机模拟电梯控制系统课程设计——楼层状态编码，面向课程设计全过程训练。",
+    "duration": 65,
+    "knowledgePointIds": []
   },
   {
     "id": "case-66",
@@ -1285,7 +1680,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析\"层站请求输入\"在本项目中的具体作用与输入输出\n2. 设计相应电路或状态机逻辑\n3. 在Quartus中用BDF或Verilog实现\n4. 进行功能仿真并分析波形\n5. 完成引脚绑定与下载验证\n6. 撰写该环节的实验报告章节",
     "referenceMarkdown": "## 参考思路\n\n1. **需求拆解**：明确本环节的输入信号、输出信号与时序关系\n2. **状态编码**：为楼层、方向等状态分配合适的二进制编码\n3. **模块设计**：可使用分频模块、计数器、译码器、触发器组合实现\n4. **相序控制**（涉及电机时）：四相四拍A→B→C→D或四相八拍A→AB→B→BC→C→CD→D→DA\n5. **仿真验证**：观察波形是否符合预期时序\n6. **下载验证**：LED、数码管、电机实际动作\n7. **报告撰写**：记录设计思路、仿真截图、调试过程与结论",
     "knowledgePoints": [],
-    "estimatedMinutes": 66
+    "estimatedMinutes": 66,
+    "description": "步进电机模拟电梯控制系统课程设计——层站请求输入，面向课程设计全过程训练。",
+    "duration": 66,
+    "knowledgePointIds": []
   },
   {
     "id": "case-67",
@@ -1303,7 +1701,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析\"当前楼层计数\"在本项目中的具体作用与输入输出\n2. 设计相应电路或状态机逻辑\n3. 在Quartus中用BDF或Verilog实现\n4. 进行功能仿真并分析波形\n5. 完成引脚绑定与下载验证\n6. 撰写该环节的实验报告章节",
     "referenceMarkdown": "## 参考思路\n\n1. **需求拆解**：明确本环节的输入信号、输出信号与时序关系\n2. **状态编码**：为楼层、方向等状态分配合适的二进制编码\n3. **模块设计**：可使用分频模块、计数器、译码器、触发器组合实现\n4. **相序控制**（涉及电机时）：四相四拍A→B→C→D或四相八拍A→AB→B→BC→C→CD→D→DA\n5. **仿真验证**：观察波形是否符合预期时序\n6. **下载验证**：LED、数码管、电机实际动作\n7. **报告撰写**：记录设计思路、仿真截图、调试过程与结论",
     "knowledgePoints": [],
-    "estimatedMinutes": 67
+    "estimatedMinutes": 67,
+    "description": "步进电机模拟电梯控制系统课程设计——当前楼层计数，面向课程设计全过程训练。",
+    "duration": 67,
+    "knowledgePointIds": []
   },
   {
     "id": "case-68",
@@ -1321,7 +1722,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析\"上行方向判断\"在本项目中的具体作用与输入输出\n2. 设计相应电路或状态机逻辑\n3. 在Quartus中用BDF或Verilog实现\n4. 进行功能仿真并分析波形\n5. 完成引脚绑定与下载验证\n6. 撰写该环节的实验报告章节",
     "referenceMarkdown": "## 参考思路\n\n1. **需求拆解**：明确本环节的输入信号、输出信号与时序关系\n2. **状态编码**：为楼层、方向等状态分配合适的二进制编码\n3. **模块设计**：可使用分频模块、计数器、译码器、触发器组合实现\n4. **相序控制**（涉及电机时）：四相四拍A→B→C→D或四相八拍A→AB→B→BC→C→CD→D→DA\n5. **仿真验证**：观察波形是否符合预期时序\n6. **下载验证**：LED、数码管、电机实际动作\n7. **报告撰写**：记录设计思路、仿真截图、调试过程与结论",
     "knowledgePoints": [],
-    "estimatedMinutes": 68
+    "estimatedMinutes": 68,
+    "description": "步进电机模拟电梯控制系统课程设计——上行方向判断，面向课程设计全过程训练。",
+    "duration": 68,
+    "knowledgePointIds": []
   },
   {
     "id": "case-69",
@@ -1339,7 +1743,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析\"下行方向判断\"在本项目中的具体作用与输入输出\n2. 设计相应电路或状态机逻辑\n3. 在Quartus中用BDF或Verilog实现\n4. 进行功能仿真并分析波形\n5. 完成引脚绑定与下载验证\n6. 撰写该环节的实验报告章节",
     "referenceMarkdown": "## 参考思路\n\n1. **需求拆解**：明确本环节的输入信号、输出信号与时序关系\n2. **状态编码**：为楼层、方向等状态分配合适的二进制编码\n3. **模块设计**：可使用分频模块、计数器、译码器、触发器组合实现\n4. **相序控制**（涉及电机时）：四相四拍A→B→C→D或四相八拍A→AB→B→BC→C→CD→D→DA\n5. **仿真验证**：观察波形是否符合预期时序\n6. **下载验证**：LED、数码管、电机实际动作\n7. **报告撰写**：记录设计思路、仿真截图、调试过程与结论",
     "knowledgePoints": [],
-    "estimatedMinutes": 69
+    "estimatedMinutes": 69,
+    "description": "步进电机模拟电梯控制系统课程设计——下行方向判断，面向课程设计全过程训练。",
+    "duration": 69,
+    "knowledgePointIds": []
   },
   {
     "id": "case-70",
@@ -1357,7 +1764,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析\"到站判断\"在本项目中的具体作用与输入输出\n2. 设计相应电路或状态机逻辑\n3. 在Quartus中用BDF或Verilog实现\n4. 进行功能仿真并分析波形\n5. 完成引脚绑定与下载验证\n6. 撰写该环节的实验报告章节",
     "referenceMarkdown": "## 参考思路\n\n1. **需求拆解**：明确本环节的输入信号、输出信号与时序关系\n2. **状态编码**：为楼层、方向等状态分配合适的二进制编码\n3. **模块设计**：可使用分频模块、计数器、译码器、触发器组合实现\n4. **相序控制**（涉及电机时）：四相四拍A→B→C→D或四相八拍A→AB→B→BC→C→CD→D→DA\n5. **仿真验证**：观察波形是否符合预期时序\n6. **下载验证**：LED、数码管、电机实际动作\n7. **报告撰写**：记录设计思路、仿真截图、调试过程与结论",
     "knowledgePoints": [],
-    "estimatedMinutes": 70
+    "estimatedMinutes": 70,
+    "description": "步进电机模拟电梯控制系统课程设计——到站判断，面向课程设计全过程训练。",
+    "duration": 70,
+    "knowledgePointIds": []
   },
   {
     "id": "case-71",
@@ -1375,7 +1785,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析\"开门信号设计\"在本项目中的具体作用与输入输出\n2. 设计相应电路或状态机逻辑\n3. 在Quartus中用BDF或Verilog实现\n4. 进行功能仿真并分析波形\n5. 完成引脚绑定与下载验证\n6. 撰写该环节的实验报告章节",
     "referenceMarkdown": "## 参考思路\n\n1. **需求拆解**：明确本环节的输入信号、输出信号与时序关系\n2. **状态编码**：为楼层、方向等状态分配合适的二进制编码\n3. **模块设计**：可使用分频模块、计数器、译码器、触发器组合实现\n4. **相序控制**（涉及电机时）：四相四拍A→B→C→D或四相八拍A→AB→B→BC→C→CD→D→DA\n5. **仿真验证**：观察波形是否符合预期时序\n6. **下载验证**：LED、数码管、电机实际动作\n7. **报告撰写**：记录设计思路、仿真截图、调试过程与结论",
     "knowledgePoints": [],
-    "estimatedMinutes": 71
+    "estimatedMinutes": 71,
+    "description": "步进电机模拟电梯控制系统课程设计——开门信号设计，面向课程设计全过程训练。",
+    "duration": 71,
+    "knowledgePointIds": []
   },
   {
     "id": "case-72",
@@ -1393,7 +1806,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析\"关门信号设计\"在本项目中的具体作用与输入输出\n2. 设计相应电路或状态机逻辑\n3. 在Quartus中用BDF或Verilog实现\n4. 进行功能仿真并分析波形\n5. 完成引脚绑定与下载验证\n6. 撰写该环节的实验报告章节",
     "referenceMarkdown": "## 参考思路\n\n1. **需求拆解**：明确本环节的输入信号、输出信号与时序关系\n2. **状态编码**：为楼层、方向等状态分配合适的二进制编码\n3. **模块设计**：可使用分频模块、计数器、译码器、触发器组合实现\n4. **相序控制**（涉及电机时）：四相四拍A→B→C→D或四相八拍A→AB→B→BC→C→CD→D→DA\n5. **仿真验证**：观察波形是否符合预期时序\n6. **下载验证**：LED、数码管、电机实际动作\n7. **报告撰写**：记录设计思路、仿真截图、调试过程与结论",
     "knowledgePoints": [],
-    "estimatedMinutes": 72
+    "estimatedMinutes": 72,
+    "description": "步进电机模拟电梯控制系统课程设计——关门信号设计，面向课程设计全过程训练。",
+    "duration": 72,
+    "knowledgePointIds": []
   },
   {
     "id": "case-73",
@@ -1411,7 +1827,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析\"运行状态LED\"在本项目中的具体作用与输入输出\n2. 设计相应电路或状态机逻辑\n3. 在Quartus中用BDF或Verilog实现\n4. 进行功能仿真并分析波形\n5. 完成引脚绑定与下载验证\n6. 撰写该环节的实验报告章节",
     "referenceMarkdown": "## 参考思路\n\n1. **需求拆解**：明确本环节的输入信号、输出信号与时序关系\n2. **状态编码**：为楼层、方向等状态分配合适的二进制编码\n3. **模块设计**：可使用分频模块、计数器、译码器、触发器组合实现\n4. **相序控制**（涉及电机时）：四相四拍A→B→C→D或四相八拍A→AB→B→BC→C→CD→D→DA\n5. **仿真验证**：观察波形是否符合预期时序\n6. **下载验证**：LED、数码管、电机实际动作\n7. **报告撰写**：记录设计思路、仿真截图、调试过程与结论",
     "knowledgePoints": [],
-    "estimatedMinutes": 73
+    "estimatedMinutes": 73,
+    "description": "步进电机模拟电梯控制系统课程设计——运行状态LED，面向课程设计全过程训练。",
+    "duration": 73,
+    "knowledgePointIds": []
   },
   {
     "id": "case-74",
@@ -1429,7 +1848,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析\"数码管楼层显示\"在本项目中的具体作用与输入输出\n2. 设计相应电路或状态机逻辑\n3. 在Quartus中用BDF或Verilog实现\n4. 进行功能仿真并分析波形\n5. 完成引脚绑定与下载验证\n6. 撰写该环节的实验报告章节",
     "referenceMarkdown": "## 参考思路\n\n1. **需求拆解**：明确本环节的输入信号、输出信号与时序关系\n2. **状态编码**：为楼层、方向等状态分配合适的二进制编码\n3. **模块设计**：可使用分频模块、计数器、译码器、触发器组合实现\n4. **相序控制**（涉及电机时）：四相四拍A→B→C→D或四相八拍A→AB→B→BC→C→CD→D→DA\n5. **仿真验证**：观察波形是否符合预期时序\n6. **下载验证**：LED、数码管、电机实际动作\n7. **报告撰写**：记录设计思路、仿真截图、调试过程与结论",
     "knowledgePoints": [],
-    "estimatedMinutes": 74
+    "estimatedMinutes": 74,
+    "description": "步进电机模拟电梯控制系统课程设计——数码管楼层显示，面向课程设计全过程训练。",
+    "duration": 74,
+    "knowledgePointIds": []
   },
   {
     "id": "case-75",
@@ -1447,7 +1869,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析\"步进电机四相四拍\"在本项目中的具体作用与输入输出\n2. 设计相应电路或状态机逻辑\n3. 在Quartus中用BDF或Verilog实现\n4. 进行功能仿真并分析波形\n5. 完成引脚绑定与下载验证\n6. 撰写该环节的实验报告章节",
     "referenceMarkdown": "## 参考思路\n\n1. **需求拆解**：明确本环节的输入信号、输出信号与时序关系\n2. **状态编码**：为楼层、方向等状态分配合适的二进制编码\n3. **模块设计**：可使用分频模块、计数器、译码器、触发器组合实现\n4. **相序控制**（涉及电机时）：四相四拍A→B→C→D或四相八拍A→AB→B→BC→C→CD→D→DA\n5. **仿真验证**：观察波形是否符合预期时序\n6. **下载验证**：LED、数码管、电机实际动作\n7. **报告撰写**：记录设计思路、仿真截图、调试过程与结论",
     "knowledgePoints": [],
-    "estimatedMinutes": 75
+    "estimatedMinutes": 75,
+    "description": "步进电机模拟电梯控制系统课程设计——步进电机四相四拍，面向课程设计全过程训练。",
+    "duration": 75,
+    "knowledgePointIds": []
   },
   {
     "id": "case-76",
@@ -1469,7 +1894,14 @@
       "kp-481",
       "kp-476"
     ],
-    "estimatedMinutes": 46
+    "estimatedMinutes": 46,
+    "description": "加法器比较器与算术逻辑方向案例训练：ALU功能验证。",
+    "duration": 46,
+    "knowledgePointIds": [
+      "kp-226",
+      "kp-481",
+      "kp-476"
+    ]
   },
   {
     "id": "case-77",
@@ -1492,7 +1924,14 @@
       "kp-504",
       "kp-252"
     ],
-    "estimatedMinutes": 47
+    "estimatedMinutes": 47,
+    "description": "触发器基础方向案例训练：触发器异步复位。",
+    "duration": 47,
+    "knowledgePointIds": [
+      "kp-501",
+      "kp-504",
+      "kp-252"
+    ]
   },
   {
     "id": "case-78",
@@ -1514,7 +1953,14 @@
       "kp-269",
       "kp-531"
     ],
-    "estimatedMinutes": 48
+    "estimatedMinutes": 48,
+    "description": "计数器方向案例训练：74LS161构成模60。",
+    "duration": 48,
+    "knowledgePointIds": [
+      "kp-273",
+      "kp-269",
+      "kp-531"
+    ]
   },
   {
     "id": "case-79",
@@ -1535,7 +1981,14 @@
       "kp-584",
       "kp-591"
     ],
-    "estimatedMinutes": 49
+    "estimatedMinutes": 49,
+    "description": "时序逻辑电路设计方向案例训练：交通灯控制器。",
+    "duration": 49,
+    "knowledgePointIds": [
+      "kp-580",
+      "kp-584",
+      "kp-591"
+    ]
   },
   {
     "id": "case-80",
@@ -1553,7 +2006,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析案例需求与约束\n2. 设计电路或方案\n3. 在Quartus/BDF中实现\n4. 仿真验证功能\n5. 撰写案例报告",
     "referenceMarkdown": "## 参考思路\n\n1. 从需求出发，确定输入输出\n2. 列出真值表或状态图\n3. 化简逻辑表达式\n4. 画出电路图或编写代码\n5. 仿真与下载验证\n6. 总结设计要点与常见问题",
     "knowledgePoints": [],
-    "estimatedMinutes": 50
+    "estimatedMinutes": 50,
+    "description": "BDF原理图设计方向案例训练：BDF编译调试。",
+    "duration": 50,
+    "knowledgePointIds": []
   },
   {
     "id": "case-81",
@@ -1571,7 +2027,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析案例需求与约束\n2. 设计电路或方案\n3. 在Quartus/BDF中实现\n4. 仿真验证功能\n5. 撰写案例报告",
     "referenceMarkdown": "## 参考思路\n\n1. 从需求出发，确定输入输出\n2. 列出真值表或状态图\n3. 化简逻辑表达式\n4. 画出电路图或编写代码\n5. 仿真与下载验证\n6. 总结设计要点与常见问题",
     "knowledgePoints": [],
-    "estimatedMinutes": 51
+    "estimatedMinutes": 51,
+    "description": "FPGA实验流程方向案例训练：FPGA LED流水灯。",
+    "duration": 51,
+    "knowledgePointIds": []
   },
   {
     "id": "case-82",
@@ -1592,7 +2051,14 @@
       "kp-104",
       "kp-63"
     ],
-    "estimatedMinutes": 52
+    "estimatedMinutes": 52,
+    "description": "组合逻辑电路方向案例训练：交通灯故障检测。",
+    "duration": 52,
+    "knowledgePointIds": [
+      "kp-90",
+      "kp-104",
+      "kp-63"
+    ]
   },
   {
     "id": "case-83",
@@ -1614,7 +2080,14 @@
       "kp-165",
       "kp-442"
     ],
-    "estimatedMinutes": 53
+    "estimatedMinutes": 53,
+    "description": "编码器与译码器方向案例训练：74LS138作数据分配。",
+    "duration": 53,
+    "knowledgePointIds": [
+      "kp-148",
+      "kp-165",
+      "kp-442"
+    ]
   },
   {
     "id": "case-84",
@@ -1636,7 +2109,14 @@
       "kp-204",
       "kp-448"
     ],
-    "estimatedMinutes": 54
+    "estimatedMinutes": 54,
+    "description": "数据选择器与分配器方向案例训练：MUX并行转串行。",
+    "duration": 54,
+    "knowledgePointIds": [
+      "kp-190",
+      "kp-204",
+      "kp-448"
+    ]
   },
   {
     "id": "case-85",
@@ -1658,7 +2138,14 @@
       "kp-234",
       "kp-475"
     ],
-    "estimatedMinutes": 55
+    "estimatedMinutes": 55,
+    "description": "加法器比较器与算术逻辑方向案例训练：8位比较器级联。",
+    "duration": 55,
+    "knowledgePointIds": [
+      "kp-238",
+      "kp-234",
+      "kp-475"
+    ]
   },
   {
     "id": "case-86",
@@ -1681,7 +2168,14 @@
       "kp-247",
       "kp-509"
     ],
-    "estimatedMinutes": 56
+    "estimatedMinutes": 56,
+    "description": "触发器基础方向案例训练：D触发器实现T。",
+    "duration": 56,
+    "knowledgePointIds": [
+      "kp-494",
+      "kp-247",
+      "kp-509"
+    ]
   },
   {
     "id": "case-87",
@@ -1703,7 +2197,14 @@
       "kp-513",
       "kp-532"
     ],
-    "estimatedMinutes": 57
+    "estimatedMinutes": 57,
+    "description": "计数器方向案例训练：模10计数器清零法。",
+    "duration": 57,
+    "knowledgePointIds": [
+      "kp-536",
+      "kp-513",
+      "kp-532"
+    ]
   },
   {
     "id": "case-88",
@@ -1724,7 +2225,14 @@
       "kp-588",
       "kp-592"
     ],
-    "estimatedMinutes": 58
+    "estimatedMinutes": 58,
+    "description": "时序逻辑电路设计方向案例训练：自动售饮料机。",
+    "duration": 58,
+    "knowledgePointIds": [
+      "kp-589",
+      "kp-588",
+      "kp-592"
+    ]
   },
   {
     "id": "case-89",
@@ -1742,7 +2250,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析案例需求与约束\n2. 设计电路或方案\n3. 在Quartus/BDF中实现\n4. 仿真验证功能\n5. 撰写案例报告",
     "referenceMarkdown": "## 参考思路\n\n1. 从需求出发，确定输入输出\n2. 列出真值表或状态图\n3. 化简逻辑表达式\n4. 画出电路图或编写代码\n5. 仿真与下载验证\n6. 总结设计要点与常见问题",
     "knowledgePoints": [],
-    "estimatedMinutes": 59
+    "estimatedMinutes": 59,
+    "description": "BDF原理图设计方向案例训练：BDF综合项目。",
+    "duration": 59,
+    "knowledgePointIds": []
   },
   {
     "id": "case-90",
@@ -1760,7 +2271,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析案例需求与约束\n2. 设计电路或方案\n3. 在Quartus/BDF中实现\n4. 仿真验证功能\n5. 撰写案例报告",
     "referenceMarkdown": "## 参考思路\n\n1. 从需求出发，确定输入输出\n2. 列出真值表或状态图\n3. 化简逻辑表达式\n4. 画出电路图或编写代码\n5. 仿真与下载验证\n6. 总结设计要点与常见问题",
     "knowledgePoints": [],
-    "estimatedMinutes": 30
+    "estimatedMinutes": 30,
+    "description": "FPGA实验流程方向案例训练：FPGA时序约束验证。",
+    "duration": 30,
+    "knowledgePointIds": []
   },
   {
     "id": "case-91",
@@ -1781,7 +2295,14 @@
       "kp-133",
       "kp-128"
     ],
-    "estimatedMinutes": 31
+    "estimatedMinutes": 31,
+    "description": "组合逻辑电路方向案例训练：三人表决器设计。",
+    "duration": 31,
+    "knowledgePointIds": [
+      "kp-58",
+      "kp-133",
+      "kp-128"
+    ]
   },
   {
     "id": "case-92",
@@ -1803,7 +2324,14 @@
       "kp-442",
       "kp-152"
     ],
-    "estimatedMinutes": 32
+    "estimatedMinutes": 32,
+    "description": "编码器与译码器方向案例训练：译码器扩展为4-16。",
+    "duration": 32,
+    "knowledgePointIds": [
+      "kp-175",
+      "kp-442",
+      "kp-152"
+    ]
   },
   {
     "id": "case-93",
@@ -1825,7 +2353,14 @@
       "kp-196",
       "kp-198"
     ],
-    "estimatedMinutes": 33
+    "estimatedMinutes": 33,
+    "description": "数据选择器与分配器方向案例训练：MUX实现全加器。",
+    "duration": 33,
+    "knowledgePointIds": [
+      "kp-178",
+      "kp-196",
+      "kp-198"
+    ]
   },
   {
     "id": "case-94",
@@ -1847,7 +2382,14 @@
       "kp-217",
       "kp-212"
     ],
-    "estimatedMinutes": 34
+    "estimatedMinutes": 34,
+    "description": "加法器比较器与算术逻辑方向案例训练：4位比较器设计。",
+    "duration": 34,
+    "knowledgePointIds": [
+      "kp-468",
+      "kp-217",
+      "kp-212"
+    ]
   },
   {
     "id": "case-95",
@@ -1870,7 +2412,14 @@
       "kp-492",
       "kp-494"
     ],
-    "estimatedMinutes": 35
+    "estimatedMinutes": 35,
+    "description": "触发器基础方向案例训练：JK转D功能转换。",
+    "duration": 35,
+    "knowledgePointIds": [
+      "kp-252",
+      "kp-492",
+      "kp-494"
+    ]
   },
   {
     "id": "case-96",
@@ -1892,7 +2441,14 @@
       "kp-520",
       "kp-518"
     ],
-    "estimatedMinutes": 36
+    "estimatedMinutes": 36,
+    "description": "计数器方向案例训练：级联计数器设计。",
+    "duration": 36,
+    "knowledgePointIds": [
+      "kp-536",
+      "kp-520",
+      "kp-518"
+    ]
   },
   {
     "id": "case-97",
@@ -1913,7 +2469,14 @@
       "kp-578",
       "kp-594"
     ],
-    "estimatedMinutes": 37
+    "estimatedMinutes": 37,
+    "description": "时序逻辑电路设计方向案例训练：相邻状态分配。",
+    "duration": 37,
+    "knowledgePointIds": [
+      "kp-586",
+      "kp-578",
+      "kp-594"
+    ]
   },
   {
     "id": "case-98",
@@ -1931,7 +2494,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析案例需求与约束\n2. 设计电路或方案\n3. 在Quartus/BDF中实现\n4. 仿真验证功能\n5. 撰写案例报告",
     "referenceMarkdown": "## 参考思路\n\n1. 从需求出发，确定输入输出\n2. 列出真值表或状态图\n3. 化简逻辑表达式\n4. 画出电路图或编写代码\n5. 仿真与下载验证\n6. 总结设计要点与常见问题",
     "knowledgePoints": [],
-    "estimatedMinutes": 38
+    "estimatedMinutes": 38,
+    "description": "BDF原理图设计方向案例训练：BDF符号生成。",
+    "duration": 38,
+    "knowledgePointIds": []
   },
   {
     "id": "case-99",
@@ -1949,7 +2515,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析案例需求与约束\n2. 设计电路或方案\n3. 在Quartus/BDF中实现\n4. 仿真验证功能\n5. 撰写案例报告",
     "referenceMarkdown": "## 参考思路\n\n1. 从需求出发，确定输入输出\n2. 列出真值表或状态图\n3. 化简逻辑表达式\n4. 画出电路图或编写代码\n5. 仿真与下载验证\n6. 总结设计要点与常见问题",
     "knowledgePoints": [],
-    "estimatedMinutes": 39
+    "estimatedMinutes": 39,
+    "description": "FPGA实验流程方向案例训练：FPGA下载调试。",
+    "duration": 39,
+    "knowledgePointIds": []
   },
   {
     "id": "case-100",
@@ -1970,7 +2539,14 @@
       "kp-137",
       "kp-413"
     ],
-    "estimatedMinutes": 40
+    "estimatedMinutes": 40,
+    "description": "组合逻辑电路方向案例训练：竞争冒险观察实验。",
+    "duration": 40,
+    "knowledgePointIds": [
+      "kp-86",
+      "kp-137",
+      "kp-413"
+    ]
   },
   {
     "id": "case-101",
@@ -1992,7 +2568,14 @@
       "kp-429",
       "kp-439"
     ],
-    "estimatedMinutes": 41
+    "estimatedMinutes": 41,
+    "description": "编码器与译码器方向案例训练：译码器实现三人表决。",
+    "duration": 41,
+    "knowledgePointIds": [
+      "kp-174",
+      "kp-429",
+      "kp-439"
+    ]
   },
   {
     "id": "case-102",
@@ -2014,7 +2597,14 @@
       "kp-198",
       "kp-459"
     ],
-    "estimatedMinutes": 42
+    "estimatedMinutes": 42,
+    "description": "数据选择器与分配器方向案例训练：MUX实现4位比较。",
+    "duration": 42,
+    "knowledgePointIds": [
+      "kp-457",
+      "kp-198",
+      "kp-459"
+    ]
   },
   {
     "id": "case-103",
@@ -2036,7 +2626,14 @@
       "kp-482",
       "kp-472"
     ],
-    "estimatedMinutes": 43
+    "estimatedMinutes": 43,
+    "description": "加法器比较器与算术逻辑方向案例训练：加减可控运算器。",
+    "duration": 43,
+    "knowledgePointIds": [
+      "kp-468",
+      "kp-482",
+      "kp-472"
+    ]
   },
   {
     "id": "case-104",
@@ -2059,7 +2656,14 @@
       "kp-491",
       "kp-488"
     ],
-    "estimatedMinutes": 44
+    "estimatedMinutes": 44,
+    "description": "触发器基础方向案例训练：T触发器翻转计数。",
+    "duration": 44,
+    "knowledgePointIds": [
+      "kp-495",
+      "kp-491",
+      "kp-488"
+    ]
   },
   {
     "id": "case-105",
@@ -2081,7 +2685,14 @@
       "kp-285",
       "kp-519"
     ],
-    "estimatedMinutes": 45
+    "estimatedMinutes": 45,
+    "description": "计数器方向案例训练：LED闪烁分频器。",
+    "duration": 45,
+    "knowledgePointIds": [
+      "kp-283",
+      "kp-285",
+      "kp-519"
+    ]
   },
   {
     "id": "case-106",
@@ -2102,7 +2713,14 @@
       "kp-596",
       "kp-595"
     ],
-    "estimatedMinutes": 46
+    "estimatedMinutes": 46,
+    "description": "时序逻辑电路设计方向案例训练：状态化简实例。",
+    "duration": 46,
+    "knowledgePointIds": [
+      "kp-589",
+      "kp-596",
+      "kp-595"
+    ]
   },
   {
     "id": "case-107",
@@ -2120,7 +2738,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析案例需求与约束\n2. 设计电路或方案\n3. 在Quartus/BDF中实现\n4. 仿真验证功能\n5. 撰写案例报告",
     "referenceMarkdown": "## 参考思路\n\n1. 从需求出发，确定输入输出\n2. 列出真值表或状态图\n3. 化简逻辑表达式\n4. 画出电路图或编写代码\n5. 仿真与下载验证\n6. 总结设计要点与常见问题",
     "knowledgePoints": [],
-    "estimatedMinutes": 47
+    "estimatedMinutes": 47,
+    "description": "BDF原理图设计方向案例训练：BDF总线绘制。",
+    "duration": 47,
+    "knowledgePointIds": []
   },
   {
     "id": "case-108",
@@ -2138,7 +2759,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析案例需求与约束\n2. 设计电路或方案\n3. 在Quartus/BDF中实现\n4. 仿真验证功能\n5. 撰写案例报告",
     "referenceMarkdown": "## 参考思路\n\n1. 从需求出发，确定输入输出\n2. 列出真值表或状态图\n3. 化简逻辑表达式\n4. 画出电路图或编写代码\n5. 仿真与下载验证\n6. 总结设计要点与常见问题",
     "knowledgePoints": [],
-    "estimatedMinutes": 48
+    "estimatedMinutes": 48,
+    "description": "FPGA实验流程方向案例训练：FPGA综合项目。",
+    "duration": 48,
+    "knowledgePointIds": []
   },
   {
     "id": "case-109",
@@ -2159,7 +2783,14 @@
       "kp-134",
       "kp-410"
     ],
-    "estimatedMinutes": 49
+    "estimatedMinutes": 49,
+    "description": "组合逻辑电路方向案例训练：组合逻辑综合项目。",
+    "duration": 49,
+    "knowledgePointIds": [
+      "kp-416",
+      "kp-134",
+      "kp-410"
+    ]
   },
   {
     "id": "case-110",
@@ -2181,7 +2812,14 @@
       "kp-446",
       "kp-161"
     ],
-    "estimatedMinutes": 50
+    "estimatedMinutes": 50,
+    "description": "编码器与译码器方向案例训练：译码器综合案例。",
+    "duration": 50,
+    "knowledgePointIds": [
+      "kp-159",
+      "kp-446",
+      "kp-161"
+    ]
   },
   {
     "id": "case-111",
@@ -2203,7 +2841,14 @@
       "kp-198",
       "kp-456"
     ],
-    "estimatedMinutes": 51
+    "estimatedMinutes": 51,
+    "description": "数据选择器与分配器方向案例训练：MUX实现三人表决。",
+    "duration": 51,
+    "knowledgePointIds": [
+      "kp-194",
+      "kp-198",
+      "kp-456"
+    ]
   },
   {
     "id": "case-112",
@@ -2225,7 +2870,14 @@
       "kp-485",
       "kp-212"
     ],
-    "estimatedMinutes": 52
+    "estimatedMinutes": 52,
+    "description": "加法器比较器与算术逻辑方向案例训练：超前进位链实现。",
+    "duration": 52,
+    "knowledgePointIds": [
+      "kp-474",
+      "kp-485",
+      "kp-212"
+    ]
   },
   {
     "id": "case-113",
@@ -2248,7 +2900,14 @@
       "kp-254",
       "kp-507"
     ],
-    "estimatedMinutes": 53
+    "estimatedMinutes": 53,
+    "description": "触发器基础方向案例训练：D触发器数据寄存。",
+    "duration": 53,
+    "knowledgePointIds": [
+      "kp-498",
+      "kp-254",
+      "kp-507"
+    ]
   },
   {
     "id": "case-114",
@@ -2270,7 +2929,14 @@
       "kp-280",
       "kp-533"
     ],
-    "estimatedMinutes": 54
+    "estimatedMinutes": 54,
+    "description": "计数器方向案例训练：74LS161构成模60。",
+    "duration": 54,
+    "knowledgePointIds": [
+      "kp-513",
+      "kp-280",
+      "kp-533"
+    ]
   },
   {
     "id": "case-115",
@@ -2291,7 +2957,14 @@
       "kp-586",
       "kp-583"
     ],
-    "estimatedMinutes": 55
+    "estimatedMinutes": 55,
+    "description": "时序逻辑电路设计方向案例训练：Mealy型状态机。",
+    "duration": 55,
+    "knowledgePointIds": [
+      "kp-594",
+      "kp-586",
+      "kp-583"
+    ]
   },
   {
     "id": "case-116",
@@ -2309,7 +2982,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析案例需求与约束\n2. 设计电路或方案\n3. 在Quartus/BDF中实现\n4. 仿真验证功能\n5. 撰写案例报告",
     "referenceMarkdown": "## 参考思路\n\n1. 从需求出发，确定输入输出\n2. 列出真值表或状态图\n3. 化简逻辑表达式\n4. 画出电路图或编写代码\n5. 仿真与下载验证\n6. 总结设计要点与常见问题",
     "knowledgePoints": [],
-    "estimatedMinutes": 56
+    "estimatedMinutes": 56,
+    "description": "BDF原理图设计方向案例训练：BDF层次化设计。",
+    "duration": 56,
+    "knowledgePointIds": []
   },
   {
     "id": "case-117",
@@ -2327,7 +3003,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析案例需求与约束\n2. 设计电路或方案\n3. 在Quartus/BDF中实现\n4. 仿真验证功能\n5. 撰写案例报告",
     "referenceMarkdown": "## 参考思路\n\n1. 从需求出发，确定输入输出\n2. 列出真值表或状态图\n3. 化简逻辑表达式\n4. 画出电路图或编写代码\n5. 仿真与下载验证\n6. 总结设计要点与常见问题",
     "knowledgePoints": [],
-    "estimatedMinutes": 57
+    "estimatedMinutes": 57,
+    "description": "FPGA实验流程方向案例训练：FPGA串口通信。",
+    "duration": 57,
+    "knowledgePointIds": []
   },
   {
     "id": "case-118",
@@ -2348,7 +3027,14 @@
       "kp-112",
       "kp-138"
     ],
-    "estimatedMinutes": 58
+    "estimatedMinutes": 58,
+    "description": "组合逻辑电路方向案例训练：加法器带进位链。",
+    "duration": 58,
+    "knowledgePointIds": [
+      "kp-134",
+      "kp-112",
+      "kp-138"
+    ]
   },
   {
     "id": "case-119",
@@ -2370,7 +3056,14 @@
       "kp-150",
       "kp-436"
     ],
-    "estimatedMinutes": 59
+    "estimatedMinutes": 59,
+    "description": "编码器与译码器方向案例训练：BCD-七段显示。",
+    "duration": 59,
+    "knowledgePointIds": [
+      "kp-447",
+      "kp-150",
+      "kp-436"
+    ]
   },
   {
     "id": "case-120",
@@ -2392,7 +3085,14 @@
       "kp-207",
       "kp-201"
     ],
-    "estimatedMinutes": 30
+    "estimatedMinutes": 30,
+    "description": "数据选择器与分配器方向案例训练：分配器综合案例。",
+    "duration": 30,
+    "knowledgePointIds": [
+      "kp-466",
+      "kp-207",
+      "kp-201"
+    ]
   },
   {
     "id": "case-121",
@@ -2408,7 +3108,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 31
+    "estimatedMinutes": 31,
+    "description": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "duration": 31,
+    "knowledgePointIds": []
   },
   {
     "id": "case-122",
@@ -2428,7 +3131,14 @@
       "kp-29",
       "kp-27"
     ],
-    "estimatedMinutes": 32
+    "estimatedMinutes": 32,
+    "description": "卡诺图化简案例方向的案例训练，巩固核心知识点。",
+    "duration": 32,
+    "knowledgePointIds": [
+      "kp-18",
+      "kp-29",
+      "kp-27"
+    ]
   },
   {
     "id": "case-123",
@@ -2448,7 +3158,14 @@
       "kp-434",
       "kp-152"
     ],
-    "estimatedMinutes": 33
+    "estimatedMinutes": 33,
+    "description": "译码器设计案例方向的案例训练，巩固核心知识点。",
+    "duration": 33,
+    "knowledgePointIds": [
+      "kp-157",
+      "kp-434",
+      "kp-152"
+    ]
   },
   {
     "id": "case-124",
@@ -2464,7 +3181,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 34
+    "estimatedMinutes": 34,
+    "description": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "duration": 34,
+    "knowledgePointIds": []
   },
   {
     "id": "case-125",
@@ -2484,7 +3204,14 @@
       "kp-475",
       "kp-236"
     ],
-    "estimatedMinutes": 35
+    "estimatedMinutes": 35,
+    "description": "加法器设计案例方向的案例训练，巩固核心知识点。",
+    "duration": 35,
+    "knowledgePointIds": [
+      "kp-239",
+      "kp-475",
+      "kp-236"
+    ]
   },
   {
     "id": "case-126",
@@ -2504,7 +3231,14 @@
       "kp-513",
       "kp-529"
     ],
-    "estimatedMinutes": 36
+    "estimatedMinutes": 36,
+    "description": "计数器设计案例方向的案例训练，巩固核心知识点。",
+    "duration": 36,
+    "knowledgePointIds": [
+      "kp-282",
+      "kp-513",
+      "kp-529"
+    ]
   },
   {
     "id": "case-127",
@@ -2520,7 +3254,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 37
+    "estimatedMinutes": 37,
+    "description": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "duration": 37,
+    "knowledgePointIds": []
   },
   {
     "id": "case-128",
@@ -2540,7 +3277,14 @@
       "kp-591",
       "kp-594"
     ],
-    "estimatedMinutes": 38
+    "estimatedMinutes": 38,
+    "description": "序列检测器案例方向的案例训练，巩固核心知识点。",
+    "duration": 38,
+    "knowledgePointIds": [
+      "kp-593",
+      "kp-591",
+      "kp-594"
+    ]
   },
   {
     "id": "case-129",
@@ -2556,7 +3300,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 39
+    "estimatedMinutes": 39,
+    "description": "数码管显示案例方向的案例训练，巩固核心知识点。",
+    "duration": 39,
+    "knowledgePointIds": []
   },
   {
     "id": "case-130",
@@ -2572,7 +3319,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 40
+    "estimatedMinutes": 40,
+    "description": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "duration": 40,
+    "knowledgePointIds": []
   },
   {
     "id": "case-131",
@@ -2588,7 +3338,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 41
+    "estimatedMinutes": 41,
+    "description": "按键消抖案例方向的案例训练，巩固核心知识点。",
+    "duration": 41,
+    "knowledgePointIds": []
   },
   {
     "id": "case-132",
@@ -2608,7 +3361,14 @@
       "kp-529",
       "kp-534"
     ],
-    "estimatedMinutes": 42
+    "estimatedMinutes": 42,
+    "description": "分频器设计案例方向的案例训练，巩固核心知识点。",
+    "duration": 42,
+    "knowledgePointIds": [
+      "kp-531",
+      "kp-529",
+      "kp-534"
+    ]
   },
   {
     "id": "case-133",
@@ -2624,7 +3384,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 43
+    "estimatedMinutes": 43,
+    "description": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "duration": 43,
+    "knowledgePointIds": []
   },
   {
     "id": "case-134",
@@ -2640,7 +3403,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 44
+    "estimatedMinutes": 44,
+    "description": "Quartus编译案例方向的案例训练，巩固核心知识点。",
+    "duration": 44,
+    "knowledgePointIds": []
   },
   {
     "id": "case-135",
@@ -2656,7 +3422,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 45
+    "estimatedMinutes": 45,
+    "description": "引脚绑定案例方向的案例训练，巩固核心知识点。",
+    "duration": 45,
+    "knowledgePointIds": []
   },
   {
     "id": "case-136",
@@ -2672,7 +3441,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 46
+    "estimatedMinutes": 46,
+    "description": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "duration": 46,
+    "knowledgePointIds": []
   },
   {
     "id": "case-137",
@@ -2688,7 +3460,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 47
+    "estimatedMinutes": 47,
+    "description": "仿真波形案例方向的案例训练，巩固核心知识点。",
+    "duration": 47,
+    "knowledgePointIds": []
   },
   {
     "id": "case-138",
@@ -2704,7 +3479,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 48
+    "estimatedMinutes": 48,
+    "description": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "duration": 48,
+    "knowledgePointIds": []
   },
   {
     "id": "case-139",
@@ -2720,7 +3498,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 49
+    "estimatedMinutes": 49,
+    "description": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "duration": 49,
+    "knowledgePointIds": []
   },
   {
     "id": "case-140",
@@ -2736,7 +3517,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 50
+    "estimatedMinutes": 50,
+    "description": "实验报告案例方向的案例训练，巩固核心知识点。",
+    "duration": 50,
+    "knowledgePointIds": []
   },
   {
     "id": "case-141",
@@ -2756,7 +3540,14 @@
       "kp-376",
       "kp-27"
     ],
-    "estimatedMinutes": 51
+    "estimatedMinutes": 51,
+    "description": "逻辑函数化简案例方向的案例训练，巩固核心知识点。",
+    "duration": 51,
+    "knowledgePointIds": [
+      "kp-366",
+      "kp-376",
+      "kp-27"
+    ]
   },
   {
     "id": "case-142",
@@ -2772,7 +3563,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 52
+    "estimatedMinutes": 52,
+    "description": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "duration": 52,
+    "knowledgePointIds": []
   },
   {
     "id": "case-143",
@@ -2792,7 +3586,14 @@
       "kp-154",
       "kp-172"
     ],
-    "estimatedMinutes": 53
+    "estimatedMinutes": 53,
+    "description": "译码器设计案例方向的案例训练，巩固核心知识点。",
+    "duration": 53,
+    "knowledgePointIds": [
+      "kp-436",
+      "kp-154",
+      "kp-172"
+    ]
   },
   {
     "id": "case-144",
@@ -2812,7 +3613,14 @@
       "kp-198",
       "kp-459"
     ],
-    "estimatedMinutes": 54
+    "estimatedMinutes": 54,
+    "description": "数据选择器设计案例方向的案例训练，巩固核心知识点。",
+    "duration": 54,
+    "knowledgePointIds": [
+      "kp-183",
+      "kp-198",
+      "kp-459"
+    ]
   },
   {
     "id": "case-145",
@@ -2828,7 +3636,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 55
+    "estimatedMinutes": 55,
+    "description": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "duration": 55,
+    "knowledgePointIds": []
   },
   {
     "id": "case-146",
@@ -2848,7 +3659,14 @@
       "kp-263",
       "kp-531"
     ],
-    "estimatedMinutes": 56
+    "estimatedMinutes": 56,
+    "description": "计数器设计案例方向的案例训练，巩固核心知识点。",
+    "duration": 56,
+    "knowledgePointIds": [
+      "kp-525",
+      "kp-263",
+      "kp-531"
+    ]
   },
   {
     "id": "case-147",
@@ -2869,7 +3687,14 @@
       "kp-591",
       "kp-578"
     ],
-    "estimatedMinutes": 57
+    "estimatedMinutes": 57,
+    "description": "状态机设计案例方向的案例训练，巩固核心知识点。",
+    "duration": 57,
+    "knowledgePointIds": [
+      "kp-579",
+      "kp-591",
+      "kp-578"
+    ]
   },
   {
     "id": "case-148",
@@ -2885,7 +3710,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 58
+    "estimatedMinutes": 58,
+    "description": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "duration": 58,
+    "knowledgePointIds": []
   },
   {
     "id": "case-149",
@@ -2901,7 +3729,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 59
+    "estimatedMinutes": 59,
+    "description": "数码管显示案例方向的案例训练，巩固核心知识点。",
+    "duration": 59,
+    "knowledgePointIds": []
   },
   {
     "id": "case-150",
@@ -2917,7 +3748,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 60
+    "estimatedMinutes": 60,
+    "description": "LED流水灯案例方向的案例训练，巩固核心知识点。",
+    "duration": 60,
+    "knowledgePointIds": []
   },
   {
     "id": "case-151",
@@ -2933,7 +3767,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 61
+    "estimatedMinutes": 61,
+    "description": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "duration": 61,
+    "knowledgePointIds": []
   },
   {
     "id": "case-152",
@@ -2953,7 +3790,14 @@
       "kp-257",
       "kp-281"
     ],
-    "estimatedMinutes": 62
+    "estimatedMinutes": 62,
+    "description": "分频器设计案例方向的案例训练，巩固核心知识点。",
+    "duration": 62,
+    "knowledgePointIds": [
+      "kp-533",
+      "kp-257",
+      "kp-281"
+    ]
   },
   {
     "id": "case-153",
@@ -2969,7 +3813,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 63
+    "estimatedMinutes": 63,
+    "description": "BDF原理图案例方向的案例训练，巩固核心知识点。",
+    "duration": 63,
+    "knowledgePointIds": []
   },
   {
     "id": "case-154",
@@ -2985,7 +3832,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 64
+    "estimatedMinutes": 64,
+    "description": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "duration": 64,
+    "knowledgePointIds": []
   },
   {
     "id": "case-155",
@@ -3001,7 +3851,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 65
+    "estimatedMinutes": 65,
+    "description": "引脚绑定案例方向的案例训练，巩固核心知识点。",
+    "duration": 65,
+    "knowledgePointIds": []
   },
   {
     "id": "case-156",
@@ -3017,7 +3870,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 66
+    "estimatedMinutes": 66,
+    "description": "SDC约束案例方向的案例训练，巩固核心知识点。",
+    "duration": 66,
+    "knowledgePointIds": []
   },
   {
     "id": "case-157",
@@ -3033,7 +3889,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 67
+    "estimatedMinutes": 67,
+    "description": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "duration": 67,
+    "knowledgePointIds": []
   },
   {
     "id": "case-158",
@@ -3049,7 +3908,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 68
+    "estimatedMinutes": 68,
+    "description": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "duration": 68,
+    "knowledgePointIds": []
   },
   {
     "id": "case-159",
@@ -3065,7 +3927,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 69
+    "estimatedMinutes": 69,
+    "description": "电梯控制案例方向的案例训练，巩固核心知识点。",
+    "duration": 69,
+    "knowledgePointIds": []
   },
   {
     "id": "case-160",
@@ -3081,7 +3946,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 30
+    "estimatedMinutes": 30,
+    "description": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "duration": 30,
+    "knowledgePointIds": []
   },
   {
     "id": "case-161",
@@ -3101,7 +3969,14 @@
       "kp-25",
       "kp-373"
     ],
-    "estimatedMinutes": 31
+    "estimatedMinutes": 31,
+    "description": "逻辑函数化简案例方向的案例训练，巩固核心知识点。",
+    "duration": 31,
+    "knowledgePointIds": [
+      "kp-362",
+      "kp-25",
+      "kp-373"
+    ]
   },
   {
     "id": "case-162",
@@ -3121,7 +3996,14 @@
       "kp-374",
       "kp-378"
     ],
-    "estimatedMinutes": 32
+    "estimatedMinutes": 32,
+    "description": "卡诺图化简案例方向的案例训练，巩固核心知识点。",
+    "duration": 32,
+    "knowledgePointIds": [
+      "kp-385",
+      "kp-374",
+      "kp-378"
+    ]
   },
   {
     "id": "case-163",
@@ -3137,7 +4019,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 33
+    "estimatedMinutes": 33,
+    "description": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "duration": 33,
+    "knowledgePointIds": []
   },
   {
     "id": "case-164",
@@ -3157,7 +4042,14 @@
       "kp-448",
       "kp-182"
     ],
-    "estimatedMinutes": 34
+    "estimatedMinutes": 34,
+    "description": "数据选择器设计案例方向的案例训练，巩固核心知识点。",
+    "duration": 34,
+    "knowledgePointIds": [
+      "kp-449",
+      "kp-448",
+      "kp-182"
+    ]
   },
   {
     "id": "case-165",
@@ -3177,7 +4069,14 @@
       "kp-481",
       "kp-224"
     ],
-    "estimatedMinutes": 35
+    "estimatedMinutes": 35,
+    "description": "加法器设计案例方向的案例训练，巩固核心知识点。",
+    "duration": 35,
+    "knowledgePointIds": [
+      "kp-486",
+      "kp-481",
+      "kp-224"
+    ]
   },
   {
     "id": "case-166",
@@ -3193,7 +4092,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 36
+    "estimatedMinutes": 36,
+    "description": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "duration": 36,
+    "knowledgePointIds": []
   },
   {
     "id": "case-167",
@@ -3214,7 +4116,14 @@
       "kp-589",
       "kp-597"
     ],
-    "estimatedMinutes": 37
+    "estimatedMinutes": 37,
+    "description": "状态机设计案例方向的案例训练，巩固核心知识点。",
+    "duration": 37,
+    "knowledgePointIds": [
+      "kp-584",
+      "kp-589",
+      "kp-597"
+    ]
   },
   {
     "id": "case-168",
@@ -3234,7 +4143,14 @@
       "kp-585",
       "kp-589"
     ],
-    "estimatedMinutes": 38
+    "estimatedMinutes": 38,
+    "description": "序列检测器案例方向的案例训练，巩固核心知识点。",
+    "duration": 38,
+    "knowledgePointIds": [
+      "kp-579",
+      "kp-585",
+      "kp-589"
+    ]
   },
   {
     "id": "case-169",
@@ -3250,7 +4166,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 39
+    "estimatedMinutes": 39,
+    "description": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "duration": 39,
+    "knowledgePointIds": []
   },
   {
     "id": "case-170",
@@ -3266,7 +4185,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 40
+    "estimatedMinutes": 40,
+    "description": "LED流水灯案例方向的案例训练，巩固核心知识点。",
+    "duration": 40,
+    "knowledgePointIds": []
   },
   {
     "id": "case-171",
@@ -3282,7 +4204,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 41
+    "estimatedMinutes": 41,
+    "description": "按键消抖案例方向的案例训练，巩固核心知识点。",
+    "duration": 41,
+    "knowledgePointIds": []
   },
   {
     "id": "case-172",
@@ -3298,7 +4223,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 42
+    "estimatedMinutes": 42,
+    "description": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "duration": 42,
+    "knowledgePointIds": []
   },
   {
     "id": "case-173",
@@ -3314,7 +4242,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 43
+    "estimatedMinutes": 43,
+    "description": "BDF原理图案例方向的案例训练，巩固核心知识点。",
+    "duration": 43,
+    "knowledgePointIds": []
   },
   {
     "id": "case-174",
@@ -3330,7 +4261,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 44
+    "estimatedMinutes": 44,
+    "description": "Quartus编译案例方向的案例训练，巩固核心知识点。",
+    "duration": 44,
+    "knowledgePointIds": []
   },
   {
     "id": "case-175",
@@ -3346,7 +4280,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 45
+    "estimatedMinutes": 45,
+    "description": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "duration": 45,
+    "knowledgePointIds": []
   },
   {
     "id": "case-176",
@@ -3362,7 +4299,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 46
+    "estimatedMinutes": 46,
+    "description": "SDC约束案例方向的案例训练，巩固核心知识点。",
+    "duration": 46,
+    "knowledgePointIds": []
   },
   {
     "id": "case-177",
@@ -3378,7 +4318,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 47
+    "estimatedMinutes": 47,
+    "description": "仿真波形案例方向的案例训练，巩固核心知识点。",
+    "duration": 47,
+    "knowledgePointIds": []
   },
   {
     "id": "case-178",
@@ -3394,7 +4337,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 48
+    "estimatedMinutes": 48,
+    "description": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "duration": 48,
+    "knowledgePointIds": []
   },
   {
     "id": "case-179",
@@ -3410,7 +4356,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 49
+    "estimatedMinutes": 49,
+    "description": "电梯控制案例方向的案例训练，巩固核心知识点。",
+    "duration": 49,
+    "knowledgePointIds": []
   },
   {
     "id": "case-180",
@@ -3426,7 +4375,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 50
+    "estimatedMinutes": 50,
+    "description": "实验报告案例方向的案例训练，巩固核心知识点。",
+    "duration": 50,
+    "knowledgePointIds": []
   },
   {
     "id": "case-181",
@@ -3442,7 +4394,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 51
+    "estimatedMinutes": 51,
+    "description": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "duration": 51,
+    "knowledgePointIds": []
   },
   {
     "id": "case-182",
@@ -3462,7 +4417,14 @@
       "kp-376",
       "kp-32"
     ],
-    "estimatedMinutes": 52
+    "estimatedMinutes": 52,
+    "description": "卡诺图化简案例方向的案例训练，巩固核心知识点。",
+    "duration": 52,
+    "knowledgePointIds": [
+      "kp-361",
+      "kp-376",
+      "kp-32"
+    ]
   },
   {
     "id": "case-183",
@@ -3482,7 +4444,14 @@
       "kp-159",
       "kp-151"
     ],
-    "estimatedMinutes": 53
+    "estimatedMinutes": 53,
+    "description": "译码器设计案例方向的案例训练，巩固核心知识点。",
+    "duration": 53,
+    "knowledgePointIds": [
+      "kp-437",
+      "kp-159",
+      "kp-151"
+    ]
   },
   {
     "id": "case-184",
@@ -3498,7 +4467,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 54
+    "estimatedMinutes": 54,
+    "description": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "duration": 54,
+    "knowledgePointIds": []
   },
   {
     "id": "case-185",
@@ -3518,7 +4490,14 @@
       "kp-213",
       "kp-487"
     ],
-    "estimatedMinutes": 55
+    "estimatedMinutes": 55,
+    "description": "加法器设计案例方向的案例训练，巩固核心知识点。",
+    "duration": 55,
+    "knowledgePointIds": [
+      "kp-215",
+      "kp-213",
+      "kp-487"
+    ]
   },
   {
     "id": "case-186",
@@ -3538,7 +4517,14 @@
       "kp-285",
       "kp-281"
     ],
-    "estimatedMinutes": 56
+    "estimatedMinutes": 56,
+    "description": "计数器设计案例方向的案例训练，巩固核心知识点。",
+    "duration": 56,
+    "knowledgePointIds": [
+      "kp-526",
+      "kp-285",
+      "kp-281"
+    ]
   },
   {
     "id": "case-187",
@@ -3554,7 +4540,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 57
+    "estimatedMinutes": 57,
+    "description": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "duration": 57,
+    "knowledgePointIds": []
   },
   {
     "id": "case-188",
@@ -3574,7 +4563,14 @@
       "kp-587",
       "kp-585"
     ],
-    "estimatedMinutes": 58
+    "estimatedMinutes": 58,
+    "description": "序列检测器案例方向的案例训练，巩固核心知识点。",
+    "duration": 58,
+    "knowledgePointIds": [
+      "kp-596",
+      "kp-587",
+      "kp-585"
+    ]
   },
   {
     "id": "case-189",
@@ -3590,7 +4586,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 59
+    "estimatedMinutes": 59,
+    "description": "数码管显示案例方向的案例训练，巩固核心知识点。",
+    "duration": 59,
+    "knowledgePointIds": []
   },
   {
     "id": "case-190",
@@ -3606,7 +4605,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 60
+    "estimatedMinutes": 60,
+    "description": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "duration": 60,
+    "knowledgePointIds": []
   },
   {
     "id": "case-191",
@@ -3622,7 +4624,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 61
+    "estimatedMinutes": 61,
+    "description": "按键消抖案例方向的案例训练，巩固核心知识点。",
+    "duration": 61,
+    "knowledgePointIds": []
   },
   {
     "id": "case-192",
@@ -3642,7 +4647,14 @@
       "kp-532",
       "kp-280"
     ],
-    "estimatedMinutes": 62
+    "estimatedMinutes": 62,
+    "description": "分频器设计案例方向的案例训练，巩固核心知识点。",
+    "duration": 62,
+    "knowledgePointIds": [
+      "kp-257",
+      "kp-532",
+      "kp-280"
+    ]
   },
   {
     "id": "case-193",
@@ -3658,7 +4670,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 63
+    "estimatedMinutes": 63,
+    "description": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "duration": 63,
+    "knowledgePointIds": []
   },
   {
     "id": "case-194",
@@ -3674,7 +4689,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 64
+    "estimatedMinutes": 64,
+    "description": "Quartus编译案例方向的案例训练，巩固核心知识点。",
+    "duration": 64,
+    "knowledgePointIds": []
   },
   {
     "id": "case-195",
@@ -3690,7 +4708,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 65
+    "estimatedMinutes": 65,
+    "description": "引脚绑定案例方向的案例训练，巩固核心知识点。",
+    "duration": 65,
+    "knowledgePointIds": []
   },
   {
     "id": "case-196",
@@ -3706,7 +4727,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 66
+    "estimatedMinutes": 66,
+    "description": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "duration": 66,
+    "knowledgePointIds": []
   },
   {
     "id": "case-197",
@@ -3722,7 +4746,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 67
+    "estimatedMinutes": 67,
+    "description": "仿真波形案例方向的案例训练，巩固核心知识点。",
+    "duration": 67,
+    "knowledgePointIds": []
   },
   {
     "id": "case-198",
@@ -3738,7 +4765,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 68
+    "estimatedMinutes": 68,
+    "description": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "duration": 68,
+    "knowledgePointIds": []
   },
   {
     "id": "case-199",
@@ -3754,7 +4784,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 69
+    "estimatedMinutes": 69,
+    "description": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "duration": 69,
+    "knowledgePointIds": []
   },
   {
     "id": "case-200",
@@ -3770,7 +4803,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 30
+    "estimatedMinutes": 30,
+    "description": "实验报告案例方向的案例训练，巩固核心知识点。",
+    "duration": 30,
+    "knowledgePointIds": []
   },
   {
     "id": "case-201",
@@ -3790,7 +4826,14 @@
       "kp-370",
       "kp-19"
     ],
-    "estimatedMinutes": 31
+    "estimatedMinutes": 31,
+    "description": "逻辑函数化简案例方向的案例训练，巩固核心知识点。",
+    "duration": 31,
+    "knowledgePointIds": [
+      "kp-382",
+      "kp-370",
+      "kp-19"
+    ]
   },
   {
     "id": "case-202",
@@ -3806,7 +4849,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 32
+    "estimatedMinutes": 32,
+    "description": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "duration": 32,
+    "knowledgePointIds": []
   },
   {
     "id": "case-203",
@@ -3826,7 +4872,14 @@
       "kp-163",
       "kp-444"
     ],
-    "estimatedMinutes": 33
+    "estimatedMinutes": 33,
+    "description": "译码器设计案例方向的案例训练，巩固核心知识点。",
+    "duration": 33,
+    "knowledgePointIds": [
+      "kp-167",
+      "kp-163",
+      "kp-444"
+    ]
   },
   {
     "id": "case-204",
@@ -3846,7 +4899,14 @@
       "kp-452",
       "kp-185"
     ],
-    "estimatedMinutes": 34
+    "estimatedMinutes": 34,
+    "description": "数据选择器设计案例方向的案例训练，巩固核心知识点。",
+    "duration": 34,
+    "knowledgePointIds": [
+      "kp-207",
+      "kp-452",
+      "kp-185"
+    ]
   },
   {
     "id": "case-205",
@@ -3862,7 +4922,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 35
+    "estimatedMinutes": 35,
+    "description": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "duration": 35,
+    "knowledgePointIds": []
   },
   {
     "id": "case-206",
@@ -3882,7 +4945,14 @@
       "kp-261",
       "kp-525"
     ],
-    "estimatedMinutes": 36
+    "estimatedMinutes": 36,
+    "description": "计数器设计案例方向的案例训练，巩固核心知识点。",
+    "duration": 36,
+    "knowledgePointIds": [
+      "kp-272",
+      "kp-261",
+      "kp-525"
+    ]
   },
   {
     "id": "case-207",
@@ -3903,7 +4973,14 @@
       "kp-585",
       "kp-586"
     ],
-    "estimatedMinutes": 37
+    "estimatedMinutes": 37,
+    "description": "状态机设计案例方向的案例训练，巩固核心知识点。",
+    "duration": 37,
+    "knowledgePointIds": [
+      "kp-592",
+      "kp-585",
+      "kp-586"
+    ]
   },
   {
     "id": "case-208",
@@ -3919,7 +4996,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 38
+    "estimatedMinutes": 38,
+    "description": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "duration": 38,
+    "knowledgePointIds": []
   },
   {
     "id": "case-209",
@@ -3935,7 +5015,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 39
+    "estimatedMinutes": 39,
+    "description": "数码管显示案例方向的案例训练，巩固核心知识点。",
+    "duration": 39,
+    "knowledgePointIds": []
   },
   {
     "id": "case-210",
@@ -3951,7 +5034,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 40
+    "estimatedMinutes": 40,
+    "description": "LED流水灯案例方向的案例训练，巩固核心知识点。",
+    "duration": 40,
+    "knowledgePointIds": []
   },
   {
     "id": "case-211",
@@ -3967,7 +5053,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 41
+    "estimatedMinutes": 41,
+    "description": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "duration": 41,
+    "knowledgePointIds": []
   },
   {
     "id": "case-212",
@@ -3987,7 +5076,14 @@
       "kp-257",
       "kp-274"
     ],
-    "estimatedMinutes": 42
+    "estimatedMinutes": 42,
+    "description": "分频器设计案例方向的案例训练，巩固核心知识点。",
+    "duration": 42,
+    "knowledgePointIds": [
+      "kp-524",
+      "kp-257",
+      "kp-274"
+    ]
   },
   {
     "id": "case-213",
@@ -4003,7 +5099,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 43
+    "estimatedMinutes": 43,
+    "description": "BDF原理图案例方向的案例训练，巩固核心知识点。",
+    "duration": 43,
+    "knowledgePointIds": []
   },
   {
     "id": "case-214",
@@ -4019,7 +5118,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 44
+    "estimatedMinutes": 44,
+    "description": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "duration": 44,
+    "knowledgePointIds": []
   },
   {
     "id": "case-215",
@@ -4035,7 +5137,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 45
+    "estimatedMinutes": 45,
+    "description": "引脚绑定案例方向的案例训练，巩固核心知识点。",
+    "duration": 45,
+    "knowledgePointIds": []
   },
   {
     "id": "case-216",
@@ -4051,7 +5156,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 46
+    "estimatedMinutes": 46,
+    "description": "SDC约束案例方向的案例训练，巩固核心知识点。",
+    "duration": 46,
+    "knowledgePointIds": []
   },
   {
     "id": "case-217",
@@ -4067,7 +5175,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 47
+    "estimatedMinutes": 47,
+    "description": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "duration": 47,
+    "knowledgePointIds": []
   },
   {
     "id": "case-218",
@@ -4083,7 +5194,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 48
+    "estimatedMinutes": 48,
+    "description": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "duration": 48,
+    "knowledgePointIds": []
   },
   {
     "id": "case-219",
@@ -4099,7 +5213,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 49
+    "estimatedMinutes": 49,
+    "description": "电梯控制案例方向的案例训练，巩固核心知识点。",
+    "duration": 49,
+    "knowledgePointIds": []
   },
   {
     "id": "case-220",
@@ -4115,7 +5232,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 50
+    "estimatedMinutes": 50,
+    "description": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "duration": 50,
+    "knowledgePointIds": []
   },
   {
     "id": "case-221",
@@ -4135,7 +5255,14 @@
       "kp-24",
       "kp-22"
     ],
-    "estimatedMinutes": 51
+    "estimatedMinutes": 51,
+    "description": "逻辑函数化简案例方向的案例训练，巩固核心知识点。",
+    "duration": 51,
+    "knowledgePointIds": [
+      "kp-23",
+      "kp-24",
+      "kp-22"
+    ]
   },
   {
     "id": "case-222",
@@ -4155,7 +5282,14 @@
       "kp-375",
       "kp-385"
     ],
-    "estimatedMinutes": 52
+    "estimatedMinutes": 52,
+    "description": "卡诺图化简案例方向的案例训练，巩固核心知识点。",
+    "duration": 52,
+    "knowledgePointIds": [
+      "kp-384",
+      "kp-375",
+      "kp-385"
+    ]
   },
   {
     "id": "case-223",
@@ -4171,7 +5305,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 53
+    "estimatedMinutes": 53,
+    "description": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "duration": 53,
+    "knowledgePointIds": []
   },
   {
     "id": "case-224",
@@ -4191,7 +5328,14 @@
       "kp-208",
       "kp-207"
     ],
-    "estimatedMinutes": 54
+    "estimatedMinutes": 54,
+    "description": "数据选择器设计案例方向的案例训练，巩固核心知识点。",
+    "duration": 54,
+    "knowledgePointIds": [
+      "kp-198",
+      "kp-208",
+      "kp-207"
+    ]
   },
   {
     "id": "case-225",
@@ -4211,7 +5355,14 @@
       "kp-240",
       "kp-235"
     ],
-    "estimatedMinutes": 55
+    "estimatedMinutes": 55,
+    "description": "加法器设计案例方向的案例训练，巩固核心知识点。",
+    "duration": 55,
+    "knowledgePointIds": [
+      "kp-482",
+      "kp-240",
+      "kp-235"
+    ]
   },
   {
     "id": "case-226",
@@ -4227,7 +5378,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 56
+    "estimatedMinutes": 56,
+    "description": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "duration": 56,
+    "knowledgePointIds": []
   },
   {
     "id": "case-227",
@@ -4248,7 +5402,14 @@
       "kp-592",
       "kp-593"
     ],
-    "estimatedMinutes": 57
+    "estimatedMinutes": 57,
+    "description": "状态机设计案例方向的案例训练，巩固核心知识点。",
+    "duration": 57,
+    "knowledgePointIds": [
+      "kp-597",
+      "kp-592",
+      "kp-593"
+    ]
   },
   {
     "id": "case-228",
@@ -4268,7 +5429,14 @@
       "kp-597",
       "kp-584"
     ],
-    "estimatedMinutes": 58
+    "estimatedMinutes": 58,
+    "description": "序列检测器案例方向的案例训练，巩固核心知识点。",
+    "duration": 58,
+    "knowledgePointIds": [
+      "kp-596",
+      "kp-597",
+      "kp-584"
+    ]
   },
   {
     "id": "case-229",
@@ -4284,7 +5452,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 59
+    "estimatedMinutes": 59,
+    "description": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "duration": 59,
+    "knowledgePointIds": []
   },
   {
     "id": "case-230",
@@ -4300,7 +5471,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 60
+    "estimatedMinutes": 60,
+    "description": "LED流水灯案例方向的案例训练，巩固核心知识点。",
+    "duration": 60,
+    "knowledgePointIds": []
   },
   {
     "id": "case-231",
@@ -4316,7 +5490,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 61
+    "estimatedMinutes": 61,
+    "description": "按键消抖案例方向的案例训练，巩固核心知识点。",
+    "duration": 61,
+    "knowledgePointIds": []
   },
   {
     "id": "case-232",
@@ -4332,7 +5509,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 62
+    "estimatedMinutes": 62,
+    "description": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "duration": 62,
+    "knowledgePointIds": []
   },
   {
     "id": "case-233",
@@ -4348,7 +5528,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 63
+    "estimatedMinutes": 63,
+    "description": "BDF原理图案例方向的案例训练，巩固核心知识点。",
+    "duration": 63,
+    "knowledgePointIds": []
   },
   {
     "id": "case-234",
@@ -4364,7 +5547,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 64
+    "estimatedMinutes": 64,
+    "description": "Quartus编译案例方向的案例训练，巩固核心知识点。",
+    "duration": 64,
+    "knowledgePointIds": []
   },
   {
     "id": "case-235",
@@ -4380,7 +5566,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 65
+    "estimatedMinutes": 65,
+    "description": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "duration": 65,
+    "knowledgePointIds": []
   },
   {
     "id": "case-236",
@@ -4396,7 +5585,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 66
+    "estimatedMinutes": 66,
+    "description": "SDC约束案例方向的案例训练，巩固核心知识点。",
+    "duration": 66,
+    "knowledgePointIds": []
   },
   {
     "id": "case-237",
@@ -4412,7 +5604,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 67
+    "estimatedMinutes": 67,
+    "description": "仿真波形案例方向的案例训练，巩固核心知识点。",
+    "duration": 67,
+    "knowledgePointIds": []
   },
   {
     "id": "case-238",
@@ -4428,7 +5623,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 68
+    "estimatedMinutes": 68,
+    "description": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "duration": 68,
+    "knowledgePointIds": []
   },
   {
     "id": "case-239",
@@ -4444,7 +5642,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 69
+    "estimatedMinutes": 69,
+    "description": "电梯控制案例方向的案例训练，巩固核心知识点。",
+    "duration": 69,
+    "knowledgePointIds": []
   },
   {
     "id": "case-240",
@@ -4460,7 +5661,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 30
+    "estimatedMinutes": 30,
+    "description": "实验报告案例方向的案例训练，巩固核心知识点。",
+    "duration": 30,
+    "knowledgePointIds": []
   },
   {
     "id": "case-241",
@@ -4476,7 +5680,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 31
+    "estimatedMinutes": 31,
+    "description": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "duration": 31,
+    "knowledgePointIds": []
   },
   {
     "id": "case-242",
@@ -4496,7 +5703,14 @@
       "kp-382",
       "kp-365"
     ],
-    "estimatedMinutes": 32
+    "estimatedMinutes": 32,
+    "description": "卡诺图化简案例方向的案例训练，巩固核心知识点。",
+    "duration": 32,
+    "knowledgePointIds": [
+      "kp-26",
+      "kp-382",
+      "kp-365"
+    ]
   },
   {
     "id": "case-243",
@@ -4516,7 +5730,14 @@
       "kp-431",
       "kp-161"
     ],
-    "estimatedMinutes": 33
+    "estimatedMinutes": 33,
+    "description": "译码器设计案例方向的案例训练，巩固核心知识点。",
+    "duration": 33,
+    "knowledgePointIds": [
+      "kp-439",
+      "kp-431",
+      "kp-161"
+    ]
   },
   {
     "id": "case-244",
@@ -4532,7 +5753,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 34
+    "estimatedMinutes": 34,
+    "description": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "duration": 34,
+    "knowledgePointIds": []
   },
   {
     "id": "case-245",
@@ -4552,7 +5776,14 @@
       "kp-239",
       "kp-478"
     ],
-    "estimatedMinutes": 35
+    "estimatedMinutes": 35,
+    "description": "加法器设计案例方向的案例训练，巩固核心知识点。",
+    "duration": 35,
+    "knowledgePointIds": [
+      "kp-215",
+      "kp-239",
+      "kp-478"
+    ]
   },
   {
     "id": "case-246",
@@ -4572,7 +5803,14 @@
       "kp-534",
       "kp-261"
     ],
-    "estimatedMinutes": 36
+    "estimatedMinutes": 36,
+    "description": "计数器设计案例方向的案例训练，巩固核心知识点。",
+    "duration": 36,
+    "knowledgePointIds": [
+      "kp-277",
+      "kp-534",
+      "kp-261"
+    ]
   },
   {
     "id": "case-247",
@@ -4588,7 +5826,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 37
+    "estimatedMinutes": 37,
+    "description": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "duration": 37,
+    "knowledgePointIds": []
   },
   {
     "id": "case-248",
@@ -4608,7 +5849,14 @@
       "kp-593",
       "kp-594"
     ],
-    "estimatedMinutes": 38
+    "estimatedMinutes": 38,
+    "description": "序列检测器案例方向的案例训练，巩固核心知识点。",
+    "duration": 38,
+    "knowledgePointIds": [
+      "kp-584",
+      "kp-593",
+      "kp-594"
+    ]
   },
   {
     "id": "case-249",
@@ -4624,7 +5872,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 39
+    "estimatedMinutes": 39,
+    "description": "数码管显示案例方向的案例训练，巩固核心知识点。",
+    "duration": 39,
+    "knowledgePointIds": []
   },
   {
     "id": "case-250",
@@ -4640,7 +5891,10 @@
     "tasksMarkdown": "## 任务\n\n1. 分析需求\n2. 设计方案\n3. 仿真验证\n4. 撰写报告",
     "referenceMarkdown": "## 参考思路\n\n1. 确定输入输出\n2. 列真值表或状态图\n3. 化简表达式\n4. 画电路图\n5. 验证",
     "knowledgePoints": [],
-    "estimatedMinutes": 40
+    "estimatedMinutes": 40,
+    "description": "步进电机相序案例方向的案例训练，巩固核心知识点。",
+    "duration": 40,
+    "knowledgePointIds": []
   },
   {
     "id": "dl-case-251",
@@ -4648,33 +5902,19 @@
     "description": "通过计数器掌握数字逻辑",
     "difficulty": "hard",
     "duration": 30,
-    "steps": [
-      {
-        "order": 1,
-        "title": "问题",
-        "description": "分析"
-      },
-      {
-        "order": 2,
-        "title": "方案",
-        "description": "设计"
-      },
-      {
-        "order": 3,
-        "title": "实现",
-        "description": "实现"
-      },
-      {
-        "order": 4,
-        "title": "验证",
-        "description": "测试"
-      }
-    ],
     "relatedQuestionIds": [],
     "tags": [
       "计数器"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "summary": "通过计数器掌握数字逻辑",
+    "estimatedMinutes": 30,
+    "knowledgePoints": [],
+    "knowledgePointIds": [],
+    "backgroundMarkdown": "# 案例背景\n\n通过计数器掌握数字逻辑",
+    "tasksMarkdown": "# 实战任务\n\n1. **问题**: 分析\n2. **方案**: 设计\n3. **实现**: 实现\n4. **验证**: 测试",
+    "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
+    "slug": "计数器案例251"
   },
   {
     "id": "dl-case-252",
@@ -4682,33 +5922,19 @@
     "description": "通过触发器掌握数字逻辑",
     "difficulty": "hard",
     "duration": 30,
-    "steps": [
-      {
-        "order": 1,
-        "title": "问题",
-        "description": "分析"
-      },
-      {
-        "order": 2,
-        "title": "方案",
-        "description": "设计"
-      },
-      {
-        "order": 3,
-        "title": "实现",
-        "description": "实现"
-      },
-      {
-        "order": 4,
-        "title": "验证",
-        "description": "测试"
-      }
-    ],
     "relatedQuestionIds": [],
     "tags": [
       "触发器"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "summary": "通过触发器掌握数字逻辑",
+    "estimatedMinutes": 30,
+    "knowledgePoints": [],
+    "knowledgePointIds": [],
+    "backgroundMarkdown": "# 案例背景\n\n通过触发器掌握数字逻辑",
+    "tasksMarkdown": "# 实战任务\n\n1. **问题**: 分析\n2. **方案**: 设计\n3. **实现**: 实现\n4. **验证**: 测试",
+    "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
+    "slug": "触发器案例252"
   },
   {
     "id": "dl-case-253",
@@ -4716,33 +5942,19 @@
     "description": "通过寄存器掌握数字逻辑",
     "difficulty": "hard",
     "duration": 30,
-    "steps": [
-      {
-        "order": 1,
-        "title": "问题",
-        "description": "分析"
-      },
-      {
-        "order": 2,
-        "title": "方案",
-        "description": "设计"
-      },
-      {
-        "order": 3,
-        "title": "实现",
-        "description": "实现"
-      },
-      {
-        "order": 4,
-        "title": "验证",
-        "description": "测试"
-      }
-    ],
     "relatedQuestionIds": [],
     "tags": [
       "寄存器"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "summary": "通过寄存器掌握数字逻辑",
+    "estimatedMinutes": 30,
+    "knowledgePoints": [],
+    "knowledgePointIds": [],
+    "backgroundMarkdown": "# 案例背景\n\n通过寄存器掌握数字逻辑",
+    "tasksMarkdown": "# 实战任务\n\n1. **问题**: 分析\n2. **方案**: 设计\n3. **实现**: 实现\n4. **验证**: 测试",
+    "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
+    "slug": "寄存器案例253"
   },
   {
     "id": "dl-case-254",
@@ -4750,33 +5962,19 @@
     "description": "通过逻辑代数掌握数字逻辑",
     "difficulty": "hard",
     "duration": 30,
-    "steps": [
-      {
-        "order": 1,
-        "title": "问题",
-        "description": "分析"
-      },
-      {
-        "order": 2,
-        "title": "方案",
-        "description": "设计"
-      },
-      {
-        "order": 3,
-        "title": "实现",
-        "description": "实现"
-      },
-      {
-        "order": 4,
-        "title": "验证",
-        "description": "测试"
-      }
-    ],
     "relatedQuestionIds": [],
     "tags": [
       "逻辑代数"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "summary": "通过逻辑代数掌握数字逻辑",
+    "estimatedMinutes": 30,
+    "knowledgePoints": [],
+    "knowledgePointIds": [],
+    "backgroundMarkdown": "# 案例背景\n\n通过逻辑代数掌握数字逻辑",
+    "tasksMarkdown": "# 实战任务\n\n1. **问题**: 分析\n2. **方案**: 设计\n3. **实现**: 实现\n4. **验证**: 测试",
+    "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
+    "slug": "逻辑代数案例254"
   },
   {
     "id": "dl-case-255",
@@ -4784,33 +5982,19 @@
     "description": "通过组合逻辑掌握数字逻辑",
     "difficulty": "hard",
     "duration": 30,
-    "steps": [
-      {
-        "order": 1,
-        "title": "问题",
-        "description": "分析"
-      },
-      {
-        "order": 2,
-        "title": "方案",
-        "description": "设计"
-      },
-      {
-        "order": 3,
-        "title": "实现",
-        "description": "实现"
-      },
-      {
-        "order": 4,
-        "title": "验证",
-        "description": "测试"
-      }
-    ],
     "relatedQuestionIds": [],
     "tags": [
       "组合逻辑"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "summary": "通过组合逻辑掌握数字逻辑",
+    "estimatedMinutes": 30,
+    "knowledgePoints": [],
+    "knowledgePointIds": [],
+    "backgroundMarkdown": "# 案例背景\n\n通过组合逻辑掌握数字逻辑",
+    "tasksMarkdown": "# 实战任务\n\n1. **问题**: 分析\n2. **方案**: 设计\n3. **实现**: 实现\n4. **验证**: 测试",
+    "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
+    "slug": "组合逻辑案例255"
   },
   {
     "id": "dl-case-256",
@@ -4818,33 +6002,19 @@
     "description": "通过触发器掌握数字逻辑",
     "difficulty": "hard",
     "duration": 30,
-    "steps": [
-      {
-        "order": 1,
-        "title": "问题",
-        "description": "分析"
-      },
-      {
-        "order": 2,
-        "title": "方案",
-        "description": "设计"
-      },
-      {
-        "order": 3,
-        "title": "实现",
-        "description": "实现"
-      },
-      {
-        "order": 4,
-        "title": "验证",
-        "description": "测试"
-      }
-    ],
     "relatedQuestionIds": [],
     "tags": [
       "触发器"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "summary": "通过触发器掌握数字逻辑",
+    "estimatedMinutes": 30,
+    "knowledgePoints": [],
+    "knowledgePointIds": [],
+    "backgroundMarkdown": "# 案例背景\n\n通过触发器掌握数字逻辑",
+    "tasksMarkdown": "# 实战任务\n\n1. **问题**: 分析\n2. **方案**: 设计\n3. **实现**: 实现\n4. **验证**: 测试",
+    "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
+    "slug": "触发器案例256"
   },
   {
     "id": "dl-case-257",
@@ -4852,33 +6022,19 @@
     "description": "通过逻辑门掌握数字逻辑",
     "difficulty": "hard",
     "duration": 30,
-    "steps": [
-      {
-        "order": 1,
-        "title": "问题",
-        "description": "分析"
-      },
-      {
-        "order": 2,
-        "title": "方案",
-        "description": "设计"
-      },
-      {
-        "order": 3,
-        "title": "实现",
-        "description": "实现"
-      },
-      {
-        "order": 4,
-        "title": "验证",
-        "description": "测试"
-      }
-    ],
     "relatedQuestionIds": [],
     "tags": [
       "逻辑门"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "summary": "通过逻辑门掌握数字逻辑",
+    "estimatedMinutes": 30,
+    "knowledgePoints": [],
+    "knowledgePointIds": [],
+    "backgroundMarkdown": "# 案例背景\n\n通过逻辑门掌握数字逻辑",
+    "tasksMarkdown": "# 实战任务\n\n1. **问题**: 分析\n2. **方案**: 设计\n3. **实现**: 实现\n4. **验证**: 测试",
+    "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
+    "slug": "逻辑门案例257"
   },
   {
     "id": "dl-case-258",
@@ -4886,33 +6042,19 @@
     "description": "通过组合逻辑掌握数字逻辑",
     "difficulty": "hard",
     "duration": 30,
-    "steps": [
-      {
-        "order": 1,
-        "title": "问题",
-        "description": "分析"
-      },
-      {
-        "order": 2,
-        "title": "方案",
-        "description": "设计"
-      },
-      {
-        "order": 3,
-        "title": "实现",
-        "description": "实现"
-      },
-      {
-        "order": 4,
-        "title": "验证",
-        "description": "测试"
-      }
-    ],
     "relatedQuestionIds": [],
     "tags": [
       "组合逻辑"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "summary": "通过组合逻辑掌握数字逻辑",
+    "estimatedMinutes": 30,
+    "knowledgePoints": [],
+    "knowledgePointIds": [],
+    "backgroundMarkdown": "# 案例背景\n\n通过组合逻辑掌握数字逻辑",
+    "tasksMarkdown": "# 实战任务\n\n1. **问题**: 分析\n2. **方案**: 设计\n3. **实现**: 实现\n4. **验证**: 测试",
+    "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
+    "slug": "组合逻辑案例258"
   },
   {
     "id": "dl-case-259",
@@ -4920,33 +6062,19 @@
     "description": "通过计数器掌握数字逻辑",
     "difficulty": "hard",
     "duration": 30,
-    "steps": [
-      {
-        "order": 1,
-        "title": "问题",
-        "description": "分析"
-      },
-      {
-        "order": 2,
-        "title": "方案",
-        "description": "设计"
-      },
-      {
-        "order": 3,
-        "title": "实现",
-        "description": "实现"
-      },
-      {
-        "order": 4,
-        "title": "验证",
-        "description": "测试"
-      }
-    ],
     "relatedQuestionIds": [],
     "tags": [
       "计数器"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "summary": "通过计数器掌握数字逻辑",
+    "estimatedMinutes": 30,
+    "knowledgePoints": [],
+    "knowledgePointIds": [],
+    "backgroundMarkdown": "# 案例背景\n\n通过计数器掌握数字逻辑",
+    "tasksMarkdown": "# 实战任务\n\n1. **问题**: 分析\n2. **方案**: 设计\n3. **实现**: 实现\n4. **验证**: 测试",
+    "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
+    "slug": "计数器案例259"
   },
   {
     "id": "dl-case-260",
@@ -4954,32 +6082,18 @@
     "description": "通过加法器掌握数字逻辑",
     "difficulty": "hard",
     "duration": 30,
-    "steps": [
-      {
-        "order": 1,
-        "title": "问题",
-        "description": "分析"
-      },
-      {
-        "order": 2,
-        "title": "方案",
-        "description": "设计"
-      },
-      {
-        "order": 3,
-        "title": "实现",
-        "description": "实现"
-      },
-      {
-        "order": 4,
-        "title": "验证",
-        "description": "测试"
-      }
-    ],
     "relatedQuestionIds": [],
     "tags": [
       "加法器"
     ],
-    "updatedAt": "2026-07-03T00:00:00.000Z"
+    "updatedAt": "2026-07-03T00:00:00.000Z",
+    "summary": "通过加法器掌握数字逻辑",
+    "estimatedMinutes": 30,
+    "knowledgePoints": [],
+    "knowledgePointIds": [],
+    "backgroundMarkdown": "# 案例背景\n\n通过加法器掌握数字逻辑",
+    "tasksMarkdown": "# 实战任务\n\n1. **问题**: 分析\n2. **方案**: 设计\n3. **实现**: 实现\n4. **验证**: 测试",
+    "referenceMarkdown": "# 参考方案\n\n请参考具体实现步骤完成任务。",
+    "slug": "加法器案例260"
   }
 ]

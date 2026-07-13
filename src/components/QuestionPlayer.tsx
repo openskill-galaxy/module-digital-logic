@@ -2,12 +2,56 @@ import { useMemo, useState } from "react";
 import { Link } from "react-router-dom";
 import type { Question } from "../types";
 import { isAnswerCorrect, typeLabel, difficultyLabel } from "../utils/scoring";
+import { renderMarkdown } from "../utils/markdown";
 import DifficultyBadge from "./DifficultyBadge";
 import { useProgressStore } from "../store/useProgressStore";
 
+function triggerConfetti() {
+  const container = document.createElement("div");
+  container.style.position = "fixed";
+  container.style.inset = "0";
+  container.style.pointerEvents = "none";
+  container.style.zIndex = "9999";
+  document.body.appendChild(container);
+
+  const colors = ["#3b82f6", "#10b981", "#fbbf24", "#ef4444", "#8b5cf6", "#ec4899"];
+
+  for (let i = 0; i < 40; i++) {
+    const el = document.createElement("div");
+    el.style.position = "absolute";
+    el.style.width = `${Math.random() * 6 + 6}px`;
+    el.style.height = `${Math.random() * 6 + 6}px`;
+    el.style.backgroundColor = colors[Math.floor(Math.random() * colors.length)];
+    el.style.borderRadius = "50%";
+    el.style.left = "50%";
+    el.style.top = "40%";
+    
+    const angle = Math.random() * Math.PI * 2;
+    const velocity = Math.random() * 120 + 80;
+    const dx = Math.cos(angle) * velocity;
+    const dy = Math.sin(angle) * velocity - 60; // upward bias
+
+    el.animate([
+      { transform: "translate(-50%, -50%) scale(1)", opacity: 1 },
+      { transform: `translate(calc(-50% + ${dx}px), calc(-50% + ${dy}px)) scale(0.5)`, opacity: 0 }
+    ], {
+      duration: 800 + Math.random() * 400,
+      easing: "ease-out"
+    });
+
+    container.appendChild(el);
+  }
+
+  setTimeout(() => {
+    container.remove();
+  }, 1300);
+}
+
 interface Props {
   questions: Question[];
+  // 是否立即判分（练习模式即时判分；考试模式不在此处判分）
   instant?: boolean;
+  // 提交后回调（仅 instant=false 时由父组件调用 finish）
   onFinish?: (answers: Record<string, string[]>) => void;
   submitLabel?: string;
 }
@@ -20,29 +64,50 @@ export default function QuestionPlayer({
 }: Props) {
   const [current, setCurrent] = useState(0);
   const [answers, setAnswers] = useState<Record<string, string[]>>({});
+  // 已判分题目集合（instant 模式下记录已答）
   const [judged, setJudged] = useState<Record<string, boolean>>({});
+  const [shake, setShake] = useState(false);
   const recordAnswer = useProgressStore((s) => s.recordAnswer);
 
   const q = questions[current];
   const total = questions.length;
+
   const userAnswer = answers[q?.id] || [];
+
   const canPrev = current > 0;
   const canNext = current < total - 1;
 
   function setAns(arr: string[]) {
     setAnswers((prev) => ({ ...prev, [q.id]: arr }));
   }
-  function toggleSingle(key: string) { setAns([key]); }
-  function toggleMultiple(key: string) {
-    setAns(userAnswer.includes(key) ? userAnswer.filter((k) => k !== key) : [...userAnswer, key]);
+
+  function toggleSingle(key: string) {
+    setAns([key]);
   }
-  function setJudge(val: "T" | "F") { setAns([val]); }
+  function toggleMultiple(key: string) {
+    if (userAnswer.includes(key)) {
+      setAns(userAnswer.filter((k) => k !== key));
+    } else {
+      setAns([...userAnswer, key]);
+    }
+  }
+  function setJudge(val: "T" | "F") {
+    setAns([val]);
+  }
 
   function commitInstant() {
-    if (!instant || judged[q.id]) return;
+    if (!instant) return;
+    if (judged[q.id]) return;
     const correct = isAnswerCorrect(q, userAnswer);
     recordAnswer(q.id, userAnswer, correct);
     setJudged((p) => ({ ...p, [q.id]: true }));
+    
+    if (correct) {
+      triggerConfetti();
+    } else {
+      setShake(true);
+      setTimeout(() => setShake(false), 300);
+    }
   }
 
   const isJudged = !!judged[q.id];
@@ -51,33 +116,40 @@ export default function QuestionPlayer({
     [isJudged, q, userAnswer]
   );
 
-  if (total === 0) return <p className="text-white/60">暂无题目。</p>;
+  if (total === 0) {
+    return <p className="text-white/60">暂无题目。</p>;
+  }
 
-  const answeredCount = Object.keys(answers).filter((k) => (answers[k] || []).length > 0).length;
-  const isTextType = ["short", "fill", "calculation", "case_analysis"].includes(q.type);
+  const answeredCount = Object.keys(answers).filter((k) =>
+    (answers[k] || []).length > 0
+  ).length;
 
   return (
     <div className="space-y-5">
       <div className="flex items-center justify-between">
         <div className="flex items-center gap-2">
-          <span className="rounded bg-brand-500/20 px-2 py-0.5 text-xs text-brand-100">{typeLabel(q.type)}</span>
+          <span className="rounded bg-brand-500/20 px-2 py-0.5 text-xs text-brand-100">
+            {typeLabel(q.type)}
+          </span>
           <DifficultyBadge difficulty={q.difficulty} />
-          <span className="text-xs text-white/50">{current + 1} / {total} · {q.chapter}</span>
+          <span className="text-xs text-white/50">
+            {current + 1} / {total} · 约 {q.estimatedMinutes} 分钟
+          </span>
         </div>
         <span className="text-xs text-white/50">已答 {answeredCount}/{total}</span>
       </div>
 
-      <div className="card p-5">
+      <div className={`card p-5 transition-all duration-300 ${shake ? "animate-shake border-rose-500/30 shadow-lg shadow-rose-500/5" : ""}`}>
         <p className="text-sm text-white whitespace-pre-wrap">{q.stem}</p>
 
         <div className="mt-4 space-y-2">
-          {isTextType ? (
+          {q.type === "short" ? (
             <textarea
               value={userAnswer.join("")}
               onChange={(e) => setAns([e.target.value])}
               disabled={isJudged && instant}
-              rows={q.type === "case_analysis" ? 8 : 4}
-              placeholder={q.type === "fill" ? "请填入答案（多个空用 | 分隔）" : "请输入你的答案…"}
+              rows={4}
+              placeholder="请输入你的答案…"
               className="input resize-y"
             />
           ) : q.type === "judge" ? (
@@ -85,11 +157,25 @@ export default function QuestionPlayer({
               {(["T", "F"] as const).map((v) => {
                 const selected = userAnswer[0] === v;
                 const cls = isJudged && instant
-                  ? v === q.answer[0] ? "option-btn option-btn-correct" : selected ? "option-btn option-btn-wrong" : "option-btn"
-                  : selected ? "option-btn option-btn-selected" : "option-btn";
+                  ? v === q.answer[0]
+                    ? "option-btn option-btn-correct"
+                    : selected
+                      ? "option-btn option-btn-wrong"
+                      : "option-btn"
+                  : selected
+                    ? "option-btn option-btn-selected"
+                    : "option-btn";
                 return (
-                  <button key={v} type="button" disabled={isJudged && instant} onClick={() => setJudge(v)} className={`${cls} !w-auto`}>
-                    <span className={`option-key ${selected ? "option-key-selected" : ""}`}>{v === "T" ? "√" : "×"}</span>
+                  <button
+                    key={v}
+                    type="button"
+                    disabled={isJudged && instant}
+                    onClick={() => setJudge(v)}
+                    className={`${cls} !w-auto`}
+                  >
+                    <span className={`option-key ${selected ? "option-key-selected" : ""}`}>
+                      {v === "T" ? "√" : "×"}
+                    </span>
                     {v === "T" ? "正确" : "错误"}
                   </button>
                 );
@@ -100,10 +186,26 @@ export default function QuestionPlayer({
               const selected = userAnswer.includes(opt.key);
               const showCorrect = isJudged && instant && q.answer.includes(opt.key);
               const showWrong = isJudged && instant && selected && !q.answer.includes(opt.key);
-              const cls = showCorrect ? "option-btn option-btn-correct" : showWrong ? "option-btn option-btn-wrong" : selected ? "option-btn option-btn-selected" : "option-btn";
+              const cls = showCorrect
+                ? "option-btn option-btn-correct"
+                : showWrong
+                  ? "option-btn option-btn-wrong"
+                  : selected
+                    ? "option-btn option-btn-selected"
+                    : "option-btn";
               return (
-                <button key={opt.key} type="button" disabled={isJudged && instant} onClick={() => q.type === "single" ? toggleSingle(opt.key) : toggleMultiple(opt.key)} className={cls}>
-                  <span className={`option-key ${selected ? "option-key-selected" : ""}`}>{opt.key}</span>
+                <button
+                  key={opt.key}
+                  type="button"
+                  disabled={isJudged && instant}
+                  onClick={() =>
+                    q.type === "single" ? toggleSingle(opt.key) : toggleMultiple(opt.key)
+                  }
+                  className={cls}
+                >
+                  <span className={`option-key ${selected ? "option-key-selected" : ""}`}>
+                    {opt.key}
+                  </span>
                   <span className="whitespace-pre-wrap">{opt.text}</span>
                 </button>
               );
@@ -116,13 +218,14 @@ export default function QuestionPlayer({
             <p className={`text-sm font-medium ${correctNow ? "text-emerald-300" : "text-rose-300"}`}>
               {correctNow ? "✓ 回答正确" : "✗ 回答错误"}
             </p>
-            <p className="mt-1 text-xs text-white/50">参考答案：{q.type === "judge" ? (q.answer[0] === "T" ? "正确" : "错误") : q.answer.join(" | ")}</p>
-            {q.explanation && <div className="mt-3 text-sm text-white/80 whitespace-pre-wrap">{q.explanation}</div>}
-            {q.wrong_reason && Object.keys(q.wrong_reason).length > 0 && (
-              <div className="mt-2 text-xs text-amber-200/80">
-                <p className="font-medium">常见错误：</p>
-                {Object.entries(q.wrong_reason).map(([k, v]) => (
-                  <p key={k}>· {k}：{v}</p>
+            <p className="mt-1 text-xs text-white/50">
+              正确答案：{q.type === "short" ? q.answer.join(" | ") : q.answer.join(", ")}
+            </p>
+            <div className="mt-3">{renderMarkdown(q.analysis)}</div>
+            {q.knowledgePoints.length > 0 && (
+              <div className="mt-3 flex flex-wrap gap-2">
+                {q.knowledgePoints.map((id) => (
+                  <span key={id} className="tag">KP:{id}</span>
                 ))}
               </div>
             )}
@@ -131,15 +234,39 @@ export default function QuestionPlayer({
       </div>
 
       <div className="flex items-center justify-between">
-        <button type="button" className="btn-ghost" disabled={!canPrev} onClick={() => setCurrent((c) => c - 1)}>上一题</button>
+        <button
+          type="button"
+          className="btn-ghost"
+          disabled={!canPrev}
+          onClick={() => setCurrent((c) => c - 1)}
+        >
+          上一题
+        </button>
+
         {instant && !isJudged && userAnswer.length > 0 && (
-          <button type="button" className="btn-primary" onClick={commitInstant}>提交本题</button>
+          <button type="button" className="btn-primary" onClick={commitInstant}>
+            提交本题
+          </button>
         )}
+
         <div className="flex gap-2">
           {canNext ? (
-            <button type="button" className="btn-primary" onClick={() => setCurrent((c) => c + 1)}>下一题</button>
+            <button
+              type="button"
+              className="btn-primary"
+              onClick={() => setCurrent((c) => c + 1)}
+            >
+              下一题
+            </button>
           ) : !instant ? (
-            <button type="button" className="btn-primary" onClick={() => onFinish?.(answers)} disabled={answeredCount === 0}>{submitLabel}</button>
+            <button
+              type="button"
+              className="btn-primary"
+              onClick={() => onFinish?.(answers)}
+              disabled={answeredCount === 0}
+            >
+              {submitLabel}
+            </button>
           ) : (
             <Link className="btn-ghost" to="/wrong">查看错题本</Link>
           )}
@@ -148,7 +275,8 @@ export default function QuestionPlayer({
 
       {!instant && (
         <div className="card p-3 text-xs text-white/50">
-          共 {total} 题（{difficultyLabel(q.difficulty)}等），已答 {answeredCount} 题。点击右下「{submitLabel}」结束并生成成绩。
+          共 {total} 题（{difficultyLabel(q.difficulty)}等），已答 {answeredCount} 题。
+          点击右下「{submitLabel}」结束并生成成绩。
         </div>
       )}
     </div>

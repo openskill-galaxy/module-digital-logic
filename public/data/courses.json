@@ -27,7 +27,25 @@
       "lesson-132",
       "lesson-133"
     ],
-    "order": 1
+    "order": 1,
+    "lessonIds": [
+      "lesson-1",
+      "lesson-2",
+      "lesson-3",
+      "lesson-4",
+      "lesson-5",
+      "lesson-124",
+      "lesson-125",
+      "lesson-126",
+      "lesson-127",
+      "lesson-128",
+      "lesson-129",
+      "lesson-130",
+      "lesson-131",
+      "lesson-132",
+      "lesson-133"
+    ],
+    "description": "涵盖数制与编码的系统学习。"
   },
   {
     "id": "course-2",
@@ -57,7 +75,25 @@
       "lesson-142",
       "lesson-143"
     ],
-    "order": 2
+    "order": 2,
+    "lessonIds": [
+      "lesson-6",
+      "lesson-7",
+      "lesson-8",
+      "lesson-9",
+      "lesson-10",
+      "lesson-134",
+      "lesson-135",
+      "lesson-136",
+      "lesson-137",
+      "lesson-138",
+      "lesson-139",
+      "lesson-140",
+      "lesson-141",
+      "lesson-142",
+      "lesson-143"
+    ],
+    "description": "涵盖逻辑代数基础的系统学习。"
   },
   {
     "id": "course-3",
@@ -84,7 +120,22 @@
       "lesson-149",
       "lesson-150"
     ],
-    "order": 3
+    "order": 3,
+    "lessonIds": [
+      "lesson-11",
+      "lesson-12",
+      "lesson-13",
+      "lesson-14",
+      "lesson-15",
+      "lesson-144",
+      "lesson-145",
+      "lesson-146",
+      "lesson-147",
+      "lesson-148",
+      "lesson-149",
+      "lesson-150"
+    ],
+    "description": "涵盖逻辑门电路的系统学习。"
   },
   {
     "id": "course-4",
@@ -145,7 +196,46 @@
       "lesson-50",
       "lesson-51"
     ],
-    "order": 4
+    "order": 4,
+    "lessonIds": [
+      "lesson-16",
+      "lesson-17",
+      "lesson-18",
+      "lesson-19",
+      "lesson-20",
+      "lesson-21",
+      "lesson-22",
+      "lesson-23",
+      "lesson-24",
+      "lesson-25",
+      "lesson-26",
+      "lesson-27",
+      "lesson-28",
+      "lesson-29",
+      "lesson-30",
+      "lesson-31",
+      "lesson-32",
+      "lesson-33",
+      "lesson-34",
+      "lesson-35",
+      "lesson-36",
+      "lesson-37",
+      "lesson-38",
+      "lesson-39",
+      "lesson-40",
+      "lesson-41",
+      "lesson-42",
+      "lesson-43",
+      "lesson-44",
+      "lesson-45",
+      "lesson-46",
+      "lesson-47",
+      "lesson-48",
+      "lesson-49",
+      "lesson-50",
+      "lesson-51"
+    ],
+    "description": "涵盖组合逻辑电路、编码器、译码器、数据选择器、加法器、比较器的系统学习。"
   },
   {
     "id": "course-5",
@@ -173,7 +263,21 @@
       "lesson-61",
       "lesson-62"
     ],
-    "order": 5
+    "order": 5,
+    "lessonIds": [
+      "lesson-52",
+      "lesson-53",
+      "lesson-54",
+      "lesson-55",
+      "lesson-56",
+      "lesson-57",
+      "lesson-58",
+      "lesson-59",
+      "lesson-60",
+      "lesson-61",
+      "lesson-62"
+    ],
+    "description": "涵盖触发器、计数器的系统学习。"
   },
   {
     "id": "course-6",
@@ -200,7 +304,20 @@
       "lesson-71",
       "lesson-72"
     ],
-    "order": 6
+    "order": 6,
+    "lessonIds": [
+      "lesson-63",
+      "lesson-64",
+      "lesson-65",
+      "lesson-66",
+      "lesson-67",
+      "lesson-68",
+      "lesson-69",
+      "lesson-70",
+      "lesson-71",
+      "lesson-72"
+    ],
+    "description": "涵盖寄存器、时序逻辑电路的系统学习。"
   },
   {
     "id": "course-7",
@@ -227,7 +344,20 @@
       "lesson-81",
       "lesson-82"
     ],
-    "order": 7
+    "order": 7,
+    "lessonIds": [
+      "lesson-73",
+      "lesson-74",
+      "lesson-75",
+      "lesson-76",
+      "lesson-77",
+      "lesson-78",
+      "lesson-79",
+      "lesson-80",
+      "lesson-81",
+      "lesson-82"
+    ],
+    "description": "涵盖脉冲波形、存储器基础的系统学习。"
   },
   {
     "id": "course-8",
@@ -247,7 +377,15 @@
       "lesson-86",
       "lesson-87"
     ],
-    "order": 8
+    "order": 8,
+    "lessonIds": [
+      "lesson-83",
+      "lesson-84",
+      "lesson-85",
+      "lesson-86",
+      "lesson-87"
+    ],
+    "description": "涵盖可编程逻辑器件的系统学习。"
   },
   {
     "id": "course-9",
@@ -274,7 +412,20 @@
       "lesson-96",
       "lesson-97"
     ],
-    "order": 9
+    "order": 9,
+    "lessonIds": [
+      "lesson-88",
+      "lesson-89",
+      "lesson-90",
+      "lesson-91",
+      "lesson-92",
+      "lesson-93",
+      "lesson-94",
+      "lesson-95",
+      "lesson-96",
+      "lesson-97"
+    ],
+    "description": "涵盖Quartus入门、BDF原理图设计的系统学习。"
   },
   {
     "id": "course-10",
@@ -294,7 +445,15 @@
       "lesson-101",
       "lesson-102"
     ],
-    "order": 10
+    "order": 10,
+    "lessonIds": [
+      "lesson-98",
+      "lesson-99",
+      "lesson-100",
+      "lesson-101",
+      "lesson-102"
+    ],
+    "description": "涵盖Verilog基础的系统学习。"
   },
   {
     "id": "course-11",
@@ -330,7 +489,31 @@
       "lesson-122",
       "lesson-123"
     ],
-    "order": 11
+    "order": 11,
+    "lessonIds": [
+      "lesson-103",
+      "lesson-104",
+      "lesson-105",
+      "lesson-106",
+      "lesson-107",
+      "lesson-108",
+      "lesson-109",
+      "lesson-110",
+      "lesson-111",
+      "lesson-112",
+      "lesson-113",
+      "lesson-114",
+      "lesson-115",
+      "lesson-116",
+      "lesson-117",
+      "lesson-118",
+      "lesson-119",
+      "lesson-120",
+      "lesson-121",
+      "lesson-122",
+      "lesson-123"
+    ],
+    "description": "涵盖步进电机模拟电梯课程设计的系统学习。"
   },
   {
     "id": "course-12",
@@ -374,7 +557,15 @@
       "dl-lesson-00154",
       "dl-lesson-00155"
     ],
-    "order": 12
+    "order": 12,
+    "lessonIds": [
+      "dl-lesson-00151",
+      "dl-lesson-00152",
+      "dl-lesson-00153",
+      "dl-lesson-00154",
+      "dl-lesson-00155"
+    ],
+    "description": "涵盖数制与编码、逻辑代数基础、逻辑门电路、组合逻辑电路、编码器、译码器、数据选择器、加法器、比较器、触发器、计数器、寄存器、时序逻辑电路的系统学习。"
   },
   {
     "id": "course-13",
@@ -400,7 +591,20 @@
       "dl-lesson-00164",
       "dl-lesson-00165"
     ],
-    "order": 13
+    "order": 13,
+    "lessonIds": [
+      "dl-lesson-00156",
+      "dl-lesson-00157",
+      "dl-lesson-00158",
+      "dl-lesson-00159",
+      "dl-lesson-00160",
+      "dl-lesson-00161",
+      "dl-lesson-00162",
+      "dl-lesson-00163",
+      "dl-lesson-00164",
+      "dl-lesson-00165"
+    ],
+    "description": "涵盖脉冲波形与定时电路的系统学习。"
   },
   {
     "id": "course-14",
@@ -426,7 +630,20 @@
       "dl-lesson-00174",
       "dl-lesson-00175"
     ],
-    "order": 14
+    "order": 14,
+    "lessonIds": [
+      "dl-lesson-00166",
+      "dl-lesson-00167",
+      "dl-lesson-00168",
+      "dl-lesson-00169",
+      "dl-lesson-00170",
+      "dl-lesson-00171",
+      "dl-lesson-00172",
+      "dl-lesson-00173",
+      "dl-lesson-00174",
+      "dl-lesson-00175"
+    ],
+    "description": "涵盖存储器基础的系统学习。"
   },
   {
     "id": "course-15",
@@ -452,7 +669,20 @@
       "dl-lesson-00184",
       "dl-lesson-00185"
     ],
-    "order": 15
+    "order": 15,
+    "lessonIds": [
+      "dl-lesson-00176",
+      "dl-lesson-00177",
+      "dl-lesson-00178",
+      "dl-lesson-00179",
+      "dl-lesson-00180",
+      "dl-lesson-00181",
+      "dl-lesson-00182",
+      "dl-lesson-00183",
+      "dl-lesson-00184",
+      "dl-lesson-00185"
+    ],
+    "description": "涵盖可编程逻辑器件的系统学习。"
   },
   {
     "id": "course-16",
@@ -478,7 +708,20 @@
       "dl-lesson-00194",
       "dl-lesson-00195"
     ],
-    "order": 16
+    "order": 16,
+    "lessonIds": [
+      "dl-lesson-00186",
+      "dl-lesson-00187",
+      "dl-lesson-00188",
+      "dl-lesson-00189",
+      "dl-lesson-00190",
+      "dl-lesson-00191",
+      "dl-lesson-00192",
+      "dl-lesson-00193",
+      "dl-lesson-00194",
+      "dl-lesson-00195"
+    ],
+    "description": "涵盖Quartus入门的系统学习。"
   },
   {
     "id": "course-17",
@@ -504,7 +747,20 @@
       "dl-lesson-00204",
       "dl-lesson-00205"
     ],
-    "order": 17
+    "order": 17,
+    "lessonIds": [
+      "dl-lesson-00196",
+      "dl-lesson-00197",
+      "dl-lesson-00198",
+      "dl-lesson-00199",
+      "dl-lesson-00200",
+      "dl-lesson-00201",
+      "dl-lesson-00202",
+      "dl-lesson-00203",
+      "dl-lesson-00204",
+      "dl-lesson-00205"
+    ],
+    "description": "涵盖BDF原理图设计的系统学习。"
   },
   {
     "id": "course-18",
@@ -530,7 +786,20 @@
       "dl-lesson-00214",
       "dl-lesson-00215"
     ],
-    "order": 18
+    "order": 18,
+    "lessonIds": [
+      "dl-lesson-00206",
+      "dl-lesson-00207",
+      "dl-lesson-00208",
+      "dl-lesson-00209",
+      "dl-lesson-00210",
+      "dl-lesson-00211",
+      "dl-lesson-00212",
+      "dl-lesson-00213",
+      "dl-lesson-00214",
+      "dl-lesson-00215"
+    ],
+    "description": "涵盖Verilog基础的系统学习。"
   },
   {
     "id": "course-19",
@@ -556,7 +825,20 @@
       "dl-lesson-00224",
       "dl-lesson-00225"
     ],
-    "order": 19
+    "order": 19,
+    "lessonIds": [
+      "dl-lesson-00216",
+      "dl-lesson-00217",
+      "dl-lesson-00218",
+      "dl-lesson-00219",
+      "dl-lesson-00220",
+      "dl-lesson-00221",
+      "dl-lesson-00222",
+      "dl-lesson-00223",
+      "dl-lesson-00224",
+      "dl-lesson-00225"
+    ],
+    "description": "涵盖FPGA实验流程的系统学习。"
   },
   {
     "id": "course-20",
@@ -584,6 +866,21 @@
       "dl-lesson-00236",
       "dl-lesson-00237"
     ],
-    "order": 20
+    "order": 20,
+    "lessonIds": [
+      "dl-lesson-00226",
+      "dl-lesson-00227",
+      "dl-lesson-00228",
+      "dl-lesson-00229",
+      "dl-lesson-00230",
+      "dl-lesson-00231",
+      "dl-lesson-00232",
+      "dl-lesson-00233",
+      "dl-lesson-00234",
+      "dl-lesson-00235",
+      "dl-lesson-00236",
+      "dl-lesson-00237"
+    ],
+    "description": "涵盖步进电机模拟电梯控制系统课程设计的系统学习。"
   }
 ]
