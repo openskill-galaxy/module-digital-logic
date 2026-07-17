@@ -10,7 +10,6 @@ import type {
   GlossaryTerm,
   SearchResult,
 } from "../types";
-import type { SearchIndexEntry } from "../data/loaders";
 
 export interface SearchSource {
   courses: Course[];
@@ -32,47 +31,72 @@ interface IndexEntry {
   tags: string[];
 }
 
-// Type mapping: search-index uses different type labels than the raw data
-const INDEX_TYPE_MAP: Record<string, SearchResult["type"]> = {
-  course: "course",
-  lesson: "lesson",
-  "knowledge-point": "knowledge",
-  question: "question",
-  case: "case",
-  route: "route",
-  faq: "faq",
-  glossary: "glossary",
-};
-
 export function buildSearchEntries(src: SearchSource): IndexEntry[] {
-  const courses: IndexEntry[] = src.courses.map((c) => ({ type: "course", id: c.id, title: c.title, summary: c.summary, url: `/courses/${c.slug}`, tags: c.tags }));
-  const lessons: IndexEntry[] = src.lessons.map((l) => ({ type: "lesson", id: l.id, title: l.title, summary: l.summary, url: `/lessons/${l.slug}`, tags: [] }));
-  const kps: IndexEntry[] = src.knowledgePoints.map((k) => ({ type: "knowledge", id: k.id, title: k.title, summary: k.summary, url: `/knowledge/${k.slug}`, tags: k.tags }));
+  const courses: IndexEntry[] = src.courses.map((c) => ({
+    type: "course",
+    id: c.id,
+    title: c.title,
+    summary: c.summary,
+    url: `/courses/${c.slug}`,
+    tags: c.tags,
+  }));
+  const lessons: IndexEntry[] = src.lessons.map((l) => ({
+    type: "lesson",
+    id: l.id,
+    title: l.title,
+    summary: l.summary,
+    url: `/lessons/${l.slug}`,
+    tags: [],
+  }));
+  const kps: IndexEntry[] = src.knowledgePoints.map((k) => ({
+    type: "knowledge",
+    id: k.id,
+    title: k.title,
+    summary: k.summary,
+    url: `/knowledge/${k.slug}`,
+    tags: k.tags,
+  }));
   const questions: IndexEntry[] = src.questions.map((q) => ({
     type: "question",
     id: q.id,
     title: q.stem.length > 60 ? q.stem.slice(0, 60) + "…" : q.stem,
-    summary: `${q.chapter} · ${q.knowledge_points.join(", ")} · ${q.explanation.slice(0, 80)}`,
+    summary: (q.explanation || q.analysis || "").slice(0, 120),
     url: `/questions/${q.slug}`,
     tags: q.tags,
   }));
-  const cases: IndexEntry[] = src.cases.map((c) => ({ type: "case", id: c.id, title: c.title, summary: c.summary, url: `/cases/${c.slug}`, tags: c.tags }));
-  const routes: IndexEntry[] = src.routes.map((r) => ({ type: "route", id: r.id, title: r.title, summary: r.summary, url: `/routes#${r.slug}`, tags: [] }));
-  const faqs: IndexEntry[] = src.faqs.map((f) => ({ type: "faq", id: f.id, title: f.question, summary: f.answer.slice(0, 120), url: `/faq#${f.id}`, tags: [] }));
-  const glossary: IndexEntry[] = src.glossary.map((g) => ({ type: "glossary", id: g.id, title: g.term, summary: g.definition, url: `/knowledge#glossary-${g.id}`, tags: [] }));
-  return [...courses, ...lessons, ...kps, ...questions, ...cases, ...routes, ...faqs, ...glossary];
-}
-
-// Convert pre-built search-index.json entries to IndexEntry format
-export function convertSearchIndex(entries: SearchIndexEntry[]): IndexEntry[] {
-  return entries.map((e) => ({
-    type: INDEX_TYPE_MAP[e.type] || (e.type as SearchResult["type"]),
-    id: e.id,
-    title: e.title,
-    summary: e.summary,
-    url: e.url,
-    tags: e.tags || [],
+  const cases: IndexEntry[] = src.cases.map((c) => ({
+    type: "case",
+    id: c.id,
+    title: c.title,
+    summary: c.summary,
+    url: `/cases/${c.slug}`,
+    tags: c.tags,
   }));
+  const routes: IndexEntry[] = src.routes.map((r) => ({
+    type: "route",
+    id: r.id,
+    title: r.title,
+    summary: r.summary,
+    url: `/routes#${r.slug}`,
+    tags: [],
+  }));
+  const faqs: IndexEntry[] = src.faqs.map((f) => ({
+    type: "faq",
+    id: f.id,
+    title: f.question,
+    summary: f.answer.slice(0, 120),
+    url: `/faq#${f.id}`,
+    tags: [],
+  }));
+  const glossary: IndexEntry[] = src.glossary.map((g) => ({
+    type: "glossary",
+    id: g.id,
+    title: g.term,
+    summary: g.definition,
+    url: `/knowledge#glossary-${g.id}`,
+    tags: [],
+  }));
+  return [...courses, ...lessons, ...kps, ...questions, ...cases, ...routes, ...faqs, ...glossary];
 }
 
 export function createFuse(entries: IndexEntry[]): Fuse<IndexEntry> {

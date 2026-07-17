@@ -61,15 +61,7 @@ export interface KnowledgePoint {
 }
 
 // =============== 题目 ===============
-// 题型扩展：覆盖单选/多选/判断/填空/简答/计算/案例分析
-export type QuestionType =
-  | "single"
-  | "multiple"
-  | "judge"
-  | "short"
-  | "fill"
-  | "calculation"
-  | "case_analysis";
+export type QuestionType = "single" | "multiple" | "judge" | "short";
 
 export interface QuestionOption {
   key: string; // "A" "B" ...
@@ -81,17 +73,17 @@ export interface Question {
   slug: string;
   type: QuestionType;
   difficulty: Difficulty;
-  chapter: string; // 所属章节名
-  knowledge_points: string[]; // 知识点标签名
+  tags: string[];
   stem: string;
   options: QuestionOption[];
-  answer: string[]; // 选项键 / 判断 T|F / 填空答案 / 简答参考答案
-  explanation: string; // 详细解析（纯文本/markdown）
-  wrong_reason?: Record<string, string>; // 常见错误原因 keyed by option key
-  related_questions?: string[];
-  tags: string[];
-  estimated_time: number; // 秒
-  source_type?: string; // "generated" | "official" | ...
+  answer: string[]; // option keys, or short answer text
+  analysis?: string; // fallback
+  explanation: string; // aligned with Zod
+  knowledgePoints?: string[]; // fallback
+  knowledge_points: string[]; // aligned with Zod
+  estimatedMinutes?: number; // fallback
+  estimated_time: number; // aligned with Zod
+  chapter: string;
 }
 
 // =============== 模拟考试 ===============
