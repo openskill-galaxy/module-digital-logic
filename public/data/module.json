@@ -22,5 +22,17 @@
   "updatedAt": "2026-06-29",
   "coverEmoji": "🔌",
   "repoUrl": "https://github.com/openskill-galaxy/module-digital-logic",
-  "portalUrl": "https://openskill-galaxy.github.io/"
+  "portalUrl": "https://openskill-galaxy.github.io/",
+  "stats": {
+    "courses": 3,
+    "lessons": 6,
+    "knowledgePoints": 809,
+    "questions": 6,
+    "cases": 260,
+    "exams": 2,
+    "routes": 2,
+    "glossary": 358,
+    "faqs": 220,
+    "tags": 564
+  }
 }

@@ -1,31 +1,62 @@
 [
   {
     "id": "mod-digital-logic-exam-1",
-    "slug": "final-exam",
-    "title": "数字逻辑电路 核心期末综合自测",
-    "summary": "全面检验您对 数字逻辑电路 所有阶段知识体系的掌握程度。",
+    "slug": "basic-exam",
+    "title": "数字逻辑基础入门测评",
+    "summary": "覆盖数制编码、基本门电路与组合/时序概念辨析，检验数字逻辑入门知识掌握情况。",
     "difficulty": "easy",
     "questionIds": [
       "mod-digital-logic-q-1",
       "mod-digital-logic-q-2",
       "mod-digital-logic-q-3",
       "mod-digital-logic-q-4",
-      "mod-digital-logic-q-5",
-      "mod-digital-logic-q-6"
+      "mod-digital-logic-q-8",
+      "mod-digital-logic-q-16",
+      "mod-digital-logic-q-19",
+      "mod-digital-logic-q-22"
     ],
-    "timeLimitMinutes": 60,
+    "timeLimitMinutes": 15,
     "passingScore": 60
   },
   {
     "id": "mod-digital-logic-exam-2",
-    "slug": "basic-exam",
-    "title": "数字逻辑电路 基础概念快速评估",
-    "summary": "针对核心基础概念的摸底评估，题目精炼。",
-    "difficulty": "easy",
+    "slug": "advanced-exam",
+    "title": "数字逻辑进阶强化测评",
+    "summary": "聚焦卡诺图化简、触发器特性、Verilog 编码规范与时序参数等进阶考点。",
+    "difficulty": "medium",
     "questionIds": [
-      "mod-digital-logic-q-1",
-      "mod-digital-logic-q-2",
-      "mod-digital-logic-q-3"
+      "mod-digital-logic-q-5",
+      "mod-digital-logic-q-6",
+      "mod-digital-logic-q-7",
+      "mod-digital-logic-q-9",
+      "mod-digital-logic-q-11",
+      "mod-digital-logic-q-12",
+      "mod-digital-logic-q-15",
+      "mod-digital-logic-q-20",
+      "mod-digital-logic-q-21",
+      "mod-digital-logic-q-23"
+    ],
+    "timeLimitMinutes": 25,
+    "passingScore": 60
+  },
+  {
+    "id": "mod-digital-logic-exam-3",
+    "slug": "comprehensive-exam",
+    "title": "数字逻辑综合模拟考试",
+    "summary": "综合状态机设计、竞争冒险、跨时钟域与亚稳态等难点的全真模拟测试。",
+    "difficulty": "hard",
+    "questionIds": [
+      "mod-digital-logic-q-5",
+      "mod-digital-logic-q-9",
+      "mod-digital-logic-q-10",
+      "mod-digital-logic-q-13",
+      "mod-digital-logic-q-14",
+      "mod-digital-logic-q-15",
+      "mod-digital-logic-q-17",
+      "mod-digital-logic-q-18",
+      "mod-digital-logic-q-21",
+      "mod-digital-logic-q-23",
+      "mod-digital-logic-q-24"
     ],
     "timeLimitMinutes": 30,
     "passingScore": 60

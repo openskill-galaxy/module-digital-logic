@@ -1,218 +1,428 @@
 [
   {
     "id": "mod-digital-logic-q-1",
-    "slug": "question-course-1-2",
+    "slug": "question-1",
     "type": "single",
-    "stem": "在学习 [数字逻辑电路] 的过程里，关于“数字逻辑电路 环境依赖搭建与运行机制”的核心考点，以下表述最为准确的是？",
+    "stem": "十进制数 13 的 8421 BCD 码表示是？",
     "options": [
-      {
-        "key": "A",
-        "text": "在通常场景下，该机制设计能有效规避高并发阻塞，确保操作的高可用性。"
-      },
-      {
-        "key": "B",
-        "text": "该机制主要依赖外部环境变量进行硬编码注入，缺乏高并发条件下的安全锁机制。"
-      },
-      {
-        "key": "C",
-        "text": "在运行态无法进行动态横向伸缩，属于轻量单机调试环境特有的只读过渡方案。"
-      },
-      {
-        "key": "D",
-        "text": "这是一种完全淘汰的历史过渡方案，在新版本框架下会导致无法通过静态编译器校验。"
-      }
+      {"key": "A", "text": "1101"},
+      {"key": "B", "text": "0001 0011"},
+      {"key": "C", "text": "0001 0100"},
+      {"key": "D", "text": "0011 0001"}
     ],
-    "answer": [
-      "0"
-    ],
-    "explanation": "关于“数字逻辑电路 环境依赖搭建与运行机制”的正确答案为 A。解析：在 数字逻辑电路 的设计最佳实践中，该机制不仅对运行时进行了优化，更在多核处理器并发下实现了底层的并发保护机制，属于生产环境下推荐的高性能应用模式。",
-    "tags": [
-      "数字逻辑电路",
-      "基础考点"
-    ],
-    "difficulty": "medium",
-    "chapter": "course-1",
+    "answer": ["B"],
+    "explanation": "8421 BCD 码用 4 位二进制表示 1 位十进制数字，13 拆成十位 1 和个位 3，分别编码为 0001 和 0011，合起来是 0001 0011。A 选项 1101 是 13 的纯二进制表示而非 BCD 码；C 是 14 的 BCD 码；D 把两个数字的顺序写反了。",
+    "tags": ["数制与编码"],
+    "difficulty": "easy",
+    "chapter": "mod-digital-logic-c-1",
     "knowledge_points": [],
-    "estimated_time": 5
+    "estimated_time": 3
   },
   {
     "id": "mod-digital-logic-q-2",
-    "slug": "question-course-1-3",
+    "slug": "question-2",
     "type": "single",
-    "stem": "在学习 [数字逻辑电路] 的过程里，关于“数字逻辑电路 配置文件覆盖与属性解析”的核心考点，以下表述最为准确的是？",
+    "stem": "根据摩根定律（De Morgan），表达式 NOT(A·B) 等价于以下哪一项？",
     "options": [
-      {
-        "key": "A",
-        "text": "在通常场景下，该机制设计能有效规避高并发阻塞，确保操作的高可用性。"
-      },
-      {
-        "key": "B",
-        "text": "该机制主要依赖外部环境变量进行硬编码注入，缺乏高并发条件下的安全锁机制。"
-      },
-      {
-        "key": "C",
-        "text": "在运行态无法进行动态横向伸缩，属于轻量单机调试环境特有的只读过渡方案。"
-      },
-      {
-        "key": "D",
-        "text": "这是一种完全淘汰的历史过渡方案，在新版本框架下会导致无法通过静态编译器校验。"
-      }
+      {"key": "A", "text": "NOT(A) · NOT(B)"},
+      {"key": "B", "text": "NOT(A) + NOT(B)"},
+      {"key": "C", "text": "A + B"},
+      {"key": "D", "text": "NOT(A + B)"}
     ],
-    "answer": [
-      "0"
-    ],
-    "explanation": "关于“数字逻辑电路 配置文件覆盖与属性解析”的正确答案为 A。解析：在 数字逻辑电路 的设计最佳实践中，该机制不仅对运行时进行了优化，更在多核处理器并发下实现了底层的并发保护机制，属于生产环境下推荐的高性能应用模式。",
-    "tags": [
-      "数字逻辑电路",
-      "基础考点"
-    ],
-    "difficulty": "medium",
-    "chapter": "course-1",
+    "answer": ["B"],
+    "explanation": "摩根定律：与的非等于非的或，即 NOT(A·B) = NOT(A) + NOT(B)；或的非等于非的与，即 NOT(A+B) = NOT(A)·NOT(B)。A 选项混淆了两条定律；C、D 与原式在真值表上不等价（例如 A=1、B=0 时可验证）。",
+    "tags": ["逻辑代数"],
+    "difficulty": "easy",
+    "chapter": "mod-digital-logic-c-2",
     "knowledge_points": [],
-    "estimated_time": 5
+    "estimated_time": 2
   },
   {
     "id": "mod-digital-logic-q-3",
-    "slug": "question-course-2-4",
+    "slug": "question-3",
     "type": "single",
-    "stem": "在学习 [数字逻辑电路] 的过程里，关于“数字逻辑电路 API 接口规范与数据通信”的核心考点，以下表述最为准确的是？",
+    "stem": "用 8 位二进制补码表示有符号数，能表示的整数范围是？",
     "options": [
-      {
-        "key": "A",
-        "text": "在通常场景下，该机制设计能有效规避高并发阻塞，确保操作的高可用性。"
-      },
-      {
-        "key": "B",
-        "text": "该机制主要依赖外部环境变量进行硬编码注入，缺乏高并发条件下的安全锁机制。"
-      },
-      {
-        "key": "C",
-        "text": "在运行态无法进行动态横向伸缩，属于轻量单机调试环境特有的只读过渡方案。"
-      },
-      {
-        "key": "D",
-        "text": "这是一种完全淘汰的历史过渡方案，在新版本框架下会导致无法通过静态编译器校验。"
-      }
+      {"key": "A", "text": "-127 ~ +127"},
+      {"key": "B", "text": "-128 ~ +127"},
+      {"key": "C", "text": "-128 ~ +128"},
+      {"key": "D", "text": "0 ~ 255"}
     ],
-    "answer": [
-      "0"
-    ],
-    "explanation": "关于“数字逻辑电路 API 接口规范与数据通信”的正确答案为 A。解析：在 数字逻辑电路 的设计最佳实践中，该机制不仅对运行时进行了优化，更在多核处理器并发下实现了底层的并发保护机制，属于生产环境下推荐的高性能应用模式。",
-    "tags": [
-      "数字逻辑电路",
-      "基础考点"
-    ],
-    "difficulty": "medium",
-    "chapter": "course-2",
+    "answer": ["B"],
+    "explanation": "n 位补码的表示范围是 -2^(n-1) 到 2^(n-1)-1，8 位即 -128 ~ +127。负数比正数多一个，因为 1000 0000 表示 -128 而没有对应的 +128。A 是原码/反码的范围（它们有 +0 和 -0 两个零）；D 是 8 位无符号数的范围。",
+    "tags": ["数制与编码", "补码"],
+    "difficulty": "easy",
+    "chapter": "mod-digital-logic-c-3",
     "knowledge_points": [],
-    "estimated_time": 5
+    "estimated_time": 2
   },
   {
     "id": "mod-digital-logic-q-4",
-    "slug": "question-course-2-5",
+    "slug": "question-4",
     "type": "single",
-    "stem": "在学习 [数字逻辑电路] 的过程里，关于“数字逻辑电路 核心控制器与数据校验机制”的核心考点，以下表述最为准确的是？",
+    "stem": "下列哪种单一门电路被称为“通用门”，可以实现任意组合逻辑函数？",
     "options": [
-      {
-        "key": "A",
-        "text": "在通常场景下，该机制设计能有效规避高并发阻塞，确保操作的高可用性。"
-      },
-      {
-        "key": "B",
-        "text": "该机制主要依赖外部环境变量进行硬编码注入，缺乏高并发条件下的安全锁机制。"
-      },
-      {
-        "key": "C",
-        "text": "在运行态无法进行动态横向伸缩，属于轻量单机调试环境特有的只读过渡方案。"
-      },
-      {
-        "key": "D",
-        "text": "这是一种完全淘汰的历史过渡方案，在新版本框架下会导致无法通过静态编译器校验。"
-      }
+      {"key": "A", "text": "与门（AND）"},
+      {"key": "B", "text": "或门（OR）"},
+      {"key": "C", "text": "与非门（NAND）"},
+      {"key": "D", "text": "异或门（XOR)"}
     ],
-    "answer": [
-      "0"
-    ],
-    "explanation": "关于“数字逻辑电路 核心控制器与数据校验机制”的正确答案为 A。解析：在 数字逻辑电路 的设计最佳实践中，该机制不仅对运行时进行了优化，更在多核处理器并发下实现了底层的并发保护机制，属于生产环境下推荐的高性能应用模式。",
-    "tags": [
-      "数字逻辑电路",
-      "基础考点"
-    ],
-    "difficulty": "medium",
-    "chapter": "course-2",
+    "answer": ["C"],
+    "explanation": "与非门（NAND）和或非门（NOR）都是功能完备的通用门：仅用 NAND 就能搭出非门（两输入接同一信号）、与门（NAND 后接非）、或门（输入先各自取非再 NAND），从而实现任意逻辑函数。单独的 AND、OR 无法产生取反功能，XOR 也不具备功能完备性。",
+    "tags": ["门电路"],
+    "difficulty": "easy",
+    "chapter": "mod-digital-logic-c-1",
     "knowledge_points": [],
-    "estimated_time": 5
+    "estimated_time": 2
   },
   {
     "id": "mod-digital-logic-q-5",
-    "slug": "question-course-3-6",
+    "slug": "question-5",
     "type": "single",
-    "stem": "在学习 [数字逻辑电路] 的过程里，关于“数字逻辑电路 缓存优化与垃圾回收调优”的核心考点，以下表述最为准确的是？",
+    "stem": "使用卡诺图化简逻辑函数时，圈组（画圈合并最小项）必须满足的条件是？",
     "options": [
-      {
-        "key": "A",
-        "text": "在通常场景下，该机制设计能有效规避高并发阻塞，确保操作的高可用性。"
-      },
-      {
-        "key": "B",
-        "text": "该机制主要依赖外部环境变量进行硬编码注入，缺乏高并发条件下的安全锁机制。"
-      },
-      {
-        "key": "C",
-        "text": "在运行态无法进行动态横向伸缩，属于轻量单机调试环境特有的只读过渡方案。"
-      },
-      {
-        "key": "D",
-        "text": "这是一种完全淘汰的历史过渡方案，在新版本框架下会导致无法通过静态编译器校验。"
-      }
+      {"key": "A", "text": "每个圈内的 1 的个数必须是 2 的整数次幂（1、2、4、8…）"},
+      {"key": "B", "text": "每个圈内的 1 的个数可以是任意正整数"},
+      {"key": "C", "text": "圈只能在图内部画，不能跨越卡诺图的边界"},
+      {"key": "D", "text": "每个 1 只允许被一个圈覆盖，不能重复圈"}
     ],
-    "answer": [
-      "0"
-    ],
-    "explanation": "关于“数字逻辑电路 缓存优化与垃圾回收调优”的正确答案为 A。解析：在 数字逻辑电路 的设计最佳实践中，该机制不仅对运行时进行了优化，更在多核处理器并发下实现了底层的并发保护机制，属于生产环境下推荐的高性能应用模式。",
-    "tags": [
-      "数字逻辑电路",
-      "基础考点"
-    ],
+    "answer": ["A"],
+    "explanation": "卡诺图化简的圈必须是 2^k 个相邻的 1 组成的矩形（1、2、4、8…个），这样每圈可消去 k 个变量。卡诺图采用格雷码排列，上下、左右边界是逻辑相邻的，圈可以“卷绕”跨边界（C 错）；一个 1 可以被多个圈重复使用（D 错），这不影响结果正确性。",
+    "tags": ["卡诺图", "逻辑化简"],
     "difficulty": "medium",
-    "chapter": "course-3",
+    "chapter": "mod-digital-logic-c-2",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-digital-logic-q-6",
+    "slug": "question-6",
+    "type": "single",
+    "stem": "关于 3-8 译码器 74HC138，当使能端有效时，其输出特性是？",
+    "options": [
+      {"key": "A", "text": "8 个输出中只有被选中的一个为低电平，其余为高电平"},
+      {"key": "B", "text": "8 个输出中只有被选中的一个为高电平，其余为低电平"},
+      {"key": "C", "text": "所有输出同时反映输入的二进制值"},
+      {"key": "D", "text": "输出为输入三位二进制数的格雷码"}
+    ],
+    "answer": ["A"],
+    "explanation": "74HC138 是低电平有效输出的 3 线-8 线译码器：三位地址输入 A2A1A0 选中对应的一路输出 Y0~Y7，被选中的输出为 0，其余保持 1。正因为输出低有效，它可以直接输出最小项的“非”，配合与非门实现任意逻辑函数或做片选译码。",
+    "tags": ["组合逻辑", "译码器"],
+    "difficulty": "medium",
+    "chapter": "mod-digital-logic-c-3",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-digital-logic-q-7",
+    "slug": "question-7",
+    "type": "single",
+    "stem": "D 触发器与 D 锁存器（Latch）的本质区别是？",
+    "options": [
+      {"key": "A", "text": "触发器在时钟边沿采样数据，锁存器在使能电平有效期间数据透明传输"},
+      {"key": "B", "text": "触发器只能存 1 位，锁存器可以存多位"},
+      {"key": "C", "text": "锁存器速度更慢且功耗更高，因此被淘汰"},
+      {"key": "D", "text": "触发器是组合逻辑，锁存器是时序逻辑"}
+    ],
+    "answer": ["A"],
+    "explanation": "边沿触发的 D 触发器只在时钟上升沿（或下降沿）瞬间采样 D 端数据；电平敏感的 D 锁存器在使能有效期间输出跟随输入（透明），使能撤销时保持。两者都是 1 位存储单元（B 错），都属于时序逻辑（D 错）。在同步设计中通常应避免用锁存器，是因为它容易由不完整的 if/case 语句意外综合出来且不利于时序分析，而非速度功耗问题（C 错）。",
+    "tags": ["时序逻辑", "触发器"],
+    "difficulty": "medium",
+    "chapter": "mod-digital-logic-c-1",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-digital-logic-q-8",
+    "slug": "question-8",
+    "type": "single",
+    "stem": "要构成模 12 的计数器（计 0~11），至少需要多少个触发器？",
+    "options": [
+      {"key": "A", "text": "3 个"},
+      {"key": "B", "text": "4 个"},
+      {"key": "C", "text": "6 个"},
+      {"key": "D", "text": "12 个"}
+    ],
+    "answer": ["B"],
+    "explanation": "n 个触发器最多能表示 2^n 个状态。模 12 需要 12 个状态，2^3=8 < 12 < 16=2^4，所以至少需要 4 个触发器。实际实现时可用 4 位二进制计数器在计到 12（1100）时同步/异步清零，构成模 12 计数。",
+    "tags": ["时序逻辑", "计数器"],
+    "difficulty": "easy",
+    "chapter": "mod-digital-logic-c-2",
+    "knowledge_points": [],
+    "estimated_time": 2
+  },
+  {
+    "id": "mod-digital-logic-q-9",
+    "slug": "question-9",
+    "type": "single",
+    "stem": "在 Verilog 中，描述时序逻辑（在时钟上升沿把 d 打入 q）应采用的写法是？",
+    "options": [
+      {"key": "A", "text": "always @(posedge clk) q <= d;"},
+      {"key": "B", "text": "always @(d) q = d;"},
+      {"key": "C", "text": "assign q = d;"},
+      {"key": "D", "text": "always @(negedge clk or d) q <= d;"}
+    ],
+    "answer": ["A"],
+    "explanation": "时序逻辑用 always @(posedge clk) 块并使用非阻塞赋值 <=，综合结果是 D 触发器。B 是电平敏感的组合式写法且用了阻塞赋值，不会生成触发器；C 的 assign 只能描述组合逻辑连线；D 把数据信号 d 混入边沿敏感列表，是非法/不可综合的混合写法（敏感列表中边沿和电平不能混用信号语义）。",
+    "tags": ["Verilog", "HDL"],
+    "difficulty": "medium",
+    "chapter": "mod-digital-logic-c-3",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-digital-logic-q-10",
+    "slug": "question-10",
+    "type": "single",
+    "stem": "在 Verilog 的 always 组合逻辑块中，如果 if-else 分支不完整（缺少 else 且未给默认值），综合器通常会产生什么结果？",
+    "options": [
+      {"key": "A", "text": "综合报错，无法生成网表"},
+      {"key": "B", "text": "自动补 0 作为默认输出"},
+      {"key": "C", "text": "推断出锁存器（Latch）以保持旧值"},
+      {"key": "D", "text": "生成一个 D 触发器"}
+    ],
+    "answer": ["C"],
+    "explanation": "组合 always 块中信号必须在所有分支路径上都被赋值；若某条件下没有赋值，硬件必须“记住”旧值，综合器只能推断出电平敏感锁存器来实现，这通常是设计缺陷（毛刺敏感、难做静态时序分析）。大多数工具只给 warning 而不报错（A 错），也不会自动补默认值（B 错）；触发器只有边沿敏感块才会生成（D 错）。",
+    "tags": ["Verilog", "综合"],
+    "difficulty": "hard",
+    "chapter": "mod-digital-logic-c-1",
+    "knowledge_points": [],
+    "estimated_time": 4
+  },
+  {
+    "id": "mod-digital-logic-q-11",
+    "slug": "question-11",
+    "type": "single",
+    "stem": "同步时序电路中，触发器的建立时间（setup time）是指？",
+    "options": [
+      {"key": "A", "text": "时钟有效沿到来之前，数据必须保持稳定的最短时间"},
+      {"key": "B", "text": "时钟有效沿到来之后，数据必须保持稳定的最短时间"},
+      {"key": "C", "text": "时钟有效沿到输出 Q 变化的延迟时间"},
+      {"key": "D", "text": "电路上电到可以正常工作所需的初始化时间"}
+    ],
+    "answer": ["A"],
+    "explanation": "建立时间是数据在时钟有效沿之前必须已经稳定的最短时间；B 描述的是保持时间（hold time）；C 是时钟到输出延迟 Tco（clock-to-Q）。违反建立/保持时间会使触发器进入亚稳态，输出在一段不确定时间内既非 0 也非 1。",
+    "tags": ["时序分析"],
+    "difficulty": "medium",
+    "chapter": "mod-digital-logic-c-2",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-digital-logic-q-12",
+    "slug": "question-12",
+    "type": "single",
+    "stem": "FPGA 实现组合逻辑函数的基本可编程单元是？",
+    "options": [
+      {"key": "A", "text": "查找表（LUT）"},
+      {"key": "B", "text": "与或阵列（AND-OR 平面）"},
+      {"key": "C", "text": "掩膜编程的门阵列"},
+      {"key": "D", "text": "熔丝矩阵"}
+    ],
+    "answer": ["A"],
+    "explanation": "现代 FPGA 的逻辑单元核心是查找表（LUT）：一个 k 输入 LUT 本质是 2^k×1 的小 SRAM，把逻辑函数的真值表直接存进去，因此能实现任意 k 输入组合函数。与或阵列是 PLA/PAL/CPLD 的传统结构（B 错）；掩膜门阵列属于不可现场编程的 ASIC 工艺（C 错）；熔丝/反熔丝是 PROM 及部分早期器件的编程方式（D 错）。",
+    "tags": ["FPGA"],
+    "difficulty": "medium",
+    "chapter": "mod-digital-logic-c-3",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-digital-logic-q-13",
+    "slug": "question-13",
+    "type": "single",
+    "stem": "两级与非门实现的组合电路出现“竞争-冒险”（毛刺）现象，其根本原因是？",
+    "options": [
+      {"key": "A", "text": "电源电压不稳定导致逻辑电平漂移"},
+      {"key": "B", "text": "同一输入信号经不同路径到达输出，路径延迟不同导致瞬间错误输出"},
+      {"key": "C", "text": "触发器发生了亚稳态"},
+      {"key": "D", "text": "时钟频率过高超过器件极限"}
+    ],
+    "answer": ["B"],
+    "explanation": "竞争-冒险是纯组合逻辑问题：同一变量（如 A 与 NOT A）经过不同延迟的路径汇合，在输入翻转瞬间两条路径新旧值短暂共存，输出产生尖峰毛刺。消除方法包括增加冗余项（卡诺图圈相切处加圈）、加滤波电容，或在同步系统中用时钟对输出采样。C、D 属于时序电路/时序约束问题，与组合毛刺机理不同。",
+    "tags": ["组合逻辑", "竞争冒险"],
+    "difficulty": "hard",
+    "chapter": "mod-digital-logic-c-1",
+    "knowledge_points": [],
+    "estimated_time": 4
+  },
+  {
+    "id": "mod-digital-logic-q-14",
+    "slug": "question-14",
+    "type": "single",
+    "stem": "设计一个检测串行输入序列“101”的 Mealy 型状态机（可重叠检测），至少需要几个状态？",
+    "options": [
+      {"key": "A", "text": "2 个"},
+      {"key": "B", "text": "3 个"},
+      {"key": "C", "text": "4 个"},
+      {"key": "D", "text": "5 个"}
+    ],
+    "answer": ["B"],
+    "explanation": "Mealy 机输出与当前状态和当前输入同时相关，检测“101”只需记录已匹配的前缀：S0（空）、S1（已见 1）、S2（已见 10），在 S2 收到 1 时输出 1 并转回 S1（利用重叠）。共 3 个状态。若用 Moore 机（输出只依赖状态）则需要 4 个状态，因为要单独一个“检测成功”状态来输出 1。",
+    "tags": ["状态机"],
+    "difficulty": "hard",
+    "chapter": "mod-digital-logic-c-2",
     "knowledge_points": [],
     "estimated_time": 5
   },
   {
-    "id": "mod-digital-logic-q-6",
-    "slug": "question-course-3-7",
-    "type": "single",
-    "stem": "在学习 [数字逻辑电路] 的过程里，关于“数字逻辑电路 可观测性日志与分布式链路监控”的核心考点，以下表述最为准确的是？",
+    "id": "mod-digital-logic-q-15",
+    "slug": "question-15",
+    "type": "multiple",
+    "stem": "以下关于触发器类型与特性方程的说法，正确的有哪些？",
     "options": [
-      {
-        "key": "A",
-        "text": "在通常场景下，该机制设计能有效规避高并发阻塞，确保操作的高可用性。"
-      },
-      {
-        "key": "B",
-        "text": "该机制主要依赖外部环境变量进行硬编码注入，缺乏高并发条件下的安全锁机制。"
-      },
-      {
-        "key": "C",
-        "text": "在运行态无法进行动态横向伸缩，属于轻量单机调试环境特有的只读过渡方案。"
-      },
-      {
-        "key": "D",
-        "text": "这是一种完全淘汰的历史过渡方案，在新版本框架下会导致无法通过静态编译器校验。"
-      }
+      {"key": "A", "text": "D 触发器的特性方程为 Q(n+1) = D"},
+      {"key": "B", "text": "T 触发器在 T=1 时每个时钟沿输出翻转，可用于二分频"},
+      {"key": "C", "text": "JK 触发器在 J=K=1 时输出保持不变"},
+      {"key": "D", "text": "JK 触发器的特性方程为 Q(n+1) = J·NOT(Q) + NOT(K)·Q"}
     ],
-    "answer": [
-      "0"
-    ],
-    "explanation": "关于“数字逻辑电路 可观测性日志与分布式链路监控”的正确答案为 A。解析：在 数字逻辑电路 的设计最佳实践中，该机制不仅对运行时进行了优化，更在多核处理器并发下实现了底层的并发保护机制，属于生产环境下推荐的高性能应用模式。",
-    "tags": [
-      "数字逻辑电路",
-      "基础考点"
-    ],
+    "answer": ["A", "B", "D"],
+    "explanation": "D 触发器下一状态就是 D 输入（A 对）。T 触发器 T=1 时 Q(n+1)=NOT(Q)，每个时钟沿翻转一次，输出频率是时钟的一半，即二分频（B 对）。JK 触发器 J=K=1 时是翻转而不是保持，保持对应 J=K=0（C 错）。JK 特性方程 Q(n+1)=J·NOT(Q)+NOT(K)·Q 正确（D 对）。",
+    "tags": ["触发器", "时序逻辑"],
     "difficulty": "medium",
-    "chapter": "course-3",
+    "chapter": "mod-digital-logic-c-3",
+    "knowledge_points": [],
+    "estimated_time": 4
+  },
+  {
+    "id": "mod-digital-logic-q-16",
+    "slug": "question-16",
+    "type": "multiple",
+    "stem": "关于组合逻辑电路与时序逻辑电路的区别，下列说法正确的有哪些？",
+    "options": [
+      {"key": "A", "text": "组合逻辑的输出只取决于当前输入，与历史状态无关"},
+      {"key": "B", "text": "时序逻辑必须包含存储元件（触发器或锁存器）"},
+      {"key": "C", "text": "加法器、数据选择器、译码器都属于组合逻辑"},
+      {"key": "D", "text": "计数器和移位寄存器属于组合逻辑"}
+    ],
+    "answer": ["A", "B", "C"],
+    "explanation": "组合逻辑无记忆，输出仅由当前输入决定（A 对）；时序逻辑的输出还与电路状态有关，因此必须有存储元件（B 对）；加法器、多路选择器、译码器、编码器均是典型组合电路（C 对）；计数器、移位寄存器由触发器构成，是典型时序电路，D 错误。",
+    "tags": ["组合逻辑", "时序逻辑"],
+    "difficulty": "easy",
+    "chapter": "mod-digital-logic-c-1",
+    "knowledge_points": [],
+    "estimated_time": 3
+  },
+  {
+    "id": "mod-digital-logic-q-17",
+    "slug": "question-17",
+    "type": "multiple",
+    "stem": "在 FPGA 设计中，下列关于跨时钟域（CDC）和复位处理的做法，属于正确/推荐做法的有哪些？",
+    "options": [
+      {"key": "A", "text": "单比特控制信号跨时钟域时使用两级触发器同步（打两拍）"},
+      {"key": "B", "text": "多比特数据总线跨时钟域时直接对每一位分别打两拍即可保证一致性"},
+      {"key": "C", "text": "多比特数据可通过异步 FIFO 或握手协议安全跨域"},
+      {"key": "D", "text": "推荐使用“异步复位、同步释放”来避免复位释放时的亚稳态"}
+    ],
+    "answer": ["A", "C", "D"],
+    "explanation": "单比特信号打两拍是标准同步化手段，可把亚稳态传播概率降到极低（A 对）。多比特总线各位延迟不同，分别打两拍会出现“撕裂”——不同位在不同拍被采到，数据瞬间不一致，必须用异步 FIFO、握手或格雷码计数等机制（B 错、C 对）。异步复位可靠地复位、同步地释放，避免复位撤销沿与时钟沿竞争引起亚稳态（D 对）。",
+    "tags": ["FPGA", "跨时钟域"],
+    "difficulty": "hard",
+    "chapter": "mod-digital-logic-c-2",
     "knowledge_points": [],
     "estimated_time": 5
+  },
+  {
+    "id": "mod-digital-logic-q-18",
+    "slug": "question-18",
+    "type": "multiple",
+    "stem": "关于二进制运算与编码，下列说法正确的有哪些？",
+    "options": [
+      {"key": "A", "text": "补码加法可以把减法统一成加法运算，符号位参与运算"},
+      {"key": "B", "text": "格雷码相邻两个码字之间只有一位不同"},
+      {"key": "C", "text": "两个同号补码数相加，若结果符号与操作数相反，说明发生了溢出"},
+      {"key": "D", "text": "奇偶校验码可以检测并纠正一位错误"}
+    ],
+    "answer": ["A", "B", "C"],
+    "explanation": "补码体系下减法转化为加负数的补码，符号位与数值位一起参与运算（A 对）。格雷码任意相邻码字仅一位变化，常用于卡诺图排列和异步计数、跨域计数（B 对）。同号相加得异号结果是典型的溢出判断方法（C 对）。奇偶校验只能检测奇数个错误，无法定位错误位置，因此不能纠错——能纠一位错的是海明码（D 错）。",
+    "tags": ["数制与编码"],
+    "difficulty": "medium",
+    "chapter": "mod-digital-logic-c-3",
+    "knowledge_points": [],
+    "estimated_time": 4
+  },
+  {
+    "id": "mod-digital-logic-q-19",
+    "slug": "question-19",
+    "type": "judge",
+    "stem": "异或门的逻辑特性是：两个输入相同则输出 0，两个输入不同则输出 1。",
+    "options": [],
+    "answer": ["T"],
+    "explanation": "正确。XOR 真值表：0⊕0=0、1⊕1=0、0⊕1=1、1⊕0=1，即“相异出 1，相同出 0”。利用该特性 XOR 可用作可控反相器（一端接控制位）和半加器的本位和。",
+    "tags": ["门电路"],
+    "difficulty": "easy",
+    "chapter": "mod-digital-logic-c-1",
+    "knowledge_points": [],
+    "estimated_time": 1
+  },
+  {
+    "id": "mod-digital-logic-q-20",
+    "slug": "question-20",
+    "type": "judge",
+    "stem": "异步计数器（行波计数器）中所有触发器共用同一个时钟，因此各级输出同时翻转，没有累积延迟。",
+    "options": [],
+    "answer": ["F"],
+    "explanation": "错误。题干描述的是同步计数器。异步（行波）计数器的时钟是逐级传递的：前一级输出作为下一级的时钟，各级翻转有累积的传播延迟，高位翻转明显滞后，计数速度受限且中间会出现瞬态错误码，因此高速场合应采用同步计数器。",
+    "tags": ["计数器", "时序逻辑"],
+    "difficulty": "medium",
+    "chapter": "mod-digital-logic-c-2",
+    "knowledge_points": [],
+    "estimated_time": 2
+  },
+  {
+    "id": "mod-digital-logic-q-21",
+    "slug": "question-21",
+    "type": "judge",
+    "stem": "在 Verilog 时序 always 块中推荐使用非阻塞赋值（<=），在组合 always 块中推荐使用阻塞赋值（=）。",
+    "options": [],
+    "answer": ["T"],
+    "explanation": "正确。这是业界公认的编码准则：时序块用非阻塞赋值保证所有寄存器“同时”用旧值更新，避免仿真与综合行为不一致；组合块用阻塞赋值使语句按顺序立即生效，正确模拟组合逻辑的数据流。混用会造成仿真结果与实际硬件不符的竞争问题。",
+    "tags": ["Verilog"],
+    "difficulty": "medium",
+    "chapter": "mod-digital-logic-c-3",
+    "knowledge_points": [],
+    "estimated_time": 2
+  },
+  {
+    "id": "mod-digital-logic-q-22",
+    "slug": "question-22",
+    "type": "judge",
+    "stem": "半加器与全加器的区别在于：全加器多了一个来自低位的进位输入。",
+    "options": [],
+    "answer": ["T"],
+    "explanation": "正确。半加器只对两个 1 位数 A、B 求和，输出 Sum=A⊕B、进位 Cout=A·B；全加器额外接收低位进位 Cin，Sum=A⊕B⊕Cin，Cout=A·B + (A⊕B)·Cin。多位串行进位加法器就是把全加器逐位级联，进位逐级传递。",
+    "tags": ["组合逻辑", "加法器"],
+    "difficulty": "easy",
+    "chapter": "mod-digital-logic-c-1",
+    "knowledge_points": [],
+    "estimated_time": 1
+  },
+  {
+    "id": "mod-digital-logic-q-23",
+    "slug": "question-23",
+    "type": "short",
+    "stem": "在数字电路中，把“输出只与当前状态有关、与当前输入无关”的状态机类型称为什么型状态机？（写出名称）",
+    "options": [],
+    "answer": ["Moore|摩尔|Moore型|摩尔型|Moore状态机|摩尔状态机"],
+    "explanation": "输出仅由当前状态决定的是 Moore（摩尔）型状态机，输出与状态和当前输入都有关的是 Mealy（米利）型。Moore 机输出经寄存器同步、无毛刺但通常多一个状态、响应慢一拍；Mealy 机状态更少、响应更快，但输出可能随输入抖动。",
+    "tags": ["状态机"],
+    "difficulty": "medium",
+    "chapter": "mod-digital-logic-c-2",
+    "knowledge_points": [],
+    "estimated_time": 2
+  },
+  {
+    "id": "mod-digital-logic-q-24",
+    "slug": "question-24",
+    "type": "short",
+    "stem": "触发器因违反建立/保持时间约束，输出在一段时间内处于不确定的中间电平、既非稳定 0 也非稳定 1，这种状态称为什么？（写出术语）",
+    "options": [],
+    "answer": ["亚稳态|亚稳定状态|metastability|metastable"],
+    "explanation": "这种现象称为亚稳态（metastability）。当数据在触发器采样窗口内变化时，内部再生回路可能停留在中间电平，经过不确定的恢复时间后随机落到 0 或 1。工程上无法完全消除，只能通过两级同步器、降低采样频率等手段把故障概率（用 MTBF 衡量）降到可接受水平。",
+    "tags": ["时序分析", "亚稳态"],
+    "difficulty": "medium",
+    "chapter": "mod-digital-logic-c-3",
+    "knowledge_points": [],
+    "estimated_time": 2
   }
 ]
