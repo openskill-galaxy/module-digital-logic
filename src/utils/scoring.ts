@@ -82,6 +82,8 @@ export function typeLabel(t: Question["type"]): string {
     fill: "填空",
     calculation: "计算",
     case_analysis: "案例分析",
+    code: "代码",
+    reading: "阅读理解",
   };
   return map[t];
 }

@@ -61,7 +61,16 @@ export interface KnowledgePoint {
 }
 
 // =============== 题目 ===============
-export type QuestionType = "single" | "multiple" | "judge" | "short";
+export type QuestionType =
+  | "single"
+  | "multiple"
+  | "judge"
+  | "short"
+  | "fill"
+  | "calculation"
+  | "case_analysis"
+  | "code"
+  | "reading";
 
 export interface QuestionOption {
   key: string; // "A" "B" ...
